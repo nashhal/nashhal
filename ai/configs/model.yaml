@@ -1,0 +1,16 @@
+project: nashhal-ai
+version: 0.1.0
+
+model:
+  task: arabic-news-understanding
+  base_model: TBD
+  max_sequence_length: 2048
+
+training:
+  method: lora
+  seed: 42
+  epochs: 1
+  learning_rate: 0.0002
+
+# Intentionally leave the base model unset until it is selected after
+# benchmarking candidate models on the Nashhal evaluation set.
