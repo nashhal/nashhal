@@ -1,12 +1,14 @@
 window.NASHHAL_AI_CONFIG = window.NASHHAL_AI_CONFIG || {
-  // Free-first runtime: WebLLM can run an open model in the browser via WebGPU.
-  // An optional server API can be configured later without exposing secrets here.
+  // Single-runtime browser AI configuration.
+  // No provider secrets are stored in this file.
   apiBase: '',
-  localModel: 'Llama-3.2-3B-Instruct-q4f16_1-MLC',
+  localModel: 'Llama-3.1-8B-Instruct-q4f32_1-MLC',
+  localFallbackModel: 'Llama-3.2-3B-Instruct-q4f16_1-MLC',
   localRuntime: 'WebLLM',
-  grounding: 'Wikipedia + Wikidata + NOVEN knowledge',
-  privacy: 'browser-local-inference'
+  grounding: 'NOVEN knowledge + Wikipedia + Wikidata',
+  privacy: 'browser-local-inference',
+  responseStyle: 'natural-conversational'
 };
 
-// NOVEN has one runtime entry point: BOOT.js.
-// Do not load legacy runtimes here, as they can replace the form and break ASK.
+// BOOT.js is the only runtime entry point.
+// Legacy runtime-switch.js and stable-runtime.js must never be loaded here.
