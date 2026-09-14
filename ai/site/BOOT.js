@@ -1,7 +1,7 @@
 (()=>{
   if(window.__NOVEN_MASTER_BOOT__)return;
   window.__NOVEN_MASTER_BOOT__=true;
-  const VERSION='20260914-51';
+  const VERSION='20260914-52';
   const load=src=>new Promise((resolve,reject)=>{
     const s=document.createElement('script');
     s.src=`${src}?v=${VERSION}`;
@@ -18,7 +18,8 @@
       ['master-runtime.js','runtime'],
       ['skills.js','skills'],
       ['web3.js','web3'],
-      ['ui-fix.js','ui']
+      ['ui-fix.js','ui'],
+      ['interaction-fix.js','interactions']
     ];
     for(const [file,label] of files){
       try{await load(file);}
