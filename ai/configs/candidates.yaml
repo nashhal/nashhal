@@ -1,0 +1,29 @@
+candidates:
+  - id: qwen3-8b
+    model_id: Qwen/Qwen3-8B
+    role: primary-general
+    license: Apache-2.0
+    rationale: Strong current general open-weight baseline; verify Arabic/news performance on the Nashhal benchmark before adoption.
+
+  - id: fanar-1-9b-instruct
+    model_id: QCRI/Fanar-1-9B-Instruct
+    role: arabic-specialist
+    license: Apache-2.0
+    rationale: Arabic-English model with Arabic-centric continued pretraining and instruction tuning; strong candidate for Arabic news.
+
+  - id: silma-9b-instruct
+    model_id: silma-ai/SILMA-9B-Instruct-v1.0
+    role: arabic-specialist
+    license: Gemma
+    rationale: Arabic-focused candidate worth benchmarking, but licensing must be reviewed as a dependency on the Gemma license.
+
+selection:
+  method: benchmark-first
+  minimum_candidates: 2
+  primary_score_weights:
+    factuality: 0.30
+    source_grounding: 0.25
+    arabic_quality: 0.20
+    news_task_accuracy: 0.15
+    latency_and_cost: 0.10
+  rule: Never choose a base model by reputation alone; promote only a candidate that passes the Nashhal holdout benchmark and license review.
