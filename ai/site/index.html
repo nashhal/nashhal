@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260914-2">
+  <link rel="stylesheet" href="styles.css?v=20260914-3">
 </head>
 <body>
   <div class="app-shell">
@@ -30,7 +30,7 @@
         <span class="nav-caption">WORKSPACE</span>
         <a class="nav-item active" href="#ask"><span class="nav-icon">↗</span>Ask</a>
         <a class="nav-item" href="#research"><span class="nav-icon">⌕</span>Research</a>
-        <a class="nav-item" href="#sources"><span class="nav-icon">◫</span>Sources</a>
+        <a class="nav-item" href="#evidence"><span class="nav-icon">◫</span>Sources</a>
         <a class="nav-item" href="#system"><span class="nav-icon">◌</span>System</a>
       </nav>
 
@@ -91,7 +91,7 @@
           <div class="response-meta"><span class="label">RESPONSE</span><span>Demo run</span></div>
           <div id="answer" class="answer"></div>
         </div>
-        <aside class="evidence" id="sources">
+        <aside class="evidence" id="evidence">
           <div class="evidence-head"><span>Evidence</span><small>SOURCES</small></div>
           <div id="sources" class="sources"></div>
         </aside>
@@ -133,7 +133,7 @@
       q.dataset.prefix = b.dataset.prefix || '';
       q.focus();
     }));
-    document.getElementById('chatForm').addEventListener('submit', (event) => {
+    document.getElementById('chatForm').addEventListener('submit', () => {
       if (q.dataset.prefix && !q.value.startsWith(q.dataset.prefix)) q.value = q.dataset.prefix + q.value;
       count.textContent = q.value.length;
     }, true);
