@@ -1,0 +1,25 @@
+name: Nashhal AI Tests
+
+on:
+  push:
+    paths:
+      - 'ai/**'
+  pull_request:
+    paths:
+      - 'ai/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ai
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install test dependencies
+        run: python -m pip install --upgrade pip && pip install -e '.[test]'
+      - name: Run tests
+        run: PYTHONPATH=src pytest
