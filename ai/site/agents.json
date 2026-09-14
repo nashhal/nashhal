@@ -1,0 +1,44 @@
+{
+  "protocol": "ERC-8004",
+  "network": "Ethereum Sepolia",
+  "identityRegistry": "0x8004A818BFB912233c491871b3d84c89A494BD9e",
+  "reputationRegistry": "0x8004B663056A597Dffe9eCcC1965A193B7388713",
+  "validationRegistry": "0x8004Cb1BF31DAf7788923b405b754f57acEB4272",
+  "agents": [
+    {
+      "slug": "noven",
+      "name": "NOVEN",
+      "description": "Verifiable intelligence agent for research, evidence retrieval and trust receipts.",
+      "type": "AI agent",
+      "active": true,
+      "x402Support": false,
+      "supportedTrust": ["reputation", "validation", "eip712", "eas"],
+      "endpoints": [
+        {"name": "Web", "endpoint": "https://nashhal.github.io/nashhal/ai/site/", "version": "0.7"},
+        {"name": "A2A", "endpoint": "https://nashhal.github.io/nashhal/ai/site/agent-card.json", "version": "0.1"}
+      ],
+      "skills": ["research", "retrieval", "evidence", "summarization", "verification"],
+      "languages": ["auto", "en", "ar", "es", "fr", "de", "pt", "zh", "ja", "ko", "hi", "tr", "ru", "it", "nl", "id", "vi", "th", "pl", "uk", "fa", "ur", "bn", "he"]
+    },
+    {
+      "slug": "research",
+      "name": "Research Agent",
+      "description": "Specialized research worker for source discovery and evidence collection.",
+      "type": "specialized agent",
+      "active": false,
+      "x402Support": false,
+      "supportedTrust": ["reputation", "validation"],
+      "skills": ["research", "source discovery", "evidence collection"]
+    },
+    {
+      "slug": "verification",
+      "name": "Verification Agent",
+      "description": "Independent validation worker for checking NOVEN evidence bundles and outputs.",
+      "type": "validator agent",
+      "active": false,
+      "x402Support": false,
+      "supportedTrust": ["validation", "eas"],
+      "skills": ["verification", "audit", "validation"]
+    }
+  ]
+}
