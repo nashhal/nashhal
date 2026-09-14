@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nashhal News Dataset Record",
+  "type": "object",
+  "required": ["id", "title", "text", "source", "published_at", "language", "split", "provenance"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "text": {"type": "string", "minLength": 1},
+    "source": {"type": "string", "minLength": 1},
+    "published_at": {"type": "string", "minLength": 1},
+    "language": {"type": "string", "enum": ["ar", "en"]},
+    "region": {"type": "string"},
+    "category": {"type": "string"},
+    "split": {"type": "string", "enum": ["train", "validation", "test", "ood"]},
+    "provenance": {
+      "type": "object",
+      "required": ["url", "retrieved_at", "content_sha256"],
+      "properties": {
+        "url": {"type": "string", "minLength": 1},
+        "retrieved_at": {"type": "string", "minLength": 1},
+        "content_sha256": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"},
+        "license": {"type": "string"}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
