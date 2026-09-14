@@ -1,0 +1,9 @@
+{
+  "protocol": "x402",
+  "version": "1",
+  "support": false,
+  "mode": "integration-ready",
+  "description": "NOVEN can consume x402-protected AI services once a payment-capable backend endpoint and facilitator are configured.",
+  "service": "https://nashhal.github.io/nashhal/ai/site/",
+  "note": "No private key, payment secret, or facilitator credential is stored in the frontend repository."
+}
