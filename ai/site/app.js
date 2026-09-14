@@ -33,13 +33,26 @@ function scoreDocument(query, doc) {
   const d = tokens(`${doc.title} ${doc.text}`);
   let hits = 0;
   q.forEach((token) => { if (d.has(token)) hits += 1; });
-  return hits / Math.max(q.size, 1);
+  const titleBoost = tokens(doc.title).size && [...q].some((token) => tokens(doc.title).has(token)) ? 0.18 : 0;
+  return Math.min(1, hits / Math.max(q.size, 1) + titleBoost);
 }
 
-async function loadDemoKnowledge() {
-  const response = await fetch(new URL('../data/demo-kb.json', window.location.href));
-  if (!response.ok) throw new Error(`Demo KB ${response.status}`);
+async function loadJson(path) {
+  const response = await fetch(new URL(path, window.location.href), { cache: 'no-store' });
+  if (!response.ok) throw new Error(`${path} ${response.status}`);
   return response.json();
+}
+
+async function loadKnowledge() {
+  try {
+    const live = await loadJson('../data/live-news.json');
+    const docs = Array.isArray(live) ? live : live.documents;
+    if (Array.isArray(docs) && docs.length) return { documents: docs, live: true, generatedAt: live.generated_at || '' };
+  } catch (error) {
+    console.warn('Live knowledge feed unavailable, using demo knowledge.', error);
+  }
+  const demo = await loadJson('../data/demo-kb.json');
+  return { documents: Array.isArray(demo) ? demo : demo.documents || [], live: false, generatedAt: '' };
 }
 
 async function hashText(text) {
@@ -55,7 +68,7 @@ async function typeResponse(text) {
   for (const part of String(text).split(/(\s+)/)) {
     buffer += part;
     answer.textContent = buffer;
-    await sleep(part.trim() ? 9 : 1);
+    await sleep(part.trim() ? 7 : 1);
   }
 }
 
@@ -83,15 +96,51 @@ function updateHistoryUI() {
   }));
 }
 
+function bindNewSession() {
+  document.querySelector('.new-chat')?.addEventListener('click', () => {
+    question.value = '';
+    if (count) count.textContent = '0';
+    result.classList.add('hidden');
+    answer.textContent = '';
+    sources.innerHTML = '';
+    question.focus();
+  });
+}
+
 async function runBrowserDemo(q) {
-  const docs = await loadDemoKnowledge();
-  await sleep(240);
-  const ranked = docs.map((doc) => ({ ...doc, score: scoreDocument(q, doc) })).filter((doc) => doc.score > 0).sort((a, b) => b.score - a.score).slice(0, 5);
-  if (!ranked.length) return { answer: 'No grounded answer was found in the current knowledge base. NOVEN will not invent evidence that is not available.', sources: [] };
+  const knowledge = await loadKnowledge();
+  const docs = knowledge.documents;
+  await sleep(180);
+  const ranked = docs
+    .map((doc) => ({ ...doc, score: scoreDocument(q, doc) }))
+    .filter((doc) => doc.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5);
+
+  if (!ranked.length) {
+    return {
+      answer: knowledge.live
+        ? 'No grounded match was found in the current web knowledge snapshot. NOVEN will not invent evidence that is not available.'
+        : 'No grounded match was found in the demo knowledge base. NOVEN will not invent evidence that is not available.',
+      sources: [],
+      live: knowledge.live,
+      generatedAt: knowledge.generatedAt,
+    };
+  }
+
+  const best = ranked[0];
   return {
-    answer: `Based on the strongest matching source:\n\n${ranked[0].text}\n\nThis live browser prototype demonstrates retrieval, evidence display and output verification before a full model is connected.`,
+    answer: `${knowledge.live ? 'From the latest indexed web sources:' : 'From the strongest demo source:'}\n\n${best.text}\n\nNOVEN retrieved the closest available evidence and keeps the source attached to the result.`,
     sources: ranked,
+    live: knowledge.live,
+    generatedAt: knowledge.generatedAt,
   };
+}
+
+function setRuntimeLabel(live) {
+  const chip = document.querySelector('.model-chip');
+  if (!chip) return;
+  chip.textContent = live ? 'NOVEN · Web knowledge' : 'NOVEN · Browser demo';
 }
 
 form.addEventListener('submit', async (event) => {
@@ -103,26 +152,31 @@ form.addEventListener('submit', async (event) => {
   answer.textContent = '';
   sources.innerHTML = '';
   send.innerHTML = '<span>Working</span><b>…</b>';
+
   try {
     let data;
-    if (!API_BASE) data = await runBrowserDemo(q);
-    else {
+    if (!API_BASE) {
+      data = await runBrowserDemo(q);
+    } else {
       const response = await fetch(`${API_BASE.replace(/\/$/, '')}/v1/chat`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: q, top_k: 5 }) });
       if (!response.ok) throw new Error(`API ${response.status}`);
       data = await response.json();
+      data.live = true;
     }
+
+    setRuntimeLabel(Boolean(data.live));
     await typeResponse(data.answer || 'No response.');
     renderSources(data.sources || []);
-    const fullHash = await hashText(`${q}\n${data.answer || ''}`);
+    const fullHash = await hashText(`${q}\n${data.answer || ''}\n${JSON.stringify(data.sources || [])}`);
     const shortHash = `${fullHash.slice(0, 24)}…`;
     document.getElementById('verificationHash')?.replaceChildren(document.createTextNode(shortHash));
     document.getElementById('web3Hash')?.replaceChildren(document.createTextNode(shortHash));
     const evidence = document.getElementById('evidenceState');
     if (evidence) evidence.textContent = data.sources?.length ? `${data.sources.length} sources` : 'No sources';
-    saveHistory({ question: q, answer: data.answer || '', hash: fullHash, created_at: new Date().toISOString() });
+    saveHistory({ question: q, answer: data.answer || '', hash: fullHash, sources: data.sources || [], created_at: new Date().toISOString() });
     updateHistoryUI();
   } catch (error) {
-    answer.textContent = API_BASE ? 'The intelligence service is unavailable right now. Check the API connection.' : 'The local knowledge layer could not be loaded. Refresh and try again.';
+    answer.textContent = API_BASE ? 'The intelligence service is unavailable right now. Check the API connection.' : 'The knowledge layer could not be loaded. Refresh and try again.';
     renderSources([]);
     console.error(error);
   } finally {
@@ -132,8 +186,9 @@ form.addEventListener('submit', async (event) => {
 });
 
 window.addEventListener('load', async () => {
+  bindNewSession();
   updateHistoryUI();
-  const initial = `${(await hashText('NOVEN demo · browser runtime · evidence-first')).slice(0, 24)}…`;
+  const initial = `${(await hashText('NOVEN · web knowledge · evidence-first')).slice(0, 24)}…`;
   document.getElementById('verificationHash')?.replaceChildren(document.createTextNode(initial));
   document.getElementById('web3Hash')?.replaceChildren(document.createTextNode(initial));
 });
