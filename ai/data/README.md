@@ -1,23 +1,41 @@
-# Nashhal AI datasets
+# Nashhal AI Dataset
 
-Do not commit scraped article bodies or large copyrighted corpora here.
+هذه المجلدات لا تخزن الأخبار الخام واسعة النطاق داخل Git. المستودع يحتفظ بالمخططات، العينات الصغيرة، وأدوات التحقق فقط.
 
-This directory stores schemas, task definitions, small synthetic/permissioned samples, and dataset manifests. Full datasets belong in versioned artifact storage (for example Hugging Face Datasets, object storage, or DVC) with provenance and license metadata.
+## سجل العينة
 
-## Required fields
+كل سجل يجب أن يحتوي على:
 
-Every training or evaluation example should preserve:
+- `id`
+- `title`
+- `text`
+- `source`
+- `published_at`
+- `language`
+- `split`
+- `provenance.url`
+- `provenance.retrieved_at`
+- `provenance.content_sha256`
+- `provenance.license` عندما تكون معروفة
 
-- stable example id
-- task
-- title/text
-- source name and URL
-- retrieved_at and published_at when known
-- content hash when available
-- dataset version
-- split
-- license/usage status
+## قواعد الجودة
 
-## Split policy
+1. لا ندخل مادة لا نملك حق استخدامها في التدريب.
+2. نحتفظ برابط المصدر وتاريخ الجلب وبصمة SHA-256.
+3. نزيل النسخ المتطابقة وشبه المتطابقة قبل التقسيم.
+4. لا نقسم نسخ الحدث نفسه بين train وvalidation وtest.
+5. الأخبار الزمنية تُقيّم زمنيًا قدر الإمكان حتى لا تتسرب معلومات المستقبل.
+6. مجموعة الاختبار لا تُستخدم أثناء تطوير النموذج.
+7. نحتفظ بمجموعة OOD لاختبار التعميم على مصادر أو فترات مختلفة.
 
-Use source- and event-aware splitting. Never let near-duplicate articles from the same event leak across train, validation, and test. Maintain a separate `ood` split for unseen events or source distributions.
+## مجالات الـ Benchmark
+
+- فهم الخبر
+- استخراج الكيانات والأحداث
+- تصنيف المجال
+- كشف التكرار
+- تلخيص محافظ على الحقائق
+- سؤال وجواب مع إسناد للمصدر
+- مقاومة الهلوسة
+
+العينة الموجودة في `benchmark.sample.jsonl` هي قالب تطوير فقط وليست معيارًا إحصائيًا نهائيًا.
