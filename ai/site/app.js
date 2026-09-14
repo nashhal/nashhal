@@ -6,17 +6,27 @@ const send = document.getElementById('send');
 const result = document.getElementById('result');
 const answer = document.getElementById('answer');
 const sources = document.getElementById('sources');
+const count = document.getElementById('charCount');
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+function escapeHtml(value) {
+  return String(value || '').replace(/[&<>'"]/g, (char) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+  }[char]));
+}
 
 function renderSources(items = []) {
   if (!items.length) {
-    sources.innerHTML = '<small>لم يتم العثور على مصادر مطابقة في قاعدة المعرفة الحالية.</small>';
+    sources.innerHTML = '<div class="empty-evidence">No matching evidence found in the current knowledge base.</div>';
     return;
   }
   sources.innerHTML = items.map((item, index) => {
-    const safeTitle = String(item.title || `مصدر ${index + 1}`);
-    const href = String(item.url || '#');
-    const source = String(item.source || 'مصدر غير معروف');
-    return `<div class="source"><div><a href="${href}" target="_blank" rel="noopener noreferrer">${safeTitle}</a><small>${source} · ${item.published_at || 'وقت النشر غير متاح'}</small></div><small>relevance ${Number(item.score || 0).toFixed(3)}</small></div>`;
+    const title = escapeHtml(item.title || `Source ${index + 1}`);
+    const href = escapeHtml(item.url || '#');
+    const source = escapeHtml(item.source || 'Unknown source');
+    const date = escapeHtml(item.published_at || 'Date unavailable');
+    return `<article class="source"><div><a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a><small>${source} · ${date}</small></div><small>${Number(item.score || 0).toFixed(3)}</small></article>`;
   }).join('');
 }
 
@@ -46,8 +56,33 @@ async function loadDemoKnowledge() {
   return response.json();
 }
 
+async function hashText(text) {
+  if (!window.crypto?.subtle) return 'local-demo';
+  const bytes = new TextEncoder().encode(text);
+  const hash = await crypto.subtle.digest('SHA-256', bytes);
+  return [...new Uint8Array(hash)].map((b) => b.toString(16).padStart(2, '0')).join('');
+}
+
+function showStatus(text) {
+  const chip = document.querySelector('.model-chip');
+  if (chip) chip.lastChild.textContent = ` ${text}`;
+}
+
+async function typeResponse(text) {
+  answer.textContent = '';
+  const words = String(text).split(/(\s+)/);
+  let buffer = '';
+  for (const part of words) {
+    buffer += part;
+    answer.textContent = buffer;
+    await sleep(part.trim() ? 10 : 2);
+  }
+}
+
 async function runBrowserDemo(q) {
+  showStatus('NOVEN demo');
   const docs = await loadDemoKnowledge();
+  await sleep(280);
   const ranked = docs
     .map((doc) => ({ ...doc, score: scoreDocument(q, doc) }))
     .filter((doc) => doc.score > 0)
@@ -56,14 +91,14 @@ async function runBrowserDemo(q) {
 
   if (!ranked.length) {
     return {
-      answer: 'هذه نسخة تجريبية مجانية تعمل من المتصفح فقط. لم أجد في قاعدة المعرفة التجريبية مصدرًا يطابق السؤال، لذلك لن أخمّن الإجابة.',
+      answer: 'No grounded answer was found for this question in the demo knowledge base. NOVEN does not invent a result when supporting evidence is missing.',
       sources: [],
     };
   }
 
   const best = ranked[0];
   return {
-    answer: `وضع العرض التجريبي: بناءً على المصدر الأعلى تطابقًا، ${best.text} هذه ليست إجابة من نموذج لغوي كبير، بل تجربة للاسترجاع الموثق قبل تشغيل النموذج الكامل.`,
+    answer: `Based on the strongest matching source: ${best.text}\n\nThis is the interactive browser prototype. It demonstrates retrieval, evidence display and output verification before a full local model is connected.`,
     sources: ranked,
   };
 }
@@ -74,38 +109,76 @@ form.addEventListener('submit', async (event) => {
   if (!q) return;
 
   send.disabled = true;
-  send.textContent = API_BASE ? 'جارٍ الاسترجاع…' : 'جارٍ البحث…';
   result.classList.remove('hidden');
-  answer.textContent = API_BASE
-    ? 'يبحث Nashhal AI في المصادر المرتبطة بالسؤال…'
-    : 'يبحث Nashhal AI في قاعدة المعرفة التجريبية المحلية…';
+  answer.textContent = '';
   sources.innerHTML = '';
+  send.innerHTML = '<span>Working</span><b>…</b>';
+  showStatus(API_BASE ? 'Connected' : 'Browser demo');
 
   try {
+    let data;
     if (!API_BASE) {
-      const data = await runBrowserDemo(q);
-      answer.textContent = data.answer;
-      renderSources(data.sources);
-      return;
+      data = await runBrowserDemo(q);
+    } else {
+      const response = await fetch(`${API_BASE.replace(/\/$/, '')}/v1/chat`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: q, top_k: 5 }),
+      });
+      if (!response.ok) throw new Error(`API ${response.status}`);
+      data = await response.json();
     }
 
-    const response = await fetch(`${API_BASE.replace(/\/$/, '')}/v1/chat`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question: q, top_k: 5 }),
-    });
-    if (!response.ok) throw new Error(`API ${response.status}`);
-    const data = await response.json();
-    answer.textContent = data.answer || 'لم ينتج النموذج إجابة.';
-    renderSources(data.sources);
+    await typeResponse(data.answer || 'No response.');
+    renderSources(data.sources || []);
+
+    const verification = document.getElementById('verificationHash');
+    if (verification) verification.textContent = (await hashText(`${q}\n${data.answer || ''}`)).slice(0, 24) + '…';
+
+    const evidence = document.getElementById('evidenceState');
+    if (evidence) evidence.textContent = data.sources?.length ? `${data.sources.length} sources` : 'No sources';
   } catch (error) {
     answer.textContent = API_BASE
-      ? 'تعذر الاتصال بخدمة Nashhal AI حاليًا. تحقق من عنوان API وحالة الخادم.'
-      : 'تعذر تحميل قاعدة العرض التجريبي. تأكد من أن GitHub Pages نشر مجلد ai/data.';
+      ? 'The intelligence service is unavailable right now. Check the API connection.'
+      : 'The demo knowledge layer could not be loaded. Refresh the page and try again.';
     renderSources([]);
     console.error(error);
   } finally {
     send.disabled = false;
-    send.innerHTML = 'اسأل النموذج <span>↗</span>';
+    send.innerHTML = '<span>Ask</span><b>↗</b>';
   }
+});
+
+question.addEventListener('input', () => {
+  if (count) count.textContent = question.value.length;
+});
+
+document.querySelectorAll('.suggestion').forEach((button) => {
+  button.addEventListener('click', () => {
+    question.value = button.dataset.question || '';
+    if (count) count.textContent = question.value.length;
+    question.focus();
+  });
+});
+
+document.querySelectorAll('.mode').forEach((button) => {
+  button.addEventListener('click', () => {
+    document.querySelectorAll('.mode').forEach((item) => item.classList.remove('active'));
+    button.classList.add('active');
+    question.dataset.prefix = button.dataset.prefix || '';
+    question.focus();
+  });
+});
+
+document.addEventListener('keydown', (event) => {
+  if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+    event.preventDefault();
+    question.focus();
+  }
+  if (event.key === 'Escape') question.blur();
+});
+
+window.addEventListener('load', async () => {
+  const demoHash = document.getElementById('verificationHash');
+  if (demoHash) demoHash.textContent = (await hashText('NOVEN demo · evidence-first workspace')).slice(0, 24) + '…';
 });
