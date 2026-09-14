@@ -1,5 +1,12 @@
 window.NASHHAL_AI_CONFIG = window.NASHHAL_AI_CONFIG || {
-  // Leave empty on GitHub Pages to use the local browser demo.
-  // Set this to your self-hosted GPU API when one becomes available.
+  // Keep provider secrets on the server. Set apiBase to your deployed /v1 backend.
   apiBase: ''
 };
+
+// Replace the legacy form handler after it loads, then attach the evidence-first runtime.
+window.addEventListener('load', () => {
+  const script = document.createElement('script');
+  script.src = 'runtime-switch.js?v=20260914-20';
+  script.async = true;
+  document.head.appendChild(script);
+}, { once: true });
