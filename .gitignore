@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local AI artifacts
+ai/.cache/
+ai/checkpoints/
+ai/outputs/
+ai/runs/
+ai/logs/
+*.safetensors
+*.gguf
+*.pt
+*.pth
+
+# Generated Pages staging
+_site/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
