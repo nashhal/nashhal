@@ -4,41 +4,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#f7f8fa">
-  <meta name="description" content="NOVEN — an intelligence workspace for asking, researching and working with information.">
+  <meta name="description" content="NOVEN — an intelligence workspace for asking, researching and verifying information.">
   <title>NOVEN — Intelligence Workspace</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260914-3">
+  <link rel="stylesheet" href="styles.css?v=20260914-4">
 </head>
 <body>
   <div class="app-shell">
     <aside class="sidebar" aria-label="Workspace navigation">
       <div class="brand-row">
-        <a class="brand" href="./" aria-label="NOVEN home">
-          <span class="brand-mark" aria-hidden="true"><span></span></span>
-          <span class="brand-word">NOVEN</span>
-        </a>
-        <span class="version">0.1</span>
+        <a class="brand" href="./" aria-label="NOVEN home"><span class="brand-mark" aria-hidden="true"><span></span></span><span class="brand-word">NOVEN</span></a>
+        <span class="version">0.2</span>
       </div>
-
-      <button class="new-chat" type="button" onclick="document.getElementById('question').focus()">
-        <span class="plus">+</span><span>New session</span><kbd>⌘ K</kbd>
-      </button>
-
+      <button class="new-chat" type="button" onclick="document.getElementById('question').focus()"><span class="plus">+</span><span>New session</span><kbd>⌘ K</kbd></button>
       <nav class="side-nav">
         <span class="nav-caption">WORKSPACE</span>
         <a class="nav-item active" href="#ask"><span class="nav-icon">↗</span>Ask</a>
         <a class="nav-item" href="#research"><span class="nav-icon">⌕</span>Research</a>
-        <a class="nav-item" href="#evidence"><span class="nav-icon">◫</span>Sources</a>
-        <a class="nav-item" href="#system"><span class="nav-icon">◌</span>System</a>
+        <a class="nav-item" href="#evidence"><span class="nav-icon">◫</span>Evidence</a>
+        <a class="nav-item" href="#web3"><span class="nav-icon">◇</span>Web3</a>
       </nav>
-
       <div class="sidebar-bottom">
-        <div class="system-card">
-          <span class="pulse"></span>
-          <div><strong>Demo environment</strong><small>Local knowledge · No API</small></div>
-        </div>
+        <div class="system-card"><span class="pulse"></span><div><strong>Browser runtime</strong><small>Local demo · API optional</small></div></div>
         <div class="mini-links"><a href="../../">News</a><a href="README-CONNECTION.md">Docs</a></div>
       </div>
     </aside>
@@ -46,14 +35,13 @@
     <main class="main">
       <header class="topbar">
         <div class="crumb"><span>Workspace</span><b>/</b><strong>New session</strong></div>
-        <div class="top-actions"><span class="secure-dot"></span><span>Private by design</span><button type="button" class="icon-button" title="Settings">•••</button></div>
+        <div class="top-actions"><span class="secure-dot"></span><span>Client-side demo</span><button id="walletButton" type="button" class="wallet-button">Connect wallet</button></div>
       </header>
 
       <section class="hero" id="ask">
         <div class="eyebrow">INTELLIGENCE WORKSPACE</div>
-        <h1>What are you<br><span>working on?</span></h1>
-        <p>Ask a question, explore a topic, or turn information into something useful.</p>
-
+        <h1>Think.<br><span>Verify.</span></h1>
+        <p>A live prototype for asking questions, retrieving evidence, and creating a verifiable record of the result.</p>
         <div class="mode-row" role="tablist" aria-label="Modes">
           <button class="mode active" type="button" data-prefix="">Ask <span>↗</span></button>
           <button class="mode" type="button" data-prefix="Research this: ">Research <span>⌕</span></button>
@@ -64,79 +52,41 @@
 
       <section class="composer-wrap">
         <form id="chatForm" class="composer">
-          <div class="composer-head">
-            <span class="model-chip"><span class="model-dot"></span> NOVEN demo</span>
-            <span class="context-chip">Source grounded</span>
-          </div>
+          <div class="composer-head"><span class="model-chip"><span class="model-dot"></span>NOVEN demo</span><span class="context-chip">Evidence aware</span></div>
           <textarea id="question" maxlength="4000" placeholder="Ask anything…" required></textarea>
           <div class="composer-footer">
-            <div class="composer-tools">
-              <button type="button" class="tool-button" title="Attach">+</button>
-              <button type="button" class="tool-button" title="Search">⌕</button>
-              <span class="helper">Answers can show the evidence behind them</span>
-            </div>
+            <div class="composer-tools"><button type="button" class="tool-button" title="Attach">+</button><button type="button" class="tool-button" title="Search">⌕</button><span class="helper">No paid AI API required for this demo</span></div>
             <div class="send-side"><span class="counter"><b id="charCount">0</b>/4000</span><button id="send" type="submit" class="send-button"><span>Ask</span><b>↗</b></button></div>
           </div>
         </form>
-        <div class="suggestions" aria-label="Examples">
-          <span>Try</span>
-          <button type="button" class="suggestion" data-question="What does this demo actually do?">What does this demo do?</button>
-          <button type="button" class="suggestion" data-question="How does source-grounded retrieval work here?">How does retrieval work?</button>
-          <button type="button" class="suggestion" data-question="Why is a local model not running in this demo?">Why no local model yet?</button>
-        </div>
+        <div class="suggestions" aria-label="Examples"><span>Try</span><button type="button" class="suggestion" data-question="What does this demo actually do?">What does this demo do?</button><button type="button" class="suggestion" data-question="How does source-grounded retrieval work here?">How does retrieval work?</button><button type="button" class="suggestion" data-question="Why is a local model not running in this demo?">Why no local model yet?</button></div>
       </section>
 
       <section id="result" class="response-panel hidden" aria-live="polite">
-        <div class="response-main">
-          <div class="response-meta"><span class="label">RESPONSE</span><span>Demo run</span></div>
-          <div id="answer" class="answer"></div>
-        </div>
-        <aside class="evidence" id="evidence">
-          <div class="evidence-head"><span>Evidence</span><small>SOURCES</small></div>
-          <div id="sources" class="sources"></div>
-        </aside>
+        <div class="response-main"><div class="response-meta"><span class="label">RESPONSE</span><span>Live run</span></div><div id="answer" class="answer"></div></div>
+        <aside class="evidence" id="evidence"><div class="evidence-head"><span>Evidence</span><small id="evidenceState">SOURCES</small></div><div id="sources" class="sources"></div></aside>
+        <div class="verification-strip"><div><span class="verification-label">OUTPUT HASH</span><code id="verificationHash">generating…</code></div><button id="verifyWalletButton" type="button">Sign verification</button><div><span class="verification-label">SIGNATURE</span><code id="verificationSignature">—</code></div></div>
       </section>
 
-      <section id="research" class="section-block">
-        <div class="section-kicker">01 / PRODUCT PRINCIPLE</div>
-        <div class="section-layout">
-          <div><h2>Less interface.<br>More intelligence.</h2></div>
-          <div class="principles"><p><strong>Context first.</strong> Keep the workspace calm and let the task determine which controls appear.</p><p><strong>Show the work.</strong> Research, sources and outputs stay connected instead of hiding the path behind a polished answer.</p><p><strong>One workspace.</strong> Ask, research, analyse and build without making the user jump between different products.</p></div>
-        </div>
-      </section>
+      <section id="research" class="section-block"><div class="section-kicker">01 / WORKFLOW</div><div class="section-layout"><div><h2>One surface.<br>Several kinds of work.</h2></div><div class="principles"><p><strong>Ask.</strong> Start with a question and keep the interaction lightweight.</p><p><strong>Research.</strong> Pull evidence into the same workspace instead of sending the user elsewhere.</p><p><strong>Verify.</strong> Turn an answer into a hash that can be independently checked later.</p></div></div></section>
 
-      <section id="system" class="system-section">
-        <div class="section-kicker">02 / UNDER THE HOOD</div>
-        <div class="system-grid">
-          <div><div class="system-number">01</div><h3>Understand</h3><p>Interpret the request and choose the right work mode.</p></div>
-          <div><div class="system-number">02</div><h3>Retrieve</h3><p>Pull relevant knowledge and surface the evidence.</p></div>
-          <div><div class="system-number">03</div><h3>Reason</h3><p>Generate a useful response from the available context.</p></div>
-          <div><div class="system-number">04</div><h3>Verify</h3><p>Expose the sources and make uncertainty visible.</p></div>
-        </div>
-      </section>
+      <section id="web3" class="web3-section"><div class="section-kicker">02 / TRUST LAYER</div><div class="web3-grid"><div><h2>Web3 without the gimmick.</h2><p>For the prototype, Web3 is used as an optional identity and verification layer. No payment is required and no transaction is sent.</p></div><div class="web3-card"><div class="web3-top"><span class="chain-pill">ETHEREUM / SEPOLIA</span><span id="web3Status" data-tone="neutral">Wallet not connected</span></div><div class="web3-line"><span>Evidence hash</span><code id="web3Hash">Awaiting a run</code></div><div class="web3-actions"><button id="sepoliaButton" type="button">Use Sepolia</button><button id="verifyWalletButton2" type="button" onclick="document.getElementById('verifyWalletButton').click()">Verify output</button></div><small>Sepolia is Ethereum’s recommended public testnet for application development. citeturn145793search7turn145793search8</small></div></div></section>
 
-      <footer><span>NOVEN</span><span>Intelligence workspace · experimental build</span></footer>
+      <section id="system" class="system-section"><div class="section-kicker">03 / UNDER THE HOOD</div><div class="system-grid"><div><div class="system-number">01</div><h3>Understand</h3><p>Interpret the request and choose the active work mode.</p></div><div><div class="system-number">02</div><h3>Retrieve</h3><p>Find the closest knowledge records in the browser demo.</p></div><div><div class="system-number">03</div><h3>Reason</h3><p>Compose a useful answer from the available context.</p></div><div><div class="system-number">04</div><h3>Verify</h3><p>Hash the output and optionally sign the verification message.</p></div></div></section>
+
+      <footer><span>NOVEN</span><span>Intelligence workspace · experimental web3 build</span></footer>
     </main>
   </div>
 
   <script src="app-config.js"></script>
   <script src="settings.js"></script>
   <script src="app.js"></script>
+  <script src="web3.js"></script>
   <script>
-    const q = document.getElementById('question');
-    const count = document.getElementById('charCount');
-    q.addEventListener('input', () => { count.textContent = q.value.length; });
-    document.querySelectorAll('.suggestion').forEach((b) => b.addEventListener('click', () => { q.value = b.dataset.question || ''; count.textContent = q.value.length; q.focus(); }));
-    document.querySelectorAll('.mode').forEach((b) => b.addEventListener('click', () => {
-      document.querySelectorAll('.mode').forEach((x) => x.classList.remove('active'));
-      b.classList.add('active');
-      q.dataset.prefix = b.dataset.prefix || '';
-      q.focus();
-    }));
-    document.getElementById('chatForm').addEventListener('submit', () => {
-      if (q.dataset.prefix && !q.value.startsWith(q.dataset.prefix)) q.value = q.dataset.prefix + q.value;
-      count.textContent = q.value.length;
-    }, true);
+    const verificationHash = document.getElementById('verificationHash');
+    const web3Hash = document.getElementById('web3Hash');
+    const observer = new MutationObserver(() => { if (web3Hash) web3Hash.textContent = verificationHash?.textContent || 'Awaiting a run'; });
+    if (verificationHash) observer.observe(verificationHash, { childList: true, characterData: true, subtree: true });
   </script>
 </body>
 </html>
