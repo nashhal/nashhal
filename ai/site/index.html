@@ -1,106 +1,142 @@
 <!doctype html>
-<html lang="ar" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#f3f0e8">
-  <meta name="description" content="Nashhal AI — مساحة بحث عربية مبنية على المصادر والسياق وقابلية التتبع.">
-  <title>Nashhal AI | نهشل للبحث الذكي</title>
+  <meta name="theme-color" content="#f7f8fa">
+  <meta name="description" content="NOVEN — an intelligence workspace for asking, researching and working with information.">
+  <title>NOVEN — Intelligence Workspace</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260914">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260914-2">
 </head>
 <body>
-  <div class="grain"></div>
-  <div class="app">
-    <aside class="sidebar">
-      <a class="logo" href="../../" aria-label="نشهل">
-        <span class="logo-mark"><span>ن</span></span>
-        <span class="logo-word"><b>NASHHAL</b><small>INTELLIGENCE</small></span>
-      </a>
-      <div class="side-rule"></div>
-      <div class="side-label">مساحة البحث</div>
-      <button class="new-search" type="button" onclick="document.getElementById('question').focus()"><span>+</span> بحث جديد</button>
-      <div class="side-block">
-        <div class="side-title">ما الذي يميز نشهل؟</div>
-        <p>نظام عربي يربط السؤال بالمصادر قبل صياغة الإجابة، ويترك أثرًا واضحًا لما تم العثور عليه.</p>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Workspace navigation">
+      <div class="brand-row">
+        <a class="brand" href="./" aria-label="NOVEN home">
+          <span class="brand-mark" aria-hidden="true"><span></span></span>
+          <span class="brand-word">NOVEN</span>
+        </a>
+        <span class="version">0.1</span>
       </div>
-      <div class="side-bottom">
-        <div><span class="pulse"></span><span>بيئة تجريبية محلية</span></div>
-        <a href="../../">العودة إلى نشهل ↗</a>
+
+      <button class="new-chat" type="button" onclick="document.getElementById('question').focus()">
+        <span class="plus">+</span><span>New session</span><kbd>⌘ K</kbd>
+      </button>
+
+      <nav class="side-nav">
+        <span class="nav-caption">WORKSPACE</span>
+        <a class="nav-item active" href="#ask"><span class="nav-icon">↗</span>Ask</a>
+        <a class="nav-item" href="#research"><span class="nav-icon">⌕</span>Research</a>
+        <a class="nav-item" href="#sources"><span class="nav-icon">◫</span>Sources</a>
+        <a class="nav-item" href="#system"><span class="nav-icon">◌</span>System</a>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="system-card">
+          <span class="pulse"></span>
+          <div><strong>Demo environment</strong><small>Local knowledge · No API</small></div>
+        </div>
+        <div class="mini-links"><a href="../../">News</a><a href="README-CONNECTION.md">Docs</a></div>
       </div>
     </aside>
 
     <main class="main">
       <header class="topbar">
-        <div class="breadcrumb"><span>NASHHAL AI</span><i>/</i><b>RESEARCH DESK</b></div>
-        <div class="top-status"><span class="status-dot"></span> متصل بالنسخة التجريبية</div>
+        <div class="crumb"><span>Workspace</span><b>/</b><strong>New session</strong></div>
+        <div class="top-actions"><span class="secure-dot"></span><span>Private by design</span><button type="button" class="icon-button" title="Settings">•••</button></div>
       </header>
 
-      <section class="intro">
-        <div class="intro-kicker"><span>01</span> اسأل · ابحث · تحقق</div>
-        <h1>لا نريد إجابة<br><em>تبدو صحيحة.</em></h1>
-        <p>نريد أن نعرف <strong>من أين جاءت.</strong></p>
+      <section class="hero" id="ask">
+        <div class="eyebrow">INTELLIGENCE WORKSPACE</div>
+        <h1>What are you<br><span>working on?</span></h1>
+        <p>Ask a question, explore a topic, or turn information into something useful.</p>
+
+        <div class="mode-row" role="tablist" aria-label="Modes">
+          <button class="mode active" type="button" data-prefix="">Ask <span>↗</span></button>
+          <button class="mode" type="button" data-prefix="Research this: ">Research <span>⌕</span></button>
+          <button class="mode" type="button" data-prefix="Analyze this: ">Analyze <span>◫</span></button>
+          <button class="mode" type="button" data-prefix="Build a plan for: ">Build <span>✦</span></button>
+        </div>
       </section>
 
-      <section class="desk" aria-label="Nashhal AI search">
-        <div class="desk-head">
-          <div><span>RESEARCH DESK</span><strong>سؤال جديد</strong></div>
-          <div class="mode">SOURCE FIRST <i></i></div>
-        </div>
+      <section class="composer-wrap">
         <form id="chatForm" class="composer">
-          <textarea id="question" maxlength="4000" placeholder="اكتب سؤالك هنا…" required></textarea>
-          <div class="composer-foot">
-            <div class="suggestions">
-              <button type="button" class="suggestion" data-question="ما الذي يميز Nashhal AI عن محرك بحث عادي؟">ما الذي يميز نشهل؟</button>
-              <button type="button" class="suggestion" data-question="كيف يتحقق Nashhal AI من المصادر قبل الإجابة؟">كيف يتم التحقق؟</button>
-              <button type="button" class="suggestion" data-question="لماذا لا يعمل نموذج اللغة داخل GitHub Pages؟">لماذا GitHub Pages؟</button>
+          <div class="composer-head">
+            <span class="model-chip"><span class="model-dot"></span> NOVEN demo</span>
+            <span class="context-chip">Source grounded</span>
+          </div>
+          <textarea id="question" maxlength="4000" placeholder="Ask anything…" required></textarea>
+          <div class="composer-footer">
+            <div class="composer-tools">
+              <button type="button" class="tool-button" title="Attach">+</button>
+              <button type="button" class="tool-button" title="Search">⌕</button>
+              <span class="helper">Answers can show the evidence behind them</span>
             </div>
-            <div class="send-row"><span><b id="charCount">0</b> / 4000</span><button id="send" type="submit"><span>ابدأ البحث</span><b>↗</b></button></div>
+            <div class="send-side"><span class="counter"><b id="charCount">0</b>/4000</span><button id="send" type="submit" class="send-button"><span>Ask</span><b>↗</b></button></div>
           </div>
         </form>
-
-        <div id="result" class="result hidden" aria-live="polite">
-          <div class="result-bar"><span>02 / FINDINGS</span><b>نتيجة البحث</b></div>
-          <div class="finding">
-            <div class="finding-label">الإجابة</div>
-            <div id="answer" class="answer"></div>
-          </div>
-          <div class="evidence">
-            <div class="finding-label">الأدلة المسترجعة</div>
-            <div id="sources" class="sources"></div>
-          </div>
+        <div class="suggestions" aria-label="Examples">
+          <span>Try</span>
+          <button type="button" class="suggestion" data-question="What does this demo actually do?">What does this demo do?</button>
+          <button type="button" class="suggestion" data-question="How does source-grounded retrieval work here?">How does retrieval work?</button>
+          <button type="button" class="suggestion" data-question="Why is a local model not running in this demo?">Why no local model yet?</button>
         </div>
       </section>
 
-      <section class="beliefs">
-        <div class="belief-intro"><span>03 / METHOD</span><h2>الثقة لا تُطلب.<br><em>تُبنى.</em></h2></div>
-        <div class="belief-list">
-          <article><b>01</b><div><h3>المصدر قبل التوليد</h3><p>نبدأ بالوثائق المرتبطة بالسؤال قبل التفكير في صياغة الإجابة.</p></div></article>
-          <article><b>02</b><div><h3>السياق قبل السرعة</h3><p>لا يكفي العثور على كلمة مطابقة؛ الأهم هو علاقتها بالموضوع.</p></div></article>
-          <article><b>03</b><div><h3>الأثر قبل الثقة</h3><p>كل نتيجة قابلة للعودة إلى مصدرها في النسخة التجريبية.</p></div></article>
+      <section id="result" class="response-panel hidden" aria-live="polite">
+        <div class="response-main">
+          <div class="response-meta"><span class="label">RESPONSE</span><span>Demo run</span></div>
+          <div id="answer" class="answer"></div>
+        </div>
+        <aside class="evidence" id="sources">
+          <div class="evidence-head"><span>Evidence</span><small>SOURCES</small></div>
+          <div id="sources" class="sources"></div>
+        </aside>
+      </section>
+
+      <section id="research" class="section-block">
+        <div class="section-kicker">01 / PRODUCT PRINCIPLE</div>
+        <div class="section-layout">
+          <div><h2>Less interface.<br>More intelligence.</h2></div>
+          <div class="principles"><p><strong>Context first.</strong> Keep the workspace calm and let the task determine which controls appear.</p><p><strong>Show the work.</strong> Research, sources and outputs stay connected instead of hiding the path behind a polished answer.</p><p><strong>One workspace.</strong> Ask, research, analyse and build without making the user jump between different products.</p></div>
         </div>
       </section>
 
-      <footer><span>© 2026 NASHHAL AI</span><span>Arabic intelligence · evidence before confidence</span></footer>
+      <section id="system" class="system-section">
+        <div class="section-kicker">02 / UNDER THE HOOD</div>
+        <div class="system-grid">
+          <div><div class="system-number">01</div><h3>Understand</h3><p>Interpret the request and choose the right work mode.</p></div>
+          <div><div class="system-number">02</div><h3>Retrieve</h3><p>Pull relevant knowledge and surface the evidence.</p></div>
+          <div><div class="system-number">03</div><h3>Reason</h3><p>Generate a useful response from the available context.</p></div>
+          <div><div class="system-number">04</div><h3>Verify</h3><p>Expose the sources and make uncertainty visible.</p></div>
+        </div>
+      </section>
+
+      <footer><span>NOVEN</span><span>Intelligence workspace · experimental build</span></footer>
     </main>
   </div>
 
-  <script src="app-config.js?v=20260914"></script>
-  <script src="settings.js?v=20260914"></script>
-  <script src="app.js?v=20260914"></script>
+  <script src="app-config.js"></script>
+  <script src="settings.js"></script>
+  <script src="app.js"></script>
   <script>
     const q = document.getElementById('question');
     const count = document.getElementById('charCount');
     q.addEventListener('input', () => { count.textContent = q.value.length; });
-    document.querySelectorAll('.suggestion').forEach((button) => {
-      button.addEventListener('click', () => {
-        q.value = button.dataset.question || '';
-        count.textContent = q.value.length;
-        q.focus();
-      });
-    });
+    document.querySelectorAll('.suggestion').forEach((b) => b.addEventListener('click', () => { q.value = b.dataset.question || ''; count.textContent = q.value.length; q.focus(); }));
+    document.querySelectorAll('.mode').forEach((b) => b.addEventListener('click', () => {
+      document.querySelectorAll('.mode').forEach((x) => x.classList.remove('active'));
+      b.classList.add('active');
+      q.dataset.prefix = b.dataset.prefix || '';
+      q.focus();
+    }));
+    document.getElementById('chatForm').addEventListener('submit', (event) => {
+      if (q.dataset.prefix && !q.value.startsWith(q.dataset.prefix)) q.value = q.dataset.prefix + q.value;
+      count.textContent = q.value.length;
+    }, true);
   </script>
 </body>
 </html>
