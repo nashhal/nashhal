@@ -1,0 +1,22 @@
+version: 1
+project: nashhal-ai
+
+# The model is evaluated as a system, not only by generation quality.
+tasks:
+  classification:
+    metrics: [macro_f1, accuracy]
+  event_entity_extraction:
+    metrics: [entity_f1, event_f1]
+  duplicate_detection:
+    metrics: [precision, recall, f1]
+  summarization:
+    metrics: [fact_coverage, unsupported_claim_rate, human_quality]
+  grounded_qa:
+    metrics: [answer_accuracy, citation_precision, citation_recall, unsupported_claim_rate]
+
+quality_gates:
+  no_source_citation_for_grounded_qa: fail
+  unsupported_claim_rate_max: 0.02
+  test_set_must_be_unseen: true
+  benchmark_must_be_versioned: true
+  dataset_provenance_required: true
