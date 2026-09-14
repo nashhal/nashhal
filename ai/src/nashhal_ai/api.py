@@ -1,8 +1,7 @@
 """Self-hosted FastAPI service for Nashhal AI.
 
-The service can run a local Hugging Face model and local RAG data. No
-commercial AI provider is required. Set MODEL_ID (or MODEL_PATH) to the
-model you want to run on your own GPU/CPU host.
+The service runs a local Hugging Face model and local RAG data. No commercial
+AI provider is required. Set MODEL_ID (or MODEL_PATH) on the inference host.
 """
 from __future__ import annotations
 
@@ -10,10 +9,11 @@ import os
 from pathlib import Path
 from typing import Any
 
-from .rag import LexicalRetriever, SourceDocument, load_jsonl
+from .rag import LexicalRetriever, load_jsonl
 
 try:
     from fastapi import FastAPI
+    from fastapi.middleware.cors import CORSMiddleware
     from pydantic import BaseModel, Field
 except ImportError:  # pragma: no cover
     FastAPI = None  # type: ignore
@@ -23,6 +23,7 @@ DEFAULT_DATASET = ROOT / "data" / "benchmark.sample.jsonl"
 MODEL_ID = os.getenv("MODEL_ID", "Qwen/Qwen3-8B")
 MODEL_PATH = os.getenv("MODEL_PATH", "").strip()
 MAX_NEW_TOKENS = int(os.getenv("MAX_NEW_TOKENS", "512"))
+CORS_ORIGINS = [x.strip() for x in os.getenv("CORS_ORIGINS", "*").split(",") if x.strip()]
 
 
 def _load_retriever() -> LexicalRetriever:
@@ -50,12 +51,10 @@ def _load_local_model() -> tuple[Any, Any]:
         model_name = MODEL_PATH or MODEL_ID
         _tokenizer = AutoTokenizer.from_pretrained(model_name)
         _model = AutoModelForCausalLM.from_pretrained(
-            model_name,
-            device_map="auto",
-            torch_dtype="auto",
+            model_name, device_map="auto", torch_dtype="auto"
         )
         return _model, _tokenizer
-    except Exception as exc:  # pragma: no cover - depends on host hardware/model
+    except Exception as exc:  # pragma: no cover - host-dependent
         _model_error = str(exc)
         raise RuntimeError(f"Local model could not be loaded: {exc}") from exc
 
@@ -78,22 +77,22 @@ def _generate_local(question: str, sources: list[Any]) -> str | None:
         {"role": "system", "content": "أنت مساعد عربي دقيق، مصدر-أول، وتفصل بين الحقيقة والاستنتاج."},
         {"role": "user", "content": prompt},
     ]
-    if hasattr(tokenizer, "apply_chat_template"):
-        text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    else:
-        text = prompt
+    text = (
+        tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        if hasattr(tokenizer, "apply_chat_template")
+        else prompt
+    )
     inputs = tokenizer(text, return_tensors="pt").to(model.device)
     outputs = model.generate(**inputs, max_new_tokens=MAX_NEW_TOKENS, do_sample=False)
     generated = outputs[0][inputs["input_ids"].shape[-1]:]
     return tokenizer.decode(generated, skip_special_tokens=True).strip() or None
 
 
-def _grounded_fallback(question: str, sources: list[Any]) -> str:
+def _grounded_fallback(sources: list[Any]) -> str:
     if not sources:
         return "لم أجد مصدرًا موثوقًا في قاعدة المعرفة الحالية يدعم إجابة مؤكدة."
-    lead = sources[0].document
     return (
-        f"وجدت مادة مرتبطة بالسؤال: {lead.title}. "
+        f"وجدت مادة مرتبطة بالسؤال: {sources[0].document.title}. "
         "هذه إجابة استرجاعية وليست توليدًا من النموذج؛ فعّل ENABLE_LOCAL_MODEL=1 "
         "لتشغيل النموذج المحلي."
     )
@@ -101,6 +100,13 @@ def _grounded_fallback(question: str, sources: list[Any]) -> str:
 
 if FastAPI is not None:
     app = FastAPI(title="Nashhal AI — Self Hosted", version="0.2.0")
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=CORS_ORIGINS,
+        allow_credentials=False,
+        allow_methods=["GET", "POST"],
+        allow_headers=["Content-Type"],
+    )
 
     class ChatRequest(BaseModel):
         question: str = Field(min_length=1, max_length=4000)
@@ -124,7 +130,7 @@ if FastAPI is not None:
             answer = _generate_local(body.question, hits)
         except RuntimeError:
             answer = None
-        answer = answer or _grounded_fallback(body.question, hits)
+        answer = answer or _grounded_fallback(hits)
         return {
             "answer": answer,
             "grounded": bool(hits),
