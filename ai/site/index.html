@@ -3,54 +3,117 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Nashhal AI — نموذج ذكاء اصطناعي عربي مبني على الأدلة والمصادر الموثقة">
-  <meta name="theme-color" content="#07100d">
-  <title>Nashhal AI — Evidence First</title>
+  <meta name="description" content="Nashhal AI — نظام بحث واسترجاع عربي يربط الإجابات بالمصادر والأدلة.">
+  <meta name="theme-color" content="#0b1712">
+  <title>Nashhal AI — نهشل للمعرفة الموثقة</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="ambient ambient-one"></div>
+  <div class="ambient ambient-two"></div>
   <main class="shell">
-    <nav class="nav">
-      <div class="brand"><span class="mark">ن</span><span>NASHHAL <b>AI</b></span></div>
-      <span class="status"><i></i> Research Preview</span>
-    </nav>
-
-    <header class="hero">
-      <p class="eyebrow">EVIDENCE FIRST · ARABIC INTELLIGENCE</p>
-      <h1>ذكاء اصطناعي لا يكتفي بالإجابة<br><em>بل يريك لماذا.</em></h1>
-      <p class="lede">Nashhal AI يجمع بين الاسترجاع، المصادر، التحقق، والتوليد لتقديم إجابات قابلة للتتبع بدل التخمين.</p>
+    <header class="nav">
+      <a class="brand" href="../" aria-label="العودة إلى نشهل">
+        <span class="mark" aria-hidden="true"><span>ن</span></span>
+        <span class="brand-copy"><strong>NASHHAL</strong><small>AI LAB</small></span>
+      </a>
+      <div class="nav-meta">
+        <span class="live-dot"></span>
+        <span>نسخة تجريبية</span>
+        <a href="../../" class="back-link">نَشهل الأخبار</a>
+      </div>
     </header>
 
-    <section class="playground card">
-      <div class="section-head">
-        <div><span class="kicker">01</span><h2>AI Playground</h2></div>
-        <span class="badge">Source Grounded</span>
+    <section class="hero">
+      <div class="hero-rail">
+        <span class="eyebrow">NASHHAL INTELLIGENCE</span>
+        <span class="hero-line"></span>
+        <span class="eyebrow muted">ARABIC · SOURCES · CONTEXT</span>
       </div>
-      <form id="chatForm">
-        <textarea id="question" maxlength="4000" placeholder="اكتب سؤالك باللغة العربية… مثال: ما المعلومات المتاحة حول حدث معيّن؟" required></textarea>
-        <div class="actions"><button type="submit" id="send">اسأل النموذج <span>↗</span></button><span id="hint">سيُظهر النظام المصادر المسترجعة مع الإجابة</span></div>
+      <h1>اسأل بوضوح.<br><span>وتحقق من الإجابة.</span></h1>
+      <p class="lede">Nashhal AI مساحة بحث عربية تضع المصدر قبل الانطباع، وتُظهر لك ما وجدته قبل أن تطلب منك تصديقه.</p>
+      <div class="hero-notes">
+        <span>بحث في المصادر</span><span>إسناد واضح</span><span>بدون تخمين متعمد</span>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <div class="workspace-top">
+        <div>
+          <span class="section-index">01 / ASK</span>
+          <h2>ماذا تريد أن تعرف؟</h2>
+        </div>
+        <div class="workspace-state"><i></i><span>Source grounded</span></div>
+      </div>
+
+      <form id="chatForm" class="query-box">
+        <div class="input-shell">
+          <textarea id="question" maxlength="4000" placeholder="اكتب سؤالك هنا…" required></textarea>
+          <div class="input-footer">
+            <span>الإجابة التجريبية تعتمد على قاعدة معرفة نشهل الحالية</span>
+            <span class="counter"><b id="charCount">0</b> / 4000</span>
+          </div>
+        </div>
+        <button type="submit" id="send"><span>ابحث في المعرفة</span><b>↗</b></button>
       </form>
-      <div id="result" class="result hidden">
-        <div class="answer-wrap"><div class="answer-label">الإجابة</div><div id="answer" class="answer"></div></div>
-        <div class="sources-wrap"><div class="answer-label">المصادر المستخدمة</div><div id="sources" class="sources"></div></div>
+
+      <div class="examples">
+        <span>جرّب</span>
+        <button type="button" class="example" data-question="ما الذي يميز نظام Nashhal AI عن محرك بحث عادي؟">ما الذي يميز Nashhal AI؟</button>
+        <button type="button" class="example" data-question="كيف يتحقق Nashhal AI من المصادر قبل الإجابة؟">كيف يتم التحقق؟</button>
+        <button type="button" class="example" data-question="لماذا لا يضع Nashhal AI نموذج اللغة داخل GitHub Pages؟">لماذا لا يعمل النموذج داخل GitHub Pages؟</button>
+      </div>
+
+      <div id="result" class="result hidden" aria-live="polite">
+        <div class="result-answer">
+          <div class="result-heading"><span>النتيجة</span><small>AI RESPONSE</small></div>
+          <div id="answer" class="answer"></div>
+        </div>
+        <div class="sources-wrap">
+          <div class="result-heading"><span>الأدلة</span><small>SOURCES</small></div>
+          <div id="sources" class="sources"></div>
+        </div>
       </div>
     </section>
 
-    <section class="grid">
-      <article class="card feature"><span class="kicker">02</span><h3>Retrieval</h3><p>يبحث في قاعدة المصادر قبل صياغة الإجابة.</p></article>
-      <article class="card feature"><span class="kicker">03</span><h3>Provenance</h3><p>كل نتيجة تحمل هوية المصدر والرابط والتوقيت.</p></article>
-      <article class="card feature"><span class="kicker">04</span><h3>Evaluation</h3><p>قياس مستقل للدقة، التغطية، والادعاءات غير المدعومة.</p></article>
+    <section class="principles">
+      <div class="section-label"><span>02 / PRINCIPLES</span><p>ليست الفكرة أن تبدو الإجابة ذكية<br>الفكرة أن تعرف من أين جاءت.</p></div>
+      <div class="principle-grid">
+        <article><b>01</b><h3>المصدر أولًا</h3><p>البحث يبدأ من المادة المرتبطة بالسؤال، لا من نص عام محفوظ.</p></article>
+        <article><b>02</b><h3>السياق لا الضجيج</h3><p>التركيز على الوثائق الأقرب للسؤال وتقليل النتائج التي لا تضيف معنى.</p></article>
+        <article><b>03</b><h3>قابلية التتبع</h3><p>عندما تكون هناك أدلة، يمكنك العودة إليها بدل الاكتفاء بإجابة مغلقة.</p></article>
+      </div>
     </section>
 
-    <section class="architecture card">
-      <div class="section-head"><div><span class="kicker">05</span><h2>System Architecture</h2></div></div>
-      <div class="flow"><span>Sources</span><b>→</b><span>Ingestion</span><b>→</b><span>RAG</span><b>→</b><span>Model</span><b>→</b><span>Evaluation</span></div>
+    <section class="architecture">
+      <div class="architecture-copy"><span class="section-index">03 / SYSTEM</span><h2>من الخبر إلى المعرفة</h2><p>هذه النسخة التجريبية تختبر طبقة الاسترجاع أولًا، بينما يبقى النموذج اللغوي الكامل مرحلة لاحقة.</p></div>
+      <div class="flow">
+        <span><b>01</b> مصادر</span><i>→</i><span><b>02</b> تنظيف</span><i>→</i><span class="current"><b>03</b> استرجاع</span><i>→</i><span><b>04</b> نموذج</span><i>→</i><span><b>05</b> تحقق</span>
+      </div>
     </section>
 
-    <footer>Nashhal AI Lab · Evidence First · Arabic-first research system</footer>
+    <footer>
+      <span>© Nashhal AI Lab</span>
+      <span>Built for Arabic knowledge · Evidence before confidence</span>
+    </footer>
   </main>
   <script src="app-config.js"></script>
   <script src="settings.js"></script>
   <script src="app.js"></script>
+  <script>
+    const q = document.getElementById('question');
+    const count = document.getElementById('charCount');
+    q.addEventListener('input', () => { count.textContent = q.value.length; });
+    document.querySelectorAll('.example').forEach((button) => {
+      button.addEventListener('click', () => {
+        q.value = button.dataset.question || '';
+        count.textContent = q.value.length;
+        q.focus();
+      });
+    });
+  </script>
 </body>
 </html>
