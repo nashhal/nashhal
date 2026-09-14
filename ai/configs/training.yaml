@@ -1,0 +1,40 @@
+seed: 42
+
+base_model: Qwen/Qwen3-8B
+selection_status: candidate_only
+selection_rule: Do not promote to production until the holdout benchmark and license review pass.
+
+method: qlora
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules: [q_proj, k_proj, v_proj, o_proj]
+
+quantization:
+  bits: 4
+  type: nf4
+  double_quant: true
+
+training:
+  max_seq_length: 4096
+  learning_rate: 0.0001
+  warmup_ratio: 0.05
+  epochs: 2
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 16
+  gradient_checkpointing: true
+  bf16: true
+
+splits:
+  train: train
+  validation: validation
+  test: test
+  ood: ood
+
+quality_gates:
+  max_eval_regression: 0.02
+  require_provenance: true
+  require_source_grounding: true
+  require_no_test_leakage: true
