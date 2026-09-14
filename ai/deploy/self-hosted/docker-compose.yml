@@ -1,0 +1,20 @@
+services:
+  nashhal-ai:
+    build:
+      context: ../..
+      dockerfile: deploy/self-hosted/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      ENABLE_LOCAL_MODEL: "1"
+      MODEL_ID: "Qwen/Qwen3-8B"
+      MAX_NEW_TOKENS: "512"
+      NASHHAL_DATASET: "/app/ai/data/benchmark.sample.jsonl"
+      HF_HOME: "/models/cache"
+    volumes:
+      - model-cache:/models/cache
+    gpus: all
+    restart: unless-stopped
+
+volumes:
+  model-cache:
