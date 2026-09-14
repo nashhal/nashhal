@@ -1,0 +1,1 @@
+(()=>{const add=s=>{const x=document.createElement('script');x.src=s+'?v=20260914-19';x.defer=false;document.head.appendChild(x)};window.addEventListener('load',()=>add('runtime-switch.js'),{once:true})})();
