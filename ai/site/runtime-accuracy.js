@@ -1,0 +1,1 @@
+(()=>{const A=window.NOVEN_ACCURACY;if(!A)return;window.NOVEN_RUNTIME_INFO={version:'1.0',mode:'evidence-first',skills:A.skills.map(x=>x.id)};})();
