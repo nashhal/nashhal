@@ -55,11 +55,12 @@
     if (!window.ethereum) return connectWallet();
     try {
       await window.ethereum.request({ method: 'wallet_switchEthereumChain', params: [{ chainId: SEPOLIA_CHAIN_ID }] });
+      return connectWallet();
     } catch (error) {
       status('Switch to Sepolia was not completed', 'warning');
+      console.error(error);
       return false;
     }
-    return connectWallet();
   }
 
   async function sha256Hex(text) {
@@ -70,8 +71,8 @@
 
   function currentRun() {
     if (window.NOVEN_TRUST_RUN) return window.NOVEN_TRUST_RUN;
-    const q = document.getElementById('question')?.value?.trim() || '';
-    const a = document.getElementById('answer')?.textContent?.trim() || '';
+    const q = $('question')?.value?.trim() || '';
+    const a = $('answer')?.textContent?.trim() || '';
     if (!q || !a) return null;
     return {
       runId: `NVR-${Date.now().toString(36).toUpperCase()}`,
@@ -122,36 +123,38 @@
       status('Prepare the structured verification signature…', 'neutral');
       const receipt = await buildReceipt();
       const domain = { name: 'NOVEN Trust', version: '1', chainId: SEPOLIA_DECIMAL, verifyingContract: EAS_ADDRESS };
-      const types = {
-        NovenRun: [
-          { name: 'runId', type: 'string' },
-          { name: 'queryHash', type: 'bytes32' },
-          { name: 'answerHash', type: 'bytes32' },
-          { name: 'evidenceHash', type: 'bytes32' },
-          { name: 'modelHash', type: 'bytes32' },
-          { name: 'createdAt', type: 'uint256' }
-        ]
+      const typed = {
+        types: {
+          EIP712Domain: [
+            { name: 'name', type: 'string' },
+            { name: 'version', type: 'string' },
+            { name: 'chainId', type: 'uint256' },
+            { name: 'verifyingContract', type: 'address' }
+          ],
+          NovenRun: [
+            { name: 'runId', type: 'string' },
+            { name: 'queryHash', type: 'bytes32' },
+            { name: 'answerHash', type: 'bytes32' },
+            { name: 'evidenceHash', type: 'bytes32' },
+            { name: 'modelHash', type: 'bytes32' },
+            { name: 'createdAt', type: 'uint256' }
+          ]
+        },
+        primaryType: 'NovenRun',
+        domain,
+        message: {
+          runId: receipt.runId,
+          queryHash: receipt.questionHash,
+          answerHash: receipt.answerHash,
+          evidenceHash: receipt.evidenceHash,
+          modelHash: receipt.modelHash,
+          createdAt: Math.floor(new Date(receipt.createdAt).getTime() / 1000)
+        }
       };
-      const message = {
-        runId: receipt.runId,
-        queryHash: receipt.questionHash,
-        answerHash: receipt.answerHash,
-        evidenceHash: receipt.evidenceHash,
-        modelHash: receipt.modelHash,
-        createdAt: Math.floor(new Date(receipt.createdAt).getTime() / 1000)
-      };
-      const signature = await window.ethereum.request({
-        method: 'eth_signTypedData_v4',
-        params: [web3State.address, JSON.stringify({ types: { EIP712Domain: [
-          { name: 'name', type: 'string' },
-          { name: 'version', type: 'string' },
-          { name: 'chainId', type: 'uint256' },
-          { name: 'verifyingContract', type: 'address' }
-        ], ...types }, primaryType: 'NovenRun', domain, message })]
-      });
+      const signature = await window.ethereum.request({ method: 'eth_signTypedData_v4', params: [web3State.address, JSON.stringify(typed)] });
       setSignature(signature, 'EIP-712 structured signature');
       status('EIP-712 receipt signed · no transaction sent', 'success');
-      window.NOVEN_TRUST_SIGNATURE = { type: 'EIP-712', signature, domain, message, receipt };
+      window.NOVEN_TRUST_SIGNATURE = { type: 'EIP-712', signature, typed, receipt };
       return signature;
     } catch (error) {
       status(error?.message || 'EIP-712 signature cancelled', 'warning');
@@ -160,14 +163,10 @@
     }
   }
 
-  function downloadReceipt() {
-    buildReceipt().then((receipt) => {
-      const payload = {
-        ...receipt,
-        signature: window.NOVEN_TRUST_SIGNATURE?.signature || null,
-        signatureType: window.NOVEN_TRUST_SIGNATURE?.type || null,
-        generatedAt: new Date().toISOString()
-      };
+  async function downloadReceipt() {
+    try {
+      const receipt = await buildReceipt();
+      const payload = { ...receipt, signature: window.NOVEN_TRUST_SIGNATURE?.signature || null, signatureType: window.NOVEN_TRUST_SIGNATURE?.type || null, attestation: window.NOVEN_TRUST_ATTESTATION || null, generatedAt: new Date().toISOString() };
       const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
@@ -177,10 +176,10 @@
       link.click();
       link.remove();
       URL.revokeObjectURL(url);
-      status('Verification receipt created locally', 'success');
-    }).catch((error) => {
-      status(error?.message || 'Create a query before exporting a receipt', 'warning');
-    });
+      status('Verification receipt exported locally', 'success');
+    } catch (error) {
+      status(error?.message || 'Run a query before exporting a receipt', 'warning');
+    }
   }
 
   async function loadEthers() {
@@ -190,33 +189,42 @@
     return module;
   }
 
+  async function getSchemaUid() {
+    const ethers = await loadEthers();
+    const computed = ethers.solidityPackedKeccak256(['string', 'address', 'bool'], [NOVEN_SCHEMA, ethers.ZeroAddress, true]);
+    try {
+      const stored = localStorage.getItem(SCHEMA_STORAGE) || '';
+      if (/^0x[0-9a-fA-F]{64}$/.test(stored)) return stored;
+    } catch { /* storage is optional */ }
+    const provider = new ethers.BrowserProvider(window.ethereum);
+    const registry = new ethers.Contract(SCHEMA_REGISTRY, ['function getSchema(bytes32 uid) view returns (tuple(bytes32 uid,string schema,address resolver,bool revocable))'], provider);
+    const record = await registry.getSchema(computed);
+    if (record?.uid && record.uid !== ethers.ZeroHash) {
+      try { localStorage.setItem(SCHEMA_STORAGE, computed); } catch { /* storage is optional */ }
+      return computed;
+    }
+    return '';
+  }
+
   async function registerSchema() {
     const ethers = await loadEthers();
     const provider = new ethers.BrowserProvider(window.ethereum);
     const signer = await provider.getSigner();
-    const abi = ['function register(string schema,address resolver,bool revocable) returns (bytes32)'];
-    const registry = new ethers.Contract(SCHEMA_REGISTRY, abi, signer);
     const schemaUid = ethers.solidityPackedKeccak256(['string', 'address', 'bool'], [NOVEN_SCHEMA, ethers.ZeroAddress, true]);
-    try {
-      const existing = await provider.call({ to: SCHEMA_REGISTRY, data: registry.interface.encodeFunctionData('register', [NOVEN_SCHEMA, ethers.ZeroAddress, true]) });
-      void existing;
-    } catch (error) {
-      void error;
-    }
+    const registry = new ethers.Contract(SCHEMA_REGISTRY, ['function register(string schema,address resolver,bool revocable) returns (bytes32)'], signer);
     const tx = await registry.register(NOVEN_SCHEMA, ethers.ZeroAddress, true);
-    status('Registering NOVEN attestation schema…', 'neutral');
+    status('Registering the NOVEN EAS schema…', 'neutral');
     await tx.wait();
-    try { localStorage.setItem(SCHEMA_STORAGE, schemaUid); } catch { /* storage optional */ }
+    try { localStorage.setItem(SCHEMA_STORAGE, schemaUid); } catch { /* storage is optional */ }
     status(`NOVEN schema registered · ${shortValue(schemaUid)}`, 'success');
     return schemaUid;
   }
 
-  async function getSchemaUid() {
-    let stored = '';
-    try { stored = localStorage.getItem(SCHEMA_STORAGE) || ''; } catch { /* storage optional */ }
-    if (stored && /^0x[0-9a-fA-F]{64}$/.test(stored)) return stored;
-    const ethers = await loadEthers();
-    return ethers.solidityPackedKeccak256(['string', 'address', 'bool'], [NOVEN_SCHEMA, ethers.ZeroAddress, true]);
+  async function ensureSchema() {
+    const existing = await getSchemaUid();
+    if (existing) return existing;
+    status('First use: register the NOVEN EAS schema in your wallet…', 'neutral');
+    return registerSchema();
   }
 
   async function attestOnEas() {
@@ -228,24 +236,33 @@
     try {
       const ethers = await loadEthers();
       const receipt = await buildReceipt();
-      const schema = await getSchemaUid();
-      const coder = ethers.AbiCoder.defaultAbiCoder();
-      const encoded = coder.encode(
+      const schema = await ensureSchema();
+      if (!schema) throw new Error('NOVEN schema is not registered');
+      const encoded = ethers.AbiCoder.defaultAbiCoder().encode(
         ['bytes32', 'bytes32', 'bytes32', 'bytes32', 'string', 'uint64'],
         [receipt.questionHash, receipt.answerHash, receipt.evidenceHash, receipt.modelHash, receipt.runId, BigInt(Math.floor(new Date(receipt.createdAt).getTime() / 1000))]
       );
       const provider = new ethers.BrowserProvider(window.ethereum);
       const signer = await provider.getSigner();
-      const abi = ['function attest(tuple(bytes32 schema,tuple(address recipient,uint64 expirationTime,bool revocable,bytes32 refUID,bytes data,uint256 value) data)) payable returns (bytes32)'];
+      const abi = [
+        'function attest(tuple(bytes32 schema,tuple(address recipient,uint64 expirationTime,bool revocable,bytes32 refUID,bytes data,uint256 value) data)) payable returns (bytes32)',
+        'event Attested(address indexed recipient,address indexed attester,bytes32 uid,bytes32 indexed schemaUID)'
+      ];
       const eas = new ethers.Contract(EAS_ADDRESS, abi, signer);
       status('Waiting for wallet approval for EAS…', 'neutral');
       const tx = await eas.attest({ schema, data: { recipient: ethers.ZeroAddress, expirationTime: 0, revocable: true, refUID: ethers.ZeroHash, data: encoded, value: 0 } });
       const mined = await tx.wait();
+      let uid = '';
+      for (const log of mined?.logs || []) {
+        try {
+          const parsed = eas.interface.parseLog(log);
+          if (parsed?.name === 'Attested') { uid = parsed.args.uid; break; }
+        } catch { /* ignore unrelated logs */ }
+      }
       const txHash = mined?.hash || tx.hash;
-      const url = `https://sepolia.easscan.org/attestation/view/${txHash}`;
-      setSignature(txHash, 'EAS transaction hash');
-      status('EAS attestation submitted on Sepolia', 'success');
-      window.NOVEN_TRUST_ATTESTATION = { schema, txHash, explorer: `https://sepolia.etherscan.io/tx/${txHash}`, easscan: url, receipt };
+      setSignature(uid || txHash, uid ? 'EAS attestation UID' : 'EAS transaction hash');
+      window.NOVEN_TRUST_ATTESTATION = { schema, uid, txHash, explorer: `https://sepolia.etherscan.io/tx/${txHash}`, easscan: uid ? `https://sepolia.easscan.org/attestation/view/${uid}` : 'https://sepolia.easscan.org/', receipt };
+      status(uid ? 'EAS attestation recorded on Sepolia' : 'EAS transaction confirmed on Sepolia', 'success');
     } catch (error) {
       status(error?.message || 'EAS attestation failed', 'warning');
       console.error(error);
@@ -265,12 +282,15 @@
         if (web3State.chainId?.toLowerCase() !== SEPOLIA_CHAIN_ID) {
           if (!(await switchToSepolia())) return;
         }
+        const existing = await getSchemaUid();
+        if (existing) { status(`NOVEN schema already active · ${shortValue(existing)}`, 'success'); return; }
         await registerSchema();
       } catch (error) {
         status(error?.message || 'Schema registration failed', 'warning');
         console.error(error);
       }
     });
+    $('downloadReceiptButton2')?.addEventListener('click', downloadReceipt);
 
     if (window.ethereum) {
       window.ethereum.on?.('accountsChanged', (accounts) => {
@@ -286,7 +306,9 @@
 
     window.addEventListener('noven:run', () => {
       setSignature('—');
-      status('Run ready · choose a trust action', 'neutral');
+      window.NOVEN_TRUST_SIGNATURE = null;
+      window.NOVEN_TRUST_ATTESTATION = null;
+      status('Run ready · sign, export, or attest the receipt', 'neutral');
     });
   }
 
