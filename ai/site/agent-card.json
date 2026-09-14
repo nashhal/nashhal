@@ -1,0 +1,12 @@
+{
+  "name": "NOVEN",
+  "description": "Verifiable intelligence agent for research, evidence retrieval and trust receipts.",
+  "version": "0.7",
+  "protocols": {"erc8004": "draft", "a2a": "0.1", "mcp": "compatible-design", "x402": false},
+  "url": "https://nashhal.github.io/nashhal/ai/site/",
+  "skills": ["research", "retrieval", "evidence", "summarization", "verification"],
+  "capabilities": {"streaming": true, "evidence": true, "trustReceipt": true, "multilingual": true},
+  "languages": ["auto", "en", "ar", "es", "fr", "de", "pt", "zh", "ja", "ko", "hi", "tr", "ru", "it", "nl", "id", "vi", "th", "pl", "uk", "fa", "ur", "bn", "he"],
+  "trust": {"identity": "ERC-8004", "signing": "EIP-712", "attestation": "EAS", "network": "Ethereum Sepolia"},
+  "payments": {"x402Support": false, "status": "integration-ready; payment endpoint not deployed"}
+}
