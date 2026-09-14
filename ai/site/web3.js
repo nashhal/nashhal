@@ -3,211 +3,44 @@
   const SEPOLIA_DECIMAL = 11155111;
   const EAS_ADDRESS = '0xC2679fBD37d54388Ce493F1DB75320D236e1815e';
   const SCHEMA_REGISTRY = '0x0a7E2Ff54e76B8E6659aedc9103FB21c038050D0';
+  const ERC8004 = {
+    identity: '0x8004A818BFB912233c491871b3d84c89A494BD9e',
+    reputation: '0x8004B663056A597Dffe9eCcC1965A193B7388713',
+    validation: '0x8004Cb1BF31DAf7788923b405b754f57acEB4272'
+  };
   const NOVEN_SCHEMA = 'bytes32 queryHash,bytes32 answerHash,bytes32 evidenceHash,bytes32 modelHash,string runId,uint64 createdAt';
   const SCHEMA_STORAGE = 'noven_eas_schema_uid_v1';
-  const web3State = { provider: null, address: '', chainId: '' };
-
+  const AGENT_STORAGE = 'noven_erc8004_agent_id_v1';
+  const web3State = { provider: null, address: '', chainId: '', agentId: '' };
   const $ = (id) => document.getElementById(id);
   const shortAddress = (value) => value ? `${value.slice(0, 6)}…${value.slice(-4)}` : '';
-  const shortValue = (value) => value && value.length > 34 ? `${value.slice(0, 26)}…${value.slice(-6)}` : (value || '—');
-
-  function status(message, tone = 'neutral') {
-    const node = $('web3Status');
-    if (!node) return;
-    node.textContent = message;
-    node.dataset.tone = tone;
+  const shortValue = (value) => value && String(value).length > 34 ? `${String(value).slice(0, 26)}…${String(value).slice(-6)}` : (value || '—');
+  function status(message, tone='neutral'){const node=$('web3Status');if(node){node.textContent=message;node.dataset.tone=tone;}}
+  function setWalletButton(){const button=$('walletButton');if(button)button.textContent=web3State.address?shortAddress(web3State.address):'Connect wallet';}
+  function setSignature(value,title=''){const node=$('verificationSignature');if(!node)return;node.textContent=shortValue(value);if(title)node.title=title;}
+  function setAgentUI(){const value=$('agentIdValue');const identity=$('agentIdentityStatus');if(value)value.textContent=web3State.agentId?`agentId ${web3State.agentId}`:'Not registered yet';if(identity)identity.textContent=web3State.agentId?'ERC-8004 identity registered':'ERC-8004 ready';}
+  async function connectWallet(){if(!window.ethereum){status('No browser wallet detected · Web3 is optional','warning');return false;}try{web3State.provider=window.ethereum;const accounts=await window.ethereum.request({method:'eth_requestAccounts'});web3State.address=accounts?.[0]||'';web3State.chainId=await window.ethereum.request({method:'eth_chainId'});try{web3State.agentId=localStorage.getItem(AGENT_STORAGE)||'';}catch{}setWalletButton();setAgentUI();const chain=web3State.chainId?.toLowerCase()===SEPOLIA_CHAIN_ID?'Sepolia testnet':`Chain ${parseInt(web3State.chainId,16)}`;status(`${shortAddress(web3State.address)} · ${chain}`,'success');return Boolean(web3State.address);}catch(error){status('Wallet connection cancelled','warning');console.error(error);return false;}}
+  async function switchToSepolia(){if(!window.ethereum)return connectWallet();try{await window.ethereum.request({method:'wallet_switchEthereumChain',params:[{chainId:SEPOLIA_CHAIN_ID}]});}catch(error){status('Switch to Sepolia was not completed','warning');return false;}return connectWallet();}
+  async function loadEthers(){if(window.ethers)return window.ethers;const module=await import('https://cdn.jsdelivr.net/npm/ethers@6.15.0/+esm');window.ethers=module;return module;}
+  async function sha256Hex(text){if(!window.crypto?.subtle)throw new Error('Secure hashing unavailable');const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(String(text)));return `0x${Array.from(new Uint8Array(digest),(b)=>b.toString(16).padStart(2,'0')).join('')}`;}
+  function currentRun(){if(window.NOVEN_TRUST_RUN)return window.NOVEN_TRUST_RUN;const q=$('question')?.value?.trim()||'',a=$('answer')?.textContent?.trim()||'';if(!q||!a)return null;return{runId:`NVR-${Date.now().toString(36).toUpperCase()}`,question:q,answer:a,sources:[],outputHash:'',createdAt:new Date().toISOString(),runtime:'browser-runtime',model:'NOVEN browser runtime',dataset:'NOVEN knowledge layer',language:window.NOVEN_I18N?.language||'en'};}
+  async function buildReceipt(){const run=currentRun();if(!run)throw new Error('Run a query first');const sources=Array.isArray(run.sources)?run.sources:[];const [queryHash,answerHash,evidenceHash,modelHash]=await Promise.all([sha256Hex(run.question),sha256Hex(run.answer),sha256Hex(JSON.stringify(sources)),sha256Hex(`${run.model}|${run.runtime}|${run.dataset}`)]);return{protocol:'NOVEN Trust Receipt v1',version:2,runId:run.runId,createdAt:run.createdAt,language:run.language||'en',runtime:run.runtime,model:run.model,dataset:run.dataset,questionHash:queryHash,answerHash,evidenceHash,modelHash,outputHash:run.outputHash||'',agentId:web3State.agentId||null,erc8004:{identityRegistry:ERC8004.identity,reputationRegistry:ERC8004.reputation,validationRegistry:ERC8004.validation,network:'Ethereum Sepolia'},sources:sources.map((s)=>({title:s.title||'',source:s.source||'',url:s.url||'',score:Number(s.score||0)}))};}
+  async function signEip712(){if(!window.ethereum){status('Connect a browser wallet to sign the receipt','warning');return;}if(!web3State.address&&!(await connectWallet()))return;if(web3State.chainId?.toLowerCase()!==SEPOLIA_CHAIN_ID&&!(await switchToSepolia()))return;try{const receipt=await buildReceipt();const typed={types:{EIP712Domain:[{name:'name',type:'string'},{name:'version',type:'string'},{name:'chainId',type:'uint256'},{name:'verifyingContract',type:'address'}],NovenRun:[{name:'runId',type:'string'},{name:'queryHash',type:'bytes32'},{name:'answerHash',type:'bytes32'},{name:'evidenceHash',type:'bytes32'},{name:'modelHash',type:'bytes32'},{name:'createdAt',type:'uint256'}]},primaryType:'NovenRun',domain:{name:'NOVEN Trust',version:'1',chainId:SEPOLIA_DECIMAL,verifyingContract:EAS_ADDRESS},message:{runId:receipt.runId,queryHash:receipt.questionHash,answerHash:receipt.answerHash,evidenceHash:receipt.evidenceHash,modelHash:receipt.modelHash,createdAt:Math.floor(new Date(receipt.createdAt).getTime()/1000)}};status('Preparing EIP-712 receipt…');const signature=await window.ethereum.request({method:'eth_signTypedData_v4',params:[web3State.address,JSON.stringify(typed)]});setSignature(signature,'EIP-712 structured signature');status('EIP-712 receipt signed · no transaction sent','success');window.NOVEN_TRUST_SIGNATURE={type:'EIP-712',signature,typed,receipt};return signature;}catch(error){status(error?.message||'Signature cancelled','warning');console.error(error);return null;}}
+  async function downloadReceipt(){try{const receipt=await buildReceipt();const payload={...receipt,typedData:window.NOVEN_TRUST_SIGNATURE?.typed||null,signature:window.NOVEN_TRUST_SIGNATURE?.signature||null,signatureType:window.NOVEN_TRUST_SIGNATURE?.type||null,attestation:window.NOVEN_TRUST_ATTESTATION||null,generatedAt:new Date().toISOString()};const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const link=document.createElement('a');link.href=url;link.download=`${receipt.runId}-noventrust.json`;document.body.appendChild(link);link.click();link.remove();URL.revokeObjectURL(url);status('Verification receipt exported','success');}catch(error){status(error?.message||'Run a query before exporting a receipt','warning');}}
+  async function getSchemaUid(){const ethers=await loadEthers();try{const stored=localStorage.getItem(SCHEMA_STORAGE)||'';if(/^0x[0-9a-fA-F]{64}$/.test(stored))return stored;}catch{}return ethers.solidityPackedKeccak256(['string','address','bool'],[NOVEN_SCHEMA,ethers.ZeroAddress,true]);}
+  async function registerSchema(){const ethers=await loadEthers(),provider=new ethers.BrowserProvider(window.ethereum),signer=await provider.getSigner(),registry=new ethers.Contract(SCHEMA_REGISTRY,['function register(string schema,address resolver,bool revocable) returns (bytes32)'],signer),schemaUid=ethers.solidityPackedKeccak256(['string','address','bool'],[NOVEN_SCHEMA,ethers.ZeroAddress,true]);status('Registering NOVEN EAS schema…');const tx=await registry.register(NOVEN_SCHEMA,ethers.ZeroAddress,true);await tx.wait();try{localStorage.setItem(SCHEMA_STORAGE,schemaUid);}catch{}status(`NOVEN schema registered · ${shortValue(schemaUid)}`,'success');return schemaUid;}
+  async function ensureSchema(){const current=await getSchemaUid();if(current)return current;return registerSchema();}
+  async function attestOnEas(){if(!window.ethereum){status('Connect a browser wallet to create an EAS attestation','warning');return;}if(!web3State.address&&!(await connectWallet()))return;if(web3State.chainId?.toLowerCase()!==SEPOLIA_CHAIN_ID&&!(await switchToSepolia()))return;try{const ethers=await loadEthers(),receipt=await buildReceipt(),schema=await ensureSchema(),encoded=ethers.AbiCoder.defaultAbiCoder().encode(['bytes32','bytes32','bytes32','bytes32','string','uint64'],[receipt.questionHash,receipt.answerHash,receipt.evidenceHash,receipt.modelHash,receipt.runId,BigInt(Math.floor(new Date(receipt.createdAt).getTime()/1000))]),provider=new ethers.BrowserProvider(window.ethereum),signer=await provider.getSigner(),eas=new ethers.Contract(EAS_ADDRESS,['function attest(tuple(bytes32 schema,tuple(address recipient,uint64 expirationTime,bool revocable,bytes32 refUID,bytes data,uint256 value) data)) payable returns (bytes32)','event Attested(address indexed recipient,address indexed attester,bytes32 uid,bytes32 indexed schemaUID)'],signer);status('Waiting for wallet approval for EAS…');const tx=await eas.attest({schema,data:{recipient:ethers.ZeroAddress,expirationTime:0,revocable:true,refUID:ethers.ZeroHash,data:encoded,value:0}}),mined=await tx.wait();let uid='';for(const log of mined?.logs||[]){try{const parsed=eas.interface.parseLog(log);if(parsed?.name==='Attested'){uid=parsed.args.uid;break;}}catch{}}const txHash=mined?.hash||tx.hash;setSignature(uid||txHash,uid?'EAS attestation UID':'EAS transaction hash');window.NOVEN_TRUST_ATTESTATION={schema,uid,txHash,explorer:`https://sepolia.etherscan.io/tx/${txHash}`,easscan:uid?`https://sepolia.easscan.org/attestation/view/${uid}`:'https://sepolia.easscan.org/',receipt};status(uid?'EAS attestation recorded on Sepolia':'EAS transaction confirmed on Sepolia','success');}catch(error){status(error?.message||'EAS attestation failed','warning');console.error(error);}}
+  function agentManifest(){return{type:'https://eips.ethereum.org/EIPS/eip-8004',name:'NOVEN',description:'Verifiable multilingual intelligence agent for research, evidence retrieval and trust receipts.',image:'https://nashhal.github.io/nashhal/ai/site/',services:[{name:'Web',endpoint:'https://nashhal.github.io/nashhal/ai/site/'},{name:'A2A',endpoint:'https://nashhal.github.io/nashhal/ai/site/agent-card.json',version:'0.1'}],x402Support:false,active:true,supportedTrust:['reputation','validation','eip712','eas'],languages:window.NOVEN_I18N?.languages?.map((x)=>x[0])||['en','ar'],agentWallet:web3State.address||''};}
+  function dataUri(json){return `data:application/json;base64,${btoa(unescape(encodeURIComponent(JSON.stringify(json))))}`;}
+  async function registerAgent(){if(!window.ethereum){status('Connect a browser wallet to register NOVEN','warning');return;}if(!web3State.address&&!(await connectWallet()))return;if(web3State.chainId?.toLowerCase()!==SEPOLIA_CHAIN_ID&&!(await switchToSepolia()))return;try{const ethers=await loadEthers(),provider=new ethers.BrowserProvider(window.ethereum),signer=await provider.getSigner(),registry=new ethers.Contract(ERC8004.identity,['function register(string agentURI) returns (uint256)','event Transfer(address indexed from,address indexed to,uint256 indexed tokenId)'],signer);status('Registering NOVEN in the ERC-8004 Identity Registry…');const tx=await registry.register(dataUri(agentManifest()));const receipt=await tx.wait();let agentId='';for(const log of receipt?.logs||[]){try{const parsed=registry.interface.parseLog(log);if(parsed?.name==='Transfer'&&String(parsed.args.from).toLowerCase()===ethers.ZeroAddress){agentId=String(parsed.args.tokenId);break;}}catch{}}if(!agentId)agentId='registered';web3State.agentId=agentId;try{localStorage.setItem(AGENT_STORAGE,agentId);}catch{}setAgentUI();status(`NOVEN agent registered · agentId ${agentId}`,'success');}catch(error){status(error?.message||'ERC-8004 registration failed','warning');console.error(error);}}
+  async function refreshReputation(){const id=web3State.agentId||$('agentIdValue')?.textContent?.match(/\d+/)?.[0];if(!id){status('Register NOVEN or enter an agent ID first','warning');return;}try{const ethers=await loadEthers(),provider=new ethers.BrowserProvider(window.ethereum),registry=new ethers.Contract(ERC8004.reputation,['function getClients(uint256 agentId) view returns (address[])','function readAllFeedback(uint256 agentId,address[] clientAddresses,string tag1,string tag2,bool includeRevoked) view returns (address[],uint64[],int128[],uint8[],string[],string[],bool[])'],provider),clients=await registry.getClients(id);if(!clients.length){$('agentReputationStatus').textContent='No on-chain feedback yet';status(`No reputation feedback found for agent ${id}`,'neutral');return;}const data=await registry.readAllFeedback(id,clients,'','',false);let total=0,count=0;for(const value of data[2]){total+=Number(value);count+=1;}const score=count?Math.round(total/count):0;$('agentReputationStatus').textContent=`${score}/100 average · ${count} feedback`;status('Reputation refreshed from the ERC-8004 registry','success');}catch(error){$('agentReputationStatus').textContent='Unable to read reputation';status(error?.message||'Reputation lookup failed','warning');console.error(error);}}
+  async function requestValidation(){const id=web3State.agentId;if(!id){status('Register NOVEN before requesting validation','warning');return;}const validator=$('validatorAddress')?.value?.trim();if(!validator||!/^0x[0-9a-fA-F]{40}$/.test(validator)){status('Enter a validator contract address','warning');return;}if(!window.ethereum){status('Connect a browser wallet first','warning');return;}if(!web3State.address&&!(await connectWallet()))return;if(web3State.chainId?.toLowerCase()!==SEPOLIA_CHAIN_ID&&!(await switchToSepolia()))return;try{const ethers=await loadEthers(),provider=new ethers.BrowserProvider(window.ethereum),signer=await provider.getSigner(),registry=new ethers.Contract(ERC8004.validation,['function validationRequest(address validatorAddress,uint256 agentId,string requestURI,bytes32 requestHash) external'],signer),run=window.NOVEN_TRUST_RUN;if(!run){status('Run a query before requesting validation','warning');return;}const request={protocol:'NOVEN Validation Request v1',agentId:id,runId:run.runId,questionHash:await sha256Hex(run.question),answerHash:await sha256Hex(run.answer),evidenceHash:await sha256Hex(JSON.stringify(run.sources||[])),createdAt:run.createdAt};const requestHash=ethers.keccak256(ethers.toUtf8Bytes(JSON.stringify(request)));const uri=`data:application/json;base64,${btoa(unescape(encodeURIComponent(JSON.stringify(request))))}`;status('Submitting ERC-8004 validation request…');const tx=await registry.validationRequest(validator,id,uri,requestHash);await tx.wait();$('agentValidationStatus').textContent='Validation request submitted';status(`Validation request submitted · ${shortValue(requestHash)}`,'success');}catch(error){status(error?.message||'Validation request failed','warning');console.error(error);}}
+  function bind(){
+    $('walletButton')?.addEventListener('click',connectWallet);$('verifyWalletButton')?.addEventListener('click',signEip712);$('anchorButton')?.addEventListener('click',attestOnEas);$('sepoliaButton')?.addEventListener('click',switchToSepolia);$('downloadReceiptButton')?.addEventListener('click',downloadReceipt);$('downloadReceiptButton2')?.addEventListener('click',downloadReceipt);$('registerAgentButton')?.addEventListener('click',registerAgent);$('refreshReputationButton')?.addEventListener('click',refreshReputation);$('requestValidationButton')?.addEventListener('click',requestValidation);
+    $('registerSchemaButton')?.addEventListener('click',async()=>{try{if(!window.ethereum){status('Connect a browser wallet first','warning');return;}if(!web3State.address&&!(await connectWallet()))return;if(web3State.chainId?.toLowerCase()!==SEPOLIA_CHAIN_ID&&!(await switchToSepolia()))return;const current=await getSchemaUid();if(current){status(`NOVEN schema ready · ${shortValue(current)}`,'success');return;}await registerSchema();}catch(error){status(error?.message||'Schema registration failed','warning');console.error(error);}});
+    if(window.ethereum){window.ethereum.on?.('accountsChanged',(accounts)=>{web3State.address=accounts?.[0]||'';setWalletButton();setAgentUI();status(web3State.address?`${shortAddress(web3State.address)} · wallet connected`:'Wallet not connected',web3State.address?'success':'neutral');});window.ethereum.on?.('chainChanged',(chainId)=>{web3State.chainId=chainId;if(web3State.address)status(`${shortAddress(web3State.address)} · ${chainId.toLowerCase()===SEPOLIA_CHAIN_ID?'Sepolia testnet':`Chain ${parseInt(chainId,16)}`}`,'success');});}
+    window.addEventListener('noven:run',()=>{setSignature('—');window.NOVEN_TRUST_SIGNATURE=null;window.NOVEN_TRUST_ATTESTATION=null;status('Run ready · sign, export, attest, or request validation','neutral');});window.addEventListener('load',()=>{try{web3State.agentId=localStorage.getItem(AGENT_STORAGE)||'';}catch{}setAgentUI();});
   }
-
-  function setWalletButton() {
-    const button = $('walletButton');
-    if (button) button.textContent = web3State.address ? shortAddress(web3State.address) : 'Connect wallet';
-  }
-
-  function setSignature(value, title = '') {
-    const node = $('verificationSignature');
-    if (!node) return;
-    node.textContent = shortValue(value);
-    if (title) node.title = title;
-  }
-
-  async function connectWallet() {
-    if (!window.ethereum) { status('No browser wallet detected · Web3 is optional', 'warning'); return false; }
-    try {
-      web3State.provider = window.ethereum;
-      const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
-      web3State.address = accounts?.[0] || '';
-      web3State.chainId = await window.ethereum.request({ method: 'eth_chainId' });
-      setWalletButton();
-      const chain = web3State.chainId?.toLowerCase() === SEPOLIA_CHAIN_ID ? 'Sepolia testnet' : `Chain ${parseInt(web3State.chainId, 16)}`;
-      status(`${shortAddress(web3State.address)} · ${chain}`, 'success');
-      return Boolean(web3State.address);
-    } catch (error) { status('Wallet connection cancelled', 'warning'); console.error(error); return false; }
-  }
-
-  async function switchToSepolia() {
-    if (!window.ethereum) return connectWallet();
-    try { await window.ethereum.request({ method: 'wallet_switchEthereumChain', params: [{ chainId: SEPOLIA_CHAIN_ID }] }); return connectWallet(); }
-    catch (error) { status('Switch to Sepolia was not completed', 'warning'); console.error(error); return false; }
-  }
-
-  async function sha256Hex(text) {
-    if (!window.crypto?.subtle) throw new Error('Secure hashing unavailable');
-    const digest = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(String(text)));
-    return `0x${Array.from(new Uint8Array(digest), (b) => b.toString(16).padStart(2, '0')).join('')}`;
-  }
-
-  function currentRun() {
-    if (window.NOVEN_TRUST_RUN) return window.NOVEN_TRUST_RUN;
-    const q = $('question')?.value?.trim() || '';
-    const a = $('answer')?.textContent?.trim() || '';
-    if (!q || !a) return null;
-    return { runId: `NVR-${Date.now().toString(36).toUpperCase()}`, question: q, answer: a, sources: [], outputHash: '', createdAt: new Date().toISOString(), runtime: 'browser-runtime', model: 'NOVEN browser runtime', dataset: 'NOVEN knowledge layer' };
-  }
-
-  async function buildReceipt() {
-    const run = currentRun();
-    if (!run) throw new Error('Run a query first');
-    const sources = Array.isArray(run.sources) ? run.sources : [];
-    const [queryHash, answerHash, evidenceHash, modelHash] = await Promise.all([
-      sha256Hex(run.question), sha256Hex(run.answer), sha256Hex(JSON.stringify(sources)), sha256Hex(`${run.model}|${run.runtime}|${run.dataset}`)
-    ]);
-    return {
-      protocol: 'NOVEN Trust Receipt v1', runId: run.runId, createdAt: run.createdAt, runtime: run.runtime, model: run.model, dataset: run.dataset,
-      questionHash: queryHash, answerHash, evidenceHash, modelHash, outputHash: run.outputHash ? `0x${run.outputHash.replace(/^0x/, '')}` : '',
-      sources: sources.map((source) => ({ title: source.title || '', source: source.source || '', url: source.url || '', score: Number(source.score || 0) }))
-    };
-  }
-
-  async function signEip712() {
-    if (!window.ethereum) { status('Connect a browser wallet to sign the receipt', 'warning'); return; }
-    if (!web3State.address && !(await connectWallet())) return;
-    if (web3State.chainId?.toLowerCase() !== SEPOLIA_CHAIN_ID && !(await switchToSepolia())) return;
-    try {
-      const receipt = await buildReceipt();
-      status('Prepare the structured verification signature…', 'neutral');
-      const domain = { name: 'NOVEN Trust', version: '1', chainId: SEPOLIA_DECIMAL, verifyingContract: EAS_ADDRESS };
-      const typed = {
-        types: {
-          EIP712Domain: [{ name: 'name', type: 'string' }, { name: 'version', type: 'string' }, { name: 'chainId', type: 'uint256' }, { name: 'verifyingContract', type: 'address' }],
-          NovenRun: [{ name: 'runId', type: 'string' }, { name: 'queryHash', type: 'bytes32' }, { name: 'answerHash', type: 'bytes32' }, { name: 'evidenceHash', type: 'bytes32' }, { name: 'modelHash', type: 'bytes32' }, { name: 'createdAt', type: 'uint256' }]
-        },
-        primaryType: 'NovenRun', domain,
-        message: { runId: receipt.runId, queryHash: receipt.questionHash, answerHash: receipt.answerHash, evidenceHash: receipt.evidenceHash, modelHash: receipt.modelHash, createdAt: Math.floor(new Date(receipt.createdAt).getTime() / 1000) }
-      };
-      const signature = await window.ethereum.request({ method: 'eth_signTypedData_v4', params: [web3State.address, JSON.stringify(typed)] });
-      setSignature(signature, 'EIP-712 structured signature');
-      status('EIP-712 receipt signed · no transaction sent', 'success');
-      window.NOVEN_TRUST_SIGNATURE = { type: 'EIP-712', signature, typed, receipt };
-      return signature;
-    } catch (error) { status(error?.message || 'EIP-712 signature cancelled', 'warning'); console.error(error); return null; }
-  }
-
-  async function downloadReceipt() {
-    try {
-      const receipt = await buildReceipt();
-      const payload = { ...receipt, typedData: window.NOVEN_TRUST_SIGNATURE?.typed || null, signature: window.NOVEN_TRUST_SIGNATURE?.signature || null, signatureType: window.NOVEN_TRUST_SIGNATURE?.type || null, attestation: window.NOVEN_TRUST_ATTESTATION || null, generatedAt: new Date().toISOString() };
-      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url; link.download = `${receipt.runId}-noventrust.json`; document.body.appendChild(link); link.click(); link.remove(); URL.revokeObjectURL(url);
-      status('Verification receipt exported · open Trust Verify to inspect it', 'success');
-    } catch (error) { status(error?.message || 'Run a query before exporting a receipt', 'warning'); }
-  }
-
-  async function loadEthers() {
-    if (window.ethers) return window.ethers;
-    const module = await import('https://cdn.jsdelivr.net/npm/ethers@6.15.0/+esm');
-    window.ethers = module;
-    return module;
-  }
-
-  async function getSchemaUid() {
-    const ethers = await loadEthers();
-    const computed = ethers.solidityPackedKeccak256(['string', 'address', 'bool'], [NOVEN_SCHEMA, ethers.ZeroAddress, true]);
-    try {
-      const stored = localStorage.getItem(SCHEMA_STORAGE) || '';
-      if (/^0x[0-9a-fA-F]{64}$/.test(stored)) return stored;
-    } catch { /* storage optional */ }
-    const provider = new ethers.BrowserProvider(window.ethereum);
-    const registry = new ethers.Contract(SCHEMA_REGISTRY, ['function getSchema(bytes32 uid) view returns (tuple(bytes32 uid,string schema,address resolver,bool revocable))'], provider);
-    const record = await registry.getSchema(computed);
-    if (record?.uid && record.uid !== ethers.ZeroHash) {
-      try { localStorage.setItem(SCHEMA_STORAGE, computed); } catch { /* storage optional */ }
-      return computed;
-    }
-    return '';
-  }
-
-  async function registerSchema() {
-    const ethers = await loadEthers();
-    const provider = new ethers.BrowserProvider(window.ethereum);
-    const signer = await provider.getSigner();
-    const schemaUid = ethers.solidityPackedKeccak256(['string', 'address', 'bool'], [NOVEN_SCHEMA, ethers.ZeroAddress, true]);
-    const registry = new ethers.Contract(SCHEMA_REGISTRY, ['function register(string schema,address resolver,bool revocable) returns (bytes32)'], signer);
-    status('Registering the NOVEN EAS schema…', 'neutral');
-    const tx = await registry.register(NOVEN_SCHEMA, ethers.ZeroAddress, true);
-    await tx.wait();
-    try { localStorage.setItem(SCHEMA_STORAGE, schemaUid); } catch { /* storage optional */ }
-    status(`NOVEN schema registered · ${shortValue(schemaUid)}`, 'success');
-    return schemaUid;
-  }
-
-  async function ensureSchema() {
-    const existing = await getSchemaUid();
-    if (existing) return existing;
-    return registerSchema();
-  }
-
-  async function attestOnEas() {
-    if (!window.ethereum) { status('Connect a browser wallet to create an EAS attestation', 'warning'); return; }
-    if (!web3State.address && !(await connectWallet())) return;
-    if (web3State.chainId?.toLowerCase() !== SEPOLIA_CHAIN_ID && !(await switchToSepolia())) return;
-    try {
-      const ethers = await loadEthers();
-      const receipt = await buildReceipt();
-      const schema = await ensureSchema();
-      const encoded = ethers.AbiCoder.defaultAbiCoder().encode(['bytes32', 'bytes32', 'bytes32', 'bytes32', 'string', 'uint64'], [receipt.questionHash, receipt.answerHash, receipt.evidenceHash, receipt.modelHash, receipt.runId, BigInt(Math.floor(new Date(receipt.createdAt).getTime() / 1000))]);
-      const provider = new ethers.BrowserProvider(window.ethereum);
-      const signer = await provider.getSigner();
-      const abi = ['function attest(tuple(bytes32 schema,tuple(address recipient,uint64 expirationTime,bool revocable,bytes32 refUID,bytes data,uint256 value) data)) payable returns (bytes32)', 'event Attested(address indexed recipient,address indexed attester,bytes32 uid,bytes32 indexed schemaUID)'];
-      const eas = new ethers.Contract(EAS_ADDRESS, abi, signer);
-      status('Waiting for wallet approval for EAS…', 'neutral');
-      const tx = await eas.attest({ schema, data: { recipient: ethers.ZeroAddress, expirationTime: 0, revocable: true, refUID: ethers.ZeroHash, data: encoded, value: 0 } });
-      const mined = await tx.wait();
-      let uid = '';
-      for (const log of mined?.logs || []) { try { const parsed = eas.interface.parseLog(log); if (parsed?.name === 'Attested') { uid = parsed.args.uid; break; } } catch { /* ignore unrelated logs */ } }
-      const txHash = mined?.hash || tx.hash;
-      setSignature(uid || txHash, uid ? 'EAS attestation UID' : 'EAS transaction hash');
-      window.NOVEN_TRUST_ATTESTATION = { schema, uid, txHash, explorer: `https://sepolia.etherscan.io/tx/${txHash}`, easscan: uid ? `https://sepolia.easscan.org/attestation/view/${uid}` : 'https://sepolia.easscan.org/' , receipt };
-      status(uid ? 'EAS attestation recorded on Sepolia' : 'EAS transaction confirmed on Sepolia', 'success');
-    } catch (error) { status(error?.message || 'EAS attestation failed', 'warning'); console.error(error); }
-  }
-
-  function bind() {
-    $('walletButton')?.addEventListener('click', connectWallet);
-    $('verifyWalletButton')?.addEventListener('click', signEip712);
-    $('anchorButton')?.addEventListener('click', attestOnEas);
-    $('sepoliaButton')?.addEventListener('click', switchToSepolia);
-    $('downloadReceiptButton')?.addEventListener('click', downloadReceipt);
-    $('downloadReceiptButton2')?.addEventListener('click', downloadReceipt);
-    $('registerSchemaButton')?.addEventListener('click', async () => {
-      try {
-        if (!window.ethereum) { status('Connect a browser wallet first', 'warning'); return; }
-        if (!web3State.address && !(await connectWallet())) return;
-        if (web3State.chainId?.toLowerCase() !== SEPOLIA_CHAIN_ID && !(await switchToSepolia())) return;
-        const existing = await getSchemaUid();
-        if (existing) { status(`NOVEN schema already active · ${shortValue(existing)}`, 'success'); return; }
-        await registerSchema();
-      } catch (error) { status(error?.message || 'Schema registration failed', 'warning'); console.error(error); }
-    });
-
-    if (window.ethereum) {
-      window.ethereum.on?.('accountsChanged', (accounts) => { web3State.address = accounts?.[0] || ''; setWalletButton(); status(web3State.address ? `${shortAddress(web3State.address)} · wallet connected` : 'Wallet not connected', web3State.address ? 'success' : 'neutral'); });
-      window.ethereum.on?.('chainChanged', (chainId) => { web3State.chainId = chainId; if (web3State.address) status(`${shortAddress(web3State.address)} · ${chainId.toLowerCase() === SEPOLIA_CHAIN_ID ? 'Sepolia testnet' : `Chain ${parseInt(chainId, 16)}`}`, 'success'); });
-    }
-
-    window.addEventListener('noven:run', () => { setSignature('—'); window.NOVEN_TRUST_SIGNATURE = null; window.NOVEN_TRUST_ATTESTATION = null; status('Run ready · sign, export, or attest the receipt', 'neutral'); });
-  }
-
-  window.addEventListener('load', bind);
+  window.addEventListener('load',bind);
 })();
