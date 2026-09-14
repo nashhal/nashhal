@@ -2,6 +2,8 @@
 
 Nashhal AI is the machine-learning layer for the Nashhal news platform.
 
+**Model website:** `https://nashhal.github.io/nashhal/ai/` when GitHub Pages is enabled for this repository.
+
 ## Goal
 
 Build a high-quality Arabic news intelligence system that **discovers, structures, compares and grounds information in evidence**. It is not designed as a single model that memorizes breaking-news facts.
@@ -26,6 +28,20 @@ Benchmark + human review
       ↓
 API / Nashhal website
 ```
+
+## Model website
+
+The `ai/` directory now includes a responsive, Arabic-first research website with:
+
+- clear model identity and research-preview status
+- capability overview
+- trust architecture and provenance principles
+- model/data/RAG/evaluation pipeline
+- interactive playground UI ready for API integration
+- documentation and GitHub research entry point
+- responsive and keyboard-friendly interface
+
+The playground is intentionally a **demo UI** until the real inference API is deployed; it must not imply production model performance.
 
 ## Tasks
 
