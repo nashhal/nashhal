@@ -1,0 +1,42 @@
+[
+  {
+    "id": "demo-001",
+    "title": "كيف يعمل Nashhal AI في النسخة التجريبية",
+    "text": "النسخة التجريبية تبدأ من الاسترجاع من قاعدة معرفة محلية ثم تعرض المصدر الأعلى تطابقًا بدل اختراع إجابة غير موثقة.",
+    "source": "Nashhal AI Demo",
+    "url": "https://github.com/nashhal/nashhal/tree/main/ai",
+    "published_at": "2026-09-14"
+  },
+  {
+    "id": "demo-002",
+    "title": "فكرة الاسترجاع الموثق في نشهل",
+    "text": "تصميم Nashhal AI يعتمد على ربط الإجابة بالأدلة والمصادر، مع إمكانية استبدال المسترجع المحلي لاحقًا بمسترجع دلالي ونموذج لغوي محلي.",
+    "source": "Nashhal AI Demo",
+    "url": "https://github.com/nashhal/nashhal/tree/main/ai",
+    "published_at": "2026-09-14"
+  },
+  {
+    "id": "demo-003",
+    "title": "لماذا لا نضع نموذجًا ضخمًا داخل GitHub Pages",
+    "text": "GitHub Pages مناسب للواجهة والملفات الثابتة، لكنه ليس خادمًا لتشغيل نموذج لغوي كبير؛ لذلك تبدأ النسخة المجانية بالاسترجاع داخل المتصفح ثم تنتقل لاحقًا إلى خادم GPU عند توفر القدرة.",
+    "source": "Nashhal AI Demo",
+    "url": "https://pages.github.com/",
+    "published_at": "2026-09-14"
+  },
+  {
+    "id": "demo-004",
+    "title": "الهدف من النموذج المحلي",
+    "text": "الهدف النهائي هو تشغيل نموذج مفتوح الأوزان مثل Qwen3-8B على بنية ذاتية الاستضافة، مع RAG وقياس جودة واضح، من دون الاعتماد على واجهة API تجارية للنموذج.",
+    "source": "Nashhal AI Architecture",
+    "url": "https://github.com/nashhal/nashhal/tree/main/ai/deploy/self-hosted",
+    "published_at": "2026-09-14"
+  },
+  {
+    "id": "demo-005",
+    "title": "خطوة التطوير التالية",
+    "text": "بعد إثبات تجربة الاسترجاع، يمكن توسيع قاعدة المعرفة من أخبار نشهل الحقيقية، ثم إضافة تقييمات، واسترجاع دلالي، ونموذج محلي عند توفر جهاز أو خادم مناسب.",
+    "source": "Nashhal AI Architecture",
+    "url": "https://github.com/nashhal/nashhal/tree/main/ai",
+    "published_at": "2026-09-14"
+  }
+]
