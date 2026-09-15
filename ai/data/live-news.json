@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-09-15T04:53:53.366253+00:00",
-  "source_count": 59,
-  "story_count": 58,
+  "generated_at": "2026-09-15T10:04:20.953747+00:00",
+  "source_count": 56,
+  "story_count": 56,
   "documents": [
-    {
-      "id": "3768a035820c0e286ee9a506",
-      "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
-      "text": "Gillette Stadium owner cites concerns over Macklemore's rhetoric as reason for barring him from performances.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 20:40:54 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-          "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 21:10:49 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
-          "url": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 20:40:54 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -48,19 +23,532 @@
       "conflict": false
     },
     {
-      "id": "df023e46a6904d8bd1c1999b",
-      "title": "The Papers: Reform donors 'could face enhanced checks' and 'Sydney Sweeney blasted'",
-      "text": "Several papers feature actor Sydney Sweeney, who has been criticised by female athletes for posing nude for a sports betting company advert.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyedp0y35no?at_medium=RSS&at_campaign=rss",
+      "id": "8c057ebc88a5edf8dc4b3605",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "text": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 04:51:54 GMT",
+      "published_at": "Tue, 15 Sep 2026 09:59:14 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The Papers: Reform donors 'could face enhanced checks' and 'Sydney Sweeney blasted'",
-          "url": "https://www.bbc.co.uk/news/articles/c6lyedp0y35no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 04:51:54 GMT"
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:59:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ac870264fdbfa5f21627ea9f",
+      "title": "London misses out to Nairobi in World Athletics bid",
+      "text": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:39:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "London misses out to Nairobi in World Athletics bid",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:39:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "68276ceb78d1bffc2b127035",
+      "title": "Rodon absent as Ashford earns first Wales call-up",
+      "text": "Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford for Wales' Nations League A campaign but is without key defender Joe Rodon.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:30:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Rodon absent as Ashford earns first Wales call-up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c615877d389no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:30:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bbba9d56cf71f1d331703ec5",
+      "title": "Sweeney ad a barrier for girls in sport, sprinter Hunt says",
+      "text": "British sprinter Amy Hunt says she is concerned the controversial advert starring Sydney Sweeney is a part of a \"barrier\" to girls' participation in sport.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:22:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sweeney ad a barrier for girls in sport, sprinter Hunt says",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:22:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eadc6634e428bf24f3475835",
+      "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+      "text": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 09:15:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+          "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 09:15:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5a8947c0a33729ae9ce4df51",
+      "title": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
+      "text": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:12:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:12:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "49cbf8ed0adbcfe47032dbac",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "text": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:07:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Nato jets down drone that entered Lithuanian airspace",
+          "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:07:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "96ef6fec9a1b1c830ff5cb43",
+      "title": "Harry and Meghan change children's school over security concerns",
+      "text": "It is understood that the couple's private security team had cited concerns about difficulties in making the school run route secure.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:02:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Harry and Meghan change children's school over security concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:02:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f8de7e830d930cbd1958e047",
+      "title": "Fall in small boat Channel crossings down to law enforcement, agency says",
+      "text": "But other factors, including developments in the Middle East, may also be playing a role.",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 09:00:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Fall in small boat Channel crossings down to law enforcement, agency says",
+          "url": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 09:00:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8d80ea6ffd691b129f1ed179",
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "text": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 08:51:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+          "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 08:51:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff1b74fe258ff3b3c0ae8468",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "text": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 08:49:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 08:49:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "83755fbb4741bfba8d980a61",
+      "title": "US confirms for first time it has deployed space weapons",
+      "text": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 08:48:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US confirms for first time it has deployed space weapons",
+          "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 08:48:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "92bd3bbf14724c91313b7bc5",
+      "title": "Mitch McConnell returns to US Senate after three-month absence",
+      "text": "Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 08:41:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mitch McConnell returns to US Senate after three-month absence",
+          "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 08:41:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2742f629897d579b18ac44ff",
+      "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+      "text": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 08:11:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+          "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 08:11:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "66d86ae589d7ecb1f5ffb5fa",
+      "title": "What to watch in the US’s Delaware primary elections",
+      "text": "It's the last state primary scheduled before November's midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 07:52:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What to watch in the US’s Delaware primary elections",
+          "url": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 07:52:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fe31d2a968a47a7968107116",
+      "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+      "text": "A new bill will remove references to banning the 'promotion' of homosexuality.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 07:40:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+          "url": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 07:40:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "29543bb64a1f74f868744d25",
+      "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+      "text": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 06:53:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+          "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 06:53:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d53b7da1f825df9b4d773d88",
+      "title": "How did they get the Madring track so wrong? - F1 Q&A",
+      "text": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 06:49:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How did they get the Madring track so wrong? - F1 Q&A",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 06:49:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "015b9cb5801c1e22532dee49",
+      "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
+      "text": "Since Prime Minister Modi's BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.",
+      "url": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 06:15:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
+          "url": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 06:15:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ce1d0dca1bf44bc8538e7c58",
+      "title": "How Maresca is tackling football's impossible job",
+      "text": "Enzo Maresca seemingly took on an impossible job in the summer when replacing the legendary Pep Guardiola at Manchester City, but is making it look an easy task in the early stages of his tenure.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 06:02:27 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How Maresca is tackling football's impossible job",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 06:02:27 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e8d1643f643e158fb19f60a0",
+      "title": "Leeds United defeat Newcastle 4-1 to go third in Premier League",
+      "text": "Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds' standing in the league table.",
+      "url": "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 05:55:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Leeds United defeat Newcastle 4-1 to go third in Premier League",
+          "url": "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 05:55:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "446c731f77474b1c2d8cc336",
+      "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
+      "text": "Mobile data, broadband services suspended in the territory since protests calling for electoral reform in June.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 05:47:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
+          "url": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 05:47:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "994ac94e4fbddfccd6176f9f",
+      "title": "The winners and nominees in full",
+      "text": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 05:31:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The winners and nominees in full",
+          "url": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 05:31:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "175bb3588e2618b27624458a",
+      "title": "Memorable moments and everything you couldn't see on TV",
+      "text": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 05:30:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Memorable moments and everything you couldn't see on TV",
+          "url": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 05:30:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a8645e53ec2f35273ac341ee",
+      "title": "Spectacular turtle nesting event in southern Mexico",
+      "text": "More than 300,000 olive ridley turtles have arrived at a beach in southern Mexico in the latest mass nesting.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 05:20:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Spectacular turtle nesting event in southern Mexico",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 05:20:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8010f1d0ef888b535ed42601",
+      "title": "TV superstars and a Taylor Swift cameo: 2026 Emmy highlights",
+      "text": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 05:14:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "TV superstars and a Taylor Swift cameo: 2026 Emmy highlights",
+          "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 05:14:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "701323b1b9907b4b2bf8ac30",
+      "title": "Pokémon fans prepare for 'biggest day in a decade'",
+      "text": "Collectors are eagerly awaiting the first release of the 30th anniversary Pokémon trading cards.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4z2vwrkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 05:12:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pokémon fans prepare for 'biggest day in a decade'",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4z2vwrkpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 05:12:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1f00a2e5f7d76345cf5dab3d",
+      "title": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
+      "text": "Jean Smart earns fifth Emmy for 'Hacks', becoming the first to win lead comedy actress for every season of the show.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 04:49:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
+          "url": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 04:49:34 +0000"
         }
       ],
       "cross_checked": false,
@@ -105,25 +593,6 @@
       "conflict": false
     },
     {
-      "id": "ff1b74fe258ff3b3c0ae8468",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "text": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 03:47:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 03:47:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "db26847a4dd550071c3c8594",
       "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
       "text": "US President Donald Trump makes a surprise call to Nvidia's CEO, interrupting a live event to discuss fears about AI.",
@@ -162,19 +631,19 @@
       "conflict": false
     },
     {
-      "id": "994ac94e4fbddfccd6176f9f",
-      "title": "Emmys 2026: The winners and nominations list",
-      "text": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
+      "id": "4033f7f1b3df7188a771b2f0",
+      "title": "In pictures: Zendaya, Selena Gomez and other stars light up red carpet",
+      "text": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 02:55:07 GMT",
+      "published_at": "Tue, 15 Sep 2026 02:56:19 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Emmys 2026: The winners and nominations list",
-          "url": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 02:55:07 GMT"
+          "title": "In pictures: Zendaya, Selena Gomez and other stars light up red carpet",
+          "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 02:56:19 GMT"
         }
       ],
       "cross_checked": false,
@@ -238,25 +707,6 @@
       "conflict": false
     },
     {
-      "id": "49cbf8ed0adbcfe47032dbac",
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "text": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 02:22:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Nato jets down drone that entered Lithuanian airspace",
-          "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 02:22:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "91347d255a4d73d2c814e160",
       "title": "Viral hit-and-run raises road rage questions in India",
       "text": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.",
@@ -270,63 +720,6 @@
           "title": "Viral hit-and-run raises road rage questions in India",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
           "published_at": "Tue, 15 Sep 2026 02:07:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9a51286cc6025bd1166431a6",
-      "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
-      "text": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television.",
-      "url": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 02:00:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
-          "url": "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 02:00:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3b7591fb02a39ef0f36460cc",
-      "title": "Lucy Letby public inquiry findings set to be published",
-      "text": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
-      "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 01:54:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Lucy Letby public inquiry findings set to be published",
-          "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 01:54:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "83755fbb4741bfba8d980a61",
-      "title": "US confirms for first time it has deployed space weapons",
-      "text": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 01:52:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US confirms for first time it has deployed space weapons",
-          "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 01:52:02 GMT"
         }
       ],
       "cross_checked": false,
@@ -352,19 +745,19 @@
       "conflict": false
     },
     {
-      "id": "cb277f81af8efdaa79512385",
-      "title": "Mass nesting brings swarms of turtles to Mexican beach",
-      "text": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+      "id": "9006d3d8565f3ba0f7a3b850",
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "text": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 01:08:55 GMT",
+      "published_at": "Tue, 15 Sep 2026 01:15:15 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Mass nesting brings swarms of turtles to Mexican beach",
-          "url": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 01:08:55 GMT"
+          "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+          "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 01:15:15 GMT"
         }
       ],
       "cross_checked": false,
@@ -467,8 +860,8 @@
     },
     {
       "id": "69301507ae79e2394bfdfac6",
-      "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
-      "text": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.",
+      "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
+      "text": "Houthis say attacks by Saudi Arabia ongoing as Yemen PM accuses militia of killing and displacing civilians.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Tue, 15 Sep 2026 00:00:00 +0000",
@@ -476,7 +869,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+          "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
           "published_at": "Tue, 15 Sep 2026 00:00:00 +0000"
         }
@@ -505,7 +898,7 @@
     },
     {
       "id": "263a20fb5594a70e7662abb4",
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "title": "I was paid thousands to start a new life in small town America",
       "text": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
       "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -514,7 +907,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "I got paid $5,000 to move to a place I'd never heard of",
+          "title": "I was paid thousands to start a new life in small town America",
           "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 14 Sep 2026 23:08:28 GMT"
         }
@@ -542,65 +935,8 @@
       "conflict": false
     },
     {
-      "id": "39b3629ddc4babd8c721ab8c",
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "text": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 22:56:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-          "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 22:56:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f366a880d3ee7bc1d80c1a88",
-      "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-      "text": "Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 22:56:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 22:56:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6009de6fa26623bf556ae207",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "text": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 22:18:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Who has made Troy's Premier League team of the week?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 22:18:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "174cad0408761bc96dc91a02",
-      "title": "Watch: Why Harry and Meghan's security in the UK to be reviewed",
+      "title": "Watch: What's behind the decision to review Harry and Meghan's UK security?",
       "text": "The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK.",
       "url": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -609,7 +945,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: Why Harry and Meghan's security in the UK to be reviewed",
+          "title": "Watch: What's behind the decision to review Harry and Meghan's UK security?",
           "url": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 14 Sep 2026 22:15:33 GMT"
         }
@@ -675,304 +1011,19 @@
       "conflict": false
     },
     {
-      "id": "053ab6dda2fd910c45f9a192",
-      "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-      "text": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+      "id": "50e21cd1103cdfcce544e1e7",
+      "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+      "text": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 21:31:59 GMT",
+      "published_at": "Mon, 14 Sep 2026 21:10:49 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 21:31:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c782bf9254a7ab831ae0031c",
-      "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-      "text": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:29:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:29:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42959c194c2578cc7e1c5979",
-      "title": "Legendary costume designer Bob Mackie who designed for Cher and Dolly Parton dies aged 87",
-      "text": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 21:29:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Legendary costume designer Bob Mackie who designed for Cher and Dolly Parton dies aged 87",
-          "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 21:29:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2c5feb85a0f2c92f5a64d4f6",
-      "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-      "text": "Activist and former Columbia University student Mahmoud Khalil is filing a lawsuit against the university and a dean.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:23:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:23:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8db55d644aea4228e85342b5",
-      "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-      "text": "Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:20:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:20:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "091787bb9090be953a150688",
-      "title": "US blocks Iran nuclear chief from attending IAEA conference in Vienna",
-      "text": "Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:19:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US blocks Iran nuclear chief from attending IAEA conference in Vienna",
-          "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:19:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2baa91b6b0abfdbb9211e894",
-      "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-      "text": "Film alleges mass ⁠civilian deaths routinely built into military decisions amid Israel's genocidal war on Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:12:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
-          "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:12:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "211bf5af2b454379cbeec11e",
-      "title": "Graham & Ure make Pocognoli's first Scotland squad",
-      "text": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 21:00:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Graham & Ure make Pocognoli's first Scotland squad",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 21:00:42 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c4ebe9e6a5d996429b10d61d",
-      "title": "Manchester derby VAR officials stood down from weekend Premier League games",
-      "text": "The chief refereeing officer stands down two VAR officials involved in Man City's win at United from upcoming EPL games.",
-      "url": "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 21:00:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester derby VAR officials stood down from weekend Premier League games",
-          "url": "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 21:00:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9f08459fbd8b630a8c6c339",
-      "title": "What could stop the Houthis’ advance across Yemen?",
-      "text": "Iran-backed group seized areas on Red Sea coastline.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 20:55:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What could stop the Houthis’ advance across Yemen?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 20:55:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2590b670b2999bbc3031eddb",
-      "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-      "text": "How Leeds United and Newcastle United's players rated following their Premier League match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 20:54:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 20:54:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "492f2916c3be0faa946fce8d",
-      "title": "Inside the Houthis’ expanding war economy in Yemen",
-      "text": "The Houthis have restructured Yemen's commercial sector, securing billions in revenue amid a humanitarian crisis.",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 20:41:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Inside the Houthis’ expanding war economy in Yemen",
-          "url": "https://www.aljazeera.com/economy/2026/9/14/inside-the-houthis-expanding-war-economy-in-yemen?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 20:41:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "12eebaa4a382477ddbd931cd",
-      "title": "Austria denies entry to Iranian official after UN ruling",
-      "text": "Iran accused Austria of reversing its approval of an Iranian delegation to the IAEA under external pressure.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 20:41:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Austria denies entry to Iranian official after UN ruling",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 20:41:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "96ef6fec9a1b1c830ff5cb43",
-      "title": "Harry and Meghan to have security review and children change school",
-      "text": "The level of police protection they need and potential dangers they face are to be reviewed.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 20:29:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Harry and Meghan to have security review and children change school",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 20:29:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5dc70c2bb05fc19cc0c458c3",
-      "title": "Multiple vehicle road crash in South Africa kills 21",
-      "text": "Fatal traffic accidents are a recurring problem for South Africa.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 14 Sep 2026 20:21:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Multiple vehicle road crash in South Africa kills 21",
-          "url": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss",
-          "published_at": "Mon, 14 Sep 2026 20:21:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ba252d26865a855e1c788847",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "text": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 18:26:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-          "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 18:26:20 GMT"
+          "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+          "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 14 Sep 2026 21:10:49 GMT"
         }
       ],
       "cross_checked": false,
@@ -998,63 +1049,6 @@
       "conflict": false
     },
     {
-      "id": "abf9a8d7f62a28a734d1b311",
-      "title": "No weekend game for Manchester derby VAR officials",
-      "text": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 17:02:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No weekend game for Manchester derby VAR officials",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 17:02:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0c46fab477473d9a57962d9b",
-      "title": "Man admits drugging and raping wife over 20 years",
-      "text": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 16:54:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man admits drugging and raping wife over 20 years",
-          "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 16:54:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a16492e1ce44c6689f162c10",
-      "title": "Former top civil servant received pay-off of nearly £860,000",
-      "text": "Lord Wormald became the shortest-serving cabinet secretary in the history of the post when he left in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7703kjvzlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 16:35:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Former top civil servant received pay-off of nearly £860,000",
-          "url": "https://www.bbc.co.uk/news/articles/cq7703kjvzlpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 16:35:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "19850e37793ad69c4b8c77c6",
       "title": "Newscast",
       "text": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
@@ -1068,44 +1062,6 @@
           "title": "Newscast",
           "url": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 14 Sep 2026 16:01:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6c205fdd00b4c1e3d936993d",
-      "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-      "text": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
-      "url": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 15:04:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-          "url": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 15:04:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5c2d652ec3539c570638ecb9",
-      "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
-      "text": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 14 Sep 2026 13:17:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
-          "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 14 Sep 2026 13:17:47 GMT"
         }
       ],
       "cross_checked": false,
