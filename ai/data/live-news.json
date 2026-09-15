@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T18:59:56.178138+00:00",
-  "source_count": 54,
-  "story_count": 53,
+  "generated_at": "2026-09-15T22:13:17.559982+00:00",
+  "source_count": 60,
+  "story_count": 60,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -17,6 +17,519 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a5e27a227a7cdd9e6d045717",
+      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "text": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+      "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 22:04:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+          "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 22:04:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "be35b80c3a5d651c1a0d92be",
+      "title": "Algeria faces calls to drop death penalty plans after wildfires",
+      "text": "Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 22:01:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Algeria faces calls to drop death penalty plans after wildfires",
+          "url": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 22:01:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "81d0eff8db39269f9b34bf0e",
+      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
+      "text": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:55:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:55:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e30d4ed00232f6868b1466e",
+      "title": "Brook likened to Pietersen in SL win - how do they compare?",
+      "text": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:46:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brook likened to Pietersen in SL win - how do they compare?",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:46:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "17a75c3b8653c3161197cf5d",
+      "title": "'My son was failed' - Noah Donohoe inquest finds tunnel errors possibly contributed to death",
+      "text": "The nine jury members, who had 10 questions to answer, returned their verdict on Tuesday at the end of an inquest which began in January.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:43:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'My son was failed' - Noah Donohoe inquest finds tunnel errors possibly contributed to death",
+          "url": "https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:43:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "557c02f2c4296394df215a11",
+      "title": "US Senate crypto bill collapses in blow to industry",
+      "text": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
+      "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 21:31:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Senate crypto bill collapses in blow to industry",
+          "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 21:31:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "afa57afe28a3b7760564e92b",
+      "title": "Search launched for boy, 3, missing at playground",
+      "text": "Police carry out door-to-door inquiries in Brantham and a helicopter has been seen circling the area.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:25:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Search launched for boy, 3, missing at playground",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:25:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4ca7f3ada46d16049d47bbfc",
+      "title": "Hundreds protest in DR Congo against third presidential term",
+      "text": "Hundreds protest in DR Congo against third presidential term",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 21:20:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hundreds protest in DR Congo against third presidential term",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 21:20:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "df30fb1de6636093ba31a2db",
+      "title": "Brook & Baker shine as England crush Sri Lanka",
+      "text": "Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:15:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brook & Baker shine as England crush Sri Lanka",
+          "url": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:15:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "10372e66d638a67297e50e84",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "text": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 21:07:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 21:07:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42467cb91538e70a8bdbfb4d",
+      "title": "Letby hospital consultant says inquiry makes for grim reading",
+      "text": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 20:43:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Letby hospital consultant says inquiry makes for grim reading",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 20:43:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6b8fab9de943ab917a66ab6a",
+      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+      "text": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 20:41:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+          "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 20:41:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0dc948379d3dac7fc134e301",
+      "title": "Romanian shepards and farmers clash with police",
+      "text": "Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:40:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Romanian shepards and farmers clash with police",
+          "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:40:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a05aac70dcd19dc39c21ce8c",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "text": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 20:34:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 20:34:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "631ed75b022cc89b4b68369f",
+      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+      "text": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 20:23:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+          "url": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 20:23:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "908a4e48c727a7b57cc44cf2",
+      "title": "Southport attack victims, survivors and families hit by data breach",
+      "text": "The Ministry of Justice says sensitive and personal data was accessed in a limited number of cases.",
+      "url": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 20:19:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Southport attack victims, survivors and families hit by data breach",
+          "url": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 20:19:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d7aadd335a02b5ab5ad9762d",
+      "title": "What makes these midterms so pivotal?",
+      "text": "The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:19:26 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What makes these midterms so pivotal?",
+          "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:19:26 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c650149b73433f016e716eea",
+      "title": "Why do some African leaders gamble with term limits?",
+      "text": "Protesters in the DRC denounce law that could extend president's term.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:17:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why do some African leaders gamble with term limits?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:17:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2955703fb4eab2e3763166d2",
+      "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+      "text": "Western intelligence agencies highlight 'CHOSEN BRICK' spyware targeting critics of Iran government abroad.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:16:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+          "url": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:16:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9dfceebcca7cfe1d124392ed",
+      "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+      "text": "The president said renovations would not move forward unless his name was added to the building.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:14:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+          "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:14:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5b47456a3a739baa433b8d38",
+      "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+      "text": "Trump claims Supreme Court decisions set the US 'back 100 years' after controversial ballot rule change blocked.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:13:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+          "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:13:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a915c307d650d98e5b0b8c67",
+      "title": "US speaker rejects AI pause, warns of losing edge to China",
+      "text": "Trump has dismissed AI fears as 'hoax', insisting US safeguards suffice and warning slowdown benefits China.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 20:13:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US speaker rejects AI pause, warns of losing edge to China",
+          "url": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 20:13:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "396c2419902e01c3d3334645",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "text": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 19:59:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+          "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 19:59:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1228656e33351c0779c955aa",
+      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+      "text": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 19:47:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 19:47:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7801e0c56bc38adce7524047",
+      "title": "US borrowing costs hit highest level since 2007",
+      "text": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+      "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 19:35:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US borrowing costs hit highest level since 2007",
+          "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 19:35:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a949d5cec243ef1c382dc655",
+      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+      "text": "Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 15 Sep 2026 19:26:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+          "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
+          "published_at": "Tue, 15 Sep 2026 19:26:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2443a3f55fe6ae8b34e47604",
+      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "text": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 15 Sep 2026 19:25:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 19:25:48 GMT"
         }
       ],
       "cross_checked": false,
@@ -99,25 +612,6 @@
       "conflict": false
     },
     {
-      "id": "631ed75b022cc89b4b68369f",
-      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
-      "text": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said.",
-      "url": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 18:02:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
-          "url": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 18:02:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "b91c6613b2ea1e2bde62c8aa",
       "title": "Police crack down on protests against constitutional change in DR Congo",
       "text": "Demonstrations held across country against president's proposed constitutional changes seeking third term.",
@@ -177,7 +671,7 @@
     {
       "id": "7a4944a8a832a465cac4150d",
       "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "text": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
+      "text": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
       "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Tue, 15 Sep 2026 17:35:02 GMT",
@@ -188,63 +682,6 @@
           "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
           "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 17:35:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "17a75c3b8653c3161197cf5d",
-      "title": "'My son was failed' - Noah Donohoe inquest finds tunnel errors possibly contributed to death",
-      "text": "The nine jury members, who had 10 questions to answer, returned their verdict on Tuesday at the end of an inquest which began in January.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 17:12:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'My son was failed' - Noah Donohoe inquest finds tunnel errors possibly contributed to death",
-          "url": "https://www.bbc.co.uk/news/articles/ck20lgjx9y3yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 17:12:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8c057ebc88a5edf8dc4b3605",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "text": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:55:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Suspected sabotage causes major Netherlands rail disruption",
-          "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:55:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1228656e33351c0779c955aa",
-      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-      "text": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:53:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-          "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:53:53 GMT"
         }
       ],
       "cross_checked": false,
@@ -283,25 +720,6 @@
           "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
           "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
           "published_at": "Tue, 15 Sep 2026 16:50:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6b8fab9de943ab917a66ab6a",
-      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-      "text": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
-      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:45:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-          "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:45:49 GMT"
         }
       ],
       "cross_checked": false,
@@ -422,25 +840,6 @@
       "conflict": false
     },
     {
-      "id": "10372e66d638a67297e50e84",
-      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "text": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:01:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:01:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "aacfcd0fb2bca34aaf67bfd8",
       "title": "Lucy Letby inquiry blames UK hospital for failure to protect babies",
       "text": "Inquiry finds parents were kept in the dark as hospital hid Lucy Letby suspicions during secret reviews.",
@@ -498,76 +897,19 @@
       "conflict": false
     },
     {
-      "id": "a05aac70dcd19dc39c21ce8c",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "text": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "id": "7618431281a86a47e8f23e60",
+      "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from inquiry report",
+      "text": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 15:31:34 GMT",
+      "published_at": "Tue, 15 Sep 2026 15:42:03 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 15:31:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1f90632abd854f53d3105859",
-      "title": "China does not need to replace the US in the Gulf",
-      "text": "It can gain leverage over the region without engaging in military overreach.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 15:28:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "China does not need to replace the US in the Gulf",
-          "url": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 15:28:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f0ec01ae5ab19a33809ffc74",
-      "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-      "text": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 15:25:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-          "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 15:25:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "55416d9a0cc9bce5eb401dd8",
-      "title": "Champions League final venues revealed: Munich 2028, Barcelona 2029",
-      "text": "The Allianz Arena in Munich, home to Bayern, and Barcelona's Camp Nou will host the 2028-29 finals.",
-      "url": "https://www.aljazeera.com/sports/2026/9/15/champions-league-final-venues-revealed-munich-2028-barcelona-2029?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 15:21:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Champions League final venues revealed: Munich 2028, Barcelona 2029",
-          "url": "https://www.aljazeera.com/sports/2026/9/15/champions-league-final-venues-revealed-munich-2028-barcelona-2029?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 15:21:38 +0000"
+          "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from inquiry report",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 15:42:03 GMT"
         }
       ],
       "cross_checked": false,
@@ -593,44 +935,6 @@
       "conflict": false
     },
     {
-      "id": "8a7ef081a470473d36594516",
-      "title": "Russia warns Denmark after near miss in Baltic Sea",
-      "text": "Russian frigate narrowly misses Danish helicopter with flares.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 14:51:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia warns Denmark after near miss in Baltic Sea",
-          "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 14:51:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aeeb5f835241a2d6e3973b26",
-      "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-      "text": "Prime Minister Mark Carney is seeking a 'unique alliance' with Europe as transatlantic relations sour.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 14:49:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-          "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 14:49:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "6bd6fb32664ed3dc0d1e36ad",
       "title": "Two dead after car hits group of pedestrians",
       "text": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
@@ -644,44 +948,6 @@
           "title": "Two dead after car hits group of pedestrians",
           "url": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 14:47:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "54351e446f02d7d1d4351aa7",
-      "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-      "text": "Riyadh has several military options, say analysts, but all of them carry risks, too.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 14:33:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-          "url": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 14:33:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1071a824e84eabee6c17bdcf",
-      "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
-      "text": "Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 14:28:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
-          "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 14:28:31 +0000"
         }
       ],
       "cross_checked": false,
@@ -726,50 +992,6 @@
       "conflict": false
     },
     {
-      "id": "0570707b78bd2d20771295f9",
-      "title": "Who is NFL billionaire Robert Kraft?",
-      "text": "Who is Robert Kraft, the Epstein-linked NFL billionaire and why did he get Macklemore dropped from Ed Sheeran’s tour?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 13:59:34 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?",
-          "url": "https://www.aljazeera.com/news/2026/9/15/who-is-robert-kraft-pro-israel-billionaire-who-cancelled-macklemore?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 15:27:25 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Who is NFL billionaire Robert Kraft?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 13:59:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f8b7d43d8e7f0bff003c5e14",
-      "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
-      "text": "The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say.",
-      "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 13:57:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
-          "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 13:57:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e5d963ba790d1d9f12f9404f",
       "title": "Watch: Helicopter hovers feet from cliff face during rescue in California",
       "text": "The video shows a helicopter holding steady mere feet from a cliff face in the Sierra Nevada mountains while a rescue team secures an injured climber.",
@@ -789,25 +1011,6 @@
       "conflict": false
     },
     {
-      "id": "a8da22d942d32b1165fbe0e4",
-      "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
-      "text": "Seven members of ousted PM Sheikh Hasina's Awami League convicted of crimes including murder, provoking killings.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 13:40:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
-          "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 13:40:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "b8a16bd992ff91c1cbb438ec",
       "title": "Number of people claiming key disability benefit hits record high",
       "text": "An ongoing review into Personal Independence Payments (Pip) has found the system is \"not fit for purpose\".",
@@ -821,63 +1024,6 @@
           "title": "Number of people claiming key disability benefit hits record high",
           "url": "https://www.bbc.co.uk/news/articles/cqr7djnl3000o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 13:36:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "156276b054e92e3e651da279",
-      "title": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "text": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 13:33:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 13:33:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0d012c5a8d4af34063f6bd90",
-      "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
-      "text": "Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 13:30:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "South Korea embraces Central Asian leaders, looking to boost regional clout",
-          "url": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 13:30:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3e2ab118503baf021b70d8ba",
-      "title": "Political donors could face tougher residency rules",
-      "text": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
-      "url": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 13:25:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Political donors could face tougher residency rules",
-          "url": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 13:25:48 GMT"
         }
       ],
       "cross_checked": false,
@@ -954,25 +1100,6 @@
           "title": "Sweeney ad a barrier for girls in sport - Hunt",
           "url": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 09:22:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dcd4c7ae690df68bb660230a",
-      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-      "text": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 02:53:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-          "url": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 02:53:39 GMT"
         }
       ],
       "cross_checked": false,
