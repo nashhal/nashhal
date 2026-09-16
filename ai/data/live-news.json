@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T00:21:18.747759+00:00",
-  "source_count": 67,
-  "story_count": 60,
+  "generated_at": "2026-09-16T06:01:28.179887+00:00",
+  "source_count": 60,
+  "story_count": 59,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -23,19 +23,424 @@
       "conflict": false
     },
     {
+      "id": "56ce7b87df225e6e5b556d21",
+      "title": "Why are Man Utd better without the ball?",
+      "text": "Under Michael Carrick, Manchester United average 1.5 points per game when they have more than 50% of the ball. When they have less than 50%, this number is 2.6.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 05:46:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why are Man Utd better without the ball?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 05:46:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "afa57afe28a3b7760564e92b",
+      "title": "Search continues for boy, 3, missing at playground",
+      "text": "Police carry out door-to-door inquiries in Brantham and a helicopter is seen circling the area.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 05:32:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Search continues for boy, 3, missing at playground",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 05:32:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "17f5de0da3db1a5417a6080b",
+      "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
+      "text": "China's first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 05:24:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
+          "url": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 05:24:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f652ec7675c9d91178cf76a1",
+      "title": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
+      "text": "United States Representative Thomas Massie is forcing fellow Republicans to vote whether to impeach Secretary of Defense",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 05:21:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 05:21:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c9282f60859f370a2b31b4e0",
+      "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+      "text": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 05:14:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 05:14:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1fd6dce98f51092c838601a3",
+      "title": "At least 10 dead, dozens missing in Gaza building collapse",
+      "text": "At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 05:06:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "At least 10 dead, dozens missing in Gaza building collapse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 05:06:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "84d72baf46e159500a52fb65",
+      "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
+      "text": "The landmark public inquiry into Lucy Letby's murders and attempted murders is the focus of several of today's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 04:39:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
+          "url": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 04:39:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "11f2b151b3257bab5ac9485f",
+      "title": "Gaza residential building collapses, six families reportedly trapped",
+      "text": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 04:30:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza residential building collapses, six families reportedly trapped",
+          "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 04:30:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "58efc127ae769c12591b33d2",
       "title": "Is bankrupt competitions boss behind new scheme?",
       "text": "The man behind a competions company which went bust owing thousands is back with a new venture.",
       "url": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 16 Sep 2026 00:14:56 GMT",
+      "published_at": "Wed, 16 Sep 2026 03:52:42 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Is bankrupt competitions boss behind new scheme?",
           "url": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 16 Sep 2026 00:14:56 GMT"
+          "published_at": "Wed, 16 Sep 2026 03:52:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7c1fd7b6dc589b2da1d0aa4a",
+      "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+      "text": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 03:39:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+          "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 03:39:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "83c9692eb90e37e0357cc921",
+      "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+      "text": "Dong Jun pitches shared security governance and military cooperation while warning against coercion.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 03:38:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+          "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 03:38:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0fddb2270c893f8a39b6766f",
+      "title": "Is US health care too broken to cure cancer?",
+      "text": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 02:52:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is US health care too broken to cure cancer?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 02:52:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "013660b8bab648551dded6b5",
+      "title": "Got lost on Mount Fuji? You'll have to pay for your rescue",
+      "text": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 02:40:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Got lost on Mount Fuji? You'll have to pay for your rescue",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 02:40:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f8467d1232edb20077ce05da",
+      "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+      "text": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 02:40:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 02:40:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff7b3db98120cc202a0816ea",
+      "title": "Mayors could be given powers to oversee water companies",
+      "text": "The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 02:09:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mayors could be given powers to oversee water companies",
+          "url": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 02:09:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8a53c687ea4005796fdb6b03",
+      "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+      "text": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 01:53:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 01:53:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0ade9013dc9a3d400416954a",
+      "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+      "text": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 01:42:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+          "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 01:42:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e7031bbb7440d41e2b53fb0e",
+      "title": "Israel started an anti-Qatar campaign, then scrapped it",
+      "text": "Days after October 7, Israel began building a global campaign to pressure and isolate Qatar.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 01:41:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel started an anti-Qatar campaign, then scrapped it",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 01:41:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19f3ffd549112e88d857fbe8",
+      "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+      "text": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 01:35:14 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+          "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 01:35:14 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "10372e66d638a67297e50e84",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "text": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 01:29:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 01:29:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "062f0cfa3beb469463871d7d",
+      "title": "Magazine returned to US library after 132 years overdue",
+      "text": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 01:15:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Magazine returned to US library after 132 years overdue",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 01:15:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7eb201a51f076fd4bb72c37b",
+      "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+      "text": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
+      "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 01:09:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+          "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 01:09:54 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -44,17 +449,93 @@
     {
       "id": "4686332c8f939c294df4ddbc",
       "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "text": "As the world debates an AI slowdown, Sam Altman and several other tech leaders say they have incentives to self-police their AI advancements.",
+      "text": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 16 Sep 2026 00:13:09 GMT",
+      "published_at": "Wed, 16 Sep 2026 00:59:20 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
           "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 16 Sep 2026 00:13:09 GMT"
+          "published_at": "Wed, 16 Sep 2026 00:59:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b345f53213bd554678f622ab",
+      "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
+      "text": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 00:42:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 00:42:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eccbb305e13d2a7220762bb4",
+      "title": "Iran war increasing inflation, straining US munitions: congressional report",
+      "text": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 00:38:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war increasing inflation, straining US munitions: congressional report",
+          "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 00:38:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d28c6b4164a51a17fab8b213",
+      "title": "Maduro ally Alex Saab pleads guilty to money laundering, fraud",
+      "text": "Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 16 Sep 2026 00:36:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Maduro ally Alex Saab pleads guilty to money laundering, fraud",
+          "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
+          "published_at": "Wed, 16 Sep 2026 00:36:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42467cb91538e70a8bdbfb4d",
+      "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+      "text": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 16 Sep 2026 00:25:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 16 Sep 2026 00:25:34 GMT"
         }
       ],
       "cross_checked": false,
@@ -80,25 +561,6 @@
       "conflict": false
     },
     {
-      "id": "84d72baf46e159500a52fb65",
-      "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
-      "text": "The landmark public inquiry into Lucy Letby's murders and attempted murders is the focus of several of today's papers.",
-      "url": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 16 Sep 2026 00:06:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
-          "url": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 16 Sep 2026 00:06:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c2cd4a1354f6b3d89a459a62",
       "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
       "text": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
@@ -112,25 +574,6 @@
           "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
           "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 16 Sep 2026 00:05:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ad7eb115046a85fd5c519927",
-      "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-      "text": "Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 16 Sep 2026 00:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-          "published_at": "Wed, 16 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -271,7 +714,7 @@
     },
     {
       "id": "440504084648e650e1df0b47",
-      "title": "Argentina intensifies campaign against Falklands oil companies",
+      "title": "Argentina steps up legal campaign against Falkland Islands oil firms",
       "text": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
       "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
       "source": "Al Jazeera",
@@ -280,7 +723,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Argentina intensifies campaign against Falklands oil companies",
+          "title": "Argentina steps up legal campaign against Falkland Islands oil firms",
           "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
           "published_at": "Tue, 15 Sep 2026 23:03:52 +0000"
         }
@@ -479,25 +922,6 @@
       "conflict": false
     },
     {
-      "id": "afa57afe28a3b7760564e92b",
-      "title": "Search launched for boy, 3, missing at playground",
-      "text": "Police carry out door-to-door inquiries in Brantham and a helicopter has been seen circling the area.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 21:25:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Search launched for boy, 3, missing at playground",
-          "url": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 21:25:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "4ca7f3ada46d16049d47bbfc",
       "title": "Hundreds protest in DR Congo against third presidential term",
       "text": "Hundreds protest in DR Congo against third presidential term",
@@ -530,82 +954,6 @@
           "title": "Brook & Baker shine as England crush Sri Lanka",
           "url": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 21:15:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "10372e66d638a67297e50e84",
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "text": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 21:07:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 21:07:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42467cb91538e70a8bdbfb4d",
-      "title": "Letby hospital consultant says inquiry makes for grim reading",
-      "text": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 20:43:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Letby hospital consultant says inquiry makes for grim reading",
-          "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 20:43:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6b8fab9de943ab917a66ab6a",
-      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-      "text": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
-      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 20:41:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-          "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 20:41:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0dc948379d3dac7fc134e301",
-      "title": "Romanian shepards and farmers clash with police",
-      "text": "Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:40:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Romanian shepards and farmers clash with police",
-          "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:40:05 +0000"
         }
       ],
       "cross_checked": false,
@@ -669,196 +1017,6 @@
       "conflict": false
     },
     {
-      "id": "d7aadd335a02b5ab5ad9762d",
-      "title": "What makes these midterms so pivotal?",
-      "text": "The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.",
-      "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:19:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What makes these midterms so pivotal?",
-          "url": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:19:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c650149b73433f016e716eea",
-      "title": "Why do some African leaders gamble with term limits?",
-      "text": "Protesters in the DRC denounce law that could extend president's term.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:17:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why do some African leaders gamble with term limits?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:17:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2955703fb4eab2e3763166d2",
-      "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-      "text": "Western intelligence agencies highlight 'CHOSEN BRICK' spyware targeting critics of Iran government abroad.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:16:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-          "url": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:16:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9dfceebcca7cfe1d124392ed",
-      "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
-      "text": "The president said renovations would not move forward unless his name was added to the building.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:14:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
-          "url": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:14:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5b47456a3a739baa433b8d38",
-      "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-      "text": "Trump claims Supreme Court decisions set the US 'back 100 years' after controversial ballot rule change blocked.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:13:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-          "url": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:13:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a915c307d650d98e5b0b8c67",
-      "title": "US speaker rejects AI pause, warns of losing edge to China",
-      "text": "Trump has dismissed AI fears as 'hoax', insisting US safeguards suffice and warning slowdown benefits China.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 20:13:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US speaker rejects AI pause, warns of losing edge to China",
-          "url": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 20:13:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "396c2419902e01c3d3334645",
-      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-      "text": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 19:59:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-          "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 19:59:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1228656e33351c0779c955aa",
-      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-      "text": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 19:47:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-          "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 19:47:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7801e0c56bc38adce7524047",
-      "title": "US borrowing costs hit highest level since 2007",
-      "text": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
-      "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 19:35:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US borrowing costs hit highest level since 2007",
-          "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 19:35:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a949d5cec243ef1c382dc655",
-      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-      "text": "Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 19:26:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 19:26:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2443a3f55fe6ae8b34e47604",
       "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
       "text": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
@@ -872,139 +1030,6 @@
           "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 19:25:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d1a96dc166a0ece04e0d9868",
-      "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
-      "text": "A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 18:41:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 18:41:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "823e30cce5080f6c05d42a3e",
-      "title": "Eto’o could face Cameroon probe over alleged Russia payment",
-      "text": "Ex-Chelsea and Barcelona striker Samuel Eto'o faces a probe over allegations of embezzlement in his Cameroon FA role.",
-      "url": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 18:35:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Eto’o could face Cameroon probe over alleged Russia payment",
-          "url": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 18:35:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "40df68bf052912b409769229",
-      "title": "India beat Afghanistan by seven wickets to seal T20 series",
-      "text": "Sanju Samson's half century helps India seal three-match series with wins in first two games.",
-      "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 18:15:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India beat Afghanistan by seven wickets to seal T20 series",
-          "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 18:15:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2b90a69e8e8246f7cfed1231",
-      "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
-      "text": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 18:05:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
-          "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 18:05:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b91c6613b2ea1e2bde62c8aa",
-      "title": "Police crack down on protests against constitutional change in DR Congo",
-      "text": "Demonstrations held across country against president's proposed constitutional changes seeking third term.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 17:58:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Police crack down on protests against constitutional change in DR Congo",
-          "url": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 17:58:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cdd825415b2df5b4fd6d3d9b",
-      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-      "text": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 17:39:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 17:39:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7a4944a8a832a465cac4150d",
-      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "text": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
-      "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 17:35:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-          "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 17:35:02 GMT"
         }
       ],
       "cross_checked": false,
@@ -1030,65 +1055,8 @@
       "conflict": false
     },
     {
-      "id": "0b1b393a9641a2b971d4e1dc",
-      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
-      "text": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
-      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 15 Sep 2026 16:50:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
-          "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
-          "published_at": "Tue, 15 Sep 2026 16:50:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9006d3d8565f3ba0f7a3b850",
-      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
-      "text": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:40:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
-          "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:40:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4fd4126eb5484ba457f993fc",
-      "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-      "text": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 16:24:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-          "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 16:24:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7618431281a86a47e8f23e60",
-      "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from inquiry report",
+      "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from report",
       "text": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.",
       "url": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -1097,7 +1065,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from inquiry report",
+          "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from report",
           "url": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 15 Sep 2026 15:42:03 GMT"
         }
@@ -1106,38 +1074,57 @@
       "conflict": false
     },
     {
-      "id": "6bd6fb32664ed3dc0d1e36ad",
-      "title": "Two dead after car hits group of pedestrians",
-      "text": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
+      "id": "71bb768fe386840b5467cb92",
+      "title": "What are the key findings from the Thirlwall inquiry?",
+      "text": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 14:47:59 GMT",
+      "published_at": "Tue, 15 Sep 2026 12:37:11 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Two dead after car hits group of pedestrians",
-          "url": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 14:47:59 GMT"
+          "title": "What are the key findings from the Thirlwall inquiry?",
+          "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 15 Sep 2026 12:37:11 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "e5d963ba790d1d9f12f9404f",
-      "title": "Watch: Helicopter hovers feet from cliff face during rescue in California",
-      "text": "The video shows a helicopter holding steady mere feet from a cliff face in the Sierra Nevada mountains while a rescue team secures an injured climber.",
-      "url": "https://www.bbc.co.uk/news/videos/cw33k8dr5reyo?at_medium=RSS&at_campaign=rss",
+      "id": "622780bc4a45e340de068f95",
+      "title": "Americast",
+      "text": "And which songs have made it onto Trump’s Air Force One playlist?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9m9vz?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 15 Sep 2026 13:57:04 GMT",
+      "published_at": "Mon, 14 Sep 2026 18:26:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: Helicopter hovers feet from cliff face during rescue in California",
-          "url": "https://www.bbc.co.uk/news/videos/cw33k8dr5reyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 15 Sep 2026 13:57:04 GMT"
+          "title": "Americast",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9m9vz?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 14 Sep 2026 18:26:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19850e37793ad69c4b8c77c6",
+      "title": "Newscast",
+      "text": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 14 Sep 2026 16:01:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Newscast",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 14 Sep 2026 16:01:00 GMT"
         }
       ],
       "cross_checked": false,
