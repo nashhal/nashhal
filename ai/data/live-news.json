@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-18T05:54:56.904870+00:00",
-  "source_count": 59,
-  "story_count": 59,
+  "generated_at": "2026-09-18T11:13:30.587709+00:00",
+  "source_count": 57,
+  "story_count": 56,
   "documents": [
+    {
+      "id": "0cbe9588d11da6f85ef47817",
+      "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+      "text": "Attack not immediately claimed, but ISIL and Pakistan Taliban (TTP) active in the region and regularly target troops.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:18:43 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "At least 16 killed in attack on mosque in Pakistan",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:39:31 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+          "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:18:43 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -24,7 +49,7 @@
     },
     {
       "id": "173e820a06c6129788a79155",
-      "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+      "title": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
       "text": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -33,7 +58,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+          "title": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 17 Sep 2026 23:51:07 GMT"
         }
@@ -42,38 +67,19 @@
       "conflict": false
     },
     {
-      "id": "95c06b6eef3bf1bb112654b2",
-      "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
-      "text": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 23:42:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
-          "url": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 23:42:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6e0c11c766b010da0188d172",
-      "title": "From -17 points to dream European start for Bournemouth",
-      "text": "Bournemouth started a League Two season on -17 points in 2008, now they have made a dream start in European competition.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
+      "id": "0a4274c8c335daf145bbb912",
+      "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
+      "text": "Since 2023, hundreds of thousands of Afghans have been deported from Pakistan and over two million have left.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 23:30:34 GMT",
+      "published_at": "Thu, 17 Sep 2026 23:31:43 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "From -17 points to dream European start for Bournemouth",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 23:30:34 GMT"
+          "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 17 Sep 2026 23:31:43 GMT"
         }
       ],
       "cross_checked": false,
@@ -81,7 +87,7 @@
     },
     {
       "id": "185a33e481277cd99b946086",
-      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "title": "Olympic rowing river has 500 crocodiles in it - but that's not the main concern",
       "text": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
       "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -90,7 +96,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+          "title": "Olympic rowing river has 500 crocodiles in it - but that's not the main concern",
           "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 17 Sep 2026 23:29:17 GMT"
         }
@@ -118,25 +124,6 @@
       "conflict": false
     },
     {
-      "id": "96f8e42658d59a8661d79cc9",
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "text": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 23:16:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US approves $414M uranium investment in Niger, two years after troops left",
-          "url": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 23:16:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "232d8def5c0e80b3a3c1a6c5",
       "title": "New wild cat species discovered - with only one known living member",
       "text": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
@@ -150,196 +137,6 @@
           "title": "New wild cat species discovered - with only one known living member",
           "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 17 Sep 2026 23:15:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e0e7267cd74357521eddfb12",
-      "title": "Why we bought our first home with a 100% mortgage - despite the risks",
-      "text": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 23:00:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why we bought our first home with a 100% mortgage - despite the risks",
-          "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 23:00:53 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9068dd3d2df806db80637aa6",
-      "title": "Russia election: Could other parties challenge United Russia?",
-      "text": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 22:19:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia election: Could other parties challenge United Russia?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 22:19:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99657fb95a9e21a8c554f810",
-      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "text": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 22:12:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-          "url": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 22:12:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "12a2750beba3aa2884f39cf3",
-      "title": "Watch: Can humpback whales experience grief?",
-      "text": "Rare footage captured by researchers off Australia's Gold Coast suggests humpback whale mothers may experience grief when their calves die.",
-      "url": "https://www.bbc.co.uk/news/videos/c6p93mn44m42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 22:10:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Can humpback whales experience grief?",
-          "url": "https://www.bbc.co.uk/news/videos/c6p93mn44m42o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 22:10:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ab22ed91ad38eebcdff9ad27",
-      "title": "'Just the beginning' - Samba, 17, steals Man City show",
-      "text": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 22:00:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Just the beginning' - Samba, 17, steals Man City show",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 22:00:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c78409335e2a2d69199ff004",
-      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "text": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 21:42:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-          "url": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 21:42:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0ab5bf6c4a039e2e676bf5b2",
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "text": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 17 Sep 2026 21:38:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
-          "published_at": "Thu, 17 Sep 2026 21:38:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "422e0edeac31e3a325870429",
-      "title": "England crush Sri Lanka to seal T20 series win",
-      "text": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 20:55:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England crush Sri Lanka to seal T20 series win",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 20:55:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9ba37bd5bd260ca18ba933d6",
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "text": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 20:34:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-          "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 20:34:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d5243b473abd4a40abd1b68f",
-      "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
-      "text": "The award was handed out last week, on the anniversary of the 9/11 attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 20:08:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
-          "url": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 20:08:02 GMT"
         }
       ],
       "cross_checked": false,
@@ -365,76 +162,722 @@
       "conflict": false
     },
     {
-      "id": "0606bb4fcbefc2061a9f245c",
-      "title": "'Built differently' - Hodgkinson reveals hamstring abnormality",
-      "text": "Olympic champion Keely Hodgkinson says she is \"built differently\" after an MRI scan uncovered an \"abnormality\" in her hamstring.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss",
+      "id": "265de35bb777ec260a3e5199",
+      "title": "Sutton's predictions v legendary guitarist Johnny Marr",
+      "text": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 18:04:33 GMT",
+      "published_at": "Thu, 17 Sep 2026 15:10:03 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'Built differently' - Hodgkinson reveals hamstring abnormality",
-          "url": "https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 18:04:33 GMT"
+          "title": "Sutton's predictions v legendary guitarist Johnny Marr",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 17 Sep 2026 15:10:03 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "2c60809cb08c367998e09ab3",
-      "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
-      "text": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 16:51:55 GMT",
+      "id": "4da3a5c16c8211ed7f1a9cb4",
+      "title": "Who gets to decide how quickly AI moves?",
+      "text": "The biggest AI companies want to slow development together. The real question is what power they gain in return.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 11:04:01 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
-          "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 16:51:55 GMT"
+          "source": "Al Jazeera",
+          "title": "Who gets to decide how quickly AI moves?",
+          "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 11:04:01 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "47734fb31ff664db16e6b672",
-      "title": "The big questions for Tuchel's first England squad since World Cup",
-      "text": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "id": "962791c977eff093209694b4",
+      "title": "British rapper Sway dies aged 44",
+      "text": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 16:47:18 GMT",
+      "published_at": "Fri, 18 Sep 2026 11:03:29 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The big questions for Tuchel's first England squad since World Cup",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 16:47:18 GMT"
+          "title": "British rapper Sway dies aged 44",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 11:03:29 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "ef1c9f5b534928a36a16e32b",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "text": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "id": "b760bb1a6980eac16a304fa5",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "text": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 15:05:13 GMT",
+      "published_at": "Fri, 18 Sep 2026 11:01:46 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Hyrox athlete apologises for continuing race after soiling herself",
-          "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 17 Sep 2026 15:05:13 GMT"
+          "title": "Three dead and eight injured in Philippines school shooting",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 11:01:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bcdf2ebac623ac220a6652fa",
+      "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+      "text": "Asian Games organisers in Japan accidently play North Korea's anthem ahead of South's hockey match with Bangladesh.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:59:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+          "url": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:59:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b2e1c1dca2177f56a335a89",
+      "title": "Brewdog's unpaid workers to receive nothing after takeover deal",
+      "text": "Administrators say about £489,000 was owed for staff wages and holiday pay and £2.4m was owed to HMRC for unpaid VAT.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:58:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brewdog's unpaid workers to receive nothing after takeover deal",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:58:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2b4c1d13e90d47ac7d9340a2",
+      "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+      "text": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:49:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+          "url": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:49:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c85b9da19a60c09e7db0253e",
+      "title": "United Nations says US may have committed war crimes in Iran: What it means",
+      "text": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:43:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "United Nations says US may have committed war crimes in Iran: What it means",
+          "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:43:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e0e7267cd74357521eddfb12",
+      "title": "We bought our £242,000 home without a deposit - here's how",
+      "text": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:43:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "We bought our £242,000 home without a deposit - here's how",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:43:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3e74e411529e83032d130df6",
+      "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
+      "text": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:40:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:40:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "be21d514dbac9715551dc5e9",
+      "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
+      "text": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:37:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:37:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d9c8fdc47ed5409936186a66",
+      "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+      "text": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:33:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+          "url": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:33:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3c20a1410e6e0dbf2b45a0bc",
+      "title": "Israel is killing the people who could end its wars",
+      "text": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:29:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel is killing the people who could end its wars",
+          "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:29:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4dc0bc0185d5912c3226fa8c",
+      "title": "Ukraine fires drone barrage as Russia launches elections",
+      "text": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 10:28:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine fires drone barrage as Russia launches elections",
+          "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 10:28:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c9e8d3401d7488054fe48d82",
+      "title": "Council staff refused anonymity for Sara Sharif inquest",
+      "text": "A coroner rejects an application for three workers after the media, including the BBC, opposed it.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:21:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Council staff refused anonymity for Sara Sharif inquest",
+          "url": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:21:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d2e7ab6c16537c94a835b3fc",
+      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+      "text": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:19:46 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+          "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:19:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c06dbfd6fa514c237ed4ae42",
+      "title": "Move faster to solve climate challenges, Prince William says",
+      "text": "The Prince of Wales tells the BBC we need to \"accelerate\" in finding solutions to climate challenges as Earthshot nominees are unveiled.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 10:12:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Move faster to solve climate challenges, Prince William says",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 10:12:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "13aa08edd91d5349a6a51d79",
+      "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+      "text": "The trust's new chief executive says he apologises unreservedly - \"What happened was utterly unacceptable.\"",
+      "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 09:46:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+          "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 09:46:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e45fb9195bd88fe89265ddc",
+      "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
+      "text": "Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women's safety.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 09:43:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
+          "url": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 09:43:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fddefa7354ff1583c138e2f8",
+      "title": "Woman tells BBC of trauma after unnecessary breast cancer surgery",
+      "text": "Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.",
+      "url": "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 09:43:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Woman tells BBC of trauma after unnecessary breast cancer surgery",
+          "url": "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 09:43:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d18ded8c267f93436a23ec90",
+      "title": "India star Sooryavanshi urged to be patient by coach Gambhir",
+      "text": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 09:34:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India star Sooryavanshi urged to be patient by coach Gambhir",
+          "url": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 09:34:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43816f72b58555227f8ea681",
+      "title": "Food festivals across UK exploited in AI-powered scam, BBC finds",
+      "text": "One trader says her \"heart sank\" after discovering she had lost money through a scam festival invitation.",
+      "url": "https://www.bbc.co.uk/news/articles/cm207d6qy0d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 09:15:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Food festivals across UK exploited in AI-powered scam, BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/cm207d6qy0d1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 09:15:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6e41f7eea37ee60f8e02c5b6",
+      "title": "Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC",
+      "text": "Nicholas Brandram's sisters give the BBC a list of reasons as to why their brother was not the jogger who pushed a woman into the path of a bus on Putney Bridge.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 09:14:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 09:14:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "804a11cc7132eb2eaa4dd713",
+      "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
+      "text": "Harry Kane could become first Ballon d'Or from England since 2001, but striker focused on Bayern Munich trophies.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 09:12:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
+          "url": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 09:12:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3097ba2d4a7d5da79785c65",
+      "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
+      "text": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 09:10:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
+          "url": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 09:10:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "13e1b045c200a2d2536c0fb3",
+      "title": "Video: Influencers accused of exploiting Nepal flood survivors",
+      "text": "‘Aid influencers’ are being accused of exploiting Nepal flood victims to boost social media followers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 08:58:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Video: Influencers accused of exploiting Nepal flood survivors",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 08:58:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "951075fa067fa9b4e33255e0",
+      "title": "Israel would rather not watch NAZA",
+      "text": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 08:49:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel would rather not watch NAZA",
+          "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 08:49:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "540f9d0abc02c4500304b8d6",
+      "title": "‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs",
+      "text": "Evidence shared exclusively with Al Jazeera shows ISIL supporters sharing ways to bypass AI safeguards.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 08:39:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs",
+          "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 08:39:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56458b2967b46e73462d59dc",
+      "title": "Indonesia acquires first aircraft carrier amid military upgrade",
+      "text": "Indonesia says vessel will be used to aid disaster relief across the archipelago.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 07:54:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Indonesia acquires first aircraft carrier amid military upgrade",
+          "url": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 07:54:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5f6ba15da821b925b8d01a04",
+      "title": "Philippines school shooting leaves at least three dead, including gunman",
+      "text": "At least eight people were also injured in the country's third deadly school shooting since June.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 07:47:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Philippines school shooting leaves at least three dead, including gunman",
+          "url": "https://www.aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 07:47:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43b238852ea66e2ef6823401",
+      "title": "Tailgate parties, marching bands... and Ted Lasso? Wembley hosts US college game",
+      "text": "Wembley will host its first American college football game on Saturday and one of Kansas' most famous fans could be among the 60,000 crowd.",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm62kg82yw5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 07:41:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Tailgate parties, marching bands... and Ted Lasso? Wembley hosts US college game",
+          "url": "https://www.bbc.co.uk/sport/american-football/articles/cm62kg82yw5ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 07:41:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "38a7eb4e26a1926d0bd6b282",
+      "title": "From depression after Chelsea injury to playing non-league at 37",
+      "text": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 07:10:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "From depression after Chelsea injury to playing non-league at 37",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 07:10:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "028197c47228f7e78312b80b",
+      "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
+      "text": "New sanctions highlight Israel's isolation, yet analysts say they won't sway voters before October's elections.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 06:48:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
+          "url": "https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 06:48:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "83a0473a3e96ddef4c63696c",
+      "title": "In Yemen, war at home and in the region drives up prices",
+      "text": "Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.",
+      "url": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 06:45:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "In Yemen, war at home and in the region drives up prices",
+          "url": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 06:45:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "db7dddceec3afe811d2ce0b4",
+      "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
+      "text": "Officials blame disease outbreak for deaths as survivor suggests they suffocated.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 06:45:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
+          "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 06:45:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a86e9d6d2450fab4e14d0f2f",
+      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+      "text": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 06:17:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 06:17:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1040bb10038960d7f1084c46",
+      "title": "How the race they said women couldn't run took centre stage",
+      "text": "After making its debut at the 1928 Olympics, the women's 800m was cut from the programme. Now, it's often billed as the must-see event of major athletics championships. So, how did we get here?",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 06:02:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How the race they said women couldn't run took centre stage",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 06:02:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a5de4d96313acbd21d731f37",
+      "title": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
+      "text": "Oman’s Sohar port is becoming a popular spot for ship-to-ship oil transfers amid continued Hormuz blockade.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 18 Sep 2026 06:02:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Oman oil escape route: How ship-to-ship transfers work — despite big risks",
+          "url": "https://www.aljazeera.com/news/2026/9/18/oman-oil-escape-route-how-ship-to-ship-transfers-work-despite-big?traffic_source=rss",
+          "published_at": "Fri, 18 Sep 2026 06:02:08 +0000"
         }
       ],
       "cross_checked": false,
@@ -498,19 +941,19 @@
       "conflict": false
     },
     {
-      "id": "d3cde309fb1bdc5ba847dfe4",
-      "title": "Moving from Newcastle to Liverpool easy decision - Isak",
-      "text": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
+      "id": "d9cfafeece7331beb68ce8f4",
+      "title": "How does De Zerbi fix Spurs' scoring troubles?",
+      "text": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 05:12:10 GMT",
+      "published_at": "Fri, 18 Sep 2026 05:16:05 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Moving from Newcastle to Liverpool easy decision - Isak",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 05:12:10 GMT"
+          "title": "How does De Zerbi fix Spurs' scoring troubles?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 05:16:05 GMT"
         }
       ],
       "cross_checked": false,
@@ -555,82 +998,6 @@
       "conflict": false
     },
     {
-      "id": "a3866f779bae98f7c0a161b6",
-      "title": "Australia to detain tourists who overstay visas amid immigration crackdown",
-      "text": "More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 05:02:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Australia to detain tourists who overstay visas amid immigration crackdown",
-          "url": "https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 05:02:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "31f0cdb72fcf2afe2b8a066a",
-      "title": "'Don't be silly' over Falklands and Irish unity, top Tory tells Trump",
-      "text": "Shadow foreign secretary Tom Tugendhat says the US president's recent comments were aimed at US voters, in a BBC interview.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrm98knlzrko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 04:58:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Don't be silly' over Falklands and Irish unity, top Tory tells Trump",
-          "url": "https://www.bbc.co.uk/news/articles/cqrm98knlzrko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 04:58:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "13aa08edd91d5349a6a51d79",
-      "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
-      "text": "The women were among hundreds who were harmed by their treatment at County Durham health trust.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 04:58:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
-          "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 04:58:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ad67f15251e376f7a9bbe45",
-      "title": "The Papers: 'Giddy King' and 'war of words' over Earl Spencer book",
-      "text": "Most papers feature the latest from the royal feud on the second day of Diana's brother Earl Spencer's book being serialised in the Daily Mail.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz87j9ge4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 04:40:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Papers: 'Giddy King' and 'war of words' over Earl Spencer book",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyz87j9ge4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 04:40:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f77d57c995b85ae4d742790a",
       "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
       "text": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
@@ -644,44 +1011,6 @@
           "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
           "url": "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 04:29:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "16611d7c66936add62b64dac",
-      "title": "Could this economic squeeze sway US voters?",
-      "text": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 04:27:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Could this economic squeeze sway US voters?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 04:27:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "53204680c0d5bfe884177ed5",
-      "title": "New tiger cat species identified in Bolivia, first in over a century",
-      "text": "Leopardus tilcayo is the first new living cat species named and described in more than a century.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 04:16:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "New tiger cat species identified in Bolivia, first in over a century",
-          "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 04:16:28 +0000"
         }
       ],
       "cross_checked": false,
@@ -707,293 +1036,8 @@
       "conflict": false
     },
     {
-      "id": "4d28d4865b5fcf63c54ea9b6",
-      "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
-      "text": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 03:20:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
-          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 03:20:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9659ebd10ec306e510454bbc",
-      "title": "Critics in meltdown over US cheese giant Tillamook halal label",
-      "text": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 03:13:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Critics in meltdown over US cheese giant Tillamook halal label",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 03:13:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "df3d64fa58b60d38811647ba",
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "text": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 02:56:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-          "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 02:56:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a86e9d6d2450fab4e14d0f2f",
-      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-      "text": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 02:55:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-          "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 02:55:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0e1df0459a0404a6a38e095e",
-      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-      "text": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
-      "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 02:53:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-          "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 02:53:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1c06a2dcc733ab7a1127f40f",
-      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-      "text": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 02:51:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-          "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 02:51:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "638b69630bbcf4019a40af65",
-      "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
-      "text": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 02:44:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 02:44:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "72680caff37e7a54d6aef330",
-      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-      "text": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 01:58:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-          "url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 01:58:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "20271fdc3cfb78c94358b9cf",
-      "title": "UN findings show US strikes on Minab could be war crimes",
-      "text": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 01:58:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UN findings show US strikes on Minab could be war crimes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 01:58:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ca33cf98a314262861ff9b8f",
-      "title": "See tiny organisms on show in microscopic video competition",
-      "text": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
-      "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 01:41:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "See tiny organisms on show in microscopic video competition",
-          "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 01:41:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4d777636784383963361936c",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "text": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 01:31:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-          "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 01:31:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4859f439337c81f606a6e84e",
-      "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
-      "text": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 01:23:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
-          "url": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 01:23:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ea6f2ac4af34e29890d5954c",
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
-      "text": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 01:20:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Zara Larsson criticises White House for using her song in deportation video",
-          "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 01:20:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "896d8dc77089b00d8189fcce",
-      "title": "Former Assad officer sentenced to 60 years in US for torture",
-      "text": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 01:15:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Former Assad officer sentenced to 60 years in US for torture",
-          "url": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 01:15:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "650925573b7bed6042d942f1",
-      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-      "text": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 00:49:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-          "url": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 00:49:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3a0cfac511a8844a194785de",
-      "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+      "title": "US fans with Ed Sheeran tickets left torn over Macklemore controversy",
       "text": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
       "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -1002,28 +1046,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+          "title": "US fans with Ed Sheeran tickets left torn over Macklemore controversy",
           "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 00:38:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4b65d465783a762f2bf0dc40",
-      "title": "Sunshine to return to parts of UK with warmer and drier weather on way",
-      "text": "High pressure over the UK next week will bring a break from the wet and windy weather so far this month.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwr50l32rr6yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 00:34:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Sunshine to return to parts of UK with warmer and drier weather on way",
-          "url": "https://www.bbc.co.uk/weather/articles/cwr50l32rr6yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 00:34:10 GMT"
         }
       ],
       "cross_checked": false,
@@ -1043,82 +1068,6 @@
           "title": "Not just 'Nice Guy Eddie': Lib Dems eager for leader to show radical side at party conference",
           "url": "https://www.bbc.co.uk/news/articles/cq4grjdz8xv5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 00:18:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "be21d514dbac9715551dc5e9",
-      "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
-      "text": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 00:13:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 00:13:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6a57be020cf0d69a1c222ae3",
-      "title": "Iran expels Swedish diplomat in retaliatory move",
-      "text": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 00:09:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran expels Swedish diplomat in retaliatory move",
-          "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 00:09:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "81fdd9d2f318251272c3ea4b",
-      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-      "text": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 18 Sep 2026 00:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
-          "published_at": "Fri, 18 Sep 2026 00:00:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "246e1fde3fded8d6f12273d4",
-      "title": "Anne Hathaway and Jessica Chastain star in a psychological thriller",
-      "text": "It's the only thing you can trust. A friendship forged in motherhood is broken by a loss",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m00304nj?at_mid=j1DqZnRRaM&at_campaign=Mothers_Instinct&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00304nj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film&at_bbc_team=BBC&at_creation=Mothers_Instinct",
-      "source": "BBC",
-      "published_at": "Fri, 14 Aug 2026 23:41:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Anne Hathaway and Jessica Chastain star in a psychological thriller",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m00304nj?at_mid=j1DqZnRRaM&at_campaign=Mothers_Instinct&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00304nj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film&at_bbc_team=BBC&at_creation=Mothers_Instinct",
-          "published_at": "Fri, 14 Aug 2026 23:41:38 GMT"
         }
       ],
       "cross_checked": false,
