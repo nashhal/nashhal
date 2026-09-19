@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-19T10:57:56.486140+00:00",
-  "source_count": 52,
-  "story_count": 52,
+  "generated_at": "2026-09-19T14:25:02.073010+00:00",
+  "source_count": 48,
+  "story_count": 47,
   "documents": [
+    {
+      "id": "8887a20ed3f02d39027bd368",
+      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+      "text": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 18 Sep 2026 23:04:41 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 23:04:41 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
+          "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 13:55:44 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -80,19 +105,380 @@
       "conflict": false
     },
     {
+      "id": "43f36ed20f0e519654e93b60",
+      "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
+      "text": "Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday's La Liga clash.",
+      "url": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 13:58:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
+          "url": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 13:58:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0dd033f2a0e63c7354543d8d",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "text": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 13:39:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 13:39:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cf8b44c111b0630642cfa97c",
+      "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
+      "text": "A number of apparent explosions have been heard and major disruption reported at the airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 13:36:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 13:36:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a6dd388b735ca3c0fd800701",
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "text": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
+      "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 13:21:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+          "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 13:21:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "171af70cc5058d05aafd1f9c",
+      "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+      "text": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 13:13:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 13:13:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d88b75a8c52b4c41f7d8ab5c",
+      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+      "text": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:59:31 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:59:31 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "59a109763e5d22e46184cfe5",
+      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+      "text": "Israel's Channel 12 and Maariv newspaper claim the military is facing 'severe shortages'.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:51:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+          "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:51:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d2c1c7a59264ef8f715fed2",
+      "title": "Asian Games 2026: Top athletes and storylines to look out for",
+      "text": "From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event.",
+      "url": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:38:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Asian Games 2026: Top athletes and storylines to look out for",
+          "url": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:38:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9041d88a86a289de2fdc69e6",
+      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "text": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:34:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+          "url": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:34:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "745bfd499ab424444bf52dc9",
+      "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+      "text": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:29:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:29:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "24bc67acff6e5b54ec21b8d5",
+      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+      "text": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:21:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:21:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "432d207b070a334c5a02d52f",
+      "title": "In Gaza, actors perform a war they are still living",
+      "text": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:18:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "In Gaza, actors perform a war they are still living",
+          "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:18:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f6b3709ba6f0b6b5ff967df",
+      "title": "Parents could lose benefits or face prison for child's crimes, minister says",
+      "text": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 12:10:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Parents could lose benefits or face prison for child's crimes, minister says",
+          "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 12:10:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fd1053c01fe281114a11db2c",
+      "title": "Doomsday AI: panic, regulation and the China fear",
+      "text": "When tech CEOs warn AI could end humanity, does the media get the story right?",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 12:10:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Doomsday AI: panic, regulation and the China fear",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 12:10:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d8b7730cfe224684723d85dc",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "text": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 11:50:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 11:50:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4f739bafcf5315620ce4ac3a",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "text": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 11:36:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f43f2818ba99f61c592ee95",
+      "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
+      "text": "101 East meets innovators across East Asia using digital technology to transform how we grieve those we love.",
+      "url": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 11:30:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
+          "url": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 11:30:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "16faf6d83993113fca8d181e",
+      "title": "LIVE: Brighton vs Arsenal – Premier League",
+      "text": "Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 11:00:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Brighton vs Arsenal – Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 11:00:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "418819a7214f98331ef56197",
       "title": "Michael Marra announced as new Scottish Labour leader",
-      "text": "Michael Marra has been named as Anas Sarwar's replacement.",
+      "text": "Anas Sarwar's replacement has been announced as the MSP for the North East region.",
       "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 10:53:18 GMT",
+      "published_at": "Sat, 19 Sep 2026 10:59:55 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Michael Marra announced as new Scottish Labour leader",
           "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 10:53:18 GMT"
+          "published_at": "Sat, 19 Sep 2026 10:59:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f8cf65176d9b7dae33bafb8f",
+      "title": "Iran stages show of force during mobilisation campaign in Tehran",
+      "text": "Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 10:56:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran stages show of force during mobilisation campaign in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 10:56:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -112,6 +498,25 @@
           "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
           "url": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 19 Sep 2026 10:52:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cd73930d66e100544407c487",
+      "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+      "text": "Ukraine's Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 10:51:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 10:51:21 +0000"
         }
       ],
       "cross_checked": false,
@@ -232,25 +637,6 @@
       "conflict": false
     },
     {
-      "id": "d8b7730cfe224684723d85dc",
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
-      "text": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 09:19:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Deadly shark attack prompts rare kill order in Western Australia",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 09:19:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3a6711a6e4889e66915e3a19",
       "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
       "text": "The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.",
@@ -346,388 +732,8 @@
       "conflict": false
     },
     {
-      "id": "0f6b3709ba6f0b6b5ff967df",
-      "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-      "text": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 07:19:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-          "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 07:19:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "edfa799c0162b92a3d6aef75",
-      "title": "Ugo Ugochukwu: Road to F1",
-      "text": "Ugo Ugochukwu has become the first American driver to win the FIA Formula 3 Championship.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 07:18:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ugo Ugochukwu: Road to F1",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/ugo-ugochukwu-road-to-f1?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 07:18:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e0a74203016c278153960a4f",
-      "title": "Russia’s elections are more than political theatre",
-      "text": "For the Kremlin, parliamentary elections remain a mechanism for political participation, feedback and legitimacy.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 06:46:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia’s elections are more than political theatre",
-          "url": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 06:46:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8364cb3f528d02b5495b9428",
-      "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
-      "text": "Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 06:35:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
-          "url": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 06:35:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6f3f900d5c4b8d46361d06d8",
-      "title": "Could US pull one-third of troops from Europe? What that would mean",
-      "text": "US Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 06:30:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Could US pull one-third of troops from Europe? What that would mean",
-          "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 06:30:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dd8ee2643c4fe47d9cecba21",
-      "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
-      "text": "Chelsea left with one point from their last three Premier League games after a 3-0 defeat at neighbours Brentford.",
-      "url": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 06:05:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
-          "url": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 06:05:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8f0b0b57d639ab89ea2eea2a",
-      "title": "Trump’s threats to demolish Kennedy Center sparks protest",
-      "text": "Protestors gathered outside Washington’s Kennedy Center after President Trump’s plans to close the arts venue.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 05:41:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s threats to demolish Kennedy Center sparks protest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 05:41:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4009e966c092c693dba99e47",
-      "title": "Brazilian police capture suspected serial killer disguised as a woman",
-      "text": "Brazilian police say they will reopen dozens of cases after they arrested a self-confessed serial killer.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 05:28:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Brazilian police capture suspected serial killer disguised as a woman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 05:28:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7ca8a33e66c6e9cec4ae59ab",
-      "title": "Indonesia ferry search: Divers retrieve three bodies, 126 people missing",
-      "text": "Bad weather has pushed authorities to begin operations to right the capsized ferry.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 05:24:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesia ferry search: Divers retrieve three bodies, 126 people missing",
-          "url": "https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 05:24:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "463bfa8cddc2b6c1f1515217",
-      "title": "UK jails teen asylum seeker for steering overcrowded Channel migrant boat",
-      "text": "The boat lacked safety gear and took on water before interception by UK Border Force, authorities say.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 04:57:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UK jails teen asylum seeker for steering overcrowded Channel migrant boat",
-          "url": "https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 04:57:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d717dbfd8fcf5adadd5a075a",
-      "title": "Japan has record 100,000 people aged over 100: How societies are ageing",
-      "text": "Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 04:31:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Japan has record 100,000 people aged over 100: How societies are ageing",
-          "url": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 04:31:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "37a108e83cdbf1b1d671ee5a",
-      "title": "Trump bans CNN, MS NOW, Politico from the White House",
-      "text": "Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 04:28:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump bans CNN, MS NOW, Politico from the White House",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 04:28:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0dd033f2a0e63c7354543d8d",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "text": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 04:27:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 04:27:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0a73b883d355bd9fe5cb3c5c",
-      "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
-      "text": "The floods raised concerns about cross-border warnings that experts say can no longer be ignored.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 04:25:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
-          "url": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 04:25:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e6c4c962f9cf5b0841904fe9",
-      "title": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-      "text": "Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 04:22:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-          "url": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 04:22:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "44630f84475be7d8e352cc57",
-      "title": "North Korea dismisses UN nuclear watchdog resolution",
-      "text": "The country rebukes the UN atomic agency's 'double standards' and says nuclear status is 'irreversible'.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 03:29:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "North Korea dismisses UN nuclear watchdog resolution",
-          "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 03:29:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "896efe35d36d13deced5b3fd",
-      "title": "Report: More US troops have died in Iran war than Pentagon says",
-      "text": "The Pentagon publicly lists 18 US military deaths since the Iran war began.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 03:02:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Report: More US troops have died in Iran war than Pentagon says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 03:02:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ab2294f595893d47940f39b7",
-      "title": "South Africans voice their anger as hundreds hold femicide vigil",
-      "text": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 02:41:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "South Africans voice their anger as hundreds hold femicide vigil",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 02:41:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3b93456f1651ded93f0c92cf",
-      "title": "US court blocks Trump plan to deport migrants to third countries",
-      "text": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 02:16:45 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US court blocks Trump plan to deport migrants to third countries",
-          "url": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 02:16:45 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2ab7f8c9f286a154c53652ee",
-      "title": "Could AI wipe out humans and how might it do it?",
-      "text": "Cyber Correspondent Joe Tidy looks at some of the scenarios being imagined and assesses how likely they are.",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3020ge51ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 00:48:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Could AI wipe out humans and how might it do it?",
-          "url": "https://www.bbc.co.uk/news/videos/c8p3020ge51ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 00:48:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "0cc0ac284fa1c3102379c48a",
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "title": "I found my partner at an Irish matchmaking festival - now I want others to do the same",
       "text": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
       "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -736,7 +742,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+          "title": "I found my partner at an Irish matchmaking festival - now I want others to do the same",
           "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 23:18:02 GMT"
         }
@@ -758,25 +764,6 @@
           "title": "Billionaire Man United owner says he has lost confidence in the UK",
           "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 23:06:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "97be3ab6a4079b109cf7b1cb",
-      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-      "text": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 23:04:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 23:04:41 GMT"
         }
       ],
       "cross_checked": false,
@@ -840,65 +827,8 @@
       "conflict": false
     },
     {
-      "id": "6060766e1151235fc9581d09",
-      "title": "Hodgkinson powers to Athlos win in speed suit",
-      "text": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 23:00:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Hodgkinson powers to Athlos win in speed suit",
-          "url": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 23:00:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4f739bafcf5315620ce4ac3a",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "text": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 22:58:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 22:58:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "78d2bea860ff396b726f1475",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "text": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 22:05:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump signs sweeping Russia sanctions bill",
-          "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 22:05:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "10b43e5bad37272222f5d789",
-      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+      "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
       "text": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
       "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -907,28 +837,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+          "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
           "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 18 Sep 2026 22:03:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c7291d969e5d7eea1d49bcdb",
-      "title": "Arsenal open to Dowman loan in right circumstances",
-      "text": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 21:30:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Arsenal open to Dowman loan in right circumstances",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 21:30:38 GMT"
         }
       ],
       "cross_checked": false,
