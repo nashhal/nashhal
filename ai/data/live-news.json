@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-09-19T23:03:58.487509+00:00",
-  "source_count": 55,
-  "story_count": 54,
+  "generated_at": "2026-09-20T01:08:12.337771+00:00",
+  "source_count": 56,
+  "story_count": 56,
   "documents": [
-    {
-      "id": "8887a20ed3f02d39027bd368",
-      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-      "text": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 23:04:41 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 23:04:41 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
-          "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 13:55:44 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -61,6 +36,82 @@
           "title": "Runaway horse captured by police on motorbikes",
           "url": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 16 Sep 2026 05:57:23 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "478e73a6c211621ef2402427",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+      "text": "The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 01:05:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+          "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 01:05:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "464fc202d62bce6fc60739e4",
+      "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+      "text": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 00:36:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+          "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 00:36:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "34631aa3c7f53e9d167aca32",
+      "title": "The Papers: 'Gaslit by the King' and 'McCann suspect's book plot'",
+      "text": "Earl Spencer's memoir and plans for the chief Madeleine McCann suspect to write a book lead Sunday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvexx4yd7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 00:02:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Gaslit by the King' and 'McCann suspect's book plot'",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvexx4yd7do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 00:02:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1c57bd248ceb48e036099c80",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+      "text": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -105,6 +156,158 @@
       "conflict": false
     },
     {
+      "id": "cf8b44c111b0630642cfa97c",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "text": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:49:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:49:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3fc0336e7d93da4dff4d6279",
+      "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
+      "text": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
+      "url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:18:46 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
+          "url": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:18:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1483418b98339f3651b3d9dc",
+      "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+      "text": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals.",
+      "url": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:18:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+          "url": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:18:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fdde8ff285b8d5a6a8ce1d29",
+      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+      "text": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
+      "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 19 Sep 2026 23:18:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+          "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+          "published_at": "Sat, 19 Sep 2026 23:18:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "208eb44d421557e6f3f985b8",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "text": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:18:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Cultural treasures are being destroyed by war, and people want justice",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:18:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4c523d935ecde39cd9c47057",
+      "title": "Maddy Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "text": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:17:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Maddy Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+          "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:17:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6c717aa9f7cec5dff382b5f0",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "text": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:01:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Not all AI workers think the tech could kill everyone",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:01:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "591b553a0644e4e0810ddaa4",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "text": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 23:01:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+          "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 23:01:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "4f739bafcf5315620ce4ac3a",
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "text": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
@@ -124,9 +327,28 @@
       "conflict": false
     },
     {
+      "id": "595f48ae4b236a7c3dbd2eb3",
+      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+      "text": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 19 Sep 2026 22:51:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+          "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 22:51:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "c9f3142341d1b1d2bca6a8ac",
       "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-      "text": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+      "text": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.",
       "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 19 Sep 2026 22:03:05 +0000",
@@ -270,25 +492,6 @@
           "title": "Premier League fans and players honour Noah Woods",
           "url": "https://www.bbc.co.uk/news/articles/crz6z7e0zzqjo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 19 Sep 2026 20:26:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cf8b44c111b0630642cfa97c",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "text": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 20:16:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 20:16:07 GMT"
         }
       ],
       "cross_checked": false,
@@ -656,25 +859,6 @@
       "conflict": false
     },
     {
-      "id": "f80b3923a9ac7fe2318fe892",
-      "title": "England crush Sri Lanka to top T20 world rankings",
-      "text": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 16:28:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England crush Sri Lanka to top T20 world rankings",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 16:28:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "957206654f8c79b6545ee12f",
       "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
       "text": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
@@ -808,190 +992,38 @@
       "conflict": false
     },
     {
-      "id": "c82eabe88ebdcbdac27fb23c",
-      "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
-      "text": "Unai Emery's side get first league win of season with goals from Johan Manzambi, Nicolas Jackson and Emi Buendia.",
-      "url": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 14:35:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Aston Villa compound Tottenham’s misery despite Spurs ending goal drought",
-          "url": "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 14:35:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42d346cc30283afe5296a8b4",
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "text": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "id": "4becf744d5332d293a8ad5be",
+      "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+      "text": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the slide\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 14:05:01 GMT",
+      "published_at": "Sat, 19 Sep 2026 14:52:38 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Converse pulls 'deeply upsetting' advert after backlash",
-          "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 14:05:01 GMT"
+          "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 19 Sep 2026 14:52:38 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "43f36ed20f0e519654e93b60",
-      "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
-      "text": "Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday's La Liga clash.",
-      "url": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 19 Sep 2026 13:58:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
-          "url": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-          "published_at": "Sat, 19 Sep 2026 13:58:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0f6b3709ba6f0b6b5ff967df",
-      "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-      "text": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+      "id": "97be3ab6a4079b109cf7b1cb",
+      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+      "text": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 12:10:38 GMT",
+      "published_at": "Fri, 18 Sep 2026 23:04:41 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-          "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 12:10:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "418819a7214f98331ef56197",
-      "title": "Michael Marra announced as new Scottish Labour leader",
-      "text": "Anas Sarwar's replacement has been announced as the MSP for the North East region.",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 10:59:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Michael Marra announced as new Scottish Labour leader",
-          "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 10:59:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f626d598311235ad4a0feb9b",
-      "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
-      "text": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
-      "url": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 10:52:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
-          "url": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 10:52:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cbe4636d0e28f980f4b2a8b9",
-      "title": "Bitter row over Diana book brings back unhappy times for royals",
-      "text": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 09:37:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bitter row over Diana book brings back unhappy times for royals",
-          "url": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 09:37:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0cc0ac284fa1c3102379c48a",
-      "title": "I found my partner at an Irish matchmaking festival - now I want others to do the same",
-      "text": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 23:18:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I found my partner at an Irish matchmaking festival - now I want others to do the same",
-          "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 23:18:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eba8c26f83546f727031e29a",
-      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "text": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 23:01:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-          "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 23:01:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "10b43e5bad37272222f5d789",
-      "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
-      "text": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 18 Sep 2026 22:03:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 18 Sep 2026 22:03:40 GMT"
+          "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 23:04:41 GMT"
         }
       ],
       "cross_checked": false,
