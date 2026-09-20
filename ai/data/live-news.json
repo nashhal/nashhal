@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T18:47:15.383609+00:00",
-  "source_count": 56,
-  "story_count": 55,
+  "generated_at": "2026-09-20T21:33:04.704820+00:00",
+  "source_count": 60,
+  "story_count": 59,
   "documents": [
     {
       "id": "c870fba3aeae10320b08b32f",
@@ -48,19 +48,342 @@
       "conflict": false
     },
     {
+      "id": "0a097b028410b26c221f72c7",
+      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+      "text": "Victims will have a private entrance and a private waiting room to separate them from defendants.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 21:30:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+          "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 21:30:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "08048c9720427f9f1ca4e846",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "text": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 21:17:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 21:17:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "68b3146e8d915d6d30789fcf",
+      "title": "Qatar PM urges Gulf security framework with Iran",
+      "text": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 21:00:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar PM urges Gulf security framework with Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 21:00:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1162148055b54d4d1f5d9085",
+      "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+      "text": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 20:58:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 20:58:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c250bbe16a10bc3070b61ca5",
+      "title": "Bundesliga",
+      "text": "Watch highlights from matchday four in the Bundesliga.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058tms?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 20:39:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bundesliga",
+          "url": "https://www.bbc.co.uk/iplayer/episode/l0058tms?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 20:39:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "96595c5537dc6fbfcd1ea4ef",
+      "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+      "text": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 20:31:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+          "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 20:31:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "313473f6a5135e709440267e",
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "text": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 18:32:55 GMT",
+      "published_at": "Sun, 20 Sep 2026 20:21:40 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
           "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 18:32:55 GMT"
+          "published_at": "Sun, 20 Sep 2026 20:21:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d5f520837568c505afad0d9b",
+      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "text": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 20:13:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+          "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 20:13:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43d4ac62cc038dc82670c7bb",
+      "title": "Mourinho prints out 'red card' incidents after Real lose derby",
+      "text": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 19:44:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mourinho prints out 'red card' incidents after Real lose derby",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 19:44:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d1360ed705b1247dc129edb0",
+      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+      "text": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 19:44:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 19:44:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f4ea398f4f91fa344e0b2904",
+      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "text": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+      "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 19:42:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US, China open high-level talks ahead of Trump-Xi summit",
+          "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 19:42:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "517bfb771086105fee48cc15",
+      "title": "Qatar says it is working to revive Iran-US talks",
+      "text": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 19:36:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar says it is working to revive Iran-US talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 19:36:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1fd353bfb8573aee7574e048",
+      "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+      "text": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 19:28:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+          "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 19:28:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2aa3e4e7c5f74678272a688b",
+      "title": "What have we learned from the Premier League so far?",
+      "text": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 19:08:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What have we learned from the Premier League so far?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 19:08:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7a1bf5c96410d1e96d8ca850",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "text": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 19:04:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+          "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 19:04:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de3f1abe51c3ba85118cf3a3",
+      "title": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
+      "text": "Olivia Holdt claims a hat-trick as Tottenham score seven times in the second half to condemn 10-player Crystal Palace to their first defeat since being promoted back to the Women's Super League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 18:52:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 18:52:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "433170683ef3d06d2e7c8dc6",
+      "title": "How will Saudi Arabia deal with the Houthis?",
+      "text": "Yemeni group warns of further attacks on the kingdom.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 18:34:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How will Saudi Arabia deal with the Houthis?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 18:34:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fed8f0509ac246f6151c52c3",
+      "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+      "text": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 18:32:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+          "url": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 18:32:03 +0000"
         }
       ],
       "cross_checked": false,
@@ -143,19 +466,19 @@
       "conflict": false
     },
     {
-      "id": "b9409f25f93100b56b4cca1f",
-      "title": "Last-minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
-      "text": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&at_campaign=rss",
+      "id": "5b1233e3895597815312f072",
+      "title": "Danny Dyer and Becky Hill join water industry protest",
+      "text": "Activists are calling for the water industry to be returned to public ownership.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qr3vw4537o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 17:32:55 GMT",
+      "published_at": "Sun, 20 Sep 2026 17:28:04 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Last-minute Cunha goal saves Man Utd from another defeat - who rated highest at Fulham?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 17:32:55 GMT"
+          "title": "Danny Dyer and Becky Hill join water industry protest",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qr3vw4537o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 17:28:04 GMT"
         }
       ],
       "cross_checked": false,
@@ -219,25 +542,6 @@
       "conflict": false
     },
     {
-      "id": "36bf8c40d9ec23b9b56fb4ba",
-      "title": "Impressive defence seals solid start at Liverpool for Iraola",
-      "text": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 16:57:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Impressive defence seals solid start at Liverpool for Iraola",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 16:57:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3eb6381f08225aa93c7b2f9c",
       "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
       "text": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.",
@@ -289,25 +593,6 @@
           "title": "Photos: Nepal flood survivors find little trace of former lives",
           "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
           "published_at": "Sun, 20 Sep 2026 16:36:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ce692605559e3647174e9796",
-      "title": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-      "text": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 16:34:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 16:34:40 GMT"
         }
       ],
       "cross_checked": false,
@@ -485,25 +770,6 @@
       "conflict": false
     },
     {
-      "id": "080ed3ca8f94e9aea8b97216",
-      "title": "Lib Dems sleepwalking to irrelevance under Davey, says council leader",
-      "text": "Devon County Council leader Julian Brazil tells the BBC Ed Davey is not the right person to lead the party.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r64r7d56mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 14:46:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Lib Dems sleepwalking to irrelevance under Davey, says council leader",
-          "url": "https://www.bbc.co.uk/news/articles/cq8r64r7d56mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 14:46:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "b8177303f2ef1c536e1bdb05",
       "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
       "text": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
@@ -574,25 +840,6 @@
           "title": "Humanoid robots fight in cage match in Shanghai",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
           "published_at": "Sun, 20 Sep 2026 14:12:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0ca7d7d2c5647f5ad2f94e9d",
-      "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
-      "text": "Residents living near Folkestone’s Grand Burstin Hotel relocated after safety inspectors' concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 14:02:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 14:02:59 GMT"
         }
       ],
       "cross_checked": false,
@@ -675,139 +922,6 @@
       "conflict": false
     },
     {
-      "id": "1d970028e8379c2318680590",
-      "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
-      "text": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 13:31:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 13:31:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bf3dba119fb0c971123b366f",
-      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-      "text": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'.",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 13:13:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-          "url": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 13:13:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0d74fff93ba8312ba735c797",
-      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "text": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians.",
-      "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 13:12:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-          "url": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 13:12:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1710523e1829b75fd6de38fd",
-      "title": "Moscow attacked by more than 1,000 Ukrainian drones",
-      "text": "This is the moment a drone exploded as it hit an apartment building in Moscow.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 13:10:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Moscow attacked by more than 1,000 Ukrainian drones",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 13:10:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f7542aeeb12d638b846319a2",
-      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-      "text": "Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 12:57:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-          "url": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 12:57:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cb2a379aa4a6a5238871675c",
-      "title": "Gaza’s children return to classrooms after years of Israeli attacks",
-      "text": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 12:38:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza’s children return to classrooms after years of Israeli attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 12:38:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "41a328d63814f6a519d65fdc",
-      "title": "LIVE: Fulham 1-1 Manchester United – Premier League",
-      "text": "All the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 12:33:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Fulham 1-1 Manchester United – Premier League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 12:33:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "460328dac30608bc8232fb31",
       "title": "Man rearrested after missing mum's remains found",
       "text": "The remains of mother-of-three Joanne Sheen were found almost seven years after she went missing.",
@@ -840,44 +954,6 @@
           "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 20 Sep 2026 12:23:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "13c174fa158f5f8d814cc02b",
-      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-      "text": "Israeli forces have killed a Palestinian man near Jenin, and an Israeli settler was fatally shot in a separate incident.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 12:11:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 12:11:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "08cd1cd8bbfabc9114982c95",
-      "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-      "text": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 12:00:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 12:00:16 +0000"
         }
       ],
       "cross_checked": false,
