@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-09-21T00:16:03.032841+00:00",
-  "source_count": 58,
-  "story_count": 57,
+  "generated_at": "2026-09-21T05:03:07.172476+00:00",
+  "source_count": 59,
+  "story_count": 59,
   "documents": [
-    {
-      "id": "c870fba3aeae10320b08b32f",
-      "title": "Trump says monumental arch in Washington, DC will also be military complex",
-      "text": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 15:16:38 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump says triumphal arch will be military complex with drones and snipers",
-          "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 16:36:43 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says monumental arch in Washington, DC will also be military complex",
-          "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 15:16:38 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -42,6 +17,25 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff1318953a8af2bf2754654d",
+      "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+      "text": "An immigration attorney representing the man’s family identifies him as Wilber Rafael Garces Perez, a Venezuelan.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 20 Sep 2026 23:59:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+          "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+          "published_at": "Sun, 20 Sep 2026 23:59:28 +0000"
         }
       ],
       "cross_checked": false,
@@ -163,8 +157,8 @@
     },
     {
       "id": "e8e24de362ec72c41735fe18",
-      "title": "Polls close in Russian wartime election with ruling party set to dominate",
-      "text": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+      "title": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
+      "text": "The Kremlin wants the elections to showcase popular support for the war in Ukraine and legitimise its action.",
       "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 20 Sep 2026 22:54:00 +0000",
@@ -172,7 +166,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Polls close in Russian wartime election with ruling party set to dominate",
+          "title": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
           "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
           "published_at": "Sun, 20 Sep 2026 22:54:00 +0000"
         }
@@ -333,25 +327,6 @@
       "conflict": false
     },
     {
-      "id": "313473f6a5135e709440267e",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "text": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 20:21:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 20:21:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d5f520837568c505afad0d9b",
       "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
       "text": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.",
@@ -410,7 +385,7 @@
     },
     {
       "id": "f4ea398f4f91fa344e0b2904",
-      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "title": "US proposes AI safety notification mechanism in talks with China",
       "text": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
       "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
       "source": "Al Jazeera",
@@ -419,7 +394,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "US, China open high-level talks ahead of Trump-Xi summit",
+          "title": "US proposes AI safety notification mechanism in talks with China",
           "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
           "published_at": "Sun, 20 Sep 2026 19:42:13 +0000"
         }
@@ -751,19 +726,19 @@
       "conflict": false
     },
     {
-      "id": "9a0a56f17896cfd355f714c0",
-      "title": "Photos: Nepal flood survivors find little trace of former lives",
-      "text": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.",
-      "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 16:36:03 +0000",
+      "id": "e791fd7ad415206f7cf98d37",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "text": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 20 Sep 2026 16:36:43 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Photos: Nepal flood survivors find little trace of former lives",
-          "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 16:36:03 +0000"
+          "source": "BBC",
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 20 Sep 2026 16:36:43 GMT"
         }
       ],
       "cross_checked": false,
@@ -808,63 +783,6 @@
       "conflict": false
     },
     {
-      "id": "186a30a3df8b26ffe8df95bf",
-      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-      "text": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 15:57:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-          "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 15:57:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "22aa2d365946451ea49dd635",
-      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-      "text": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 15:30:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-          "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 15:30:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b319e2a2b65f5450cc251930",
-      "title": "No criminality in death of three sisters who died in sea",
-      "text": "An investigation by Sussex Police into the deaths off the coast of Brighton has concluded.",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwp9x4x4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 15:26:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No criminality in death of three sisters who died in sea",
-          "url": "https://www.bbc.co.uk/news/articles/cqevwp9x4x4po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 15:26:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d996c0f639854fdf97ebbecd",
       "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
       "text": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
@@ -878,25 +796,6 @@
           "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
           "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 20 Sep 2026 15:21:19 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b8177303f2ef1c536e1bdb05",
-      "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-      "text": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 14:43:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 14:43:49 +0000"
         }
       ],
       "cross_checked": false,
@@ -922,139 +821,6 @@
       "conflict": false
     },
     {
-      "id": "a5a7b9cf7289ed1a24aad5aa",
-      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-      "text": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 14:38:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 14:38:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "df327304fe2dbb3e03485b2b",
-      "title": "Humanoid robots fight in cage match in Shanghai",
-      "text": "Humanoid robots fight in cage match in Shanghai",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 14:12:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Humanoid robots fight in cage match in Shanghai",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 14:12:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "09d687c27ba0fd5bc39f8322",
-      "title": "The pro-Israel censors are starting to lose",
-      "text": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 20 Sep 2026 14:00:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The pro-Israel censors are starting to lose",
-          "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
-          "published_at": "Sun, 20 Sep 2026 14:00:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4b86af65b6e5ddc23b1d649d",
-      "title": "Top Gear star Richard Hammond thanks emergency crews 20 years on from crash",
-      "text": "Richard Hammond was seriously injured in a jet dragster crash at Elvington in September 2006.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y5084x8e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 13:55:58 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Top Gear star Richard Hammond thanks emergency crews 20 years on from crash",
-          "url": "https://www.bbc.co.uk/news/articles/c65y5084x8e0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 13:55:58 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "460328dac30608bc8232fb31",
-      "title": "Man rearrested after missing mum's remains found",
-      "text": "The remains of mother-of-three Joanne Sheen were found almost seven years after she went missing.",
-      "url": "https://www.bbc.co.uk/news/articles/ck8d3lz684zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 12:32:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man rearrested after missing mum's remains found",
-          "url": "https://www.bbc.co.uk/news/articles/ck8d3lz684zvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 12:32:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ad9e995a839bf16fad6e3ad1",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "text": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 10:45:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 10:45:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "478e73a6c211621ef2402427",
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "text": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 20 Sep 2026 04:49:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-          "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 20 Sep 2026 04:49:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3fc0336e7d93da4dff4d6279",
       "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
       "text": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers.",
@@ -1074,19 +840,285 @@
       "conflict": false
     },
     {
-      "id": "208eb44d421557e6f3f985b8",
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "text": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "id": "b578fc587cf5dabbe7105746",
+      "title": "Massive explosions at Syrian army weapons depot near Aleppo",
+      "text": "Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 04:19:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Massive explosions at Syrian army weapons depot near Aleppo",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 04:19:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56646a55041df366e2b7e4a2",
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "text": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 19 Sep 2026 23:18:18 GMT",
+      "published_at": "Mon, 21 Sep 2026 04:00:38 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 19 Sep 2026 23:18:18 GMT"
+          "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 04:00:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1e105a6089b4cf6f507719c3",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "text": "Speaking exclusively to the BBC, Prof Fonagy says being young is much harder now than it was.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 04:00:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 04:00:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "313473f6a5135e709440267e",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "text": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 03:22:44 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 03:22:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "82b0fa2d8542e82de29974a9",
+      "title": "Haiti extradites 18 suspects in assassination of president to US",
+      "text": "The suspects were flown to Miami to stand trial over the murder of Haitian President Jovenel Moise five years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 02:44:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Haiti extradites 18 suspects in assassination of president to US",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 02:44:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e7d2fff2e8ce6df57ccb598",
+      "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+      "text": "Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 02:31:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 02:31:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c9527db831208a56ccc3468f",
+      "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+      "text": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish exactly when and how the crash happened.",
+      "url": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 02:27:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+          "url": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 02:27:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6a485b64441f0b5381cf262e",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+      "text": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 01:30:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+          "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 01:30:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "946eb77f15501a4cafd13576",
+      "title": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "text": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 01:19:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump administration readies sweeping sanctions against ICC, reports say",
+          "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 01:19:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "623d74d3ad10b47294bc963c",
+      "title": "The Sahel and the UN: a smaller footprint, a different role",
+      "text": "As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 00:53:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "The Sahel and the UN: a smaller footprint, a different role",
+          "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 00:53:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "94de0affd64f14ccff3ef68f",
+      "title": "The Papers: 'Russia to test Nato pact' and 'Labour eye tax raid'",
+      "text": "Potential threats from Russia to Nato and speculation over Labour's tax plans ahead of the Budget lead Monday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3kpy905plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 00:37:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Russia to test Nato pact' and 'Labour eye tax raid'",
+          "url": "https://www.bbc.co.uk/news/articles/crp3kpy905plo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 00:37:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b7cfe62f594d05bd6dc4211e",
+      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "text": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 00:34:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+          "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 00:34:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e42e818caa0b6ceb54e8be60",
+      "title": "Ethiopian armed groups forge alliance against government",
+      "text": "Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 00:34:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ethiopian armed groups forge alliance against government",
+          "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 00:34:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "467ae2284464849687a4d920",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+      "text": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 00:05:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+          "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 00:05:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0796fb1092323e004d1cdb69",
+      "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+      "text": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation 'without limitations'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 00:00:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 00:00:47 +0000"
         }
       ],
       "cross_checked": false,
