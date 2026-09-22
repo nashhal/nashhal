@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T18:54:14.193378+00:00",
-  "source_count": 53,
-  "story_count": 53,
+  "generated_at": "2026-09-22T22:08:39.724792+00:00",
+  "source_count": 55,
+  "story_count": 52,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -23,19 +23,563 @@
       "conflict": false
     },
     {
+      "id": "33795f570c93dc4918db033c",
+      "title": "ODI Cricket",
+      "text": "Highlights from the first ODI of 2026 between England and Sri Lanka.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 22:51:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "ODI Cricket",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 22:51:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d5298c203a11d4d7cc9fbdbb",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "text": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 21:50:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 21:50:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "9474722a1fbe0050caa8320e",
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "text": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 18:43:29 GMT",
+      "published_at": "Tue, 22 Sep 2026 21:36:55 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "US to build two military bases in Greenland under new deal with Denmark",
           "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 18:43:29 GMT"
+          "published_at": "Tue, 22 Sep 2026 21:36:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "231eb2af2050fa76cb7a5ae3",
+      "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+      "text": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 21:30:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+          "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 21:30:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "86a1053c49f5372dea25fad0",
+      "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+      "text": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 21:22:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+          "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 21:22:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2c5141f6faf78fa988c84e05",
+      "title": "New EU industry rules would damage UK, warns Burnham",
+      "text": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 21:18:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "New EU industry rules would damage UK, warns Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 21:18:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b497fc6b725f856835653b09",
+      "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+      "text": "Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 21:09:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 21:09:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d09b02743202430939f27b8e",
+      "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
+      "text": "French President Emmanuel Macron says the “coalition of the willing\" will not back down in its support of Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 21:09:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 21:09:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8cfb34e4894bc1d648449eb4",
+      "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+      "text": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+      "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 20:54:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+          "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 20:54:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9ae4abf790b965c23465bf0a",
+      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "text": "Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 20:27:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+          "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 20:27:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88bf3594843387ece0fd3a53",
+      "title": "Trump: US-Iran meeting at UN was ‘very good’",
+      "text": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 20:23:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump: US-Iran meeting at UN was ‘very good’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 20:23:48 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US, Iran hold ‘very good’ talks, Trump says at UN meeting",
+          "url": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 18:14:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "328b6bf0e47dfd2895311abe",
+      "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+      "text": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 20:08:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 20:08:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9524ddae013a305f3898d8dd",
+      "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+      "text": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers.",
+      "url": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 20:03:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+          "url": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 20:03:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2caf0a39a3cdaaae402e30e4",
+      "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+      "text": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 19:59:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:59:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "91ee1d27812e14764d0d3adf",
+      "title": "Djibouti minister appeals for aid for Yemeni refugees",
+      "text": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 19:56:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Djibouti minister appeals for aid for Yemeni refugees",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:56:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43a0b427e865ae8d367d099d",
+      "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+      "text": "US solicitor general challenges lower court's ruling on Georgetown scholar's detention, sparking constitutional debates.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 19:52:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+          "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:52:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c0f79202fab1babb8f7f209b",
+      "title": "American power, AI and a walkout - key moments from Trump's UN speech",
+      "text": "BBC correspondents who covered the president's address on Tuesday assess five key moments.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:44:44 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "American power, AI and a walkout - key moments from Trump's UN speech",
+          "url": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:44:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "982437b1960d84bc9fc08c7a",
+      "title": "Lib Dems leave conference buoyed by Davey's message",
+      "text": "Concerns over Sir Ed Davey's leadership were dampened by pledges at conference and his performance.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:33:27 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Lib Dems leave conference buoyed by Davey's message",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:33:27 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4903314769a949f703ba3af4",
+      "title": "Qatar denounces Israeli aggression across the region",
+      "text": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 19:29:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar denounces Israeli aggression across the region",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:29:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "caf04cf58aa990a240872bed",
+      "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+      "text": "A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 19:17:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:17:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a5a040b6401f03e7bc0b972d",
+      "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+      "text": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+      "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:15:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+          "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:15:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "21ac5c4006a688b442bc0ca8",
+      "title": "Jacks stars as England grind out win over Sri Lanka",
+      "text": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:08:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jacks stars as England grind out win over Sri Lanka",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:08:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "70f11dbf8f061a0dd991d98b",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "text": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:06:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:06:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "760cc7c47368c53f515a6a59",
+      "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+      "text": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 19:01:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 19:01:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5a79f85c0c1b87a4b6f2037e",
+      "title": "Is Ethiopia heading towards renewed civil war?",
+      "text": "Seven armed groups announce alliance to topple government.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 18:51:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is Ethiopia heading towards renewed civil war?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 18:51:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97a1ecaf3c76d62cd80bf8c6",
+      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+      "text": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 18:49:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 18:49:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "68a662b8234f78801d2f56cb",
+      "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+      "text": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 18:48:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+          "url": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 18:48:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "20801d1894632e519c22e225",
+      "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+      "text": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 22 Sep 2026 18:46:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 21:11:47 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+          "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 18:46:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff84e05830e215390260de9f",
+      "title": "Banned British player's £15m lawsuit against WTA dismissed",
+      "text": "British player Tara Moore's legal bid for £15m in damages over a doping case which led to her being banned for four years is dismissed.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 22 Sep 2026 18:34:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Banned British player's £15m lawsuit against WTA dismissed",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c9x2z652v86no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 22 Sep 2026 18:34:15 GMT"
         }
       ],
       "cross_checked": false,
@@ -61,25 +605,6 @@
       "conflict": false
     },
     {
-      "id": "0dd83c1f6e3a58c9b074509c",
-      "title": "Trump says US officials met for three hours with Iranian delegation",
-      "text": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 18:14:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says US officials met for three hours with Iranian delegation",
-          "url": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 18:14:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "de7b53e46bd93358cce6b97a",
       "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
       "text": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result.",
@@ -99,27 +624,8 @@
       "conflict": false
     },
     {
-      "id": "8cfb34e4894bc1d648449eb4",
-      "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-      "text": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-      "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 18:00:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-          "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 18:00:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "9c1f61eaf983577d43625bcd",
-      "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+      "title": "Lula warns against foreign interference in Brazil election at UN",
       "text": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address.",
       "url": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
       "source": "Al Jazeera",
@@ -128,28 +634,9 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+          "title": "Lula warns against foreign interference in Brazil election at UN",
           "url": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
           "published_at": "Tue, 22 Sep 2026 17:51:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "328b6bf0e47dfd2895311abe",
-      "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-      "text": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 17:50:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 17:50:13 GMT"
         }
       ],
       "cross_checked": false,
@@ -188,25 +675,6 @@
           "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
           "url": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
           "published_at": "Tue, 22 Sep 2026 17:35:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "419090f30d5e575cbbf555fb",
-      "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
-      "text": "Sonay Kartal and Katie Boulter lose their singles matches as Great Britain are beaten by a strong Czech Republic side in the Billie Jean King Cup quarter-finals.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 17:11:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Keothavong 'can't fault' GB after BJK Cup loss to Czechs",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmkg75dyz154o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 17:11:54 GMT"
         }
       ],
       "cross_checked": false,
@@ -270,7 +738,7 @@
       "conflict": false
     },
     {
-      "id": "656b4b425266b6eee08ffc2d",
+      "id": "f750be8c8544c3a9b79f1e4f",
       "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
       "text": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan.",
       "url": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
@@ -280,28 +748,15 @@
       "sources": [
         {
           "source": "Al Jazeera",
+          "title": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
+          "published_at": "Tue, 22 Sep 2026 19:14:41 +0000"
+        },
+        {
+          "source": "Al Jazeera",
           "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
           "url": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
           "published_at": "Tue, 22 Sep 2026 16:55:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c9811014c7154412111e2234",
-      "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-      "text": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-      "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 16:50:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-          "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 16:50:29 GMT"
         }
       ],
       "cross_checked": false,
@@ -321,63 +776,6 @@
           "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
           "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 22 Sep 2026 16:45:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ccc93eab3a7d2dea23ff3888",
-      "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-      "text": "Jordan's King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.'",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 16:35:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 16:35:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1e5da55a7e3f1e94f7002ea8",
-      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-      "text": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
-      "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 16:31:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-          "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 16:31:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a6e6b907bc90525d3c961012",
-      "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-      "text": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 16:18:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 16:18:48 +0000"
         }
       ],
       "cross_checked": false,
@@ -441,44 +839,6 @@
       "conflict": false
     },
     {
-      "id": "23ef9d74948533cb16261d53",
-      "title": "Martha's Rule rolled out at every A&E department in England",
-      "text": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 15:49:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Martha's Rule rolled out at every A&E department in England",
-          "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 15:49:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ece72e7a5cea69d7afc9e11d",
-      "title": "UNGA 2026: Can the UN stop wars?",
-      "text": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:49:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UNGA 2026: Can the UN stop wars?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:49:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c87042937cb10db3c357f4ed",
       "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
       "text": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
@@ -492,101 +852,6 @@
           "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
           "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 22 Sep 2026 15:43:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "85044f61f2d7a9f351c2eb9b",
-      "title": "Trump follows in Hugo Chavez’s footsteps to launch his own TV channel",
-      "text": "Trump has launched his own channel amid an ongoing rift with the White House press pool.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:33:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump follows in Hugo Chavez’s footsteps to launch his own TV channel",
-          "url": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:33:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e8bbbd2fdfa228994558bc0a",
-      "title": "The return of Palestinian football: ‘We are a people who must live’",
-      "text": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
-      "url": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:32:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The return of Palestinian football: ‘We are a people who must live’",
-          "url": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:32:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b44b143fb0a9e1b3b2ded926",
-      "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
-      "text": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:27:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
-          "url": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:27:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8c668520dcd2b72e3fba898f",
-      "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
-      "text": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:23:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
-          "url": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:23:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3265d9787af861f18a3ac716",
-      "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
-      "text": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:19:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:19:19 +0000"
         }
       ],
       "cross_checked": false,
@@ -631,101 +896,6 @@
       "conflict": false
     },
     {
-      "id": "7c5bf9adcac9b97bc79f91f4",
-      "title": "What’s behind French protests against a new police bill?",
-      "text": "Critics say controversial law will give police officers a 'licence to kill'.",
-      "url": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 15:01:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What’s behind French protests against a new police bill?",
-          "url": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 15:01:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aa02ddc72c0f592279ede92d",
-      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-      "text": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 14:47:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-          "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 14:47:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ef0d966af063e6935ff72311",
-      "title": "UN Chief condemns Gaza destruction, West Bank settlements",
-      "text": "In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 14:37:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UN Chief condemns Gaza destruction, West Bank settlements",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 14:37:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3d44f3d1927bfd2692493798",
-      "title": "Where is the US opening new military bases in Greenland?",
-      "text": "At least two new US bases will be established as part of a deal with Denmark and Greenland.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 14:31:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Where is the US opening new military bases in Greenland?",
-          "url": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 14:31:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f820781365fc7751e65c2254",
-      "title": "Jerusalem Daily: Israel besieges Palestinian town",
-      "text": "Israeli forces have effectively turned the Palestinian town of Biddu into military barracks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 14:30:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israel besieges Palestinian town",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 14:30:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f9933e3207844c451d8daabf",
       "title": "Tim Westwood charged with two more sexual offences",
       "text": "The alleged sexual offences date back to 1991 and 2004.",
@@ -739,25 +909,6 @@
           "title": "Tim Westwood charged with two more sexual offences",
           "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 22 Sep 2026 14:29:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "98988fec9c882112680098e7",
-      "title": "Ex-Rwandan official appears at UK trial over 1994 genocide",
-      "text": "Prosecutors allege Vincent Brown incited and directed acts of violence during the early days of the Rwandan genocide.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/2425?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 14:28:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ex-Rwandan official appears at UK trial over 1994 genocide",
-          "url": "https://www.aljazeera.com/news/2026/9/22/2425?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 14:28:54 +0000"
         }
       ],
       "cross_checked": false,
@@ -783,44 +934,6 @@
       "conflict": false
     },
     {
-      "id": "a7cf596d16cef17944319abc",
-      "title": "Who will start for England at Euro 2028? BBC Sport's predictions",
-      "text": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 14:25:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Who will start for England at Euro 2028? BBC Sport's predictions",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 14:25:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "25b91f8afeb701b30b852c44",
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "text": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 14:03:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 14:03:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "ae097b3693de67715ef94c31",
       "title": "Pollock left money on table to stay at Saints - Hearn",
       "text": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
@@ -834,63 +947,6 @@
           "title": "Pollock left money on table to stay at Saints - Hearn",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckn8eq99jnevo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 22 Sep 2026 13:54:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "62a62d08e34a97226f0f662f",
-      "title": "Colombia eases gun restrictions despite fears of more violence",
-      "text": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 13:45:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Colombia eases gun restrictions despite fears of more violence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 13:45:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bef312fe9947738b6a488018",
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "text": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 22 Sep 2026 13:29:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-          "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-          "published_at": "Tue, 22 Sep 2026 13:29:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2c5141f6faf78fa988c84e05",
-      "title": "New EU industry rules would damage UK, warns Burnham",
-      "text": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 13:10:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "New EU industry rules would damage UK, warns Burnham",
-          "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 13:10:23 GMT"
         }
       ],
       "cross_checked": false,
@@ -916,25 +972,6 @@
       "conflict": false
     },
     {
-      "id": "7949c04832a7bcafb5c03c78",
-      "title": "How a row with broadcasters left Trump speaking to cameras without a microphone",
-      "text": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 12:26:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How a row with broadcasters left Trump speaking to cameras without a microphone",
-          "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 12:26:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "be66dbd07ebd9bbe9cee3405",
       "title": "The 'selfless decision' that saved our boy's life",
       "text": "Ollie is still thriving and happy 10 years after receiving a liver transplant from 17-year-old Miriam.",
@@ -954,25 +991,6 @@
       "conflict": false
     },
     {
-      "id": "f1bcd8cec3fb57cf397ab518",
-      "title": "Can you take the 'London' out of London Fashion Week?",
-      "text": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-      "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 09:27:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Can you take the 'London' out of London Fashion Week?",
-          "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 09:27:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "973179b60828efb85d9418c6",
       "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
       "text": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
@@ -986,25 +1004,6 @@
           "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
           "url": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 22 Sep 2026 05:00:15 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "777c4db648adc7cec6ed15a5",
-      "title": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
-      "text": "Lian Yunzhi broke the women's world record twice in three days at World Cube Association competitions.",
-      "url": "https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 22 Sep 2026 02:43:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
-          "url": "https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 22 Sep 2026 02:43:52 GMT"
         }
       ],
       "cross_checked": false,
