@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T21:04:04.304554+00:00",
-  "source_count": 57,
-  "story_count": 56,
+  "generated_at": "2026-09-22T00:06:28.066271+00:00",
+  "source_count": 58,
+  "story_count": 57,
   "documents": [
     {
       "id": "1aa60757aad2ccfb21a82fd0",
       "title": "Infantino says he is open to Fifa reform",
-      "text": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+      "text": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Mon, 21 Sep 2026 19:50:57 GMT",
@@ -67,19 +67,114 @@
       "conflict": false
     },
     {
+      "id": "ec95cda66ccb5458dfb81032",
+      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "text": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 23:25:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Flights at major US airports delayed after cable cut by construction workers",
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 23:25:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1c6eaeb0daa1d2788bd6dd2f",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "text": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 22:48:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 22:48:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a692165866a139dae617d617",
+      "title": "Manchester to host world leaders at G20 summit in 2027",
+      "text": "Prime Minister Andy Burnham said he was pleased he would be welcoming US President Donald Trump to the city.",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g503n374jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 22:39:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Manchester to host world leaders at G20 summit in 2027",
+          "url": "https://www.bbc.co.uk/news/articles/cv4g503n374jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 22:39:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4ad22a965b1ba3633c47f3d3",
+      "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+      "text": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 22:13:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Being run over by pitch roller was 'terrifying' - Townsend",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 22:13:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b0616351da049e735facd386",
+      "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+      "text": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 21:49:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 21:49:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "90aa4cbf62f6b35d837366b3",
       "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-      "text": "The prime minister \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from Houthi militants in Yemen.",
+      "text": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
       "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 21:00:13 GMT",
+      "published_at": "Mon, 21 Sep 2026 21:36:39 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
           "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 21:00:13 GMT"
+          "published_at": "Mon, 21 Sep 2026 21:36:39 GMT"
         }
       ],
       "cross_checked": false,
@@ -87,18 +182,94 @@
     },
     {
       "id": "899fccdfbb7848c7fd6793ca",
-      "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
       "text": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 20:43:26 GMT",
+      "published_at": "Mon, 21 Sep 2026 21:34:32 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
           "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 20:43:26 GMT"
+          "published_at": "Mon, 21 Sep 2026 21:34:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a4f72b013b7683e727dc338e",
+      "title": "Bishop of Lincoln resigns amid sex assault inquiry",
+      "text": "The Right Reverend Stephen Conway remains under investigation following a \"safeguarding complaint\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4pwlpn2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 21:16:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bishop of Lincoln resigns amid sex assault inquiry",
+          "url": "https://www.bbc.co.uk/news/articles/ckge4pwlpn2po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 21:16:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "504fe7902736384222126b63",
+      "title": "How thousands of migrants stranded in Ceuta are surviving",
+      "text": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 21:04:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How thousands of migrants stranded in Ceuta are surviving",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 21:04:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8bdc462214f4847ae56b8d5d",
+      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "text": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 21 Sep 2026 20:57:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+          "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+          "published_at": "Mon, 21 Sep 2026 20:57:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cc4a05f02007fdf86c04fdcc",
+      "title": "Arrests as migrant boat reaches UK unintercepted",
+      "text": "Five people have been detained and an investigation launched, the Home Office says.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63pdv3q78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 20:52:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Arrests as migrant boat reaches UK unintercepted",
+          "url": "https://www.bbc.co.uk/news/articles/cxq63pdv3q78o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 20:52:54 GMT"
         }
       ],
       "cross_checked": false,
@@ -124,25 +295,6 @@
       "conflict": false
     },
     {
-      "id": "2de4c28a39559cc99c475553",
-      "title": "Seventeen arrested in Teesside organised crime raids",
-      "text": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 20:36:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Seventeen arrested in Teesside organised crime raids",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 20:36:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "db7810a544ed2be108800de5",
       "title": "Settling old scores with royals drives Spencer's book, but Diana steals focus",
       "text": "What more revelations are going to appear now the full details of his Diana book are published?",
@@ -156,6 +308,25 @@
           "title": "Settling old scores with royals drives Spencer's book, but Diana steals focus",
           "url": "https://www.bbc.co.uk/news/articles/cqy7z21ekkrro?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 21 Sep 2026 20:32:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c6105b1028cd7fc50052627c",
+      "title": "Watch: Police raid organised crime targets in Teesside",
+      "text": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+      "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 21 Sep 2026 20:21:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: Police raid organised crime targets in Teesside",
+          "url": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 20:21:29 GMT"
         }
       ],
       "cross_checked": false,
@@ -182,7 +353,7 @@
     },
     {
       "id": "6ab68fd75a253b62526c0d15",
-      "title": "Putin’s party wins supermajority in Russia’s parliamentary vote",
+      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
       "text": "Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.",
       "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
       "source": "Al Jazeera",
@@ -191,7 +362,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Putin’s party wins supermajority in Russia’s parliamentary vote",
+          "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
           "url": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
           "published_at": "Mon, 21 Sep 2026 20:17:39 +0000"
         }
@@ -694,25 +865,6 @@
       "conflict": false
     },
     {
-      "id": "1c6eaeb0daa1d2788bd6dd2f",
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "text": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 15:58:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 15:58:53 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1dc32443dabeb415e8d12735",
       "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
       "text": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
@@ -726,25 +878,6 @@
           "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 21 Sep 2026 15:39:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1a4a8ccdd565f844ea4e66e1",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "text": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 15:24:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Xhaka under investigation over Covid-19 certificate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 15:24:51 GMT"
         }
       ],
       "cross_checked": false,
@@ -827,44 +960,6 @@
       "conflict": false
     },
     {
-      "id": "cfe1aa4e7608a341995e078a",
-      "title": "How an economic squeeze is changing everyday life and work for Iranians",
-      "text": "Iran’s government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.",
-      "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 21 Sep 2026 14:50:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How an economic squeeze is changing everyday life and work for Iranians",
-          "url": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-          "published_at": "Mon, 21 Sep 2026 14:50:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aa10a1da941edf4658594426",
-      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-      "text": "The use of the Pelican has provoked interest among military analysts as to whether it is a tactical ballistic missile.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 21 Sep 2026 14:19:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-          "url": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-          "published_at": "Mon, 21 Sep 2026 14:19:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c8e7aa74cf62264912629c12",
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "text": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
@@ -884,25 +979,6 @@
       "conflict": false
     },
     {
-      "id": "77bbbe03d43643534128ee03",
-      "title": "Watch: Patrick Clancy says he forgives his ex-wife, Lindsay",
-      "text": "The ex-husband of a US mother accused of murdering their three children has said he would have been \"eaten up inside forever\" had he not forgiven her.",
-      "url": "https://www.bbc.co.uk/news/videos/c699dlj957mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 13:53:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Patrick Clancy says he forgives his ex-wife, Lindsay",
-          "url": "https://www.bbc.co.uk/news/videos/c699dlj957mgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 13:53:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "93c4e6486c69bcad2d6571db",
       "title": "Katya Adler: Merz's political crisis threatens Germany's obsession with stability",
       "text": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes.",
@@ -916,25 +992,6 @@
           "title": "Katya Adler: Merz's political crisis threatens Germany's obsession with stability",
           "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 21 Sep 2026 13:30:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7d2c2c77524fc4dbea239776",
-      "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
-      "text": "Axel Rudakubana is accused of grievous bodily harm and two other assaults of prison officers while serving a life sentence.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 12:32:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
-          "url": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 12:32:42 GMT"
         }
       ],
       "cross_checked": false,
@@ -979,25 +1036,6 @@
       "conflict": false
     },
     {
-      "id": "db5b5e673f5348dd398c1166",
-      "title": "Why Cardiff is set to win race to host Fury-Joshua",
-      "text": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 10:51:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why Cardiff is set to win race to host Fury-Joshua",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 10:51:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "fa9e2eadcf5280ed1dcc0023",
       "title": "Will you get £13,000 a year when you stop working? Here's how to check",
       "text": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
@@ -1011,25 +1049,6 @@
           "title": "Will you get £13,000 a year when you stop working? Here's how to check",
           "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 21 Sep 2026 08:49:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c708795e5d4ae9e38ab5339f",
-      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
-      "text": "Men who sexually abused them as underage girls are still walking around the city, they say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 21 Sep 2026 05:00:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
-          "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 21 Sep 2026 05:00:34 GMT"
         }
       ],
       "cross_checked": false,
