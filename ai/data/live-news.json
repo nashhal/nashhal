@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T22:23:39.188566+00:00",
-  "source_count": 54,
-  "story_count": 52,
+  "generated_at": "2026-09-25T01:29:45.345551+00:00",
+  "source_count": 56,
+  "story_count": 54,
   "documents": [
     {
       "id": "68bba2e6e1ecfdc95b015197",
@@ -16,7 +16,7 @@
           "source": "BBC",
           "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
           "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 21:21:47 GMT"
+          "published_at": "Fri, 25 Sep 2026 00:44:04 GMT"
         },
         {
           "source": "Al Jazeera",
@@ -73,19 +73,266 @@
       "conflict": false
     },
     {
-      "id": "2398fbfbc1822920fb596001",
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "text": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "id": "9b6244fb053fde4a568757d3",
+      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+      "text": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 24 Sep 2026 23:51:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+          "published_at": "Thu, 24 Sep 2026 23:51:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d138bc5d49f89f273ca0e854",
+      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+      "text": "Gyms are booming, solitary cardio is out - how workouts are changing.",
+      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 23 Sep 2026 23:42:38 GMT",
+      "published_at": "Thu, 24 Sep 2026 23:46:14 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-          "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 23 Sep 2026 23:42:38 GMT"
+          "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+          "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:46:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "52ab33788236e966a1db3aff",
+      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+      "text": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:45:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+          "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:45:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fce944021683e70a43453527",
+      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+      "text": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:44:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+          "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:44:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b23931d9db6a740a48fa54dc",
+      "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+      "text": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:44:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:44:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5e42acdc9536fbed1546d279",
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "text": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:41:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+          "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:41:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5bbee0620df26498b341bd1f",
+      "title": "Catterick Garrison fire could burn through night, authorities say",
+      "text": "North Yorkshire Fire and Rescue Service said in a statement that multiple crews were at the scene.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:36:42 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Catterick Garrison fire could burn through night, authorities say",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:36:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cb25edfc618ba2f024ad8414",
+      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+      "text": "President Fernandez dismisses foreign minister over his attendance at the \"Shield of the Americas\" meeting in New York.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 24 Sep 2026 23:29:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+          "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+          "published_at": "Thu, 24 Sep 2026 23:29:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43155d15a311d0948ed45fa0",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "text": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:17:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:17:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fa4156ede5c933832dff8b87",
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "text": "What's the smallest amount of money you would ask a friend to pay you back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 23:00:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'We're all broke': Would you chase a friend for £5?",
+          "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 23:00:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9460759c1a8a893d031b6c7e",
+      "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+      "text": "Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League.",
+      "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 24 Sep 2026 22:55:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+          "published_at": "Thu, 24 Sep 2026 22:55:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "351f731c91675ce626f16390",
+      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+      "text": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 24 Sep 2026 22:32:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+          "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+          "published_at": "Thu, 24 Sep 2026 22:32:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8639d62ff6d9bcc24956b8f7",
+      "title": "Bellamy wants more from Wales after loss to Portugal",
+      "text": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 22:28:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bellamy wants more from Wales after loss to Portugal",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 22:28:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "403c46f2404b662ac4bb5753",
+      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
+      "text": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 22:22:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man Utd borrow another £90m as debt tops £1.1bn",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 22:22:43 GMT"
         }
       ],
       "cross_checked": false,
@@ -124,6 +371,44 @@
           "title": "Uefa fears impact of Premier League spending on transfer market",
           "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 22:09:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9c391802eff668ebb05a6b9a",
+      "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
+      "text": "Const Jeff Smith, who was critically injured in the incident, continued to fend off the attacker after being shot multiple times, police said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 22:03:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
+          "url": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 22:03:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d9600f4a3d5ca115e92c505f",
+      "title": "Xi visit to Washington all pomp but little progress so far",
+      "text": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 21:57:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Xi visit to Washington all pomp but little progress so far",
+          "url": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 21:57:25 GMT"
         }
       ],
       "cross_checked": false,
@@ -377,25 +662,6 @@
       "conflict": false
     },
     {
-      "id": "acbb0a103fd294d658135ffc",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "text": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 19:18:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Priest killed and four injured in knife attack at Polish abbey",
-          "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 19:18:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "aeff1bbe7e8bba3925ce68ad",
       "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
       "text": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
@@ -491,44 +757,6 @@
       "conflict": false
     },
     {
-      "id": "9cb846432ef8ac8515adb9ce",
-      "title": "BBC upholds complaints over Victoria Beckham slur on Have I Got News For You",
-      "text": "Two viewers complained to the BBC over the \"gratuitously offensive\" comment made during the show.",
-      "url": "https://www.bbc.co.uk/news/articles/cqde0wrl9d5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 18:18:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "BBC upholds complaints over Victoria Beckham slur on Have I Got News For You",
-          "url": "https://www.bbc.co.uk/news/articles/cqde0wrl9d5do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 18:18:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "566ea9ec2622b0f7c7972e93",
-      "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-      "text": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 18:13:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-          "url": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 18:13:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f912c18b19fc5b4892772cc8",
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "text": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -548,209 +776,19 @@
       "conflict": false
     },
     {
-      "id": "d2592e38db02746146f447b4",
-      "title": "Sex offender bailed to flat overlooking playground",
-      "text": "Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.",
-      "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+      "id": "5965b9c7b03123ce7b64913d",
+      "title": "Weekly quiz: Who did Ella Langley beat to make US charts history?",
+      "text": "How much attention did you pay to what happened in the world over the past seven days?",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyqlp2qkqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 17:57:52 GMT",
+      "published_at": "Thu, 24 Sep 2026 16:55:20 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Sex offender bailed to flat overlooking playground",
-          "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 17:57:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "97baa5d0c93b2661b7db6056",
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "text": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 17:49:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "White House restores access to media outlets banned by Trump after judge's order",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 17:49:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "30ba867fff03babd50694f86",
-      "title": "Iranian-American group sues Trump over war",
-      "text": "Plaintiffs have families in Iran who have been harmed by the US war, they say.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 17:45:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian-American group sues Trump over war",
-          "url": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 17:45:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a48c6215d6c093d4b738ddb9",
-      "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
-      "text": "Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 17:15:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
-          "url": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 17:15:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0616cb8ff464871f32e7fe6d",
-      "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-      "text": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 17:08:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 17:08:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b591a1339f02715e8119fbc",
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "text": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
-      "url": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 17:03:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Collapsing currency and inflation leave families struggling in Sudan",
-          "url": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 17:03:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c81f386f5574e1e95ac6be85",
-      "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "text": "UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 17:03:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-          "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 17:03:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "37ffd6ebc731dd94ec557fc6",
-      "title": "Africa’s bid for a seat on the Security Council",
-      "text": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 16:58:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Africa’s bid for a seat on the Security Council",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 16:58:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f0d3926887e899f64baf1a7c",
-      "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-      "text": "Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal.",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 16:53:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-          "url": "https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 16:53:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3279c5c46338ef090e010fb7",
-      "title": "Four civilians killed in Pakistani airstrikes in Afghanistan",
-      "text": "Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 16:51:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Four civilians killed in Pakistani airstrikes in Afghanistan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 16:51:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "08957df8ef15316a5567dafd",
-      "title": "Watch: Spain's housing crisis in focus after eviction of 87-year-old woman",
-      "text": "The tenant of the flat in the Retiro area of central Madrid, Maricarmen, was unable to pay her rent set after it was increased by an investment firm.",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 16:45:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Spain's housing crisis in focus after eviction of 87-year-old woman",
-          "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 16:45:45 GMT"
+          "title": "Weekly quiz: Who did Ella Langley beat to make US charts history?",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgyqlp2qkqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 16:55:20 GMT"
         }
       ],
       "cross_checked": false,
@@ -795,101 +833,6 @@
       "conflict": false
     },
     {
-      "id": "32ef1642ce4ccb7401b93a17",
-      "title": "Watch: Why has Trump been so eager to welcome Xi?",
-      "text": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-      "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 15:16:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Why has Trump been so eager to welcome Xi?",
-          "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 15:16:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "847775f27cbda535a7cd050d",
-      "title": "Firm fined £1m after man killed by window that fell from luxury penthouse",
-      "text": "Mick Ferris was crushed when the 130kg window fell from The Corniche building in Vauxhall.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydvp14y6xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 14:58:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Firm fined £1m after man killed by window that fell from luxury penthouse",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ydvp14y6xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 14:58:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4869940429368912522d472a",
-      "title": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
-      "text": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 14:37:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
-          "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 14:37:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "32283c7138f2bf7c3315234a",
-      "title": "Drinking at football matches - would fans welcome it?",
-      "text": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 14:09:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Drinking at football matches - would fans welcome it?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 14:09:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2ba6349cb3bfe2f10c345fae",
-      "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
-      "text": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
-      "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 13:07:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
-          "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 13:07:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "52f529eb5e6709646756a5ea",
       "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
       "text": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
@@ -903,25 +846,6 @@
           "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
           "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 12:29:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "90aa3aaf99feda11a7721455",
-      "title": "FBI investigating claim hackers have stolen details of all its agents",
-      "text": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
-      "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 12:23:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "FBI investigating claim hackers have stolen details of all its agents",
-          "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 12:23:52 GMT"
         }
       ],
       "cross_checked": false,
@@ -947,57 +871,171 @@
       "conflict": false
     },
     {
-      "id": "08be7c7455990ed07a6584ab",
-      "title": "As AI hacks ramp up, are we back in big tech's 'move fast and break things' era?",
-      "text": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
+      "id": "41d1b5d657a70e28b0e23514",
+      "title": "Watch: The world’s two most powerful men just met. How did it go?",
+      "text": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 11:29:20 GMT",
+      "published_at": "Fri, 25 Sep 2026 01:27:10 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "As AI hacks ramp up, are we back in big tech's 'move fast and break things' era?",
-          "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 11:29:20 GMT"
+          "title": "Watch: The world’s two most powerful men just met. How did it go?",
+          "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 01:27:10 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "e9dbb1e6d670dad257dcf2ab",
-      "title": "'I can't see it stopping' - Middlesbrough's young men discuss gangs after A66 crash",
-      "text": "Last month's deadly A66 crash shone a light on organised crime and opportunities for young people in Middlesbrough.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0lrjn73npyo?at_medium=RSS&at_campaign=rss",
+      "id": "97baa5d0c93b2661b7db6056",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "text": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 06:29:47 GMT",
+      "published_at": "Fri, 25 Sep 2026 01:10:35 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'I can't see it stopping' - Middlesbrough's young men discuss gangs after A66 crash",
-          "url": "https://www.bbc.co.uk/news/articles/cm0lrjn73npyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 06:29:47 GMT"
+          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 01:10:35 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "925ec59c5fef014cda12b9d8",
-      "title": "I couldn't live with the agony of migraines anymore but my GP called me dramatic",
-      "text": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
+      "id": "33d99a1869670c813f82ec82",
+      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "text": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 05:23:15 GMT",
+      "published_at": "Fri, 25 Sep 2026 00:51:26 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "I couldn't live with the agony of migraines anymore but my GP called me dramatic",
-          "url": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 05:23:15 GMT"
+          "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 00:51:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "32a14d3840a4193ccd3e007d",
+      "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+      "text": "Forty-nine passengers have been rescued and a search is under way for the missing.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 00:38:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+          "url": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 00:38:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b547664e21c34c286ff2ae50",
+      "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+      "text": "Luiz Inacio Lula da Silva is up two points, but that's still within the poll's margin of error.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 00:35:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+          "url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 00:35:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6779cb07f182f675afd7366e",
+      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+      "text": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 00:24:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 00:24:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "596a8b72bccba72f26a06e6c",
+      "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+      "text": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei's re-election bid.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 00:23:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+          "url": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 00:23:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d2592e38db02746146f447b4",
+      "title": "Sex offender bailed to flat overlooking playground",
+      "text": "Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.",
+      "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 00:08:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sex offender bailed to flat overlooking playground",
+          "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 00:08:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3bd68872c3c3abbb7d7d83d8",
+      "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+      "text": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
