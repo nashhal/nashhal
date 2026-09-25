@@ -1,58 +1,8 @@
 {
-  "generated_at": "2026-09-25T01:29:45.345551+00:00",
-  "source_count": 56,
-  "story_count": 54,
+  "generated_at": "2026-09-25T07:47:55.313603+00:00",
+  "source_count": 58,
+  "story_count": 58,
   "documents": [
-    {
-      "id": "68bba2e6e1ecfdc95b015197",
-      "title": "Delegates walk out of Netanyahu’s UN speech",
-      "text": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 19:18:29 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 00:44:04 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Delegates walk out of Netanyahu’s UN speech",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 19:18:29 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
-    {
-      "id": "e41faff3d2fe4c5e9bb5ed80",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "text": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 17:55:44 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-          "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 17:55:44 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
-          "url": "https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 19:22:27 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -67,25 +17,6 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9b6244fb053fde4a568757d3",
-      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-      "text": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 23:51:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 23:51:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -131,7 +62,7 @@
     },
     {
       "id": "fce944021683e70a43453527",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+      "title": "What to expect from Burnham's first Labour conference as PM",
       "text": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
       "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -140,7 +71,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+          "title": "What to expect from Burnham's first Labour conference as PM",
           "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 23:44:38 GMT"
         }
@@ -150,7 +81,7 @@
     },
     {
       "id": "b23931d9db6a740a48fa54dc",
-      "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+      "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
       "text": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
       "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -159,7 +90,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+          "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
           "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 23:44:00 GMT"
         }
@@ -181,44 +112,6 @@
           "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
           "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 23:41:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5bbee0620df26498b341bd1f",
-      "title": "Catterick Garrison fire could burn through night, authorities say",
-      "text": "North Yorkshire Fire and Rescue Service said in a statement that multiple crews were at the scene.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 23:36:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Catterick Garrison fire could burn through night, authorities say",
-          "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 23:36:42 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cb25edfc618ba2f024ad8414",
-      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-      "text": "President Fernandez dismisses foreign minister over his attendance at the \"Shield of the Americas\" meeting in New York.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 23:29:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-          "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 23:29:03 +0000"
         }
       ],
       "cross_checked": false,
@@ -263,44 +156,6 @@
       "conflict": false
     },
     {
-      "id": "9460759c1a8a893d031b6c7e",
-      "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-      "text": "Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League.",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 22:55:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-          "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 22:55:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "351f731c91675ce626f16390",
-      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-      "text": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 22:32:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-          "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 22:32:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "8639d62ff6d9bcc24956b8f7",
       "title": "Bellamy wants more from Wales after loss to Portugal",
       "text": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
@@ -314,25 +169,6 @@
           "title": "Bellamy wants more from Wales after loss to Portugal",
           "url": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 22:28:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "403c46f2404b662ac4bb5753",
-      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-      "text": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 22:22:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 22:22:43 GMT"
         }
       ],
       "cross_checked": false,
@@ -358,291 +194,6 @@
       "conflict": false
     },
     {
-      "id": "56f335f4ead4c45edfe444ea",
-      "title": "Uefa fears impact of Premier League spending on transfer market",
-      "text": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 22:09:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Uefa fears impact of Premier League spending on transfer market",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 22:09:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9c391802eff668ebb05a6b9a",
-      "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
-      "text": "Const Jeff Smith, who was critically injured in the incident, continued to fend off the attacker after being shot multiple times, police said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 22:03:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
-          "url": "https://www.bbc.co.uk/news/articles/c6804n1r100eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 22:03:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9600f4a3d5ca115e92c505f",
-      "title": "Xi visit to Washington all pomp but little progress so far",
-      "text": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion.",
-      "url": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 21:57:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Xi visit to Washington all pomp but little progress so far",
-          "url": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 21:57:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3547af31f4b21fca5791b141",
-      "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-      "text": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:56:15 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-          "url": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:56:15 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "37219b90ad6697cf38349532",
-      "title": "Croatian court approves extradition in Nord Stream bombing case",
-      "text": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:47:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Croatian court approves extradition in Nord Stream bombing case",
-          "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:47:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e3e2533b150a2b97cfddfd96",
-      "title": "Trump and Xi hold critical talks at White House summit",
-      "text": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:41:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump and Xi hold critical talks at White House summit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:41:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b1f655df302e0a9bcab5b639",
-      "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-      "text": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:15:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:15:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bbf202c5c05460255a1f12f7",
-      "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-      "text": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:08:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:08:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7ae99f1ef9ceb9b37e6db927",
-      "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-      "text": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.",
-      "url": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 21:07:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-          "url": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 21:07:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d3c04e6180cd12ba90cf7ce",
-      "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-      "text": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 20:54:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 20:54:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cd0f7ce99a32f709bd1c58d3",
-      "title": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "text": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 20:23:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US citizen injured after wrongly arrested by ICE in Illinois",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 20:23:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "10f99e64426d8b174209f9ba",
-      "title": "New York sues Polymarket over allegations of illegal gambling operations",
-      "text": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.",
-      "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 20:15:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "New York sues Polymarket over allegations of illegal gambling operations",
-          "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 20:15:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3be553d18b15f87aad2d7757",
-      "title": "Buttler injury halts England as Sri Lanka level series",
-      "text": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 20:15:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Buttler injury halts England as Sri Lanka level series",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 20:15:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bfc09e0ee0a0ef1260765297",
-      "title": "Israel moves to ban main Palestinian-led lists from election",
-      "text": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 19:54:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel moves to ban main Palestinian-led lists from election",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 19:54:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15226016c2291ba02722753c",
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "text": "Tigrayan forces say they are in a 'full-blown war' with the army.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 19:34:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What’s triggered the latest violence in Ethiopia?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 19:34:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "021ad3c5587ee9583664fb58",
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "text": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
@@ -656,44 +207,6 @@
           "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
           "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 24 Sep 2026 19:32:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aeff1bbe7e8bba3925ce68ad",
-      "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
-      "text": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 19:16:05 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
-          "url": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 19:16:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "022b9a93a8f314a60f716945",
-      "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-      "text": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 19:02:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-          "url": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 19:02:50 +0000"
         }
       ],
       "cross_checked": false,
@@ -719,57 +232,38 @@
       "conflict": false
     },
     {
-      "id": "0f4056b60f8212df89c7183f",
-      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-      "text": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 18:19:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-          "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 18:19:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "649052e6dd01afb97baaca6c",
-      "title": "US and China presidents discuss cooperation, trade and AI risks",
-      "text": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 24 Sep 2026 18:19:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US and China presidents discuss cooperation, trade and AI risks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-          "published_at": "Thu, 24 Sep 2026 18:19:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f912c18b19fc5b4892772cc8",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "text": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "id": "94bed59e126c3d377b5affb0",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "text": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 18:06:40 GMT",
+      "published_at": "Thu, 24 Sep 2026 17:55:44 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-          "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 18:06:40 GMT"
+          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 17:55:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ebff3431fadce6f24f0ad0f3",
+      "title": "Ministers reject dog ownership licence scheme",
+      "text": "A taskforce had suggested new legal requirements could help promote dog control and reduce attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cw980vd9yq1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 24 Sep 2026 17:13:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ministers reject dog ownership licence scheme",
+          "url": "https://www.bbc.co.uk/news/articles/cw980vd9yq1no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 17:13:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -795,76 +289,646 @@
       "conflict": false
     },
     {
-      "id": "923ffca2a455a278ab2be0b9",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "text": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "id": "60bd4982154542e53aee1b8d",
+      "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
+      "text": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 16:00:29 GMT",
+      "published_at": "Thu, 24 Sep 2026 16:36:33 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 16:00:29 GMT"
+          "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 24 Sep 2026 16:36:33 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "4fbaaa9cfff4f68fdc00f76d",
-      "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
-      "text": "Del Somerville, 42, pleaded guilty to violent disorder following an overnight protest at Eastney.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 15:57:55 GMT",
+      "id": "3ec90d3c6eb7edab9d5fcf6e",
+      "title": "Pope Leo heads to France amid assisted dying, abuse debates",
+      "text": "First papal state visit to country in 18 years comes as church confronts contentious issues.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 07:41:24 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 15:57:55 GMT"
+          "source": "Al Jazeera",
+          "title": "Pope Leo heads to France amid assisted dying, abuse debates",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 07:41:24 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "52f529eb5e6709646756a5ea",
-      "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-      "text": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 12:29:39 GMT",
+      "id": "7462ead5b64352ef132b348e",
+      "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+      "text": "Prime Minister Balendra Shah says world leaders must act on climate change.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 06:56:51 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-          "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 12:29:39 GMT"
+          "source": "Al Jazeera",
+          "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+          "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 06:56:51 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "a6d02908805ffb0225e3024b",
-      "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
-      "text": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
+      "id": "51c170f0918a48602e219cfd",
+      "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+      "text": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
+      "url": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 06:44:31 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+          "url": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 06:44:31 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e7c0fb37fb0df80064793f0",
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "text": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 12:18:04 GMT",
+      "published_at": "Fri, 25 Sep 2026 06:40:18 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 12:18:04 GMT"
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 06:40:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "10e99e53074321cea380a756",
+      "title": "Why teenagers have become a huge part of football's transfer market",
+      "text": "BBC Sport explores why clubs at the top of English football are increasingly trading academy players and what the impact is on the youngsters themselves.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 06:32:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why teenagers have become a huge part of football's transfer market",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 06:32:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e5d54ae54cf3b754b07b0b62",
+      "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+      "text": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 06:28:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 06:28:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b7a7f73083f1f18801ee8231",
+      "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
+      "text": "Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 06:20:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 06:20:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5bbee0620df26498b341bd1f",
+      "title": "One person taken to hospital after barracks fire",
+      "text": "An investigation is due to take place after a fire at the accommodation block in Catterick Garrison.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 06:19:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "One person taken to hospital after barracks fire",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 06:19:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a7a4a36b1954fc00679c3315",
+      "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+      "text": "Mexico's southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 06:00:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+          "url": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 06:00:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ae49e07fb2f64426250e5c6b",
+      "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+      "text": "Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation's politics.",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 05:59:26 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 05:59:26 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3abc36f6373965e36cb57a86",
+      "title": "Zidane waited for France - now can he harness their star power?",
+      "text": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after five years out of management?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 05:51:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Zidane waited for France - now can he harness their star power?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 05:51:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "664c9fc3f868f87616b6becf",
+      "title": "FA could have prevented our son's death, say parents of striker Billy Vigar",
+      "text": "Billy Vigar's parents say the Football Association could have prevented their son's death.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 05:25:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "FA could have prevented our son's death, say parents of striker Billy Vigar",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 05:25:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d49a34aecf2414bdbd28385",
+      "title": "Tata v Tata: What’s behind India’s big boardroom brawl?",
+      "text": "India's most famous conglomerate is knee-deep in feuds over who gets to decide the Tata Group's future.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 05:22:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tata v Tata: What’s behind India’s big boardroom brawl?",
+          "url": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 05:22:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c741096830fae73999b99074",
+      "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+      "text": "Ukraine has targeted an industrial plant in Russia's Perm region with a massive drone swarm.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 05:18:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 05:18:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0df654048e4122a490424cdc",
+      "title": "'Heartbreaking': The man driven out by the UK's £5bn theme park",
+      "text": "Ritchie Wood is almost brought to tears at he looks at the empty homes once loved by his neighbours.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e415dew5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 05:18:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Heartbreaking': The man driven out by the UK's £5bn theme park",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e415dew5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 05:18:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "545f0475dfc86d4f7ef8d28a",
+      "title": "Israeli football player sent off after gun-firing goal celebration",
+      "text": "Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 05:09:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli football player sent off after gun-firing goal celebration",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 05:09:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "33d99a1869670c813f82ec82",
+      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "text": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 05:08:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 05:08:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "90aa5db3999be86af6c4a885",
+      "title": "UK 'moving closer' to flying cars, says air taxi boss as assembly centre opens",
+      "text": "The futuristic air taxis will be built at a new centre at Cotswolds Airport in Gloucestershire.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0z5dppxypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 05:06:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK 'moving closer' to flying cars, says air taxi boss as assembly centre opens",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0z5dppxypo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 05:06:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c77d6d57e1c6df38bdee04be",
+      "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+      "text": "Pakistan's security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 04:22:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 04:22:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "32d00868beddb9167e9aaa1f",
+      "title": "British rapper Yung Filly to face rape retrial in Australia next June",
+      "text": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 04:02:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "British rapper Yung Filly to face rape retrial in Australia next June",
+          "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 04:02:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "35cea508cfba814fcdbc6d97",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "text": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 03:57:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8986b5876cee58af5d95b26a",
+      "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+      "text": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 03:49:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 03:49:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "15bb7ccc78cb8516fb74809d",
+      "title": "Young men flee Tigray amid fears of forced recruitment",
+      "text": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 03:45:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Young men flee Tigray amid fears of forced recruitment",
+          "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 03:45:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3f61b7e22d377849d0cb5ee3",
+      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+      "text": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 03:41:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 03:41:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3306bc54cafa2d5246975859",
+      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+      "text": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 03:35:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+          "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 03:35:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "add6b80738ef684b0dd276cb",
+      "title": "When AI’s moving this fast, who’s protecting us?",
+      "text": "The people building the world’s most powerful AI systems are now warning governments about losing control.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 03:34:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "When AI’s moving this fast, who’s protecting us?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 03:34:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bb898e7b0572e58188c74fb8",
+      "title": "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
+      "text": "From redwood benches to DVDs, gifts are an important part of the art of diplomacy.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 03:00:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 03:00:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43d144a5ca881ff70eea4b4b",
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "text": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 02:51:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 02:51:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7dbe5b1ebc4b97baeb6ff78b",
+      "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+      "text": "Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 02:35:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 02:35:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42277d09f01f17d7bf8b8394",
+      "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+      "text": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 02:26:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 02:26:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dfe0da965e18a0d3eb1bb241",
+      "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+      "text": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 02:24:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+          "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 02:24:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "99cf93717b5b2eeafcf43dd4",
+      "title": "Meloni government bans burqas, caps foreign students in Italian schools",
+      "text": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 02:07:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Meloni government bans burqas, caps foreign students in Italian schools",
+          "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 02:07:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "86faa7396ef829efa83691e4",
+      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+      "text": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 02:00:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+          "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 02:00:16 +0000"
         }
       ],
       "cross_checked": false,
@@ -909,19 +973,19 @@
       "conflict": false
     },
     {
-      "id": "33d99a1869670c813f82ec82",
-      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
-      "text": "Many of the papers include photographs of Chinese President Xi Jinping's historic visit to the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
+      "id": "0e34f3bdf0b7dd17bbb35a4d",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "text": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 00:51:26 GMT",
+      "published_at": "Fri, 25 Sep 2026 00:44:04 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 00:51:26 GMT"
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 00:44:04 GMT"
         }
       ],
       "cross_checked": false,
@@ -1005,7 +1069,7 @@
     },
     {
       "id": "d2592e38db02746146f447b4",
-      "title": "Sex offender bailed to flat overlooking playground",
+      "title": "Sex offender bailed to flat near playground",
       "text": "Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.",
       "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -1014,7 +1078,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Sex offender bailed to flat overlooking playground",
+          "title": "Sex offender bailed to flat near playground",
           "url": "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 00:08:13 GMT"
         }
@@ -1024,8 +1088,8 @@
     },
     {
       "id": "3bd68872c3c3abbb7d7d83d8",
-      "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-      "text": "Iranian President Masoud Pezeshkian says Iran wants the US to return to the MoU by early November.",
+      "title": "Iran war live: Saudi, Turkish and Pakistani army chiefs plan urgent meeting",
+      "text": "Saudi, Turkish, Pakistani army chiefs invoke Mecca pact for urgent talks over Houthi attacks.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Fri, 25 Sep 2026 00:00:00 +0000",
@@ -1033,7 +1097,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+          "title": "Iran war live: Saudi, Turkish and Pakistani army chiefs plan urgent meeting",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
           "published_at": "Fri, 25 Sep 2026 00:00:00 +0000"
         }
