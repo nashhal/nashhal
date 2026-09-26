@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-25T22:19:30.607764+00:00",
+  "generated_at": "2026-09-26T01:33:26.022941+00:00",
   "source_count": 59,
-  "story_count": 59,
+  "story_count": 58,
   "documents": [
+    {
+      "id": "b18cfd8e1703407d910887b7",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "text": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:38:48 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:38:48 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -17,63 +42,6 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "707cf3625dc12db02ff79f48",
-      "title": "'I was living out my dream career in football – tumours mean I need to leave'",
-      "text": "After years of dismissing health issues, Dan Robathan is now unable to return to the pitch.",
-      "url": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 23:50:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'I was living out my dream career in football – tumours mean I need to leave'",
-          "url": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 23:50:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d138bc5d49f89f273ca0e854",
-      "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
-      "text": "Gyms are booming, solitary cardio is out - how workouts are changing.",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 23:46:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
-          "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 23:46:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "52ab33788236e966a1db3aff",
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "text": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 24 Sep 2026 23:45:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-          "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 24 Sep 2026 23:45:08 GMT"
         }
       ],
       "cross_checked": false,
@@ -99,6 +67,405 @@
       "conflict": false
     },
     {
+      "id": "b26cc2f8862a6966c50cfad1",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "text": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 01:25:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 01:25:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "08a283bc51baa60d5ed3a594",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "text": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 01:24:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+          "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 01:24:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e8669319c6c925adb9f6a62e",
+      "title": "UK ticket holder wins £111m EuroMillions jackpot",
+      "text": "It is third time a UK-based player has scooped the EuroMillions jackpot this year, National Lottery operator Allwyn said.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9xx1pv2p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 01:09:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK ticket holder wins £111m EuroMillions jackpot",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9xx1pv2p2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 01:09:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19c6a474159e37b410e5fed6",
+      "title": "Pro-Imran Khan rally delayed amid government closures",
+      "text": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 00:38:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pro-Imran Khan rally delayed amid government closures",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 00:38:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0bd0439d40ab6960c26f0247",
+      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
+      "text": "Manchester City being found guilty of financial breaches and the prime minister ruling out an early general election leads Saturday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 00:25:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 00:25:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3e480ccd658320308b1a02aa",
+      "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
+      "text": "Alabama was set to take TikTok to trial over claims that it intentionally addicted young users.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 00:11:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
+          "url": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 00:11:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d9949914a7ad6c95bfe51052",
+      "title": "Smoke rises from burning Greek cargo ship near Mykonos",
+      "text": "All 29 people aboard the ship were safely evacuated using lifeboats, the Hellenic Coastguard said.",
+      "url": "https://www.bbc.co.uk/news/videos/c64grrelxgylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:59:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Smoke rises from burning Greek cargo ship near Mykonos",
+          "url": "https://www.bbc.co.uk/news/videos/c64grrelxgylo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:59:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bc9511580d39f3045183aebe",
+      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "text": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 23:56:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US court rules against Kalshi, says states can regulate prediction markets",
+          "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 23:56:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "72ac54025054a0244ac687c6",
+      "title": "Iran says it awaits US response on seven-day roadmap to end war",
+      "text": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 23:52:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says it awaits US response on seven-day roadmap to end war",
+          "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 23:52:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9ac357b6ba7af3e598f7de37",
+      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+      "text": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:34:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:34:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b1dfaea67841a3207752530",
+      "title": "How the bare nails trend became a class issue",
+      "text": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:31:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How the bare nails trend became a class issue",
+          "url": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:31:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e6924cec532a3ddb53f77c66",
+      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+      "text": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 23:21:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 23:21:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2551dd230f049d952085435c",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "text": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:20:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:20:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ad93f5a5ee2b603b911324ae",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "text": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:08:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Could an iced coffee freeze you out of the job market?",
+          "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:08:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "baa69c0d1acbfcf4e2e95cdc",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "text": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:08:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:08:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "26421e4030e817a8e78377e4",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "text": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:05:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:05:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de1fc511b5cb426306e20c57",
+      "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
+      "text": "This new stage of parenthood is emotional - but learning how to let go can help you cope.",
+      "url": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:03:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
+          "url": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:03:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "145666299c28ecd40213bcc5",
+      "title": "E-bikes seized by police sold on at auction, BBC finds",
+      "text": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 23:02:42 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "E-bikes seized by police sold on at auction, BBC finds",
+          "url": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 23:02:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fa650e26379cd887fdf737b0",
+      "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+      "text": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 22:33:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 22:33:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bc3c1df018d6b46cdd674f64",
+      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "text": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 25 Sep 2026 22:16:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+          "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+          "published_at": "Fri, 25 Sep 2026 22:16:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f5b48cb8f8fe544db73d609d",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "text": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 25 Sep 2026 22:12:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 25 Sep 2026 22:12:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "2d4cc3df51fd53f73d24d236",
       "title": "Warrington edge past Leeds to reach Grand Final",
       "text": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
@@ -112,25 +479,6 @@
           "title": "Warrington edge past Leeds to reach Grand Final",
           "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 22:06:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6096d6a184eb3059d866922a",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "text": "Asked about the Iranian offer, a US official said discussions were taking place through mediators.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 21:57:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 21:57:23 GMT"
         }
       ],
       "cross_checked": false,
@@ -226,25 +574,6 @@
           "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
           "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
           "published_at": "Fri, 25 Sep 2026 21:20:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "08a283bc51baa60d5ed3a594",
-      "title": "Black woman found hanging from tree was dead before body was 'staged' - US media",
-      "text": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 21:16:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Black woman found hanging from tree was dead before body was 'staged' - US media",
-          "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 21:16:59 GMT"
         }
       ],
       "cross_checked": false,
@@ -631,120 +960,6 @@
       "conflict": false
     },
     {
-      "id": "fdae964229f905510625fe91",
-      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-      "text": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 18:05:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-          "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 18:05:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "18ce20bc7b561495dfddd9b1",
-      "title": "US top court allows Trump to use controversial voter verification system",
-      "text": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:45:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US top court allows Trump to use controversial voter verification system",
-          "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:45:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ce201327a5c3c73f1e352fd",
-      "title": "Lebanese in Brazil, Brazilian in Lebanon",
-      "text": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
-      "url": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:44:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Lebanese in Brazil, Brazilian in Lebanon",
-          "url": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:44:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bbe918530b3394f77656f430",
-      "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-      "text": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:34:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-          "url": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:34:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bec3d9f1aec5f3c62ffd36ce",
-      "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-      "text": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.",
-      "url": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:20:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-          "url": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:20:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5f81108decb45589be15a71b",
-      "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
-      "text": "Singer's tour has faced numerous setbacks after expulsion of rapper Macklemore over support for Palestine drew backlash.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:18:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
-          "url": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:18:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "304007b0327bf9e6ddd2a8f7",
       "title": "I'm not tempted to call an early election, Burnham says",
       "text": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
@@ -758,25 +973,6 @@
           "title": "I'm not tempted to call an early election, Burnham says",
           "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 17:15:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "40596f6d4ad26d04296ab420",
-      "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-      "text": "Conflict began in February when Anthropic refused to remove restrictions on use of Claude for fully autonomous weapons.",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 17:03:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 17:03:52 +0000"
         }
       ],
       "cross_checked": false,
@@ -802,25 +998,6 @@
       "conflict": false
     },
     {
-      "id": "24f28fb11b758ec00256c105",
-      "title": "How 'largest phone smuggling network' was uncovered",
-      "text": "Police say up to 40,000 phones were smuggled - the equivalent of around 40% of devices stolen in London.",
-      "url": "https://www.bbc.co.uk/news/articles/cjepekz5dvko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:51:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How 'largest phone smuggling network' was uncovered",
-          "url": "https://www.bbc.co.uk/news/articles/cjepekz5dvko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:51:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "b1951475254ebf53693ccc7b",
       "title": "British climber dies after falling 60m on Spanish mountainside",
       "text": "The identity of the 28-year-old man, who fell down a vertical gully to his death, is yet to be confirmed.",
@@ -834,25 +1011,6 @@
           "title": "British climber dies after falling 60m on Spanish mountainside",
           "url": "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 16:26:24 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c8ed3a99e0816a02d87348d4",
-      "title": "PM says bailed sex offender case must be reviewed",
-      "text": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:01:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "PM says bailed sex offender case must be reviewed",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:01:22 GMT"
         }
       ],
       "cross_checked": false,
@@ -878,25 +1036,6 @@
       "conflict": false
     },
     {
-      "id": "8e195853afe6dd27ea91c0be",
-      "title": "Discovery of 97 million files related to SAS inquiry 'regrettable', MoD says",
-      "text": "It comes after the inquiry's chair called the disclosure - three years into the investigation - \"troubling\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwl9w22jpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:00:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Discovery of 97 million files related to SAS inquiry 'regrettable', MoD says",
-          "url": "https://www.bbc.co.uk/news/articles/cmpwl9w22jpjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:00:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2721727c4f39bb534e7c798f",
       "title": "Palmer misses too many opportunities to play for England - Tuchel",
       "text": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
@@ -916,27 +1055,8 @@
       "conflict": false
     },
     {
-      "id": "b280b5c9940d63f1aa5e0c2b",
-      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-      "text": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after severe weather warnings.",
-      "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:51:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-          "url": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:51:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a030cd1d0f072827366ca6c6",
-      "title": "Watch: Thousands turn out to greet Pope in France",
+      "title": "Thousands turn out to greet Pope in France",
       "text": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
       "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -945,66 +1065,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: Thousands turn out to greet Pope in France",
+          "title": "Thousands turn out to greet Pope in France",
           "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 15:44:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "535466d2fc7082a1553003e9",
-      "title": "Students strike across Germany in protest against military service",
-      "text": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:36:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Students strike across Germany in protest against military service",
-          "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:36:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4971ecdda3a41e97285d14f9",
-      "title": "Jeffrey Donaldson victim describes 'profound impact' of child sex abuse",
-      "text": "The former DUP leader was found guilty of 18 counts of child sex abuse, including one of rape, in June.",
-      "url": "https://www.bbc.co.uk/news/articles/cm780g0ep3n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:05:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Jeffrey Donaldson victim describes 'profound impact' of child sex abuse",
-          "url": "https://www.bbc.co.uk/news/articles/cm780g0ep3n8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:05:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "12e4b2f9fb513312962925e8",
-      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-      "text": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:01:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-          "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:01:42 GMT"
         }
       ],
       "cross_checked": false,
@@ -1024,82 +1087,6 @@
           "title": "Watch: What could the potential sanctions for Man City be?",
           "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 14:55:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5bdf201b1a20b71fdfa05d31",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "text": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 13:56:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Special agents' blood and urine test results stolen in FBI hack",
-          "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 13:56:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "18188a9976dbb25d7b188f66",
-      "title": "Noah Woods left playground through gap in fence, inquest hears",
-      "text": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 12:51:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Noah Woods left playground through gap in fence, inquest hears",
-          "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 12:51:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a3e9135d892c336bbfa7db31",
-      "title": "Some BBC channels and radio stations may well have to close, director general says",
-      "text": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 12:00:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Some BBC channels and radio stations may well have to close, director general says",
-          "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 12:00:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0df654048e4122a490424cdc",
-      "title": "'Heartbreaking': The man set to lose his home due to the UK's £5bn theme park",
-      "text": "Ritchie Wood is almost brought to tears at he looks at the empty homes once loved by his neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e415dew5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 05:18:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Heartbreaking': The man set to lose his home due to the UK's £5bn theme park",
-          "url": "https://www.bbc.co.uk/news/articles/cr93e415dew5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 05:18:13 GMT"
         }
       ],
       "cross_checked": false,
