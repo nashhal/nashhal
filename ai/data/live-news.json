@@ -1,28 +1,53 @@
 {
-  "generated_at": "2026-09-26T01:33:26.022941+00:00",
-  "source_count": 59,
-  "story_count": 58,
+  "generated_at": "2026-09-26T07:40:24.103955+00:00",
+  "source_count": 56,
+  "story_count": 54,
   "documents": [
     {
       "id": "b18cfd8e1703407d910887b7",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "text": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "text": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 23:38:48 GMT",
+      "published_at": "Sat, 26 Sep 2026 05:03:09 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 23:38:48 GMT"
+          "published_at": "Sat, 26 Sep 2026 05:03:09 GMT"
         },
         {
           "source": "Al Jazeera",
           "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
           "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
+    {
+      "id": "0bb44ab89ca848bf5b3d15af",
+      "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+      "text": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:27:07 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "White House bars CNN from travelling with Trump on Air Force One",
+          "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 05:09:09 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+          "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:27:07 +0000"
         }
       ],
       "cross_checked": true,
@@ -67,19 +92,456 @@
       "conflict": false
     },
     {
-      "id": "b26cc2f8862a6966c50cfad1",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "text": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "id": "33287747c52d44bfb301543e",
+      "title": "Virtual queue for disabled at Alton Towers praised",
+      "text": "The Merlin pass, to be also in use at Legoland and Thorpe Park, is to be launched at Alton Towers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x811v3g4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 01:25:30 GMT",
+      "published_at": "Thu, 17 Sep 2026 10:18:26 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "title": "Virtual queue for disabled at Alton Towers praised",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9x811v3g4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 17 Sep 2026 10:18:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2a789049c05071863d8dfae5",
+      "title": "Inside the 'scariest house on Rightmove'",
+      "text": "The station house in Bleasby, dating back to the 1840s, has been dubbed the \"scariest\" on Rightmove.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07yzly81no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 17 Sep 2026 09:48:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Inside the 'scariest house on Rightmove'",
+          "url": "https://www.bbc.co.uk/news/articles/c6n07yzly81no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 17 Sep 2026 09:48:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7f1242e0acc00631eb513ee6",
+      "title": "The boxer who accidentally became an actor",
+      "text": "Euphoria star Javon Walton discusses his boxing roots, acting career and Saturday's fight with UFC great Henry Cejudo.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ckjw553344veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 07:21:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The boxer who accidentally became an actor",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/ckjw553344veo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 07:21:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff9c9b3f4b25edc75230ba2e",
+      "title": "The MMA fighter helping Brighton - and filling stadiums",
+      "text": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people - meet MMA star Christian Eckerlin, who competes at Oktagon 94 in Frankfurt on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crq8j9572vejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 06:50:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The MMA fighter helping Brighton - and filling stadiums",
+          "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crq8j9572vejo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 06:50:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f5b092ead1773f24ccefcac",
+      "title": "Do England have a problem against top-10 teams?",
+      "text": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 06:41:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Do England have a problem against top-10 teams?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 06:41:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c9731056abe2278911767600",
+      "title": "Chadwick says driving F1 car 'top of bucket list'",
+      "text": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 06:09:46 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Chadwick says driving F1 car 'top of bucket list'",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 06:09:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "076e6a5c9b3e54473b5b478f",
+      "title": "The computer hacker who tried to take down Man City",
+      "text": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 05:56:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The computer hacker who tried to take down Man City",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 05:56:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e164ccfcddd8233cf39e67a2",
+      "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+      "text": "Three years of Israel's war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+      "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 05:25:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+          "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 05:25:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1c40bacd2ec6f8bd5438c328",
+      "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+      "text": "A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 05:23:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+          "url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 05:23:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8f24cbbcd855d59662897fc0",
+      "title": "Burnham not doing enough to boost growth, says former business secretary",
+      "text": "Ex-Business Secretary Peter Kyle calls for more urgency on the economy, as Labour members head to the party's annual conference.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 05:07:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham not doing enough to boost growth, says former business secretary",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 05:07:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "07000cec928b3d4766858713",
+      "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+      "text": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:48:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+          "url": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:48:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "79918ceecb78457037ea3c21",
+      "title": "Bangkok on red alert as massive floods hit the city",
+      "text": "Persistent heavy downpours over a 48-hour period have triggered widespread flooding in Bangkok.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:43:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bangkok on red alert as massive floods hit the city",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:43:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9d3a156d9dce1e6cc2cbee6b",
+      "title": "US official claims Trump holds all the cards in Iran talks",
+      "text": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:37:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US official claims Trump holds all the cards in Iran talks",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:37:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b17e1bba8cd2eb9674a534fb",
+      "title": "Iran pitches US a seven-day end to the war at UNGA",
+      "text": "Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:28:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran pitches US a seven-day end to the war at UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:28:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "809d3d78b50dade3c0c1378f",
+      "title": "PAM wins big in Morocco parliament elections but falls short of majority",
+      "text": "The next government will steer Morocco's 2030 World Cup preparations amid public frustration over local economy.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:19:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "PAM wins big in Morocco parliament elections but falls short of majority",
+          "url": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:19:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "78ff2015c66251512409fbf5",
+      "title": "Yemen’s government offers amnesty to Houthi defectors",
+      "text": "Yemen’s president called on citizens to join the armed forces, and offered amnesty to Iran-backed Houthi rebels.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 04:06:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemen’s government offers amnesty to Houthi defectors",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 04:06:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7dd351765f35918d3d8a4667",
+      "title": "The bombs are still falling. Does diplomacy even work?",
+      "text": "Al Jazeera’s Emma Withrow asked Al Anoud Al Thani what diplomacy can achieve.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 03:34:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "The bombs are still falling. Does diplomacy even work?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 03:34:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "31742aab4931a93d5336c379",
+      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+      "text": "Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 03:10:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+          "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 03:10:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cd034b46f06ef852055629da",
+      "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+      "text": "Africa wants permanent seats and veto power, but agreement remains elusive.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 03:07:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+          "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 03:07:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b26cc2f8862a6966c50cfad1",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "text": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 02:50:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "OpenAI bots meddled with multiple US government agency sites",
           "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 01:25:30 GMT"
+          "published_at": "Sat, 26 Sep 2026 02:50:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a34153022a721588670669e6",
+      "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+      "text": "Pope Leo XIV drew huge crowds on the first Papal visit to France in 18 years.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 02:18:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 02:18:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5fd0d3d4e54c52006b26fdcd",
+      "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
+      "text": "TikTok has settled and agreed to pay the US state of Alabama at least $100 million dollars days before trial.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 02:09:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 02:09:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bbce8ffa27d937d17def37c9",
+      "title": "Plane crash in DR Congo kills more than a dozen",
+      "text": "Civilians and senior military officials among 14 dead after an army plane crashes into a residential area in the DRC.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 01:32:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Plane crash in DR Congo kills more than a dozen",
+          "url": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 01:32:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "802c2bc62257c216575a0439",
+      "title": "Facebook found liable as TikTok settles for $100m over user safety",
+      "text": "Facebook found liable in New Mexico for deceptive actions; TikTok settles $100m lawsuit with Alabama over safety claims.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 01:26:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Facebook found liable as TikTok settles for $100m over user safety",
+          "url": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 01:26:21 +0000"
         }
       ],
       "cross_checked": false,
@@ -107,7 +569,7 @@
     {
       "id": "e8669319c6c925adb9f6a62e",
       "title": "UK ticket holder wins £111m EuroMillions jackpot",
-      "text": "It is third time a UK-based player has scooped the EuroMillions jackpot this year, National Lottery operator Allwyn said.",
+      "text": "It is the third time a UK-based player has scooped the EuroMillions jackpot this year, National Lottery operator Allwyn said.",
       "url": "https://www.bbc.co.uk/news/articles/c5j9xx1pv2p2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sat, 26 Sep 2026 01:09:26 GMT",
@@ -118,6 +580,25 @@
           "title": "UK ticket holder wins £111m EuroMillions jackpot",
           "url": "https://www.bbc.co.uk/news/articles/c5j9xx1pv2p2o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 01:09:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "704b7f91bdfc27e599fbe174",
+      "title": "Two men jailed for 2022 murder of Argentine rugby player",
+      "text": "Loik Le Priol, 32, a former soldier who fired the fatal shots, was sentenced to 26 years in jail.",
+      "url": "https://www.bbc.co.uk/news/articles/c639mm1mrv94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 00:49:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Two men jailed for 2022 murder of Argentine rugby player",
+          "url": "https://www.bbc.co.uk/news/articles/c639mm1mrv94o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 00:49:02 GMT"
         }
       ],
       "cross_checked": false,
@@ -143,38 +624,19 @@
       "conflict": false
     },
     {
-      "id": "0bd0439d40ab6960c26f0247",
-      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
-      "text": "Manchester City being found guilty of financial breaches and the prime minister ruling out an early general election leads Saturday's papers.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
+      "id": "e5fa38605ed0b1e50c92a995",
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "text": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 00:25:14 GMT",
+      "published_at": "Mon, 21 Sep 2026 23:01:26 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 00:25:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3e480ccd658320308b1a02aa",
-      "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
-      "text": "Alabama was set to take TikTok to trial over claims that it intentionally addicted young users.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 00:11:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
-          "url": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 00:11:14 GMT"
+          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+          "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 21 Sep 2026 23:01:26 GMT"
         }
       ],
       "cross_checked": false,
@@ -372,8 +834,8 @@
     },
     {
       "id": "de1fc511b5cb426306e20c57",
-      "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
-      "text": "This new stage of parenthood is emotional - but learning how to let go can help you cope.",
+      "title": "Your child has left home. Here's why it's time to stop checking up on them",
+      "text": "This new stage of parenthood is emotional - but learning how to let go can help.",
       "url": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 25 Sep 2026 23:03:51 GMT",
@@ -381,7 +843,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
+          "title": "Your child has left home. Here's why it's time to stop checking up on them",
           "url": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 23:03:51 GMT"
         }
@@ -391,8 +853,8 @@
     },
     {
       "id": "145666299c28ecd40213bcc5",
-      "title": "E-bikes seized by police sold on at auction, BBC finds",
-      "text": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
+      "title": "E-motorbikes seized by police sold on at auction, BBC finds",
+      "text": "Thousands of electric motorbikes are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
       "url": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 25 Sep 2026 23:02:42 GMT",
@@ -400,7 +862,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "E-bikes seized by police sold on at auction, BBC finds",
+          "title": "E-motorbikes seized by police sold on at auction, BBC finds",
           "url": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 23:02:42 GMT"
         }
@@ -466,44 +928,6 @@
       "conflict": false
     },
     {
-      "id": "2d4cc3df51fd53f73d24d236",
-      "title": "Warrington edge past Leeds to reach Grand Final",
-      "text": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 22:06:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Warrington edge past Leeds to reach Grand Final",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 22:06:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "51934061ea6acd92d55a341b",
-      "title": "Rodri believes in Man City's 'innocence'",
-      "text": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 21:56:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Rodri believes in Man City's 'innocence'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 21:56:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c9358485e631ac84dc642116",
       "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
       "text": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
@@ -542,85 +966,9 @@
       "conflict": false
     },
     {
-      "id": "afb7ee9b1727d76a3e73cda4",
-      "title": "What would a US diesel export ban mean for global fuel prices?",
-      "text": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 21:28:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What would a US diesel export ban mean for global fuel prices?",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 21:28:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "034275df6f24a9965f95783b",
-      "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-      "text": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
-      "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 21:20:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-          "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 21:20:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ff3a5888715cb81db659f524",
-      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-      "text": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 20:59:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-          "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 20:59:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9d17c3a96a24dd572f980624",
-      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
-      "text": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 20:56:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester City reportedly found guilty of almost 115 financial charges",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 20:56:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "31fe1cec27c7cc68e393f6e3",
       "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-      "text": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+      "text": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 25 Sep 2026 20:48:18 GMT",
@@ -637,66 +985,9 @@
       "conflict": false
     },
     {
-      "id": "cef9fc91331bcf002d0aa828",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "text": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 20:47:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 20:47:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9b3f0e307c2ea6ba3620c41",
-      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-      "text": "A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 20:46:15 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 20:46:15 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d8bb1a40a972fca40c3775bd",
-      "title": "Afghan taxi drivers defy the Taliban’s music ban",
-      "text": "Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 20:42:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Afghan taxi drivers defy the Taliban’s music ban",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 20:42:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "957c71c1d435b626a07e838e",
-      "title": "Clubs seek legal advice over Man City charges compensation",
-      "text": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+      "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+      "text": "Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 25 Sep 2026 20:13:53 GMT",
@@ -704,7 +995,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Clubs seek legal advice over Man City charges compensation",
+          "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
           "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 25 Sep 2026 20:13:53 GMT"
         }
@@ -713,380 +1004,19 @@
       "conflict": false
     },
     {
-      "id": "92adf4592a89a78e415550fa",
-      "title": "Man City found guilty of majority of 115 financial rule breaches",
-      "text": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "id": "3da508ff32892c095eb24641",
+      "title": "Oh what a beauty! How the mangelwurzel is making a comeback",
+      "text": "Mangelwurzels are attracting new fans, inspiring a festival and sparking a Somerset craze.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzvx93q0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 20:11:12 GMT",
+      "published_at": "Fri, 18 Sep 2026 05:23:21 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Man City found guilty of majority of 115 financial rule breaches",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 20:11:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "629d9683205fec30fde47a44",
-      "title": "O'Neill left 'baffled' by refereeing in late NI win in Georgia",
-      "text": "Michael O'Neill has said he was \"baffled\" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 19:54:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "O'Neill left 'baffled' by refereeing in late NI win in Georgia",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 19:54:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4dd1c2080b79db6de8115c2c",
-      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
-      "text": "Which countries walked out of Netanyahu’s UNGA speech?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:50:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Which countries walked out of Netanyahu’s UNGA speech?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:50:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6afcfae753efaca75d9103a2",
-      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-      "text": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:48:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:48:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "40bb25ad3b22c997468a5ecd",
-      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-      "text": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:38:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:38:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99d43013e50dfc467e80f29c",
-      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-      "text": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
-      "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:24:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-          "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:24:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "59425ca990c90fc37e38f8a9",
-      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-      "text": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:21:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-          "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:21:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b2f3b877b2c1ace10b3964b7",
-      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
-      "text": "Iraq has suspended Iranian flights at all four airports where they operated",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:11:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:11:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99b05fb4f5408c554b125f9f",
-      "title": "Will Turkiye end its military presence in northern Iraq?",
-      "text": "Ankara agrees to gradually hand over a base in Sinjar.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 19:06:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Will Turkiye end its military presence in northern Iraq?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 19:06:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "181fc5257f6df8c933fa6308",
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-      "text": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 18:30:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-          "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 18:30:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "afda0e5978517e2aedfeaf22",
-      "title": "Trump's plans for massive arch move ahead",
-      "text": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 18:27:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump's plans for massive arch move ahead",
-          "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 18:27:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5422fb0076d9ef09e8ba0124",
-      "title": "India’s Cockroach movement joins opposition push to oust election chief",
-      "text": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 18:16:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India’s Cockroach movement joins opposition push to oust election chief",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 18:16:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0dacbb488c761a4245f6354d",
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "text": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 25 Sep 2026 18:15:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-          "published_at": "Fri, 25 Sep 2026 18:15:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "304007b0327bf9e6ddd2a8f7",
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "text": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 17:15:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I'm not tempted to call an early election, Burnham says",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 17:15:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0a0630024f0da71e3f8a9316",
-      "title": "U2 celebrate 50th anniversary at the school where they formed",
-      "text": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:52:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "U2 celebrate 50th anniversary at the school where they formed",
-          "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:52:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b1951475254ebf53693ccc7b",
-      "title": "British climber dies after falling 60m on Spanish mountainside",
-      "text": "The identity of the 28-year-old man, who fell down a vertical gully to his death, is yet to be confirmed.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:26:24 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "British climber dies after falling 60m on Spanish mountainside",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:26:24 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bc31b4b62b72fee2b9b1bacc",
-      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-      "text": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
-      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 16:00:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-          "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 16:00:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2721727c4f39bb534e7c798f",
-      "title": "Palmer misses too many opportunities to play for England - Tuchel",
-      "text": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:54:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Palmer misses too many opportunities to play for England - Tuchel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:54:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a030cd1d0f072827366ca6c6",
-      "title": "Thousands turn out to greet Pope in France",
-      "text": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
-      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 15:44:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Thousands turn out to greet Pope in France",
-          "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 15:44:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2f0f5be24558362cde835ba7",
-      "title": "Watch: What could the potential sanctions for Man City be?",
-      "text": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 25 Sep 2026 14:55:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: What could the potential sanctions for Man City be?",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 25 Sep 2026 14:55:14 GMT"
+          "title": "Oh what a beauty! How the mangelwurzel is making a comeback",
+          "url": "https://www.bbc.co.uk/news/articles/crwyzvx93q0jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 18 Sep 2026 05:23:21 GMT"
         }
       ],
       "cross_checked": false,
