@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-26T17:09:42.161905+00:00",
+  "generated_at": "2026-09-26T19:51:27.541002+00:00",
   "source_count": 55,
-  "story_count": 54,
+  "story_count": 52,
   "documents": [
     {
-      "id": "db7c22e9384b661939bb2826",
+      "id": "57a96f5154b7551ef817c84a",
       "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
       "text": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
       "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
@@ -16,7 +16,13 @@
           "source": "BBC",
           "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
           "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 16:58:39 GMT"
+          "published_at": "Sat, 26 Sep 2026 18:17:12 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 18:00:43 +0000"
         },
         {
           "source": "Al Jazeera",
@@ -124,38 +130,323 @@
       "conflict": false
     },
     {
-      "id": "25308a0f3471fcbd3790bb61",
-      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
-      "text": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+      "id": "1d7078360a489aa3c5675166",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "text": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 16:54:26 GMT",
+      "published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
-          "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 16:54:26 GMT"
+          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 19:48:06 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "1d7078360a489aa3c5675166",
-      "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-      "text": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "id": "74475369bb3f424ad168326a",
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "text": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 19:43:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 19:43:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "04413d8040d2b509837a6ba4",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "text": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 19:40:14 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 19:40:14 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8c6e7c261622008b95d26eb1",
+      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+      "text": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 19:21:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+          "url": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 19:21:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "837042925741a8139995fa5d",
+      "title": "England embrace growing competitiveness of women's game",
+      "text": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 16:53:32 GMT",
+      "published_at": "Sat, 26 Sep 2026 18:55:41 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 16:53:32 GMT"
+          "title": "England embrace growing competitiveness of women's game",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 18:55:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "25308a0f3471fcbd3790bb61",
+      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+      "text": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 18:50:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+          "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 18:50:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e7c9699bf0ab2ac8647aafae",
+      "title": "Wakefield shock Wigan to reach first Grand Final",
+      "text": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 18:44:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Wakefield shock Wigan to reach first Grand Final",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 18:44:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a31ac5b583144a72fb4e3791",
+      "title": "South African police discover body of 10th woman near Johannesburg",
+      "text": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 18:08:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "South African police discover body of 10th woman near Johannesburg",
+          "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 18:08:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "25f4666af5b610ae57bf09e6",
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+      "text": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:55:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:55:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1500a1f750a09b83b06f3dc2",
+      "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+      "text": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 17:44:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 17:44:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88285bc5e6ac7b3a8204d2c8",
+      "title": "Trump rejects combining US-China AI efforts",
+      "text": "The US president said the fears over AI were just 'hoaxes'.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:39:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump rejects combining US-China AI efforts",
+          "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:39:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "be77f16dfbef0cfa1e852aff",
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "text": "Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:35:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq seeks US exemption from ban on Iranian flights",
+          "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:35:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "74ecc2c75626e1718b4ee828",
+      "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
+      "text": "Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:27:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:27:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "910ccc41224f30ee7d7df434",
+      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "text": "The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:22:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+          "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:22:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c31128c759fe6bc4ca7fff5a",
+      "title": "High Court issues injunction to stop Orange Order Drumcree parade",
+      "text": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 17:18:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "High Court issues injunction to stop Orange Order Drumcree parade",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 17:18:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "616714d2268be87d75d881e4",
+      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+      "text": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 17:15:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 17:15:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7cbe98914895a6b91c6131db",
+      "title": "Venezuelan government, opposition agree to work towards reform of top court",
+      "text": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 16:42:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuelan government, opposition agree to work towards reform of top court",
+          "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 16:42:38 +0000"
         }
       ],
       "cross_checked": false,
@@ -200,25 +491,6 @@
       "conflict": false
     },
     {
-      "id": "c31128c759fe6bc4ca7fff5a",
-      "title": "Judge asks Orange Order to postpone Drumcree parade as she urges parties to 'step back from the abyss'",
-      "text": "Residents have applied to the High Court in Belfast to overturn the decision to allow a planned Orange Order parade on the mainly-nationalist Garvaghy Road in Portadown.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 16:30:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Judge asks Orange Order to postpone Drumcree parade as she urges parties to 'step back from the abyss'",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 16:30:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "99e67ce6dc1873f22ff5890e",
       "title": "Women take up arms as sexual violence ravages eastern DRC",
       "text": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
@@ -240,7 +512,7 @@
     {
       "id": "573ca175e293e91267b49b2f",
       "title": "At least 10 people killed in Russian and Ukrainian attacks",
-      "text": "New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.",
+      "text": "New strikes come as Russian FM accuses Europe of doing 'everything it can to thwart peace talks' with Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 26 Sep 2026 16:16:49 +0000",
@@ -270,25 +542,6 @@
           "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 16:14:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e9ff60b60e215dcb3105632b",
-      "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-      "text": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 16:12:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 16:12:27 GMT"
         }
       ],
       "cross_checked": false,
@@ -346,25 +599,6 @@
           "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
           "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 15:43:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2687e86916ba9afba4788ba4",
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "text": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
-      "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 15:34:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Bangkok declared flood disaster zone",
-          "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 15:34:18 GMT"
         }
       ],
       "cross_checked": false,
@@ -449,7 +683,7 @@
     {
       "id": "7426e24e28c00687035670f4",
       "title": "Republic of Ireland to wear black armbands for Israel game",
-      "text": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.",
+      "text": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sat, 26 Sep 2026 14:58:44 GMT",
@@ -485,7 +719,7 @@
       "conflict": false
     },
     {
-      "id": "18c070194db1eb736ee19f7a",
+      "id": "78a94fbce4dff6570f57903b",
       "title": "Israel-Ireland match to go ahead in Nations League after player vote",
       "text": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
       "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
@@ -493,6 +727,12 @@
       "published_at": "Sat, 26 Sep 2026 14:36:21 +0000",
       "source_count": 1,
       "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ireland decide to play Israel in Nations League after squad vote",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 19:42:57 +0000"
+        },
         {
           "source": "Al Jazeera",
           "title": "Israel-Ireland match to go ahead in Nations League after player vote",
@@ -523,63 +763,6 @@
       "conflict": false
     },
     {
-      "id": "bf489b9cf95dc38d50636f54",
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-      "text": "Seven armed groups have joined forces against Abiy Ahmed’s government, bringing former enemies into the same alliance.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 14:00:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-          "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 14:00:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f76879c1447cd0cf951a9424",
-      "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-      "text": "Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 13:32:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 13:32:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f8c7959f8e3484b22e1f30e7",
-      "title": "The intelligence war is turning against the Houthis",
-      "text": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 13:29:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The intelligence war is turning against the Houthis",
-          "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 13:29:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f578a43856c767fd741dff3c",
       "title": "No Premier League appetite to strip Man City of titles - but threat remains",
       "text": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
@@ -593,25 +776,6 @@
           "title": "No Premier League appetite to strip Man City of titles - but threat remains",
           "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 13:26:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3d0bca93ed3cc04f8e042281",
-      "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-      "text": "Disabled and amputee children in Gaza are unable to get new wheelchairs as Israel refuses to allow them in",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 13:22:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 13:22:33 +0000"
         }
       ],
       "cross_checked": false,
@@ -637,120 +801,6 @@
       "conflict": false
     },
     {
-      "id": "8b55abb9c209b1b788eb07b7",
-      "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
-      "text": "Fully abolishing the veto would require the unlikely agreement of all five permanent Security Council members.",
-      "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 13:17:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
-          "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 13:17:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "624ae31c060fea850060ac34",
-      "title": "Russell wins despite late Verstappen challenge",
-      "text": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 13:16:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Russell wins despite late Verstappen challenge",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 13:16:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b767001568827733f44121b",
-      "title": "The media battle behind Brazil’s election",
-      "text": "A corruption scandal, Bolsonaro’s comeback, and Trump’s influence collide as Brazil heads into elections.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 13:01:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The media battle behind Brazil’s election",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 13:01:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "95775da41c9a5045c657854a",
-      "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
-      "text": "Manchester City are understood to be ready to appeal any guilty verdict, but could face 'severe penalty' says ex-chair.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 12:59:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 12:59:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7f4281df41d432b2cd33009c",
-      "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
-      "text": "Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 12:48:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 12:48:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bd032ea4021861b19608a039",
-      "title": "Fury says boxing bout with Joshua in jeopardy over promoters’ clash",
-      "text": "The long-awaited fight, one of the biggest in British boxing history, was recently set for December 11 in Cardiff.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 12:48:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Fury says boxing bout with Joshua in jeopardy over promoters’ clash",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/fury-says-boxing-bout-with-joshua-in-jeopardy-over-promoters-clash?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 12:48:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "947aa80905841d5b69a3b4e1",
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "text": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
@@ -764,25 +814,6 @@
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
           "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 12:47:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7b4d824aaa5a049f5e09bcc1",
-      "title": "Why has the Yemen government called for a general mobilisation?",
-      "text": "Yemeni government offers amnesty to Houthi defectors, aiming to weaken rebel ranks and rebuild national unity.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 12:46:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why has the Yemen government called for a general mobilisation?",
-          "url": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 12:46:18 +0000"
         }
       ],
       "cross_checked": false,
@@ -808,44 +839,6 @@
       "conflict": false
     },
     {
-      "id": "0e6b8c71eaedf3f173a528eb",
-      "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
-      "text": "Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 11:48:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 11:48:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "028d98fb7c72f4c3824c58a8",
-      "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
-      "text": "Most of those killed and wounded are security personnel, police say.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 11:33:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
-          "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 11:33:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1fd55084b3f22d0df2464380",
       "title": "How long can Labour's feel-good factor last?",
       "text": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
@@ -859,25 +852,6 @@
           "title": "How long can Labour's feel-good factor last?",
           "url": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 11:22:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e4e61887c52a8da4ea02e33a",
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "text": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 11:06:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-          "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 11:06:28 +0000"
         }
       ],
       "cross_checked": false,
