@@ -1,34 +1,28 @@
 {
-  "generated_at": "2026-09-26T19:51:27.541002+00:00",
-  "source_count": 55,
-  "story_count": 52,
+  "generated_at": "2026-09-26T22:49:39.051208+00:00",
+  "source_count": 56,
+  "story_count": 55,
   "documents": [
     {
-      "id": "57a96f5154b7551ef817c84a",
-      "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-      "text": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 14:46:53 +0000",
+      "id": "8f832771c804effed6285fdd",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "text": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 22:15:59 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
           "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
           "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 18:17:12 GMT"
+          "published_at": "Sat, 26 Sep 2026 22:15:59 GMT"
         },
         {
           "source": "Al Jazeera",
           "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 18:00:43 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 14:46:53 +0000"
         }
       ],
       "cross_checked": true,
@@ -130,19 +124,228 @@
       "conflict": false
     },
     {
-      "id": "1d7078360a489aa3c5675166",
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "text": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "id": "c31128c759fe6bc4ca7fff5a",
+      "title": "Appeal court judges overturn ban on Drumcree parade",
+      "text": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "published_at": "Sat, 26 Sep 2026 22:45:52 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 19:48:06 GMT"
+          "title": "Appeal court judges overturn ban on Drumcree parade",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 22:45:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "52e39d420686e7252239237a",
+      "title": "Student protesters disrupt NVIDIA AI climate panel",
+      "text": "Student protesters have interrupted an NVIDIA panel during NYC Climate Week.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 22:09:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Student protesters disrupt NVIDIA AI climate panel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 22:09:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5f02cd0662f018e42a27dab4",
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+      "text": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+          "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 21:51:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b39ecf3ed3c9768d457e96b4",
+      "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+      "text": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 21:09:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+          "url": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 21:09:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a549c1e7add8cfc6772d1bd4",
+      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "text": "A wave of Russian strikes has hit various regions across Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 20:57:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 20:57:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "908c8ed49d22a59f728aa8e7",
+      "title": "Why is violence between Pakistan and Afghanistan recurring?",
+      "text": "Pakistan has carried out new strikes inside Afghanistan.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 20:55:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why is violence between Pakistan and Afghanistan recurring?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 20:55:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1a5f120498b3de3ba75ec90c",
+      "title": "Who made an uncharacteristic error? England player ratings v Spain",
+      "text": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - here's how BBC Sport rated the Three Lions' players.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 20:42:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Who made an uncharacteristic error? England player ratings v Spain",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 20:42:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "377fd7aa7d94eeeac776b98a",
+      "title": "Vollering wins women's road race world title",
+      "text": "Demi Vollering continues her remarkable season with a thrilling victory in the women's road race in Montreal.",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 20:36:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Vollering wins women's road race world title",
+          "url": "https://www.bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 20:36:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f576b51d82297c97f87a60c6",
+      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "text": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 20:33:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 20:33:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6baf09294841fa99587d0e8d",
+      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+      "text": "Demonstrators are demanding early elections and accuse Pedro Sanchez's government of negligence.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 20:21:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+          "url": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 20:21:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7933c3b827d58363f6e5a54a",
+      "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
+      "text": "Wakefield Trinity were playing in rugby league's second tier in 2024. Two years on, they are one win away from becoming Super League champions.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 20:02:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Pipe dream' to reality? Wakefield reach Grand Final",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6n8mm9d11lno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 20:02:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7426e24e28c00687035670f4",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "text": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 26 Sep 2026 19:59:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Republic of Ireland to wear black armbands for Israel game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 19:59:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -162,6 +365,25 @@
           "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 19:43:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e8509ba9853d929d39582ddd",
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "text": "Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 26 Sep 2026 19:42:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ireland decide to play Israel in Nations League after squad vote",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+          "published_at": "Sat, 26 Sep 2026 19:42:57 +0000"
         }
       ],
       "cross_checked": false,
@@ -206,27 +428,8 @@
       "conflict": false
     },
     {
-      "id": "837042925741a8139995fa5d",
-      "title": "England embrace growing competitiveness of women's game",
-      "text": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 18:55:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England embrace growing competitiveness of women's game",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 18:55:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "25308a0f3471fcbd3790bb61",
-      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+      "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
       "text": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
       "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -235,7 +438,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+          "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
           "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 18:50:02 GMT"
         }
@@ -244,19 +447,19 @@
       "conflict": false
     },
     {
-      "id": "e7c9699bf0ab2ac8647aafae",
-      "title": "Wakefield shock Wigan to reach first Grand Final",
-      "text": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+      "id": "f1531c8e9b6b53b26f529e03",
+      "title": "Watch: Thousands turn out to see Pope during Lourdes and Paris visit",
+      "text": "The BBC's religion editor Aleem Maqbool explains what Pope Leo's visit means for France.",
+      "url": "https://www.bbc.co.uk/news/videos/cmj6440w47zko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 18:44:16 GMT",
+      "published_at": "Sat, 26 Sep 2026 18:27:20 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Wakefield shock Wigan to reach first Grand Final",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 18:44:16 GMT"
+          "title": "Watch: Thousands turn out to see Pope during Lourdes and Paris visit",
+          "url": "https://www.bbc.co.uk/news/videos/cmj6440w47zko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 26 Sep 2026 18:27:20 GMT"
         }
       ],
       "cross_checked": false,
@@ -390,25 +593,6 @@
           "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
           "url": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 17:22:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c31128c759fe6bc4ca7fff5a",
-      "title": "High Court issues injunction to stop Orange Order Drumcree parade",
-      "text": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 17:18:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "High Court issues injunction to stop Orange Order Drumcree parade",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 17:18:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -568,8 +752,8 @@
     },
     {
       "id": "4cb914a22f3f1f84c301c9db",
-      "title": "LIVE: England vs Spain – UEFA Nations League",
-      "text": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
+      "title": "England 2-3 Spain: UEFA Nations League – as it happened",
+      "text": "Updates from our live text commentary stream coverage as Yamal scores for Spain, but England's Kane misses penalty.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 26 Sep 2026 15:47:40 +0000",
@@ -577,66 +761,9 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "LIVE: England vs Spain – UEFA Nations League",
+          "title": "England 2-3 Spain: UEFA Nations League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
           "published_at": "Sat, 26 Sep 2026 15:47:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d4ae10a46a845cdcd6e11055",
-      "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-      "text": "Vatican estimates 700,000 people in attendance as the Catholic religious leader continues four-day tour of France.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 15:43:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-          "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 15:43:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f7970410a947f556cef814bb",
-      "title": "Thousands of students protest German military conscription",
-      "text": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 15:23:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands of students protest German military conscription",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 15:23:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9e2198bd4c095d09150d9a9a",
-      "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
-      "text": "The British government is moving to translate rhetoric into policy.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/one-year-on-the-uks-recognition-of-palestinian-statehood-is-bearing-fruit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 15:20:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
-          "url": "https://www.aljazeera.com/opinions/2026/9/26/one-year-on-the-uks-recognition-of-palestinian-statehood-is-bearing-fruit?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 15:20:24 +0000"
         }
       ],
       "cross_checked": false,
@@ -664,7 +791,7 @@
     {
       "id": "9d2c85fc985f6c2fc25d5eff",
       "title": "Man City chairman confident club will prove innocence",
-      "text": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+      "text": "Khaldoon Al Mubarak's comments came after the club was found guilty of breaking Premier League financial rules.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sat, 26 Sep 2026 15:02:28 GMT",
@@ -675,88 +802,6 @@
           "title": "Man City chairman confident club will prove innocence",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 26 Sep 2026 15:02:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7426e24e28c00687035670f4",
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "text": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 14:58:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Republic of Ireland to wear black armbands for Israel game",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 14:58:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3dbafae9851ea6a7bcea7f71",
-      "title": "Olympics: Germany picks Munich for Summer Games bid",
-      "text": "Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 14:37:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Olympics: Germany picks Munich for Summer Games bid",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 14:37:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "78a94fbce4dff6570f57903b",
-      "title": "Israel-Ireland match to go ahead in Nations League after player vote",
-      "text": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 14:36:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ireland decide to play Israel in Nations League after squad vote",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 19:42:57 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israel-Ireland match to go ahead in Nations League after player vote",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 14:36:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "695748bf191857d10f97dcbc",
-      "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-      "text": "George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 26 Sep 2026 14:17:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-          "url": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-          "published_at": "Sat, 26 Sep 2026 14:17:43 +0000"
         }
       ],
       "cross_checked": false,
