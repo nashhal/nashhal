@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-09-27T22:10:36.591536+00:00",
-  "source_count": 54,
-  "story_count": 53,
+  "generated_at": "2026-09-28T00:45:30.760861+00:00",
+  "source_count": 55,
+  "story_count": 55,
   "documents": [
-    {
-      "id": "518ba8477f1d76316c56b02e",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "text": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 14:09:22 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Two mass shootings in South Africa leave 27 dead",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 14:09:22 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Dozens killed in two mass shootings in South Africa",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
-          "published_at": "Sun, 27 Sep 2026 16:58:36 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -61,6 +36,196 @@
           "title": "Breast Cancer Scandal: Exposing the Harm",
           "url": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
           "published_at": "Thu, 17 Sep 2026 23:01:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c40a3dfae780cf5bfc424e97",
+      "title": "One dead as powerful storm pummels New York and New Jersey",
+      "text": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:37:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "One dead as powerful storm pummels New York and New Jersey",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:37:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3babefe77a81fd81ba7a6701",
+      "title": "'I take my pillow everywhere': An expert's guide to finding your perfect match",
+      "text": "Dr Chris McCarthy talks through the four considerations you need to make before buying your pillow.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0jey2dde7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:29:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'I take my pillow everywhere': An expert's guide to finding your perfect match",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0jey2dde7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:29:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ce11a47081a89beb131a9dfb",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "text": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:27:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:27:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4000f11a30866689161aaced",
+      "title": "You need £17,000 for a first home - here's how to do it",
+      "text": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:20:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "You need £17,000 for a first home - here's how to do it",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:20:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e69c8f2fd91eb9c395aeea34",
+      "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+      "text": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven abuse victims in French town of Lourdes.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 27 Sep 2026 23:14:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+          "url": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+          "published_at": "Sun, 27 Sep 2026 23:14:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "516a16f4524b90f045c3e614",
+      "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
+      "text": "Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 27 Sep 2026 23:09:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
+          "published_at": "Sun, 27 Sep 2026 23:09:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "27179cdad45769a749c54439",
+      "title": "My hometown shows that high streets have to change or die",
+      "text": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:05:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "My hometown shows that high streets have to change or die",
+          "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:05:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "848c24d75697d55699374883",
+      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "text": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 23:01:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 23:01:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42ccd6c5c72a812e2b465be2",
+      "title": "Powerful storm floods US Northeast, causes power outages",
+      "text": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 27 Sep 2026 22:51:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Powerful storm floods US Northeast, causes power outages",
+          "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+          "published_at": "Sun, 27 Sep 2026 22:51:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c4ccfff75e66cc537afd4fcc",
+      "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+      "text": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 22:20:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 22:20:17 GMT"
         }
       ],
       "cross_checked": false,
@@ -175,6 +340,25 @@
           "title": "Deadly strike hits market in Yemen’s Taiz",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
           "published_at": "Sun, 27 Sep 2026 21:00:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c68bfc5457aff9dae1fe4b72",
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "text": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 21:00:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 21:00:06 GMT"
         }
       ],
       "cross_checked": false,
@@ -504,25 +688,6 @@
       "conflict": false
     },
     {
-      "id": "c4ccfff75e66cc537afd4fcc",
-      "title": "No handshakes between Republic of Ireland and Israel",
-      "text": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 18:58:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No handshakes between Republic of Ireland and Israel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 18:58:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1d9ab283f32ae710742eb493",
       "title": "Palestine Action protesters arrested in Liverpool",
       "text": "Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.",
@@ -637,44 +802,6 @@
       "conflict": false
     },
     {
-      "id": "fdfa64df2476d0c0bc9b45fe",
-      "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-      "text": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 27 Sep 2026 17:29:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-          "published_at": "Sun, 27 Sep 2026 17:29:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2b122f35c41e28b49ea988f0",
-      "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-      "text": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 27 Sep 2026 17:07:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-          "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-          "published_at": "Sun, 27 Sep 2026 17:07:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "63d1fabb62c41dafe4f6722b",
       "title": "Two bodies found after avalanche hits Himalayan climbing group",
       "text": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
@@ -688,25 +815,6 @@
           "title": "Two bodies found after avalanche hits Himalayan climbing group",
           "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 27 Sep 2026 17:05:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2c8e25c7727ceb5dd86964ed",
-      "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-      "text": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 27 Sep 2026 16:53:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-          "published_at": "Sun, 27 Sep 2026 16:53:57 +0000"
         }
       ],
       "cross_checked": false,
@@ -770,44 +878,6 @@
       "conflict": false
     },
     {
-      "id": "ec8f4c88377728283bcf4cf2",
-      "title": "Social care reform could mean big risks and big rewards for Burnham",
-      "text": "The state of the social care system in England is a topic that's made Andy Burnham angry for decades - but will his plans for reform work?",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 15:23:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Social care reform could mean big risks and big rewards for Burnham",
-          "url": "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 15:23:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "558ebd81e618fbfd41a976b2",
-      "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
-      "text": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 15:08:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
-          "url": "https://www.bbc.co.uk/news/articles/cj3v4qr4x5edo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 15:08:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c85b4062b01f4a500d3af419",
       "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
       "text": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
@@ -821,6 +891,25 @@
           "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
           "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 27 Sep 2026 14:24:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b32914394325e0f93e4d0cbf",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "text": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 27 Sep 2026 14:09:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Two mass shootings in South Africa leave 27 dead",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 27 Sep 2026 14:09:22 GMT"
         }
       ],
       "cross_checked": false,
@@ -884,114 +973,57 @@
       "conflict": false
     },
     {
-      "id": "c40a3dfae780cf5bfc424e97",
-      "title": "US states declare emergency as powerful storm brings flooding and power cuts",
-      "text": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "id": "170c7514feb8a9a320911458",
+      "title": "Protesters disperse after blocking contentious Orange Order parade",
+      "text": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 12:34:26 GMT",
+      "published_at": "Mon, 28 Sep 2026 00:41:07 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "US states declare emergency as powerful storm brings flooding and power cuts",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 12:34:26 GMT"
+          "title": "Protesters disperse after blocking contentious Orange Order parade",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 00:41:07 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "5781b612613c1e0648f9725b",
-      "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
-      "text": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+      "id": "d2d58edd0583325ca905ee78",
+      "title": "The Papers: 'Iran link to RAF bomb plot' and 'Tax rise talks at No 10'",
+      "text": "Almost every front page on Monday is dominated by the what the Telegraph suggests is an \"Iran link\" to a \"bomb plot\" at RAF Fairford.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk5vd636m5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 08:51:23 GMT",
+      "published_at": "Mon, 28 Sep 2026 00:30:13 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
-          "url": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 08:51:23 GMT"
+          "title": "The Papers: 'Iran link to RAF bomb plot' and 'Tax rise talks at No 10'",
+          "url": "https://www.bbc.co.uk/news/articles/c9gk5vd636m5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 00:30:13 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "cb7921681dd9d30c60478e62",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "text": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 07:44:11 GMT",
+      "id": "4f92e36c7245c4e5a7d04972",
+      "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+      "text": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 28 Sep 2026 00:00:00 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 07:44:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "03b012d5f44f2ecdc93cf561",
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "text": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 23:04:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-          "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 23:04:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ddc3b6e894329cc51c0a2299",
-      "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-      "text": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 23:01:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-          "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 23:01:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9bea66b25fb918ba31ab4368",
-      "title": "China's new youth idol isn't a pop star - he's an academic",
-      "text": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
-      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 26 Sep 2026 22:02:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "China's new youth idol isn't a pop star - he's an academic",
-          "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 26 Sep 2026 22:02:18 GMT"
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+          "published_at": "Mon, 28 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
