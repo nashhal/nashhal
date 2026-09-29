@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-28T21:59:50.458697+00:00",
+  "generated_at": "2026-09-29T01:56:48.991543+00:00",
   "source_count": 58,
-  "story_count": 58,
+  "story_count": 57,
   "documents": [
+    {
+      "id": "73194c1f310be2011ae65f5a",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "text": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 01:51:25 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 01:51:25 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "OpenAI scraps release of latest AI model over safety concerns",
+          "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 00:38:06 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -17,6 +42,158 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4b43c6f4b269c19d38bf1d4a",
+      "title": "The Papers: 'Labour split on triple lock' and 'Plot's going on, PM?'",
+      "text": "A number of the papers preview a speech from Prime Minister Andy Burnham on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyx27vrq2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 01:01:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Labour split on triple lock' and 'Plot's going on, PM?'",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgyx27vrq2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 01:01:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b578fc47150a1666c32734d5",
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "text": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 01:01:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+          "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 01:01:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3f02c082ab4e2f705d446bdd",
+      "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy",
+      "text": "Could hallucinogenic drugs become part of mainstream NHS care to treat depression?",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 00:59:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 00:59:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d41f8c443a48da5e9b9a744",
+      "title": "Migrants using longer, more dangerous routes across Channel",
+      "text": "The government says it is bearing down on dangerous small boat crossings.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 00:42:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Migrants using longer, more dangerous routes across Channel",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 00:42:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8456b2f2f9e2e4d3831cb725",
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "text": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 00:40:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham to unveil public body to invest in electricity grid",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 00:40:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8db03d2d936c4f8bfd4405ff",
+      "title": "Africa’s space ambitions are moving from policy to practice",
+      "text": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 00:26:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Africa’s space ambitions are moving from policy to practice",
+          "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 00:26:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9f0a72d97f58399189737565",
+      "title": "Inside Al Jazeera’s UNGA coverage",
+      "text": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 00:10:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Inside Al Jazeera’s UNGA coverage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 00:10:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fa83fdd85d41852a67415701",
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "text": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -42,38 +219,190 @@
       "conflict": false
     },
     {
-      "id": "c73d04cb3b95d1b97c81fa37",
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "text": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 21:16:31 GMT",
+      "id": "defeb2eac16e9db0595ec97c",
+      "title": "Fiery end for SpaceX Starship mission",
+      "text": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 28 Sep 2026 23:48:48 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Inside Yemen's front-line city as Houthis battle for control",
-          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 21:16:31 GMT"
+          "source": "Al Jazeera",
+          "title": "Fiery end for SpaceX Starship mission",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+          "published_at": "Mon, 28 Sep 2026 23:48:48 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "c68bfc5457aff9dae1fe4b72",
-      "title": "Watch: BBC team takes cover as Houthi drone spotted on Yemen front-line",
-      "text": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "id": "2154fd5eaf09cffa3927cea5",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "text": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 27 Sep 2026 21:00:06 GMT",
+      "published_at": "Mon, 28 Sep 2026 23:43:48 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: BBC team takes cover as Houthi drone spotted on Yemen front-line",
-          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 27 Sep 2026 21:00:06 GMT"
+          "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+          "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 23:43:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d68529908e518e038fb2cc17",
+      "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
+      "text": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 23:39:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
+          "url": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 23:39:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "016e4eb49969a89f8bd016d1",
+      "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
+      "text": "UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 28 Sep 2026 23:34:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+          "published_at": "Mon, 28 Sep 2026 23:34:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "db0f03691b71ce87a670d245",
+      "title": "Temperatures to hit 25C in burst of late September warmth",
+      "text": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 23:13:58 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Temperatures to hit 25C in burst of late September warmth",
+          "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 23:13:58 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8d5f0217eb19be829734330c",
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "text": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 23:10:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Warning more homes will be uninsurable due to flood risk",
+          "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 23:10:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c59c819644721924d4311ef5",
+      "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+      "text": "Content creation degrees aim to help people make money from their social media posts.",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 23:10:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+          "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 23:10:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3d9d00499cb631a15b24d209",
+      "title": "Littler stunned by Woodhouse at World Grand Prix",
+      "text": "World champion Luke Littler's hopes of defending his World Grand Prix title are dashed as he falls to a shock shock first-round defeat by Luke Woodhouse in Leicester.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 22:49:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Littler stunned by Woodhouse at World Grand Prix",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzjv5gwzqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 22:49:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "49261254ce58a6c480f04885",
+      "title": "Infantino makes bigger cash pledge to Fifa members",
+      "text": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 28 Sep 2026 22:32:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Infantino makes bigger cash pledge to Fifa members",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 28 Sep 2026 22:32:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa467c58f6cbeb0ce1f0690c",
+      "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+      "text": "Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 28 Sep 2026 22:05:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+          "url": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+          "published_at": "Mon, 28 Sep 2026 22:05:43 +0000"
         }
       ],
       "cross_checked": false,
@@ -536,44 +865,6 @@
       "conflict": false
     },
     {
-      "id": "296501a80d3203a7bbbf99c1",
-      "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
-      "text": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 18:50:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
-          "url": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 18:50:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b1ea9afc3c7fb89b5b4c56f2",
-      "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-      "text": "World champions Spain host Croatia in matchday two of the UEFA Nations League, with Yamal facing Modric.",
-      "url": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 18:18:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-          "url": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 18:18:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "dc2b410e70f28d46fea08af2",
       "title": "What a US diesel export ban could mean for you",
       "text": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
@@ -587,44 +878,6 @@
           "title": "What a US diesel export ban could mean for you",
           "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 28 Sep 2026 18:18:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "67a1141b34b0a01d49ccb102",
-      "title": "Trump made the right decision to reject Iran’s offer",
-      "text": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 18:16:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump made the right decision to reject Iran’s offer",
-          "url": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 18:16:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7bf0034685bb800dab0c0c33",
-      "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-      "text": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 18:07:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-          "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 18:07:25 GMT"
         }
       ],
       "cross_checked": false,
@@ -650,84 +903,8 @@
       "conflict": false
     },
     {
-      "id": "eff007edaf0859e730584cc6",
-      "title": "Somali army clashes with local forces for control of Baidoa",
-      "text": "The latest outbreak of fighting in the South West State city stranded civilians unable to flee or reach hospitals.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 17:58:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Somali army clashes with local forces for control of Baidoa",
-          "url": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 17:58:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5754ae32515e5ce245bf7527",
-      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-      "text": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 17:45:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-          "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 17:45:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0cd25eebd1d1e93bcc78bbfe",
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "text": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 17:43:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-          "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 17:43:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6c18e6dffbbac63437c72a49",
-      "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-      "text": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv.",
-      "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 17:37:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-          "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 17:37:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "18313b6aba639db8d3bd98d0",
-      "title": "Leics get partial points reprieve but stay in limbo",
+      "title": "Leicestershire get partial points reprieve but stay in limbo",
       "text": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -736,28 +913,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Leics get partial points reprieve but stay in limbo",
+          "title": "Leicestershire get partial points reprieve but stay in limbo",
           "url": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 28 Sep 2026 17:34:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7d574520e817d27f7ae2d14d",
-      "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
-      "text": "British police officials say that suspects arrested over a 'terror' incident at a RAF base were released on police bail.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 17:32:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 17:32:44 +0000"
         }
       ],
       "cross_checked": false,
@@ -783,44 +941,6 @@
       "conflict": false
     },
     {
-      "id": "5a8fc117c7c11f3a2dc35113",
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "text": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 17:15:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-          "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 17:15:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2f1e56bdc0c4a8ce74338684",
-      "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-      "text": "Spain's Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 28 Sep 2026 17:13:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-          "url": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-          "published_at": "Mon, 28 Sep 2026 17:13:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "ecfa9fc3e8a451b320513911",
       "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
       "text": "The heavy metal band will be joined by the US rock musician during their London show.",
@@ -834,25 +954,6 @@
           "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
           "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 28 Sep 2026 17:00:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cbc864f159ad5594b5630e14",
-      "title": "Women protest in the streets of Delhi after string of sexual assaults",
-      "text": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
-      "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 16:15:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Women protest in the streets of Delhi after string of sexual assaults",
-          "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 16:15:57 GMT"
         }
       ],
       "cross_checked": false,
@@ -878,25 +979,6 @@
       "conflict": false
     },
     {
-      "id": "237073405d5c549fe539fd6f",
-      "title": "Andy Burnham wants to fix social care - what are the options?",
-      "text": "Andy Burnham has said social care in England should be reformed - what are the possible options?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 13:58:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Andy Burnham wants to fix social care - what are the options?",
-          "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 13:58:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1e854e8dcab4705d0dafa9ed",
       "title": "Lithium-ion battery caused fire that killed mum and 3 children",
       "text": "Elisha Brabin, 36, and three of her children, died after a blaze at their home in Bootle, Merseyside.",
@@ -910,44 +992,6 @@
           "title": "Lithium-ion battery caused fire that killed mum and 3 children",
           "url": "https://www.bbc.co.uk/news/articles/cq62jyk6ne4vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 28 Sep 2026 12:13:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e03acc09537b95dcb6596c82",
-      "title": "Three dead, including child, in Channel crossing attempt",
-      "text": "A 10-year-old child and two 30-year-old women were on board the boat - which was carrying 105 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 12:06:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Three dead, including child, in Channel crossing attempt",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 12:06:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0c86cc030beafe65847066af",
-      "title": "Norris apologises to Colapinto for ban comments",
-      "text": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 10:11:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Norris apologises to Colapinto for ban comments",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 10:11:33 GMT"
         }
       ],
       "cross_checked": false,
@@ -973,25 +1017,6 @@
       "conflict": false
     },
     {
-      "id": "aa6ed05f75f14566ab2ea1db",
-      "title": "British chess prodigy, 11, becomes youngest woman grandmaster",
-      "text": "The 11-year-old has broken another chess record after a remarkable performance representing England.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzrg7xm2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 09:11:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "British chess prodigy, 11, becomes youngest woman grandmaster",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyzrg7xm2zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 09:11:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "4000f11a30866689161aaced",
       "title": "You need £17,000 for a first home - here's how to save it",
       "text": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
@@ -1011,25 +1036,6 @@
       "conflict": false
     },
     {
-      "id": "36d9cdbaa71ec0910f7b0404",
-      "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
-      "text": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 08:10:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 08:10:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "346fefee74eefbe7be5a3e95",
       "title": "Angela Scanlon takes over Sara Cox's drivetime slot on Radio 2",
       "text": "The station also announces a new presenter for its country show after Bob Harris's departure.",
@@ -1043,25 +1049,6 @@
           "title": "Angela Scanlon takes over Sara Cox's drivetime slot on Radio 2",
           "url": "https://www.bbc.co.uk/news/articles/cmqxvnyg0xz7o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 28 Sep 2026 08:05:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bf89631016b4dd643a006214",
-      "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
-      "text": "Amina Sani, who is Nigerian, was found to have threatened the 81-year-old with police and threatened to hit him.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 28 Sep 2026 05:18:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
-          "url": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 28 Sep 2026 05:18:57 GMT"
         }
       ],
       "cross_checked": false,
