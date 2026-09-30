@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-29T20:46:37.289926+00:00",
-  "source_count": 60,
+  "generated_at": "2026-09-30T00:26:45.514241+00:00",
+  "source_count": 62,
   "story_count": 60,
   "documents": [
+    {
+      "id": "c58319cff5f805d0707beb7a",
+      "title": "One of the five men arrested near RAF Fairford called 999 himself",
+      "text": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 00:12:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "One of the five men arrested near RAF Fairford called 999 himself",
+          "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 00:12:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d08408ad35a4bd147b7d60c0",
+      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+      "text": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -23,8 +61,464 @@
       "conflict": false
     },
     {
+      "id": "c1e6ebef302231f784bd530a",
+      "title": "Trump says he plans to campaign for 32 days before midterm elections",
+      "text": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:53:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says he plans to campaign for 32 days before midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:53:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "371dda199451cea1c8ef2e6f",
+      "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
+      "text": "Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:49:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:49:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f23b9d9aea171bf9338bd12a",
+      "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+      "text": "Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:43:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+          "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:43:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8d30a3013b3f2d74259dfaac",
+      "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+      "text": "Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:28:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+          "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:28:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7caec62355a36bcc72161cd0",
+      "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+      "text": "Wilber Rafael Garces Perez has disputed the government's account of what led to his shooting during a DoorDash delivery.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:15:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+          "url": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:15:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0b9592bf34147ba48e0bc34c",
+      "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
+      "text": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free.",
+      "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 23:09:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
+          "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 23:09:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6dffb670f760120cce465b65",
+      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+      "text": "Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:06:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+          "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:06:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2046dde3607db8bbf16239a0",
+      "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
+      "text": "Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 23:06:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 23:06:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "478704cbfa1c33bdc664104b",
+      "title": "Huel ad banned for suggesting its products could replace all conventional food",
+      "text": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
+      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 23:06:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Huel ad banned for suggesting its products could replace all conventional food",
+          "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 23:06:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1a6f4eddeb94ee92c0ac6221",
+      "title": "Household energy bills forecast to see biggest rise in four years",
+      "text": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 23:03:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Household energy bills forecast to see biggest rise in four years",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 23:03:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2dd7efc8ebb90070a3834b3e",
+      "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
+      "text": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 22:38:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
+          "url": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 22:38:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e87e85753abd6da0ba40cc72",
+      "title": "New coach, new players, but same old failings hamper Scotland",
+      "text": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 22:30:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "New coach, new players, but same old failings hamper Scotland",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 22:30:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6d73288e6b4d901350def033",
+      "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
+      "text": "Rising goods and fuel costs are cited as key factors in the sharp drop in consumer confidence.",
+      "url": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 22:23:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
+          "url": "https://www.aljazeera.com/economy/2026/9/29/us-consumer-confidence-hits-its-lowest-level-since-2014-ahead-of-midterms?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 22:23:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5dc0176707d3461bef41d274",
+      "title": "US Supreme Court allows Trump to continue third-country deportations",
+      "text": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 22:06:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Supreme Court allows Trump to continue third-country deportations",
+          "url": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 22:06:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b603ab98d654793eea7f93c",
+      "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
+      "text": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 22:06:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 22:06:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f5b21126225d761b0c24706b",
+      "title": "Burnham to fight next election on pledge to change voting system",
+      "text": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
+      "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 21:32:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham to fight next election on pledge to change voting system",
+          "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 21:32:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7683cefdb17f884a151c0530",
+      "title": "Yamal stars as Spain thrash Croatia",
+      "text": "Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3",
+      "url": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 21:29:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yamal stars as Spain thrash Croatia",
+          "url": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 21:29:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "682dfe69125c498186d47918",
+      "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+      "text": "In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 21:24:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 21:24:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eb6ed70939ac5dd051b104ac",
+      "title": "French students clash with police as protests over education cuts spread",
+      "text": "French school students have blocked schools across France, demanding better learning conditions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 21:09:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "French students clash with police as protests over education cuts spread",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 21:09:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "00aed030e068972adf03b32e",
+      "title": "What is white phosphorus, and why is Israel using it in Lebanon?",
+      "text": "White phosphorus can cause severe burns, ignite repeatedly and produce intense heat and toxic smoke.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 21:05:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What is white phosphorus, and why is Israel using it in Lebanon?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 21:05:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa4274821eb2defaeb72c3eb",
+      "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+      "text": "The real estate firm backs down and restores her old rent after mass protests over Spain's housing crisis.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 21:02:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+          "url": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 21:02:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f996f60f96f2680b25523ef9",
+      "title": "The intricate web Man City spun to con the Premier League",
+      "text": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 29 Sep 2026 20:58:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The intricate web Man City spun to con the Premier League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 29 Sep 2026 20:58:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2155cdbb272a53193ebc5d12",
+      "title": "What we know about RAF Fairford ‘bomb plot’",
+      "text": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 20:55:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What we know about RAF Fairford ‘bomb plot’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 20:55:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c4a36666b5b0760daca81424",
+      "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+      "text": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 29 Sep 2026 20:48:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+          "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
+          "published_at": "Tue, 29 Sep 2026 20:48:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "30b516713d27fbf263f9e300",
-      "title": "Who continues to show how important they are? - England player ratings",
+      "title": "Who continues to show how important they are? England player ratings",
       "text": "How the England players rated following their Nations League match.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -33,7 +527,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Who continues to show how important they are? - England player ratings",
+          "title": "Who continues to show how important they are? England player ratings",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 20:39:46 GMT"
         }
@@ -150,25 +644,6 @@
           "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
           "url": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 19:54:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c58319cff5f805d0707beb7a",
-      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-      "text": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 19:50:58 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-          "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 19:50:58 GMT"
         }
       ],
       "cross_checked": false,
@@ -308,44 +783,6 @@
       "conflict": false
     },
     {
-      "id": "71d8e37ba88f402f49b4b16c",
-      "title": "Morocco’s king names Fatima Ezzahra El Mansouri first woman PM",
-      "text": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 18:10:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Morocco’s king names Fatima Ezzahra El Mansouri first woman PM",
-          "url": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 18:10:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2a6a3a0bb902a33cca561328",
-      "title": "Schoolboy kills teacher, injures two in Slovakia school stabbing",
-      "text": "Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 18:03:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Schoolboy kills teacher, injures two in Slovakia school stabbing",
-          "url": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 18:03:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "43ca3e20529fe9535a26584f",
       "title": "Fury & Joshua in London for news conference as doubts ease",
       "text": "Tyson Fury and Anthony Joshua arrive in London for Wednesday’s launch news conference, with their December fight now expected to take place as scheduled.",
@@ -359,25 +796,6 @@
           "title": "Fury & Joshua in London for news conference as doubts ease",
           "url": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 17:57:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f37b22f054950af15e92c38a",
-      "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-      "text": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 17:51:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-          "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 17:51:11 +0000"
         }
       ],
       "cross_checked": false,
@@ -422,25 +840,6 @@
       "conflict": false
     },
     {
-      "id": "036763d178da464c80938041",
-      "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
-      "text": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 17:25:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
-          "url": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 17:25:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "514077a834c6aa5ce61d0cef",
       "title": "First female prime minister named in Morocco after winning elections",
       "text": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
@@ -454,25 +853,6 @@
           "title": "First female prime minister named in Morocco after winning elections",
           "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 17:14:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8a2ecfefd8f4272ed8475241",
-      "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-      "text": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 16:57:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 16:57:59 +0000"
         }
       ],
       "cross_checked": false,
@@ -517,25 +897,6 @@
       "conflict": false
     },
     {
-      "id": "290afc35051aa3ffc3d74b52",
-      "title": "Man City guilty of all serious financial breach charges: Premier League",
-      "text": "Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 16:30:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City guilty of all serious financial breach charges: Premier League",
-          "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 16:30:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d77b9be5bd7c100cc2ae116c",
       "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
       "text": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
@@ -549,25 +910,6 @@
           "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
           "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 16:23:58 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b566f5d620bd6b1c94cb35b4",
-      "title": "‘New path’: UK’s Burnham promises huge expansion of public services",
-      "text": "UK prime minister tells his first Labour Party conference 'fundamental rethink' needed to set Britain on right course.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 16:13:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘New path’: UK’s Burnham promises huge expansion of public services",
-          "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 16:13:04 +0000"
         }
       ],
       "cross_checked": false,
@@ -612,82 +954,6 @@
       "conflict": false
     },
     {
-      "id": "93670db14605c5eef80391f8",
-      "title": "Russian Tu-95 nuclear-capable bomber plane crashes, killing six people",
-      "text": "Tu-95 plane crashed during training flight in uninhabited area of Amur region, Defence Ministry says.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 16:03:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian Tu-95 nuclear-capable bomber plane crashes, killing six people",
-          "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 16:03:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "41727a75c328fc1bfeeb950a",
-      "title": "LIVE: Spain vs Croatia – Nations League",
-      "text": "Build-up, teams and live text coverage as World champions Spain host Croatia on matchday two of the UEFA Nations League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:59:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Spain vs Croatia – Nations League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:59:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5c34380f3b5888560cda12f9",
-      "title": "No 'deliberate' contact to stop car in A66 crash",
-      "text": "No stinger was used by police before the fatal A66 crash, an initial investigation reveals.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 15:59:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No 'deliberate' contact to stop car in A66 crash",
-          "url": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 15:59:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f5b21126225d761b0c24706b",
-      "title": "Burnham to fight next election on pledge to change voting system",
-      "text": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
-      "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 15:55:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Burnham to fight next election on pledge to change voting system",
-          "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 15:55:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "5c1aeb89eeb7a7e7943524d8",
       "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
       "text": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
@@ -701,63 +967,6 @@
           "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
           "url": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 15:52:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "223089e7c987c89e67a9aae8",
-      "title": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
-      "text": "UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:49:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
-          "url": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:49:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "db3eaded213492434992a901",
-      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-      "text": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:47:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-          "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:47:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c20650fe0deefd866ececa3d",
-      "title": "Ireland undecided on approach for next game against Israel, coach says",
-      "text": "Ireland played the first Nations League game despite unease among some players over Israel's genocidal war in Gaza.",
-      "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:33:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ireland undecided on approach for next game against Israel, coach says",
-          "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:33:42 +0000"
         }
       ],
       "cross_checked": false,
@@ -783,82 +992,6 @@
       "conflict": false
     },
     {
-      "id": "d8faa369f5495d051887f082",
-      "title": "US-Iran talks in New York: What’s the latest?",
-      "text": "Both sides remain interested in a diplomatic settlement but differ on how to achieve one.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:09:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US-Iran talks in New York: What’s the latest?",
-          "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:09:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d213ebeb27c4a41a8c5a9546",
-      "title": "CDC reports two measles deaths in US as cases hit 35-year high",
-      "text": "Pennsylvania reports over 900 measles cases, leading a nationwide outbreak with the highest numbers in 35 years.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 15:08:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "CDC reports two measles deaths in US as cases hit 35-year high",
-          "url": "https://www.aljazeera.com/news/2026/9/29/cdc-reports-two-measles-deaths-us-as-cases-hit-35-year-high?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 15:08:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2b42465623f9cd358c0f5c4d",
-      "title": "Photos: French students protest, public workers strike before budget cuts",
-      "text": "More than 400 people have been arrested as protesting students clash with police.",
-      "url": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 14:51:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: French students protest, public workers strike before budget cuts",
-          "url": "https://www.aljazeera.com/gallery/2026/9/29/photos-french-studentspublic-workers-protest-macrons-planned-budget-cuts?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 14:51:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "23d5006c2d57996b65a6e99b",
-      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
-      "text": "The move marks the fourth military expansion this year as Russia's war in Ukraine seemingly stalls.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 14:46:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
-          "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 14:46:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a6600bbf70a24f27f0815b79",
       "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
       "text": "He was arrested in Russia in 2023 and later sentenced to 16 years on espionage charges.",
@@ -872,44 +1005,6 @@
           "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
           "url": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 14:45:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b00229b10b0100bb883c8324",
-      "title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
-      "text": "Russian cash helped Essar, the firm behind the steel factory, manage major debts. Now the group's investing in the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 14:19:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
-          "url": "https://www.aljazeera.com/news/2026/9/29/indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 14:19:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b0217274f37f89bc81cbcd20",
-      "title": "Sudan takes centre stage on final day of UNGA",
-      "text": "Sudan's foreign minister addressed the UNGA as his country faces war, mass displacement and a worsening aid shortfall.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 29 Sep 2026 14:16:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sudan takes centre stage on final day of UNGA",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_sudan-takes-centre-stage-on-final-day-of-unga-290926?traffic_source=rss",
-          "published_at": "Tue, 29 Sep 2026 14:16:37 +0000"
         }
       ],
       "cross_checked": false,
@@ -954,25 +1049,6 @@
       "conflict": false
     },
     {
-      "id": "51d42da3da1f58b0fa6055da",
-      "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
-      "text": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 12:51:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
-          "url": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 12:51:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "db86f6713f4a521c95e3fb00",
       "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
       "text": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
@@ -986,25 +1062,6 @@
           "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
           "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 12:39:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3d196a8fea2049c06d17c516",
-      "title": "Man Utd do not deserve Man City titles - Rooney",
-      "text": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if rivals Man City are stripped of them.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 12:36:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man Utd do not deserve Man City titles - Rooney",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 12:36:50 GMT"
         }
       ],
       "cross_checked": false,
@@ -1081,63 +1138,6 @@
           "title": "I paid £30,000 for an 'influencer' degree. Here's why",
           "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 29 Sep 2026 07:02:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "18861d1f27c4e9a241021766",
-      "title": "Blue Lights: The police drama hitting home in Northern Ireland",
-      "text": "As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
-      "url": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 03:24:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Blue Lights: The police drama hitting home in Northern Ireland",
-          "url": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 03:24:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f105b25ad69f6e530034eb8a",
-      "title": "Are Trump's US government funded ads illegal?",
-      "text": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 01:12:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Are Trump's US government funded ads illegal?",
-          "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 01:12:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "778657ac4bca506ec76abc1a",
-      "title": "Breast Cancer Scandal: Exposing the Harm",
-      "text": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
-      "source": "BBC",
-      "published_at": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Breast Cancer Scandal: Exposing the Harm",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
-          "published_at": "Thu, 17 Sep 2026 23:01:00 GMT"
         }
       ],
       "cross_checked": false,
