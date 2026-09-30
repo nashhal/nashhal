@@ -1,22 +1,655 @@
 {
-  "generated_at": "2026-09-30T19:19:15.666569+00:00",
-  "source_count": 54,
-  "story_count": 54,
+  "generated_at": "2026-09-30T23:48:27.373240+00:00",
+  "source_count": 60,
+  "story_count": 59,
   "documents": [
+    {
+      "id": "73e5868d2396a2001fe564cd",
+      "title": "Ronaldo leaves Portugal camp after coach denies rift",
+      "text": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 19:33:07 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ronaldo leaves Portugal camp after coach denies rift",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 19:33:07 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ronaldo leaves Portugal camp amid reports of rift with coach Jorge Jesus",
+          "url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 18:39:04 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
+    {
+      "id": "9e867a33cfee2d99907e9a50",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "text": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 23:42:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 23:42:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e74aca6baa8bb1b88354f2d9",
+      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+      "text": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 23:31:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+          "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 23:31:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d6c1f98464d91c54ee6ced0b",
+      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+      "text": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 23:15:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+          "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 23:15:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a15348092f445e1e0e5a1c40",
+      "title": "US Senate rejects bill targeting AI data centre electricity costs",
+      "text": "Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 22:58:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Senate rejects bill targeting AI data centre electricity costs",
+          "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 22:58:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ffdb812ccdedb0d1142de638",
+      "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+      "text": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 22:38:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+          "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 22:38:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a590a258bffb6fc36428c0fa",
+      "title": "Hong Kong journalist arrested on sedition charge",
+      "text": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 22:16:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hong Kong journalist arrested on sedition charge",
+          "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 22:16:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2759560e4e27f654cfc35772",
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "text": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 22:13:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russian drone crashes into Kyiv playground without exploding",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 22:13:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "95a9d3d888b36a4859d2ccf1",
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "text": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 21:40:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Employers should teach primary-age children about work, says Milburn",
+          "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 21:40:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e9673cefe626ee197cf0d550",
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "text": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 21:38:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 21:38:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6e51ebb4942878ed179f4f69",
+      "title": "What we know about stabbing on Israel-bound plane",
+      "text": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 21:36:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What we know about stabbing on Israel-bound plane",
+          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 21:36:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b1dd409655ac07eaf5952ad5",
+      "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+      "text": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 21:34:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 21:34:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dcd0798bfbd8106bf90465b3",
+      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+      "text": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 21:30:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 21:30:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4765f690647a6c911b5e06d3",
+      "title": "Trump administration files complaint against judges over media comments",
+      "text": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 21:28:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump administration files complaint against judges over media comments",
+          "url": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 21:28:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "05bec10aa504d1e6f1e9dd4e",
+      "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+      "text": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 21:26:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+          "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 21:26:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b80960499de573872bb7d236",
+      "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+      "text": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 21:12:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 21:12:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b38eb6518e9ce53fc6f4598d",
+      "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+      "text": "Powe rationing hours are to increase as a result of the blast.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 21:01:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+          "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 21:01:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
     {
       "id": "4391e45795dbae008bdf624c",
       "title": "Punish Man City this season, say other club chiefs",
       "text": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 19:10:14 GMT",
+      "published_at": "Wed, 30 Sep 2026 20:38:22 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Punish Man City this season, say other club chiefs",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 19:10:14 GMT"
+          "published_at": "Wed, 30 Sep 2026 20:38:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ee1eaec1c31eafaaed11f28b",
+      "title": "Bayeux Tapestry tour added for blind people after legal threat",
+      "text": "The British Museum will offer an audio-described Bayeux Tapestry tour for people with impaired vision.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 20:13:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bayeux Tapestry tour added for blind people after legal threat",
+          "url": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 20:13:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7d2a1031c0da999109db2839",
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "text": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 20:12:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli attacks across Gaza kill at least eight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 20:12:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "baccf9b593a7bba2ffc6bfcc",
+      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+      "text": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 20:00:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+          "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 20:00:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "337bdec06d04ab6f2ec54862",
+      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "text": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:49:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+          "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:49:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c70b8374a10dda2be1a9a37d",
+      "title": "Infantino should have no place in future of football - Pinto",
+      "text": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 19:47:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Infantino should have no place in future of football - Pinto",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm0rekrpxnl1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 19:47:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9da14f06a61f58be65eb09db",
+      "title": "US regulator launches probe into AI companies",
+      "text": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:46:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US regulator launches probe into AI companies",
+          "url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:46:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e9bf6aeea4bebfa94a836df",
+      "title": "How does Trump’s White House AI accord work?",
+      "text": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations.",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:44:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How does Trump’s White House AI accord work?",
+          "url": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:44:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "801ce35fa8df3681927efd24",
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "text": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
+      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:43:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+          "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:43:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b9becec01ce716d79ebb2a37",
+      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+      "text": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:41:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+          "url": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:41:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e309bfa558c8f7c390aca8a",
+      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+      "text": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:39:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+          "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:39:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "653a883bd3050fba88efd421",
+      "title": "Respect and laughs as Fury and Joshua face off",
+      "text": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 19:37:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Respect and laughs as Fury and Joshua face off",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 19:37:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "91f6a6b3b2c33e3eeed8d10d",
+      "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+      "text": "Trump said former Fed chair Jerome Powell should resign anyway.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:24:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:24:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3324e735f8424f6d7bb9946",
+      "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
+      "text": "Crown Prince Mohammed bin Salman says the kingdom 'will not hesitate to respond firmly to any threat'.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:20:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
+          "url": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:20:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0af2cfe12ff7d7a7b1e58e06",
+      "title": "'Shaken and emotional' travellers arrive at Israeli airport",
+      "text": "The BBC's Yogita Limaye is at Ben Gurion Airport as passengers from the Flydubai flight arrive in Israel.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2z29wx32vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 19:11:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Shaken and emotional' travellers arrive at Israeli airport",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2z29wx32vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 19:11:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "49f5aa4562f521f8cd1d2580",
+      "title": "Norway launches probe into 11 senior officials over US Epstein files links",
+      "text": "Norway investigates over $13m in state grants linked to Epstein and top ministers.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:10:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Norway launches probe into 11 senior officials over US Epstein files links",
+          "url": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:10:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "866a5638f85f82b4493e9eee",
+      "title": "US FCC head says controversial Trump ads do not raise concerns",
+      "text": "Series of publicly-funded television spots have been criticised by Republicans and Democrats as self-promotion by Trump.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-fcc-head-says-controversial-trump-ads-do-not-raise-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 30 Sep 2026 19:07:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US FCC head says controversial Trump ads do not raise concerns",
+          "url": "https://www.aljazeera.com/news/2026/9/30/us-fcc-head-says-controversial-trump-ads-do-not-raise-concerns?traffic_source=rss",
+          "published_at": "Wed, 30 Sep 2026 19:07:13 +0000"
         }
       ],
       "cross_checked": false,
@@ -25,7 +658,7 @@
     {
       "id": "ac5e94e3e3dfdb946b638e9d",
       "title": "Dame Esther Rantzen: A presenter who campaigned for change",
-      "text": "The veteran broadcaster was appointed a Dame Commander in recognition of the two helpline services she set up.",
+      "text": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
       "url": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Wed, 30 Sep 2026 19:00:50 GMT",
@@ -42,19 +675,19 @@
       "conflict": false
     },
     {
-      "id": "91f6a6b3b2c33e3eeed8d10d",
-      "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-      "text": "The renovation costs became a focus of Trump’s pressure campaign against former Federal Reserve Chair Jerome Powell.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 19:00:11 +0000",
+      "id": "133dc7e0e915c53a0c42b3fe",
+      "title": "Arsenal let two-goal lead slip to draw with Paris FC",
+      "text": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC a late equaliser as the sides draw 2-2 in the Women's Champions League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 30 Sep 2026 18:55:13 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 19:00:11 +0000"
+          "source": "BBC",
+          "title": "Arsenal let two-goal lead slip to draw with Paris FC",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 30 Sep 2026 18:55:13 GMT"
         }
       ],
       "cross_checked": false,
@@ -137,44 +770,6 @@
       "conflict": false
     },
     {
-      "id": "27d0cf8767b2a05859030e9b",
-      "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
-      "text": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and is now in doubt for the game against Denmark.",
-      "url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 18:39:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
-          "url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 18:39:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7a219a3e6523b24942f0ddb0",
-      "title": "No rift with Ronaldo, says Portugal coach Jesus",
-      "text": "Portugal head coach Jorge Jesus says there is no rift with captain Cristiano Ronaldo following claims the five-time Ballon d'Or winner had refused to train.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 18:28:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No rift with Ronaldo, says Portugal coach Jesus",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 18:28:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7d5b3af73244e438b626db79",
       "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
       "text": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
@@ -213,101 +808,6 @@
       "conflict": false
     },
     {
-      "id": "45c7d3d0e2668e85eeddd654",
-      "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-      "text": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 18:09:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 18:09:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1a256a6cd7fcd9a7ec501a6a",
-      "title": "Trump set to announce $200bn in energy investments from South Korea",
-      "text": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
-      "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 18:01:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump set to announce $200bn in energy investments from South Korea",
-          "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 18:01:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "84359000854f5c28e0a6545d",
-      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-      "text": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:55:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:55:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ef4227d36bad8e53be5b0636",
-      "title": "Syria removed from US arms export ban list",
-      "text": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country's recovery from conflict.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:55:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Syria removed from US arms export ban list",
-          "url": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:55:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6e51ebb4942878ed179f4f69",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "text": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 17:51:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What we know about stabbing on Flydubai flight to Israel",
-          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 17:51:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "5eb0a0e85425c6bf189deb32",
       "title": "Saracens boss Venter skips more media duties",
       "text": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
@@ -327,44 +827,6 @@
       "conflict": false
     },
     {
-      "id": "6036dbc8124d60d1a8615776",
-      "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
-      "text": "Benjamin Netanyahu has met Yaniv Hayun, the Flydubai passenger that helped restrain a pilot who stabbed a colleague.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:36:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:36:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "04b7aa4944062f6734e9cceb",
-      "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
-      "text": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:34:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
-          "url": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:34:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "ee09fc2c613e65c85830e24c",
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
       "text": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
@@ -378,25 +840,6 @@
           "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
           "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Sep 2026 17:14:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "59bb9f3a7bfe82a6faeb4cda",
-      "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-      "text": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:13:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-          "url": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:13:05 +0000"
         }
       ],
       "cross_checked": false,
@@ -435,139 +878,6 @@
           "title": "UK-France 'one in, one out' migrant scheme scrapped",
           "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Sep 2026 17:11:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8bc47d76c2f565c20bd4f93c",
-      "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-      "text": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 17:07:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-          "url": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 17:07:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cf5ff80b0648ffbbb9a2b721",
-      "title": "US appeals court halts Tennessee execution of Christa Pike",
-      "text": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 16:44:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US appeals court halts Tennessee execution of Christa Pike",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 16:44:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ee4156f95e1a8ea3afa72111",
-      "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-      "text": "Executive committee reverses its support ‌for the ​Swiss football administrator after endorsing his candidacy in June.",
-      "url": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 16:38:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-          "url": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 16:38:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "30a36fe3885e2dc43cc35fa4",
-      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-      "text": "A Flydubai flight to Tel Aviv was diverted after a stabbing, with Israeli officials calling it 'an act of terror'.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 16:36:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 16:36:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1cbf6e3655a111f6f0c9c85f",
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "text": "Trump hails completion of 'very expensive excursion into Hell' as US-led coalition anti-ISIL mission ends.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 16:33:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pentagon says US troop withdrawal from Iraq is complete",
-          "url": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 16:33:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9258fb8ee7d60b8c45238cba",
-      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-      "text": "Siegfried Muresan's loss of the confidence motion increases the prospect for snap elections.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 16:18:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-          "url": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 16:18:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ee1eaec1c31eafaaed11f28b",
-      "title": "Bayeux Tapestry tour added for blind people after legal threat",
-      "text": "The British Museum will offer an audio-described Bayeux Tapestry tour after a blind man's legal threat.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 16:16:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bayeux Tapestry tour added for blind people after legal threat",
-          "url": "https://www.bbc.co.uk/news/articles/cwp93d9r034xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 16:16:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -669,82 +979,6 @@
       "conflict": false
     },
     {
-      "id": "05bec10aa504d1e6f1e9dd4e",
-      "title": "UK believes Iran involved in RAF Fairford incident, PM says",
-      "text": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 15:59:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK believes Iran involved in RAF Fairford incident, PM says",
-          "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 15:59:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0d967fda81d878dfa6f89d51",
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "text": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 15:29:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-          "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 15:29:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "db3a73a598a3db9ad75aca48",
-      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-      "text": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 15:27:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-          "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 15:27:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5a98156df3e8ddb2df129509",
-      "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
-      "text": "Wazwan, a multicourse mutton feast, reflects Kashmiri cultural roots with recipes dating back to the 14th century.",
-      "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 15:22:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
-          "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 15:22:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e020f3d0f540eac7915ac275",
       "title": "NHS trust admits 'failing families' over stillbirths",
       "text": "An independent review ordered by the trust finds systemic issues lay at the heart of the failures.",
@@ -764,25 +998,6 @@
       "conflict": false
     },
     {
-      "id": "50bb0e9ab8dd62ddc5f45894",
-      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-      "text": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 15:06:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-          "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 15:06:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d3dc6fc9caeeda80f6ff6387",
       "title": "Greggs to shut four factories and cut 740 jobs",
       "text": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
@@ -796,82 +1011,6 @@
           "title": "Greggs to shut four factories and cut 740 jobs",
           "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Sep 2026 15:03:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1edd2cb0450324ea910cd479",
-      "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-      "text": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.",
-      "url": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 14:54:34 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-          "url": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 14:54:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c0a54aa6c07b417c2e10ed35",
-      "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
-      "text": "The government blames 'savage speculation' as critics say new measures leave small landlords 'out in the cold'.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 14:40:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
-          "url": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 14:40:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99540a0903c4d9ebc3bbd03f",
-      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
-      "text": "The overhaul could reshape the US military as Hegseth faces scrutiny over senior officers’ removal.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 14:35:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
-          "url": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 14:35:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "80796bbddc26075a4f433a4e",
-      "title": "Pep Guardiola backs Man City after guilty verdict on financial charges",
-      "text": "The Spanish coach won 20 trophies during a glittering 10 years as City manager before departing in May.",
-      "url": "https://www.aljazeera.com/sports/2026/9/30/pep-guardiola-backs-man-city-after-guilty-verdict-on-financial-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 30 Sep 2026 14:27:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pep Guardiola backs Man City after guilty verdict on financial charges",
-          "url": "https://www.aljazeera.com/sports/2026/9/30/pep-guardiola-backs-man-city-after-guilty-verdict-on-financial-charges?traffic_source=rss",
-          "published_at": "Wed, 30 Sep 2026 14:27:17 +0000"
         }
       ],
       "cross_checked": false,
@@ -935,25 +1074,6 @@
       "conflict": false
     },
     {
-      "id": "472b7b71a81f7b1f6d91b1c2",
-      "title": "Oasis take legal action to stop sale of unheard tapes",
-      "text": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 30 Sep 2026 12:33:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Oasis take legal action to stop sale of unheard tapes",
-          "url": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 30 Sep 2026 12:33:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d1d4119511cab73f74ad4dfb",
       "title": "Hidden habits that make your social anxiety worse and how to break them",
       "text": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
@@ -986,25 +1106,6 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b9592bf34147ba48e0bc34c",
-      "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-      "text": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free.",
-      "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 29 Sep 2026 23:09:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-          "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 29 Sep 2026 23:09:37 GMT"
         }
       ],
       "cross_checked": false,
