@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-10-01T23:12:09.077664+00:00",
-  "source_count": 55,
-  "story_count": 54,
+  "generated_at": "2026-10-02T02:15:12.365250+00:00",
+  "source_count": 56,
+  "story_count": 56,
   "documents": [
-    {
-      "id": "c13e9861f02f08de93145802",
-      "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
-      "text": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
-      "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 17:28:13 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-          "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 20:30:47 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
-          "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 17:28:13 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -67,19 +42,152 @@
       "conflict": false
     },
     {
+      "id": "8770dbade2890af9fae2c25d",
+      "title": "Coroner warns of risk of future deaths at mental health unit where patient was killed",
+      "text": "Hugo Flint-Cahan, 34, was fatally attacked by Rolando Torres-Pena, 22, at a mental health trust in east London.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 23:59:44 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Coroner warns of risk of future deaths at mental health unit where patient was killed",
+          "url": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 23:59:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "91982e0948935d1bb7f93be9",
+      "title": "What's really going on in lymphatic drainage beauty videos?",
+      "text": "Fans of these massages claim they \"depuff\" and \"define\" their stomach - but what's actually happening to their bodies?",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l6zvr9gdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 23:49:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What's really going on in lymphatic drainage beauty videos?",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l6zvr9gdgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 23:49:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d4807c8344ede2cdf63abacf",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "text": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 23:45:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 23:45:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "37a87f23de79b21b0b6d9aed",
+      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+      "text": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 01 Oct 2026 23:44:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+          "published_at": "Thu, 01 Oct 2026 23:44:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cf1e251d373ddf383698a360",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "text": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 23:42:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Spain and China are cosying up - to the anger of many in the EU",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 23:42:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "ac4a55d994ff4e33477768f0",
       "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
       "text": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
       "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 23:08:02 GMT",
+      "published_at": "Thu, 01 Oct 2026 23:32:59 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
           "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 23:08:02 GMT"
+          "published_at": "Thu, 01 Oct 2026 23:32:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "753018ad6a3c971038a9e0cb",
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+      "text": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 23:00:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+          "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 23:00:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bb8c165e950e40493b66f0c6",
+      "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
+      "text": "Head coach Craig Bellamy says he has been through a \"really difficult\" spell because of criticism aimed in his direction during Wales' winless run.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 22:56:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxzx1d484zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 22:56:09 GMT"
         }
       ],
       "cross_checked": false,
@@ -118,6 +226,44 @@
           "title": "Talks on Drumcree parading dispute end without agreement",
           "url": "https://www.bbc.co.uk/news/articles/c62l8588y5v9o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 01 Oct 2026 22:50:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "81768c59ee058ed47dbbb1fb",
+      "title": "Brazilian government calls for probe into US funding of far-right causes",
+      "text": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 01 Oct 2026 22:48:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Brazilian government calls for probe into US funding of far-right causes",
+          "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+          "published_at": "Thu, 01 Oct 2026 22:48:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5965ba4ed7c823aae20a4217",
+      "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+      "text": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 01 Oct 2026 22:44:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+          "published_at": "Thu, 01 Oct 2026 22:44:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -201,8 +347,8 @@
     },
     {
       "id": "d63b2cca63eeefce57ba3ffe",
-      "title": "Why Andy Burnham's about-turn on Manchester City matters",
-      "text": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football.",
+      "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+      "text": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
       "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Thu, 01 Oct 2026 22:22:43 GMT",
@@ -210,7 +356,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Why Andy Burnham's about-turn on Manchester City matters",
+          "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
           "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 01 Oct 2026 22:22:43 GMT"
         }
@@ -232,6 +378,25 @@
           "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
           "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 01 Oct 2026 22:21:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0fc0ae8411753fa88e41b25c",
+      "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
+      "text": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 01 Oct 2026 22:00:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 22:00:08 GMT"
         }
       ],
       "cross_checked": false,
@@ -580,63 +745,6 @@
       "conflict": false
     },
     {
-      "id": "7d8f100fcba84c97363708ad",
-      "title": "Cornell rape allegations renew push to change New York sexual assault law",
-      "text": "New York law treats intoxicated victims differently depending on whether they willingly consumed alcohol or drugs.",
-      "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 19:47:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cornell rape allegations renew push to change New York sexual assault law",
-          "url": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 19:47:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e65826e923e23e3fd59125bc",
-      "title": "What’s driving Israeli settler violence in the occupied West Bank?",
-      "text": "Attacks on Palestinians in the area are growing at unprecedented levels.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 19:45:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What’s driving Israeli settler violence in the occupied West Bank?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 19:45:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2270749862f1b8e3acb190d2",
-      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-      "text": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 19:45:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 19:45:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "903db42d8eb7f2149980c96d",
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "text": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
@@ -675,103 +783,8 @@
       "conflict": false
     },
     {
-      "id": "e2082889206b29cf3b32c89c",
-      "title": "After Red Sea losses, Yemen’s government forces hold the line",
-      "text": "Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 19:05:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "After Red Sea losses, Yemen’s government forces hold the line",
-          "url": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 19:05:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "35821d9beba18ea59bce8655",
-      "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
-      "text": "At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 19:03:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
-          "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 19:03:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "05bcdad2c5d02fce3bcfdc1e",
-      "title": "Canada to fast track oil pipeline meant to diversify economy away from US",
-      "text": "Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 18:56:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Canada to fast track oil pipeline meant to diversify economy away from US",
-          "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 18:56:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f830528e18966e17a12ffbd2",
-      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-      "text": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 18:38:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-          "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 18:38:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eecc4b1c8a5ad5f2feda9353",
-      "title": "Why the Cornell University frat house rape investigation was reopened",
-      "text": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 18:26:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why the Cornell University frat house rape investigation was reopened",
-          "url": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 18:26:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "0105b6ea0f99767740089646",
-      "title": "HMRC urged to scrutinise tax implications of Man City case",
+      "title": "Man City appeal plan emerges as HMRC urged to examine case findings",
       "text": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -780,7 +793,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "HMRC urged to scrutinise tax implications of Man City case",
+          "title": "Man City appeal plan emerges as HMRC urged to examine case findings",
           "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 01 Oct 2026 18:21:22 GMT"
         }
@@ -808,114 +821,19 @@
       "conflict": false
     },
     {
-      "id": "1ad140fafb2fb86b35314427",
-      "title": "School protests spread as fires, blockades deepen unrest in France",
-      "text": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 18:18:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "School protests spread as fires, blockades deepen unrest in France",
-          "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 18:18:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7749d9d2bfc363243622fc2f",
-      "title": "Palestinian children in Israeli military detention",
-      "text": "Palestinian children in Israeli military detention",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 17:44:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinian children in Israeli military detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 17:44:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a87ee49132a5ff7a9b7d3773",
-      "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-      "text": "The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 17:35:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-          "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 17:35:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cbc7fa4b17d1777e8784c0c0",
-      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-      "text": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+      "id": "b5319add2808efb270b32594",
+      "title": "Cornell accuser was 'failed' by university healthcare system, lawyer says",
+      "text": "Jane Doe told the school's doctor that she had contracted an infection \"in a traumatic way\", but they \"didn't really follow up\", according to the New York Times.",
+      "url": "https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 17:26:40 GMT",
+      "published_at": "Thu, 01 Oct 2026 18:08:48 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-          "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 17:26:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7b503ef23e7031eb6125e106",
-      "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
-      "text": "In a Time interview, Trump avoids directly endorsing Netanyahu but defends him over reported October 7 warnings.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 01 Oct 2026 17:23:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
-          "url": "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
-          "published_at": "Thu, 01 Oct 2026 17:23:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4ec474d34b22accd2b4d620e",
-      "title": "Travelodge failed sex assault victim 'at every stage', review finds",
-      "text": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 16:40:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Travelodge failed sex assault victim 'at every stage', review finds",
-          "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 16:40:03 GMT"
+          "title": "Cornell accuser was 'failed' by university healthcare system, lawyer says",
+          "url": "https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 01 Oct 2026 18:08:48 GMT"
         }
       ],
       "cross_checked": false,
@@ -941,95 +859,209 @@
       "conflict": false
     },
     {
-      "id": "fc8f67b5d8a23828a02519ae",
-      "title": "Lib Dem MPs criticise Davey over pension triple lock response",
-      "text": "Sir Ed questioned the PM's plans to change the triple lock, telling the BBC removing it \"would put more pensioners into poverty\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 15:32:32 GMT",
+      "id": "3a10bafde6c8670fd9d04864",
+      "title": "Everything you need to know about Brazil’s tight presidential race",
+      "text": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 02:07:49 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Lib Dem MPs criticise Davey over pension triple lock response",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 15:32:32 GMT"
+          "source": "Al Jazeera",
+          "title": "Everything you need to know about Brazil’s tight presidential race",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 02:07:49 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "867d847aa61abbc8e2124bcc",
-      "title": "Hundreds of criminals start leaving prison under new early release scheme",
-      "text": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full.",
-      "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 15:18:22 GMT",
+      "id": "8e18ca49042e28eb116d5b08",
+      "title": "The price Europe pays for keeping AI under control",
+      "text": "The European Union (EU) has introduced some of the world's strictest Artificial Intelligence (AI) laws.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 01:56:57 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Hundreds of criminals start leaving prison under new early release scheme",
-          "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 15:18:22 GMT"
+          "source": "Al Jazeera",
+          "title": "The price Europe pays for keeping AI under control",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 01:56:57 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "ee5b1a7e85e0d7a9772bf549",
-      "title": "'My boss stabbed me then left prison early, but no one told me for months'",
-      "text": "Hannah Pritchett said she was not told for five months that her attacker had been freed from prison.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9xmkzwdyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 15:17:13 GMT",
+      "id": "ee92ea846f69d7e954d77f26",
+      "title": "Pot banging protests across Spain over housing crisis",
+      "text": "Hundreds of protesters across Spain took part in pot banging demonstrations to demand political action over housing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/pot-banging-protests-across-spain-over-housing-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 01:56:50 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "'My boss stabbed me then left prison early, but no one told me for months'",
-          "url": "https://www.bbc.co.uk/news/articles/cqj9xmkzwdyzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 15:17:13 GMT"
+          "source": "Al Jazeera",
+          "title": "Pot banging protests across Spain over housing crisis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/pot-banging-protests-across-spain-over-housing-crisis?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 01:56:50 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "9db916080857021e3a20b2a6",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "text": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "id": "8f90deae46c7f28d5b948509",
+      "title": "Trump launches midterms campaign blitz amid record low approval ratings",
+      "text": "In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 01:39:08 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 11:37:46 GMT"
+          "source": "Al Jazeera",
+          "title": "Trump launches midterms campaign blitz amid record low approval ratings",
+          "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 01:39:08 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "1024e18eac6f40ed6a85b56a",
-      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
-      "text": "The annual event is marking its 17th year and draws visitors from all over the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
+      "id": "ec99cede5e21e6c83acac96c",
+      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "text": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 01 Oct 2026 05:23:19 GMT",
+      "published_at": "Fri, 02 Oct 2026 01:34:56 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
-          "url": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 01 Oct 2026 05:23:19 GMT"
+          "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 02 Oct 2026 01:34:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "58b250b346cbc9f6d650d6f0",
+      "title": "Cornell students voice frustration at public hearing over rape case",
+      "text": "The BBC's Nada Tawfik was at the hearing, where the university's Student Assembly led a discussion around safety concerns and sexual violence on campus.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 02 Oct 2026 01:29:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Cornell students voice frustration at public hearing over rape case",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 02 Oct 2026 01:29:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b1324d14577ae6f5f5be7fc",
+      "title": "Trump says US may ask Europe to release diesel reserves",
+      "text": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 01:23:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says US may ask Europe to release diesel reserves",
+          "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 01:23:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cbc7fa4b17d1777e8784c0c0",
+      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+      "text": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 02 Oct 2026 00:50:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+          "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 02 Oct 2026 00:50:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5c42daf19bac5aa88b4e0c52",
+      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+      "text": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 00:29:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+          "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 00:29:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2270749862f1b8e3acb190d2",
+      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+      "text": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 02 Oct 2026 00:20:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 02 Oct 2026 00:20:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d3d0e356cb6314a6ccbb6cf8",
+      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+      "text": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 02 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+          "published_at": "Fri, 02 Oct 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
