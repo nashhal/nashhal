@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-03T17:17:24.566753+00:00",
-  "source_count": 50,
+  "generated_at": "2026-10-03T19:57:34.096734+00:00",
+  "source_count": 51,
   "story_count": 50,
   "documents": [
+    {
+      "id": "6ea6af36b484de512be85cc9",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "text": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 03 Oct 2026 17:48:42 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 17:48:42 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
+          "url": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 17:31:54 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -61,19 +86,247 @@
       "conflict": false
     },
     {
-      "id": "b400789da0bef4374478be63",
-      "title": "Greens would offer two-year jobs to unemployed under-24s",
-      "text": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
-      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+      "id": "d145048711455dfbd54821cd",
+      "title": "Fury wants 'old pal' President Trump for Joshua ring walk",
+      "text": "Former heavyweight champion Tyson Fury plans to ask US president Donald Trump to lead his ring walk before fighting Anthony Joshua.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmg47yw937l6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 03 Oct 2026 17:08:40 GMT",
+      "published_at": "Sat, 03 Oct 2026 19:43:48 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Greens would offer two-year jobs to unemployed under-24s",
-          "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 03 Oct 2026 17:08:40 GMT"
+          "title": "Fury wants 'old pal' President Trump for Joshua ring walk",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cmg47yw937l6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 19:43:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c8e157e463c8b393f2d48d7a",
+      "title": "Gloucester thrash sorry Quins to go top of the Prem",
+      "text": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 03 Oct 2026 19:29:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Gloucester thrash sorry Quins to go top of the Prem",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 19:29:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9e199235a347576bb34e1f9c",
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "text": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 19:14:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+          "url": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 19:14:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "22188044f1a1f71e343efeed",
+      "title": "Wakefield beat Warrington to win Super League",
+      "text": "Wakefield Trinity end a 58-year wait to be champions as they claim a deserved Grand Final success over Warrington Wolves at Old Trafford.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 03 Oct 2026 19:02:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Wakefield beat Warrington to win Super League",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c39w4w7pzqv4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 19:02:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "80d3c2a8af052c5fc4001c8f",
+      "title": "Is the CJP changing India’s political landscape?",
+      "text": "Youth-led movement demands resignation of chief election commissioner.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 19:00:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is the CJP changing India’s political landscape?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 19:00:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7c4d30018157aefcab433f08",
+      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+      "text": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 18:49:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 18:49:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "da9b367cf3d8f9c12d572a19",
+      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "text": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 18:23:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+          "url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 18:23:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "35f4a3b93c90fcd9ffe3600a",
+      "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
+      "text": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 18:20:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
+          "url": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 18:20:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e5e5e789d37c55ca07ae6de1",
+      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
+      "text": "Nations League title holders Portugal hosts Erling Haaland's Norway, days after Cristiano Ronaldo's exit from the camp.",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 18:13:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
+          "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 18:13:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4727b61a7348f10fc224fa42",
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "text": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 18:03:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+          "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 18:03:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f315cfd40abb1167555a31c1",
+      "title": "Who was the best player on the pitch? - England player ratings",
+      "text": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 03 Oct 2026 17:58:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Who was the best player on the pitch? - England player ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 17:58:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a6b07d94a489d051163d8ad1",
+      "title": "Sinfield completes fundraising challenge of seven ultramarathons in a week",
+      "text": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 03 Oct 2026 17:38:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sinfield completes fundraising challenge of seven ultramarathons in a week",
+          "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 03 Oct 2026 17:38:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1184847be1a9080725dee99c",
+      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+      "text": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players.",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 03 Oct 2026 17:25:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+          "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+          "published_at": "Sat, 03 Oct 2026 17:25:28 +0000"
         }
       ],
       "cross_checked": false,
@@ -81,7 +334,7 @@
     },
     {
       "id": "b257594f7739c4da4b2a6ac4",
-      "title": "Man shot dead as families gather for memorial",
+      "title": "Man shot dead as families gather for memorial in London",
       "text": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
       "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -90,28 +343,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Man shot dead as families gather for memorial",
+          "title": "Man shot dead as families gather for memorial in London",
           "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 03 Oct 2026 17:06:15 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8d685486a7e2d42a7560b57e",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-      "text": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 03 Oct 2026 16:57:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-          "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 03 Oct 2026 16:57:02 GMT"
         }
       ],
       "cross_checked": false,
@@ -131,25 +365,6 @@
           "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
           "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
           "published_at": "Sat, 03 Oct 2026 16:25:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "34ad7156018a43020273c5fc",
-      "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-      "text": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 03 Oct 2026 16:24:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 03 Oct 2026 16:24:56 GMT"
         }
       ],
       "cross_checked": false,
@@ -226,25 +441,6 @@
           "title": "What we know about the co-pilot accused in Flydubai attack",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
           "published_at": "Sat, 03 Oct 2026 15:39:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c7642d4c27c35fe501d18385",
-      "title": "Kartal wins again as Zverev sets up Djokovic tie",
-      "text": "Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djokovic in Beijing.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvlyd856kdr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 03 Oct 2026 15:27:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Kartal wins again as Zverev sets up Djokovic tie",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cvlyd856kdr8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 03 Oct 2026 15:27:03 GMT"
         }
       ],
       "cross_checked": false,
@@ -461,8 +657,8 @@
     },
     {
       "id": "e707fb490932d6890c55dc00",
-      "title": "Croatia vs England live: UEFA Nations League",
-      "text": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
+      "title": "Croatia 0-7 England: UEFA Nations League – as it happened",
+      "text": "All the updates from our live text commentary stream coverage as Harry Kane and Bukayo Saka both net twice.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 03 Oct 2026 13:01:40 +0000",
@@ -470,7 +666,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Croatia vs England live: UEFA Nations League",
+          "title": "Croatia 0-7 England: UEFA Nations League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
           "published_at": "Sat, 03 Oct 2026 13:01:40 +0000"
         }
@@ -518,8 +714,8 @@
     },
     {
       "id": "bea985726e47b652dd0c9eac",
-      "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-      "text": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+      "title": "Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says",
+      "text": "Ukrainian president says new intelligence shows Moscow aims to 'pressure people to leave' Kyiv and other cities.",
       "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 03 Oct 2026 12:55:54 +0000",
@@ -527,7 +723,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+          "title": "Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says",
           "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
           "published_at": "Sat, 03 Oct 2026 12:55:54 +0000"
         }
@@ -631,101 +827,6 @@
       "conflict": false
     },
     {
-      "id": "ae9b42ed07f51244f61c27b1",
-      "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
-      "text": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 12:18:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
-          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 12:18:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dd2856fd60dd40cf25e82b55",
-      "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-      "text": "Italy's Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 11:51:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-          "url": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 11:51:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2f8c3fe9ac280c0d2cb4336d",
-      "title": "The double standards of a failed execution",
-      "text": "Had Christa Pike faced the death penalty in the Middle East, there would be relentless outrage and condemnations.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 11:32:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The double standards of a failed execution",
-          "url": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 11:32:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "859010d52e054569104cb4f4",
-      "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-      "text": "The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 11:16:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-          "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 11:16:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1043a2917b64bce130f1b8eb",
-      "title": "Palestinians gather for football amid Gaza’s ruins",
-      "text": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 11:08:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians gather for football amid Gaza’s ruins",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 11:08:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "65a4e349befe06c70e8c2f05",
       "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
       "text": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
@@ -764,63 +865,6 @@
       "conflict": false
     },
     {
-      "id": "f90a4b664bd1beff7628eb99",
-      "title": "How AI is helping Mexico detect breast cancer earlier",
-      "text": "Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 10:55:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How AI is helping Mexico detect breast cancer earlier",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 10:55:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9ab107f9f2cb89be0afefb6",
-      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "text": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 10:48:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-          "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 10:48:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "df611564071b49dc0fcf0a28",
-      "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-      "text": "Foreign Ministry says it summoned India's ⁠charge d'affaires to lodge 'strong protest' over killing of two civilians.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 10:46:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-          "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 10:46:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f612e9a6bc138bbe0a0324a4",
       "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
       "text": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
@@ -834,44 +878,6 @@
           "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
           "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 03 Oct 2026 10:27:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ee0b431a301afaa1a507e179",
-      "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
-      "text": "Real Madrid accuse Barcelona of paying former refereeing official Jose Maria Enriquez Negreira between 2001 and 2018.",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 03 Oct 2026 10:12:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
-          "url": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
-          "published_at": "Sat, 03 Oct 2026 10:12:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1e501429b2a4be8b11b13590",
-      "title": "Widdecombe suspect charged with planning terror act against Farage",
-      "text": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 03 Oct 2026 08:44:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Widdecombe suspect charged with planning terror act against Farage",
-          "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 03 Oct 2026 08:44:29 GMT"
         }
       ],
       "cross_checked": false,
