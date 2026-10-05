@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-05T09:03:21.326432+00:00",
-  "source_count": 57,
-  "story_count": 56,
+  "generated_at": "2026-10-05T18:27:15.419154+00:00",
+  "source_count": 56,
+  "story_count": 55,
   "documents": [
+    {
+      "id": "0274d6b3308d65b7013ca642",
+      "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+      "text": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:44:45 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:44:45 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Medvedev disqualified from China Open for hitting fan with a ball",
+          "url": "https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 16:17:07 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -17,25 +42,6 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d797f102af4b8635bba2a02d",
-      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
-      "text": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 23:52:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
-          "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 23:52:49 +0000"
         }
       ],
       "cross_checked": false,
@@ -61,101 +67,6 @@
       "conflict": false
     },
     {
-      "id": "511361a9f26fe4c28006d8d3",
-      "title": "Manchester City charges: ‘Everyone knew’ – Marsch says relegation to follow",
-      "text": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 23:22:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester City charges: ‘Everyone knew’ – Marsch says relegation to follow",
-          "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 23:22:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3c36f9c0ab50c16fd47cb1e8",
-      "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-      "text": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 22:51:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 22:51:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1cbb89a1491ae02c90e81992",
-      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-      "text": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 22:11:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 22:11:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f1740b573befb699f457aa11",
-      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-      "text": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 18:25:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 18:25:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42762d3d7a1052a965914960",
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "text": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 16:24:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-          "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 16:24:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "82306cdd22742774ab0a5d01",
       "title": "Are The Public Ready To Vote Tory Again?",
       "text": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
@@ -175,38 +86,760 @@
       "conflict": false
     },
     {
-      "id": "412c73fa8c8fc20e72c639f7",
-      "title": "Connor out, Lewis in as England name World Cup squad",
-      "text": "Leeds Rhinos half-back Jake Connor is left out of England's Rugby League World Cup squad, with Hull KR's Mikey Lewis beating him to a place.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmgj94zd59ljo?at_medium=RSS&at_campaign=rss",
+      "id": "e9212e7d8b8c69fe0e94ca00",
+      "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+      "text": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:56:52 GMT",
+      "published_at": "Mon, 05 Oct 2026 17:46:59 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Connor out, Lewis in as England name World Cup squad",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmgj94zd59ljo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:56:52 GMT"
+          "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+          "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:46:59 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "7a3a22543a1af81c30908e41",
-      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-      "text": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+      "id": "377e4aaeaa498a34e9df5acf",
+      "title": "Rubio: No direct link between US bombers removal and UK base incident",
+      "text": "Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK",
+      "url": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 17:34:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Rubio: No direct link between US bombers removal and UK base incident",
+          "url": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 17:34:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d7a0048d2d8346b269a923eb",
+      "title": "Spain calls snap election amid housing crisis",
+      "text": "Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 17:27:14 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Spain calls snap election amid housing crisis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 17:27:14 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "621d17a96ff252239328d034",
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "text": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:31:39 GMT",
+      "published_at": "Mon, 05 Oct 2026 17:23:28 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-          "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:31:39 GMT"
+          "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:23:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "75d488bba78a2109d252aaf1",
+      "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+      "text": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
+      "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 17:21:42 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+          "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:21:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "70ec170d89c8471e8c1731ee",
+      "title": "King's funding for Andrew not to be used for legal action against police",
+      "text": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 17:18:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "King's funding for Andrew not to be used for legal action against police",
+          "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:18:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5e2468d8f4aa43fb0c69906f",
+      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+      "text": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 17:08:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:08:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "927a80729fa000ba99102ccb",
+      "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
+      "text": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 17:05:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 17:05:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6678a46691d02a63172feecd",
+      "title": "Man who killed dog walker should be deported, says judge",
+      "text": "Dawood Safi killed Wayne Broadhurst and injured two others in a knife attack in west London.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 17:02:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man who killed dog walker should be deported, says judge",
+          "url": "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:02:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b08176154002885086b8ad13",
+      "title": "ECB will 'look at' funding women's Windies Test if needed",
+      "text": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 17:00:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "ECB will 'look at' funding women's Windies Test if needed",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 17:00:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "abb87644eedc339b2cdce8a0",
+      "title": "DR Congo boat collision kills at least 30, dozens missing",
+      "text": "Two vessels crashed while navigating the Congo River in Equateur province at night.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 16:47:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "DR Congo boat collision kills at least 30, dozens missing",
+          "url": "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 16:47:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e25b642c8acffc89c8f59ec3",
+      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+      "text": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 16:32:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 16:32:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1736ddff90089d963864eb8f",
+      "title": "Rohingya activist says it’s unfair to send refugees back to Myanmar",
+      "text": "Rohingya activist says it’s unfair to send refugees back to Myanmar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 16:20:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Rohingya activist says it’s unfair to send refugees back to Myanmar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 16:20:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8d0753946b5492df251e5955",
+      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+      "text": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 16:13:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+          "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 16:13:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "143400a2145b294b840648c0",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "text": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 16:13:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 16:13:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "71d8d954121048a03ccb3bf8",
+      "title": "Two dead after ship sinks off Romania following fire",
+      "text": "Two dead after ship sinks off Romania following fire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 16:04:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Two dead after ship sinks off Romania following fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 16:04:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ea93b78b0c249061efa70d43",
+      "title": "‘Trend reached us’: Nationalists gain ground in Bosnia and Herzegovina",
+      "text": "Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:47:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Trend reached us’: Nationalists gain ground in Bosnia and Herzegovina",
+          "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:47:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1b36493751c126c409cd9b00",
+      "title": "LIVE: France vs Belgium – UEFA Nations League",
+      "text": "Build-up. teams and live text commentary stream of France's Nations League Group A1 game against Belgium in Paris",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:47:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: France vs Belgium – UEFA Nations League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:47:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e414f97b940c76d98e8c488",
+      "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+      "text": "Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:30:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+          "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:30:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "82616b36d8fa474754f2300d",
+      "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+      "text": "Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:29:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+          "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:29:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "73be2db830769dbb92b825ce",
+      "title": "What happened between Ireland and Israel in their Nations League match?",
+      "text": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:28:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What happened between Ireland and Israel in their Nations League match?",
+          "url": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:28:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c71d70b92345d32a7799bf0d",
+      "title": "A drive through the West Bank",
+      "text": "Palestinians in the occupied West Bank are left asking world leaders: where exactly is our state meant to go?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 15:22:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "A drive through the West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 15:22:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7f47226a2d57577a58294552",
+      "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+      "text": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 15:19:46 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 15:19:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c60abc17185ac762254bf215",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "text": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 15:17:23 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 15:17:23 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cc94dd8c2ceefe1fc1e1ad77",
+      "title": "Twelve arrested for allegedly running cat trafficking ring in Vietnam",
+      "text": "The men are accused of stealing around 2,700 cats in Ho Chi Minh City, allegedly to be slaughtered for food.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x234k9epq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 15:10:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Twelve arrested for allegedly running cat trafficking ring in Vietnam",
+          "url": "https://www.bbc.co.uk/news/articles/c8x234k9epq5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 15:10:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "db8ecb4164038d4c1768d133",
+      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+      "text": "UN warns US boat strikes in the Caribbean counter-drug war may violate international law and human rights principles.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 14:58:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+          "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 14:58:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "02f376f3076b3d1e35254921",
+      "title": "Player welfare, injury worries & boredom - has extended break worked?",
+      "text": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:54:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Player welfare, injury worries & boredom - has extended break worked?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:54:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3f78f45de0a50619675dc689",
+      "title": "Pickford 'almost caused crash' with careless driving",
+      "text": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:42:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pickford 'almost caused crash' with careless driving",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:42:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6f506fcc966a9aa6ba664236",
+      "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
+      "text": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:40:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:40:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6a98d80b9e1b2c5417ea9fad",
+      "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
+      "text": "The murder of 39-year-old Anna Yagi is the latest in a string of crimes involving US personnel on Okinawa.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 14:37:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
+          "url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 14:37:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f43dee7c264075e8c272a9f",
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+      "text": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 14:19:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 14:19:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9945e6b78d53743f557f9ba5",
+      "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+      "text": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 14:18:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+          "url": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 14:18:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d939ffafa62f32b7af91104c",
+      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
+      "text": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:16:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:16:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6711dc3a8c72ec82dd3e307f",
+      "title": "Failed asylum seeker jailed for life over knife attack attempt at Israeli embassy in London",
+      "text": "Abdullah Albadri arrived in the UK on a small boat 16 days before trying to break into the embassy with two knives.",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5l04nejwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 13:51:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Failed asylum seeker jailed for life over knife attack attempt at Israeli embassy in London",
+          "url": "https://www.bbc.co.uk/news/articles/c63r5l04nejwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 13:51:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cebe9b106431940274a411c2",
+      "title": "Samoa prime minister apologises after Nazi salute video surfaces",
+      "text": "Samoa PM has apologised after a video of him resurfaced, showing him leading a Nazi salute and saying ‘Heil Hitler'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 13:48:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Samoa prime minister apologises after Nazi salute video surfaces",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 13:48:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9936c0b34e25bd2ad9a6198f",
+      "title": "Twelve arrests after protest over migrant boat arrival",
+      "text": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 13:26:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Twelve arrests after protest over migrant boat arrival",
+          "url": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 13:26:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e047058f4a9bfe0e45d396f9",
+      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "text": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 13:11:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+          "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 13:11:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "abfbab9aadb37222be6e7e93",
+      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+      "text": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
+      "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 13:09:42 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+          "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 13:09:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9cc4092df210968f363c25cb",
+      "title": "BBC appoints Rachel Jupp as new director of news",
+      "text": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 13:05:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "BBC appoints Rachel Jupp as new director of news",
+          "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 13:05:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c6efedb55817eb8b94d541d5",
+      "title": "Before UK Greens, who else has equated Zionism with racism?",
+      "text": "Israel condemns the move as the party's vote causes an uproar, including among party members.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 13:03:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Before UK Greens, who else has equated Zionism with racism?",
+          "url": "https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 13:03:09 +0000"
         }
       ],
       "cross_checked": false,
@@ -214,113 +847,189 @@
     },
     {
       "id": "dfc0cf3bfb66274a9739c458",
-      "title": "Scott out of England squad and faces injury lay-off",
-      "text": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could be him out for up to eight weeks.",
+      "title": "Bournemouth unhappy after Scott injured with England",
+      "text": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:30:57 GMT",
+      "published_at": "Mon, 05 Oct 2026 12:38:58 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Scott out of England squad and faces injury lay-off",
+          "title": "Bournemouth unhappy after Scott injured with England",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:30:57 GMT"
+          "published_at": "Mon, 05 Oct 2026 12:38:58 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "4d9f80d91d4cefd4824c51b4",
-      "title": "US removes all bombers from RAF Fairford base",
-      "text": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:28:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US removes all bombers from RAF Fairford base",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:28:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d44483100029ca22de731a7d",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "text": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:22:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:22:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4c99e63d015f4cf9fd90fa37",
-      "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
-      "text": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+      "id": "63a5fc8a125f8fe80b890b72",
+      "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+      "text": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil's next president.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 08:20:34 +0000",
+      "published_at": "Mon, 05 Oct 2026 12:34:30 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
-          "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 08:20:34 +0000"
+          "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+          "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 12:34:30 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "2ead79e5e0c53b180e8773a0",
-      "title": "Protesters scuffle with police as migrants brought ashore on south coast",
-      "text": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:18:58 GMT",
+      "id": "d544c641b2ec3d3c92adf2a1",
+      "title": "Lionel Messi to join Argentina for farewell match against Benin",
+      "text": "The friendly marks a symbolic passing of the torch for a player whose international legacy includes a World Cup title.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 12:30:46 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Protesters scuffle with police as migrants brought ashore on south coast",
-          "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:18:58 GMT"
+          "source": "Al Jazeera",
+          "title": "Lionel Messi to join Argentina for farewell match against Benin",
+          "url": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 12:30:46 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "5ddced0a5bf0c4672eb7bada",
-      "title": "Andrew takes legal action over search warrants relating to arrest",
-      "text": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.",
-      "url": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
+      "id": "5810bba6f7c37313628b85f1",
+      "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
+      "text": "Ukrainians are turning to weeds for sustenance in a town where bodies are reportedly eaten by feral dogs.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 12:26:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
+          "url": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 12:26:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5d53bd45f8c5444d95fff3c6",
+      "title": "Teenager loses hand in blast amid French school protest clashes",
+      "text": "Police watchdog probes Lens blast as nationwide protests over teacher shortages and school conditions enter a third week",
+      "url": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 12:25:26 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Teenager loses hand in blast amid French school protest clashes",
+          "url": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 12:25:26 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b6b0b407ba36a9bd2695544a",
+      "title": "UK Green Party votes to define Zionism as ‘racism’",
+      "text": "The UK’s Green Party has voted to define Zionism as a form of racism.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/uk-green-party-votes-to-define-zionism-as?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 12:16:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK Green Party votes to define Zionism as ‘racism’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/uk-green-party-votes-to-define-zionism-as?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 12:16:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ed54d921ee0e60ffd0d96672",
+      "title": "F1 needs to have hard look at itself - Sainz",
+      "text": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 08:13:38 GMT",
+      "published_at": "Mon, 05 Oct 2026 11:52:01 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Andrew takes legal action over search warrants relating to arrest",
-          "url": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 08:13:38 GMT"
+          "title": "F1 needs to have hard look at itself - Sainz",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 11:52:01 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0b56d28ea37f20889f54ef22",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "text": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 11:34:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 11:34:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d8d0be71a2d98b87439dae6a",
+      "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+      "text": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 11:23:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 11:23:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "64e5a2470d68447b5a81eed2",
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "text": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 09:54:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Average five-year mortgage rate hits 6% for first time in three years",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 09:54:57 GMT"
         }
       ],
       "cross_checked": false,
@@ -340,734 +1049,6 @@
           "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 05 Oct 2026 08:08:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e1970aa85f458e0f32cdc9a5",
-      "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
-      "text": "Only one point separates Group A1 leaders France and second-placed Belgium before Monday's clash.",
-      "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 08:05:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
-          "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 08:05:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b9d977a8859326ca3592b460",
-      "title": "Potty training scheme to roll out to 20 more areas",
-      "text": "The government wants 75% of children to end their first year of school with a good level of development by 2028.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 07:56:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Potty training scheme to roll out to 20 more areas",
-          "url": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 07:56:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99af918e905b90118f018b75",
-      "title": "Chiefs and 49ers remain unbeaten - five things from NFL week four",
-      "text": "Five teams went into week four of the NFL season with a 100% record, but only three teams remain unbeaten after Sunday's action.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 07:36:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Chiefs and 49ers remain unbeaten - five things from NFL week four",
-          "url": "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 07:36:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "621d17a96ff252239328d034",
-      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-      "text": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 07:25:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-          "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 07:25:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ba867fce55b05cc462121a94",
-      "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
-      "text": "Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 07:14:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 08:55:21 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
-          "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 07:14:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "39be6bfb6b811830688000fb",
-      "title": "World Space Week: Which countries have sent people to space?",
-      "text": "At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 07:06:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "World Space Week: Which countries have sent people to space?",
-          "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 07:06:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5dff34d77bf55ab694ae1feb",
-      "title": "Summerlike warmth to give way to autumn chill this week",
-      "text": "Temperatures on Monday could reach 23C but chillier air will spread from the north making it feel much more autumnal by midweek.",
-      "url": "https://www.bbc.co.uk/weather/articles/cw80zr55n2d9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 07:02:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Summerlike warmth to give way to autumn chill this week",
-          "url": "https://www.bbc.co.uk/weather/articles/cw80zr55n2d9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 07:02:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2bbfde638a00e601ac252f4e",
-      "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
-      "text": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp84r967d3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 07:00:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckp84r967d3go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 07:00:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15b939e1a39b6d2abe5d6cf2",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "text": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 06:15:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 06:15:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "39ab88f1b9f4d00d440df664",
-      "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-      "text": "Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
-      "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 05:56:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-          "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 05:56:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "85dabff2caed085ad00f6a5f",
-      "title": "Court of Appeal to hear residents' parade challenge over Drumcree dispute",
-      "text": "The deadlock over the Orange Order march in Portadown - opposed by residents of the Garvaghy Road - has lasted since last Sunday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 05:39:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Court of Appeal to hear residents' parade challenge over Drumcree dispute",
-          "url": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 05:39:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dfe8c6269f2c7e2df33c8b41",
-      "title": "Radical change needed to cut Scottish child poverty, says charity",
-      "text": "The Joseph Rowntree Foundation says Scotland is on course to miss legally-binding poverty targets \"by a wide margin\".",
-      "url": "https://www.bbc.co.uk/news/articles/cw073e915j93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 05:35:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Radical change needed to cut Scottish child poverty, says charity",
-          "url": "https://www.bbc.co.uk/news/articles/cw073e915j93o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 05:35:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9a8a9f09bbe0f3a0534ad645",
-      "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-      "text": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 05:35:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-          "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 05:35:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2d50133cf5763b5ca45207c2",
-      "title": "How Evans defied history to become Britain's first world rally champion in 25 years",
-      "text": "Elfyn Evans has been the nearly-man of world rally until he finally emulated the feats of Colin McRae and Richard Burns.",
-      "url": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 05:30:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How Evans defied history to become Britain's first world rally champion in 25 years",
-          "url": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 05:30:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e7ad4bd0672a927424b80632",
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-      "text": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 05:28:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-          "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 05:28:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "beda29121c512ea5f7ddf5a8",
-      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-      "text": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 05:20:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 05:20:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d97fdc67871fc2f37d20ed94",
-      "title": "Who were the top teen athletes at the Asian Games?",
-      "text": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
-      "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 05:12:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Who were the top teen athletes at the Asian Games?",
-          "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 05:12:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e3c6dc52d4564c75735dc229",
-      "title": "Samoa PM apologises after Nazi salute video emerges",
-      "text": "Pacific island nation’s leader says 2007 video showing him saying 'Heil Hitler' does not reflect his beliefs.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 05:08:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Samoa PM apologises after Nazi salute video emerges",
-          "url": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 05:08:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "82e30247ec21b7ea825bf542",
-      "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-      "text": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 05:08:23 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 05:08:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "74b4dbb03449ad07b70fc2ea",
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "text": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 04:51:24 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: How Brazil's dramatic election unfolded",
-          "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 04:51:24 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1c5d8aff4ce696aeb6eaeb33",
-      "title": "France closes up to 500 schools over student protests",
-      "text": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 04:49:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "France closes up to 500 schools over student protests",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 04:49:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e9f4fcf929a3724faf378867",
-      "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
-      "text": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 04:13:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
-          "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 04:13:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "28cec97ce6360964799d6bc0",
-      "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
-      "text": "A Russian agency links the lab worker's death to 'pneumonia of unknown' origin.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 04:07:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
-          "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 04:07:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c20f00f57a80754374846d39",
-      "title": "All six passengers presumed dead after plane went missing off US coast",
-      "text": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 04:00:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "All six passengers presumed dead after plane went missing off US coast",
-          "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 04:00:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4c0031088addbd1c6546fab8",
-      "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-      "text": "City-state launches dating platform for government workers, drawing curiosity, amusement and scorn.",
-      "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 03:48:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-          "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 03:48:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cea42e3390215c1e1d37bc8d",
-      "title": "Bosnian Serb nationalist claims party victory in Bosnia elections",
-      "text": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia’s elections.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 03:36:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bosnian Serb nationalist claims party victory in Bosnia elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 03:36:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e3653c8f2839043596b1808d",
-      "title": "US coastguard suspends search for six on board crashed medical jet",
-      "text": "Debris found off Nantucket island after the air ambulance disappeared while flying from Bermuda to Boston.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 03:22:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US coastguard suspends search for six on board crashed medical jet",
-          "url": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 03:22:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3cd0e2456c0e0650ebba38bf",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "text": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 03:16:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 03:16:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c52f57368cf43a19a8e70552",
-      "title": "Yemen gov’t forces commence major combat operation against Houthis",
-      "text": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 03:11:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen gov’t forces commence major combat operation against Houthis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 03:11:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "80fd6757681278fa2fc4a5c7",
-      "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
-      "text": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 02:28:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 02:28:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6a17a25d165e948413b1f0f3",
-      "title": "Brazil’s presidential race: Three key takeaways from the first round",
-      "text": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 01:55:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil’s presidential race: Three key takeaways from the first round",
-          "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 01:55:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5bd35620db67fefcc947e3d6",
-      "title": "Can the KKK find a new foothold in the US?",
-      "text": "The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 01:47:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Can the KKK find a new foothold in the US?",
-          "url": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 01:47:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eeb360467eb306c7f47d4b3a",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "text": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 01:42:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How India became dangerously addicted to Chinese imports",
-          "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 01:42:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9277e03efea8fa3c9b49d15f",
-      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-      "text": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 01:08:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-          "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 01:08:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f4d38360dc9015ec167f66fe",
-      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
-      "text": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 01:03:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
-          "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 01:03:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "310fa49b51e43cb029795f04",
-      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
-      "text": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.",
-      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 00:33:23 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
-          "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 00:33:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "076a5929185492bbdbad579e",
-      "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
-      "text": "Monday's front pages include stories about Kemi Badenoch at the start of the Tory conference, plus reports on global finance , abuse in schools and a BBC romance.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 05 Oct 2026 00:18:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
-          "url": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 05 Oct 2026 00:18:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cc72d0b636657e98dd7442fc",
-      "title": "Iran war live: Yemeni army makes gains; Tehran says ready for US attacks",
-      "text": "Yemen's government forces recapture Dhubab district near Bab al-Mandeb strait from Houthi rebels.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 05 Oct 2026 00:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Yemeni army makes gains; Tehran says ready for US attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
-          "published_at": "Mon, 05 Oct 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
