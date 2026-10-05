@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T23:09:33.823179+00:00",
-  "source_count": 55,
-  "story_count": 52,
+  "generated_at": "2026-10-05T02:00:24.789016+00:00",
+  "source_count": 57,
+  "story_count": 55,
   "documents": [
     {
       "id": "dbc55e24149bc5867b03a707",
@@ -23,31 +23,6 @@
           "title": "France to shutter up to 500 schools as more student protests called",
           "url": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
           "published_at": "Sun, 04 Oct 2026 19:41:04 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
-    {
-      "id": "c5f28d9053fb61ac97d3bda2",
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "text": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 14:36:57 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-          "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 14:36:57 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Japan summons US envoy as marine arrested over Okinawa murder",
-          "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 15:45:04 +0000"
         }
       ],
       "cross_checked": true,
@@ -98,9 +73,123 @@
       "conflict": false
     },
     {
+      "id": "d797f102af4b8635bba2a02d",
+      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
+      "text": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 04 Oct 2026 23:52:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+          "published_at": "Sun, 04 Oct 2026 23:52:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "511361a9f26fe4c28006d8d3",
+      "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+      "text": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 04 Oct 2026 23:22:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+          "published_at": "Sun, 04 Oct 2026 23:22:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9ebd95a6d1745c07246249e6",
+      "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+      "text": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return.",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 04 Oct 2026 23:16:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+          "published_at": "Sun, 04 Oct 2026 23:16:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e4b074693451014777a278b2",
+      "title": "Mysterious luminous object burns in the skies above Libya",
+      "text": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 04 Oct 2026 22:56:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mysterious luminous object burns in the skies above Libya",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+          "published_at": "Sun, 04 Oct 2026 22:56:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3c36f9c0ab50c16fd47cb1e8",
+      "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
+      "text": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 04 Oct 2026 22:51:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 04 Oct 2026 22:51:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "656bfb9d96091bed2bda0ea3",
+      "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+      "text": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 04 Oct 2026 22:47:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+          "published_at": "Sun, 04 Oct 2026 22:47:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "a8737cc02251945c08f82d17",
       "title": "Nicaragua says it will withdraw from Central American Parliament",
-      "text": "The Central American country' crackdown on human rights has left it increasingly isolated in Latin America.",
+      "text": "The country's crackdown on human rights has left it increasingly isolated in Latin America.",
       "url": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 04 Oct 2026 22:36:54 +0000",
@@ -269,25 +358,6 @@
       "conflict": false
     },
     {
-      "id": "3cd0e2456c0e0650ebba38bf",
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "text": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 04 Oct 2026 21:11:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 04 Oct 2026 21:11:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a293e9b3724f6cd812fe33e9",
       "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
       "text": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo's absence.",
@@ -308,7 +378,7 @@
     },
     {
       "id": "9a8a9f09bbe0f3a0534ad645",
-      "title": "Green Party members back 'Zionism is racism' motion",
+      "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
       "text": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
       "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -317,7 +387,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Green Party members back 'Zionism is racism' motion",
+          "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
           "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 04 Oct 2026 20:51:36 GMT"
         }
@@ -422,8 +492,8 @@
     },
     {
       "id": "f5ce208d5e1a239c53e2e361",
-      "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
-      "text": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
+      "text": "These were the updates on the Brazilian general election for Sunday, October 4, 2026.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 04 Oct 2026 20:00:05 +0000",
@@ -431,7 +501,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+          "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
           "published_at": "Sun, 04 Oct 2026 20:00:05 +0000"
         }
@@ -554,25 +624,6 @@
       "conflict": false
     },
     {
-      "id": "3e708d52082f011dd4833b82",
-      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-      "text": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 17:17:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-          "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 17:17:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7c7c9662beb89ea256b7c5de",
       "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
       "text": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
@@ -586,25 +637,6 @@
           "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 04 Oct 2026 16:58:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64850e1f9588b6ce1dcb88ca",
-      "title": "Mass protests demanding poll chief resignation shake India for third day",
-      "text": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:55:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Mass protests demanding poll chief resignation shake India for third day",
-          "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:55:03 +0000"
         }
       ],
       "cross_checked": false,
@@ -630,44 +662,6 @@
       "conflict": false
     },
     {
-      "id": "737229af507d5702302ceacd",
-      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-      "text": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:38:45 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:38:45 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "df42a7f55faaf55d10b9d1d3",
-      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-      "text": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:28:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-          "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:28:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "42762d3d7a1052a965914960",
       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
       "text": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
@@ -681,25 +675,6 @@
           "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
           "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 04 Oct 2026 16:24:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8201c5c2169ec13c365c1c51",
-      "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
-      "text": "Sullivan’s goal beat fellow teenager Julian Hall's record for United States which was only set against Chile on Tuesday.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:23:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
-          "url": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:23:59 +0000"
         }
       ],
       "cross_checked": false,
@@ -725,76 +700,19 @@
       "conflict": false
     },
     {
-      "id": "ef8091a6ef7c4f5337ef38dc",
-      "title": "Three years of genocide in Gaza through one man’s camera",
-      "text": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:18:01 +0000",
+      "id": "23f60e007b651cfcac55ed34",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "text": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 04 Oct 2026 14:36:57 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Three years of genocide in Gaza through one man’s camera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:18:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a3a025e351a4d3015e049863",
-      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "text": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:04:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:04:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8d29492e4ae4751cc675442e",
-      "title": "Philippines arrests 244 suspects in online scam crackdown",
-      "text": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 16:00:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Philippines arrests 244 suspects in online scam crackdown",
-          "url": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 16:00:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c00e54f30eee73cc79d72422",
-      "title": "Portugal 2-1 Norway: UEFA Nations League – as it happened",
-      "text": "All the updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 04 Oct 2026 15:47:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Portugal 2-1 Norway: UEFA Nations League – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-          "published_at": "Sun, 04 Oct 2026 15:47:10 +0000"
+          "source": "BBC",
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 04 Oct 2026 14:36:57 GMT"
         }
       ],
       "cross_checked": false,
@@ -1004,6 +922,139 @@
           "title": "Are The Public Ready To Vote Tory Again?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 03 Oct 2026 00:00:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5bd35620db67fefcc947e3d6",
+      "title": "Can the KKK find a new foothold in the US?",
+      "text": "The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 01:47:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can the KKK find a new foothold in the US?",
+          "url": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 01:47:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9277e03efea8fa3c9b49d15f",
+      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+      "text": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 01:08:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+          "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 01:08:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f4d38360dc9015ec167f66fe",
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "text": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 01:03:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+          "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 01:03:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "310fa49b51e43cb029795f04",
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "text": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 00:33:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+          "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 00:33:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3cd0e2456c0e0650ebba38bf",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "text": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 00:27:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "076a5929185492bbdbad579e",
+      "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
+      "text": "Monday's front pages include stories about Kemi Badenoch at the start of the Tory conference, plus reports on global finance , abuse in schools and a BBC romance.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 00:18:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
+          "url": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 00:18:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cc72d0b636657e98dd7442fc",
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+      "text": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 05 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+          "published_at": "Mon, 05 Oct 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
