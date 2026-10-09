@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-08T21:19:26.046377+00:00",
-  "source_count": 56,
-  "story_count": 56,
+  "generated_at": "2026-10-09T02:09:08.284755+00:00",
+  "source_count": 58,
+  "story_count": 57,
   "documents": [
+    {
+      "id": "7c47c4e489df226c8da5bf31",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "text": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 01:25:33 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 01:25:33 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+          "url": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 23:36:44 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -24,18 +49,379 @@
     },
     {
       "id": "63e9bda6d1be70e61b60c1b3",
-      "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
-      "text": "The prime minister has intervened in the row over the motion passed by members at Green Party conference.",
+      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+      "text": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 21:00:16 GMT",
+      "published_at": "Thu, 08 Oct 2026 23:56:16 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+          "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
           "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 21:00:16 GMT"
+          "published_at": "Thu, 08 Oct 2026 23:56:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "48d1da85f86892639899679b",
+      "title": "Kenyan patient suspected of Ebola infection tests negative",
+      "text": "Preliminary lab results ease fears of a second case in Kenya, after the country reported its first-ever case this week.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 23:53:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kenyan patient suspected of Ebola infection tests negative",
+          "url": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 23:53:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8bdcefb7f1f693561bdf8955",
+      "title": "'I rage and I don't care': Why women are reclaiming their anger",
+      "text": "Studies suggest women are getting angrier, but are they just more open about it?",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:48:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'I rage and I don't care': Why women are reclaiming their anger",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:48:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ea35902e52a9baffa3c8ecda",
+      "title": "Man City charges: Mourinho jokes Premier League case will outlast him",
+      "text": "Jose Mourinho, long an outspoken critic of Man City's spending, joked that the Premier League case could outlast him.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 23:31:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man City charges: Mourinho jokes Premier League case will outlast him",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 23:31:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1415399ecca92cca3c775acc",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "text": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:14:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:14:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8c398c4db6534f12e7271d17",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "text": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:11:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:11:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "41acbb34bf1dd78d09de16b1",
+      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+      "text": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
+      "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:08:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+          "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:08:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "17148b52fd8d064ae678846c",
+      "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+      "text": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:08:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+          "url": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:08:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4809cc48c3d335758e99314b",
+      "title": "'Add me to WhatsApp' scam calls to be investigated",
+      "text": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:05:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Add me to WhatsApp' scam calls to be investigated",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:05:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "41086212e44ec2fe174b6170",
+      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
+      "text": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:03:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
+          "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:03:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "80d942c554d1a4cea680659e",
+      "title": "ADHD and autism at risk of over-diagnosis, says government review",
+      "text": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:01:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "ADHD and autism at risk of over-diagnosis, says government review",
+          "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:01:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8f17a2801297e8c27f7a5248",
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "text": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 23:01:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+          "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 23:01:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "61a85ee55ded28e070fe3f9b",
+      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+      "text": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 22:54:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+          "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 22:54:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c5d8b667560141aad2055717",
+      "title": "Putin pledges Russia’s support to end US-led war on Iran",
+      "text": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 22:30:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Putin pledges Russia’s support to end US-led war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 22:30:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bb29292a03305016ff4d428a",
+      "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+      "text": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 22:10:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 22:10:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "891132029b13e4d9a270fe9a",
+      "title": "Four astronauts return to earth after an eight-month space mission",
+      "text": "The crew completed a parachute-assisted splashdown in the Pacific Ocean off the coast of California.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 21:55:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Four astronauts return to earth after an eight-month space mission",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 21:55:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "47121584dab74508948e09ca",
+      "title": "What Man City charges anger Liverpool before Premier League game?",
+      "text": "Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 21:49:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What Man City charges anger Liverpool before Premier League game?",
+          "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 21:49:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7d990c791b2293aec3166812",
+      "title": "Police use tear gas and water cannons on student protestors in Paris",
+      "text": "Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 21:17:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Police use tear gas and water cannons on student protestors in Paris",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 21:17:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "82a6fb1acc9962628ea2ade0",
+      "title": "Trump gives top US science awards to Elon Musk and other tech executives",
+      "text": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 21:11:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump gives top US science awards to Elon Musk and other tech executives",
+          "url": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 21:11:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5df27c3ddfb8996937ec64a8",
+      "title": "What is the Mecca defence pact?",
+      "text": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 08 Oct 2026 21:04:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What is the Mecca defence pact?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+          "published_at": "Thu, 08 Oct 2026 21:04:48 +0000"
         }
       ],
       "cross_checked": false,
@@ -195,7 +581,7 @@
     },
     {
       "id": "a45845d0979437fae4bad999",
-      "title": "India’s Cockroach movement says members detained as protests continue",
+      "title": "India’s ‘cockroach’ movement says members detained as protests continue",
       "text": "India's opposition and student-led CJP movement demand election chief's resignation, plan mass demonstration Saturday.",
       "url": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
       "source": "Al Jazeera",
@@ -204,7 +590,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "India’s Cockroach movement says members detained as protests continue",
+          "title": "India’s ‘cockroach’ movement says members detained as protests continue",
           "url": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
           "published_at": "Thu, 08 Oct 2026 19:49:03 +0000"
         }
@@ -213,76 +599,19 @@
       "conflict": false
     },
     {
-      "id": "620ede35c227768e964fabc0",
-      "title": "Prosecutors in Maradona death trial seek sentences up to 12 years",
-      "text": "Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona's death.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 19:46:46 +0000",
+      "id": "3983947ede1b401ab1b1f7c3",
+      "title": "Weekly quiz: How long did it take for Glastonbury tickets to sell out?",
+      "text": "How much attention did you pay to what happened in the world over the past seven days?",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgn2l04dwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 08 Oct 2026 19:15:17 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Prosecutors in Maradona death trial seek sentences up to 12 years",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 19:46:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f32e14634bd11df4d7fcb30e",
-      "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-      "text": "The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war's cost.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 19:43:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-          "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 19:43:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e27a736cdea961177b7e8095",
-      "title": "Man City charges: Maresca says players focused on Liverpool test",
-      "text": "Manchester City manager Enzo Maresca claims players unfazed by financial breaches verdict ahead of Liverpool showdown.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 19:17:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City charges: Maresca says players focused on Liverpool test",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 19:17:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a0deef84e95c9434539160c4",
-      "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-      "text": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 19:12:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-          "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 19:12:33 +0000"
+          "source": "BBC",
+          "title": "Weekly quiz: How long did it take for Glastonbury tickets to sell out?",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgn2l04dwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 08 Oct 2026 19:15:17 GMT"
         }
       ],
       "cross_checked": false,
@@ -302,25 +631,6 @@
           "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
           "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 08 Oct 2026 19:10:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aa63c3ee3614b3878926ee4d",
-      "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-      "text": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 19:06:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-          "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 19:06:08 +0000"
         }
       ],
       "cross_checked": false,
@@ -384,120 +694,6 @@
       "conflict": false
     },
     {
-      "id": "65bdba0ec8ab4c985dea8ee9",
-      "title": "Israel opens first-ever pavilion at Morocco defence show",
-      "text": "Israel opened its first national pavilion at Morocco's Marrakech Air Show, joined by Israel's top military contractors.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 18:11:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel opens first-ever pavilion at Morocco defence show",
-          "url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 18:11:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "53a10d70bc461e17375b8fb2",
-      "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-      "text": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 18:07:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-          "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 18:07:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "da0917e764d81c9348ae1b77",
-      "title": "Two Latvian men arrested inside UK military base after breach",
-      "text": "Police say nothing so far suggests the incident at RAF Molesworth linked ​to events surrounding RAF Fairford last month.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 18:01:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Two Latvian men arrested inside UK military base after breach",
-          "url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 18:01:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a2f9725aec82705ca1375928",
-      "title": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
-      "text": "The storm is forecast to strike Florida, Alabama and Mississippi with up to 10 inches of rain this weekend.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:58:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
-          "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:58:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "edbb84802fa69bb87213f6e3",
-      "title": "Woman told PC 'get off me' 300 times as he raped her",
-      "text": "Ryan Theaker, 30, was secretly recorded by the victim as he subjected her to an 82 minute attack.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqw1ed244ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 17:55:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Woman told PC 'get off me' 300 times as he raped her",
-          "url": "https://www.bbc.co.uk/news/articles/c6gqw1ed244ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 17:55:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5fbc1e1fe902455527958953",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "text": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 17:38:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 17:38:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "4c82ba91f5e394120c723f16",
       "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
       "text": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
@@ -511,158 +707,6 @@
           "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
           "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 08 Oct 2026 17:36:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fa856626ba57b0bfa0799383",
-      "title": "Syria calls for independent probe into sinking of ship in Black Sea",
-      "text": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:27:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Syria calls for independent probe into sinking of ship in Black Sea",
-          "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:27:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9e50787ec67e8980798063b0",
-      "title": "Watch: What does the ruling mean for the investigation into the former prince?",
-      "text": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
-      "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 17:26:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: What does the ruling mean for the investigation into the former prince?",
-          "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 17:26:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "58a1d66b3dc35428ad632d10",
-      "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-      "text": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
-      "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:25:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:25:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a80a0e9341d7b33ff344cbe4",
-      "title": "Jerusalem Daily: Remembrance and mourning",
-      "text": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:17:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Remembrance and mourning",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:17:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "95c89b070887a149bb561465",
-      "title": "Senegal-Morocco AFCON title decision within days, says CAS",
-      "text": "The Court of Arbitration for Sport to rule within days on appeal against decision to strip Senegal of AFCON title.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:08:15 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Senegal-Morocco AFCON title decision within days, says CAS",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:08:15 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d196153e5437b5af58bf519a",
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "text": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 17:07:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 17:07:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b55f314183554ed5e409892d",
-      "title": "Video shows dramatic eruption of volcano near Manila",
-      "text": "Taal Volcano near the Philippine capital briefly erupted, sending a dark grey ash plume 4,000 metres above its crater.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 16:55:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Video shows dramatic eruption of volcano near Manila",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-shows-dramatic-eruption-of-volcano-near-manila?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 16:55:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8b1f2da3c8a4f4951fde7f96",
-      "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
-      "text": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 16:53:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 16:53:25 +0000"
         }
       ],
       "cross_checked": false,
@@ -726,63 +770,6 @@
       "conflict": false
     },
     {
-      "id": "bcff4dd562d8d9ba6ceb7405",
-      "title": "Body found in Colombia in search for missing British man Anton Green",
-      "text": "Anton Green's family are told a body found in Colombia is believed to be the missing 43-year-old.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xp74q4n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 16:24:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Body found in Colombia in search for missing British man Anton Green",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4xp74q4n5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 16:24:19 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d2fc343f4a5e63caea62bb60",
-      "title": "Man City charges: Haaland says Premier League club must ‘stick together’",
-      "text": "Erling Haaland calls on Manchester City to unite as Premier League club appeals more than 100 charges of wrongdoing.",
-      "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 16:21:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City charges: Haaland says Premier League club must ‘stick together’",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 16:21:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "20b74fec42a2fa0863c8c0b0",
-      "title": "Forty-five Scottish police officers suspended over alleged crimes against women, says chief constable",
-      "text": "Chief Constable Jo Farrell says more officers are likely to face action as officers are re-vetted.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 16:12:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Forty-five Scottish police officers suspended over alleged crimes against women, says chief constable",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 16:12:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "be9ec9fd668f5a0005c888a8",
       "title": "Death of 12-year-old girl prompts call for allergy management ratings",
       "text": "Mia St Hilaire had a tree nut allergy and suffered an anaphylactic shock after drinking a milkshake.",
@@ -796,44 +783,6 @@
           "title": "Death of 12-year-old girl prompts call for allergy management ratings",
           "url": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 08 Oct 2026 16:07:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c866a1d23977f9bf8febaa14",
-      "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-      "text": "London-based judge says error 'does not bring investigation to an end' as police probe disgraced former royal.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 08 Oct 2026 15:53:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-          "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-          "published_at": "Thu, 08 Oct 2026 15:53:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c32ee67e4cfcd1586538f005",
-      "title": "Birmingham Airport announces £2bn expansion",
-      "text": "The first stage of development, upgrading baggage systems and terminals, could start in 2027.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 15:01:15 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Birmingham Airport announces £2bn expansion",
-          "url": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 15:01:15 GMT"
         }
       ],
       "cross_checked": false,
@@ -916,25 +865,6 @@
       "conflict": false
     },
     {
-      "id": "2a9736df4a6a640ae980e444",
-      "title": "'Ominous signs' of winter pressures as NHS waiting list grows in England",
-      "text": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 12:42:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Ominous signs' of winter pressures as NHS waiting list grows in England",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 12:42:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a17534c531674a384cce4623",
       "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
       "text": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
@@ -948,44 +878,6 @@
           "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
           "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 08 Oct 2026 12:01:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b6291a8321460a46ceb858d",
-      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
-      "text": "The 25-year-old actor opens up about embracing his return to the stage as he stars in a revival of Rent.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 11:09:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 11:09:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "63060a9512909d54a80ff305",
-      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
-      "text": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 09:35:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
-          "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 09:35:30 GMT"
         }
       ],
       "cross_checked": false,
@@ -1011,44 +903,6 @@
       "conflict": false
     },
     {
-      "id": "a6461e28690e768f525fc5a6",
-      "title": "Could Christa Pike face execution again and by what method?",
-      "text": "Killer Christa Pike has survived lethal injection, raising questions about whether Tennessee will try again.",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd65m735mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 09:14:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Could Christa Pike face execution again and by what method?",
-          "url": "https://www.bbc.co.uk/news/articles/cxvgd65m735mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 09:14:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e62f08ffb95aa9ded747dae6",
-      "title": "'I was blamed for my baby's death, now NHS needs to change'",
-      "text": "Neil and Katie Russell are working with the hospital where their daughter died on the scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 05:42:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'I was blamed for my baby's death, now NHS needs to change'",
-          "url": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 05:42:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d34e488264d6b7d6bd415724",
       "title": "Faster than F1: The extreme motorsport where women keep winning",
       "text": "Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.",
@@ -1062,6 +916,177 @@
           "title": "Faster than F1: The extreme motorsport where women keep winning",
           "url": "https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 08 Oct 2026 05:41:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "89689033d755cfa968ec0e98",
+      "title": "ICE agent shoots man in New York City",
+      "text": "The Department of Homeland Security said ICE was arresting a \"criminal illegal alien\"; New York's mayor called it \"unconscionable\".",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 01:59:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "ICE agent shoots man in New York City",
+          "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 01:59:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a1d0c6f9c72457e6b250ddbd",
+      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+      "text": "Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 01:15:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+          "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 01:15:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "144e71530c98e84126691e7e",
+      "title": "USS Abraham Lincoln returns after record-breaking deployment",
+      "text": "Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:57:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "USS Abraham Lincoln returns after record-breaking deployment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:57:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7d14b03ad7f98ed0be7176ba",
+      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+      "text": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:50:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+          "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:50:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5fa9baa1a2f64545621f48bf",
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+      "text": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:39:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:39:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9dda5ff9956517c426e5422e",
+      "title": "'Stark warning' over ADHD and 'Andrew wins legal fight'",
+      "text": "A government review of ADHD and austism diagnoses and the police investigation into Andrew Mountbatten-Windsor lead Friday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 00:30:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Stark warning' over ADHD and 'Andrew wins legal fight'",
+          "url": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 00:30:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c9048e5175526c611f88abbd",
+      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "text": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:12:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:12:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "48cd5eb4ce3e3e2b09f311ba",
+      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "text": "Tigray’s renewed war is testing Ethiopia’s already strained regional ties.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:08:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+          "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:08:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dea6bdce475c5a03c0d964b9",
+      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "text": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 00:00:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 00:00:21 +0000"
         }
       ],
       "cross_checked": false,
