@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-10-10T00:50:13.696921+00:00",
-  "source_count": 57,
-  "story_count": 56,
+  "generated_at": "2026-10-10T07:06:03.875040+00:00",
+  "source_count": 58,
+  "story_count": 58,
   "documents": [
-    {
-      "id": "2f1e27e87e5e3bb369ce6878",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "text": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 22:41:21 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Commentator Katie Zacharia picked as new White House press secretary",
-          "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 22:41:21 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Katie Zacharia selected to be next White House press secretary",
-          "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 18:49:24 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -67,19 +42,494 @@
       "conflict": false
     },
     {
+      "id": "474410318e8e04813725b708",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "text": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 06:54:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hurricane Isaias downgraded after making landfall in Florida",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 06:54:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "04c61b23a20dcf7be532cacb",
+      "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+      "text": "Trump slams Norway for not awarding him Nobel Peace Prize",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 06:47:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 06:47:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "af47d6c23cba7b859521f729",
+      "title": "NI secretary intervenes to ban Drumcree parade",
+      "text": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 06:29:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "NI secretary intervenes to ban Drumcree parade",
+          "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 06:29:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "471c66b08a06c73d2d32b393",
+      "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
+      "text": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 06:20:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
+          "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 06:20:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "26c079907e9781409e6e8ebb",
+      "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+      "text": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 05:54:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 05:54:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88927fbf176d02832bc5d362",
+      "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+      "text": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 05:43:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+          "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 05:43:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cffd64c1cd1047a757b6a68a",
+      "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+      "text": "Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.",
+      "url": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 05:28:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+          "url": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 05:28:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5bb1e5e71cd9acb8a6674db2",
+      "title": "Time to rise? Ranking European football's sleeping giants",
+      "text": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 05:14:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Time to rise? Ranking European football's sleeping giants",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 05:14:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "47be73fa256daefa268647a3",
+      "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+      "text": "President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 05:08:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+          "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 05:08:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d7890d70d4e166e4815ed1fb",
+      "title": "What happens when you grow up not knowing your family medical history?",
+      "text": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 05:00:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What happens when you grow up not knowing your family medical history?",
+          "url": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 05:00:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e5dae5298c7f0a5a5ec735c",
+      "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+      "text": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 05:00:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pee7l57do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 05:00:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dc75ad229e11c34a54bc4d1a",
+      "title": "'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout'",
+      "text": "The weekend edition of the Financial Times highlights what it is calling a \"mounting crisis\" for airlines.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 04:58:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout'",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 04:58:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8aaad5cf5f265d3d1da3ba44",
+      "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+      "text": "Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 04:54:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+          "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 04:54:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a2def05dac13649ef97492df",
+      "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
+      "text": "Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 04:54:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 04:54:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d3af5cec0fbba1c6a87ecb9c",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "text": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 04:51:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 04:51:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "26642edca61eefe9f39f1909",
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "text": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "published_at": "Sat, 10 Oct 2026 04:38:20 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 00:45:51 GMT"
+          "published_at": "Sat, 10 Oct 2026 04:38:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "94620d57f3a0057f399661dc",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "text": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 04:34:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 04:34:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "21220463a2255ee73d895a73",
+      "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+      "text": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 04:30:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 04:30:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d41b7df78a15893c4c6d3551",
+      "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
+      "text": "The Cockroach Janta Party wants Chief Election Commissioner Gyanesh Kumar to quit over changes to voter lists.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 04:07:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
+          "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 04:07:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e5c31f7343a19e87617ca09c",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "text": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 04:07:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+          "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 04:07:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5694a4576324e6beb3c15808",
+      "title": "CCTV footage shows ICE shooting in New York",
+      "text": "New footage shows the moment ICE agents opened fire on a man as he drove his car with his child in the backseat.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 03:38:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "CCTV footage shows ICE shooting in New York",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 03:38:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e2d29c1ed2f7136bc08dd019",
+      "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+      "text": "Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink's entry.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 02:35:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 02:35:28 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "49fc2e76b30730514a5bd05b",
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "text": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 02:02:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US country music star Ella Langley cancels show due to 'security threat'",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 02:02:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "03cb5c650164b77ee6876c40",
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "text": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 01:40:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 01:40:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b845f511805113cfa31fbb91",
+      "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+      "text": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 01:23:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+          "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 01:23:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cdfbd18610b930277f58a325",
+      "title": "Dual quakes devastate southern Panama",
+      "text": "Panama’s president has declared a major disaster after two earthquakes struck the country’s south.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 00:53:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Dual quakes devastate southern Panama",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 00:53:15 +0000"
         }
       ],
       "cross_checked": false,
@@ -144,8 +594,8 @@
     },
     {
       "id": "354ef2a77a136fbfb0dea3b7",
-      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
-      "text": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.",
+      "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
+      "text": "Trump says that he expects to soon “settle or win” the conflicts involving Iran and Russia-Ukraine.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 10 Oct 2026 00:00:00 +0000",
@@ -153,7 +603,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+          "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
           "published_at": "Sat, 10 Oct 2026 00:00:00 +0000"
         }
@@ -194,25 +644,6 @@
           "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
           "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 23:24:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64d832158a4691c9e62b43ee",
-      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-      "text": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 23:02:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 23:02:07 GMT"
         }
       ],
       "cross_checked": false,
@@ -372,8 +803,8 @@
     },
     {
       "id": "be81e1bb6c9a7ce95fc9d93d",
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "text": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "text": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 09 Oct 2026 21:55:51 GMT",
@@ -381,7 +812,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+          "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
           "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 21:55:51 GMT"
         }
@@ -422,25 +853,6 @@
           "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 21:50:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "af47d6c23cba7b859521f729",
-      "title": "NI secretary to ban the Drumcree parade",
-      "text": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 21:46:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "NI secretary to ban the Drumcree parade",
-          "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 21:46:19 GMT"
         }
       ],
       "cross_checked": false,
@@ -580,63 +992,6 @@
       "conflict": false
     },
     {
-      "id": "c0cb334caa19739dd6827062",
-      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-      "text": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 20:29:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 20:29:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c5d328e67df1d7bd081aee51",
-      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
-      "text": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 20:17:15 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 20:17:15 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15775306198822ae9084657c",
-      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-      "text": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 20:13:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-          "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 20:13:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "8b9ec8f43a60a3fdb2a4484c",
       "title": "Early release scheme prisoner jailed days after leaving",
       "text": "Michael Bogle had said outside prison last week that \"people like me\" should not be jailed \"for a long time\".",
@@ -650,25 +1005,6 @@
           "title": "Early release scheme prisoner jailed days after leaving",
           "url": "https://www.bbc.co.uk/news/articles/c699zyyyn4y0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 20:11:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1428e35756ed2770f70dc56e",
-      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "text": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 19:47:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 19:47:33 +0000"
         }
       ],
       "cross_checked": false,
@@ -694,25 +1030,6 @@
       "conflict": false
     },
     {
-      "id": "f46aea23ac3e2cee3d71f67e",
-      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-      "text": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 19:32:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-          "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 19:32:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f6445a6e9811ee4135f21907",
       "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
       "text": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
@@ -726,177 +1043,6 @@
           "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
           "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 19:26:53 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c7dd76e4eeb402de34496c7e",
-      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-      "text": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 19:22:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-          "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 19:22:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b6c9c1eddb5e96aa7ab1e6eb",
-      "title": "Injured Orangutan rescued from Indonesia wildfires",
-      "text": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 19:14:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Injured Orangutan rescued from Indonesia wildfires",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 19:14:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "22a5f858763d26f1554fef85",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "text": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 18:40:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 18:40:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d21850c24b8c4e9663de57f",
-      "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-      "text": "Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 18:30:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-          "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 18:30:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "68085b26fd3d1205172f53a9",
-      "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-      "text": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 18:23:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 18:23:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4b9dc3b9350a06fdcda280f9",
-      "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-      "text": "Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 18:15:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-          "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 18:15:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b5d6f14a6bf76237fe3298e4",
-      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-      "text": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 18:06:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 18:06:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0dea0e4fa933f1c7c3c8154f",
-      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-      "text": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 17:37:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 17:37:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b47b1a44b1413a4e9b633b3",
-      "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-      "text": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 17:19:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-          "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 17:19:43 +0000"
         }
       ],
       "cross_checked": false,
@@ -922,25 +1068,6 @@
       "conflict": false
     },
     {
-      "id": "900dadfe7acaacb74f0dd2dc",
-      "title": "Palestinians seek protection from violent settlers during olive harvest",
-      "text": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 17:05:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians seek protection from violent settlers during olive harvest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 17:05:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a6138919a7195b0ae9af6f1c",
       "title": "Verstappen on sprint pole after another settings issue",
       "text": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
@@ -954,101 +1081,6 @@
           "title": "Verstappen on sprint pole after another settings issue",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 15:48:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bad06972e62f76788bdb92be",
-      "title": "Bank cashier outed by holiday photos after stealing £13k is ordered to pay back money",
-      "text": "Kelly Kershaw stole from vulnerable customers to fund a safari in Africa and a trip to Paris.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 15:14:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bank cashier outed by holiday photos after stealing £13k is ordered to pay back money",
-          "url": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 15:14:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "459a95ae2f7cccaf63ca4e0a",
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "text": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 14:35:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-          "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 14:35:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d547f9059e02dc46462e3557",
-      "title": "What reception awaits Man City at Anfield?",
-      "text": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 14:02:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What reception awaits Man City at Anfield?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 14:02:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "142dbf7d38a85d247b246ca6",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "text": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 12:34:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Anthropic bans users from being 'cruel' to its AI systems",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 12:34:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8692cfef7d185fe53fc19b2c",
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "text": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-      "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 12:29:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-          "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 12:29:02 GMT"
         }
       ],
       "cross_checked": false,
