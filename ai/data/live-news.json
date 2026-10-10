@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-09T20:53:57.529492+00:00",
-  "source_count": 55,
-  "story_count": 54,
+  "generated_at": "2026-10-10T00:50:13.696921+00:00",
+  "source_count": 57,
+  "story_count": 56,
   "documents": [
     {
       "id": "2f1e27e87e5e3bb369ce6878",
-      "title": "Katie Zacharia ‘offered’ position as White House press secretary",
-      "text": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 18:49:24 +0000",
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "text": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 22:41:21 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
           "title": "Commentator Katie Zacharia picked as new White House press secretary",
           "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 19:58:27 GMT"
+          "published_at": "Fri, 09 Oct 2026 22:41:21 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+          "title": "Katie Zacharia selected to be next White House press secretary",
           "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
           "published_at": "Fri, 09 Oct 2026 18:49:24 +0000"
         }
@@ -67,6 +67,101 @@
       "conflict": false
     },
     {
+      "id": "26642edca61eefe9f39f1909",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "text": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 00:45:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7a8568ebb19e7946a8936cb5",
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "text": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 00:22:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 00:22:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "538442b5a32e3ce122cd4bed",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "text": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 00:13:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US immigration officials defend ICE agents who shot man in same car as child",
+          "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 00:13:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a89ef67630878d1889cc3555",
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "text": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 00:01:32 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Intercommunal clashes kill 71 people in South Sudan",
+          "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 00:01:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "354ef2a77a136fbfb0dea3b7",
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "text": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "852849d12897c072f3e5a56b",
       "title": "Does Zack Polanski Face A Leadership Crisis?",
       "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
@@ -86,19 +181,247 @@
       "conflict": false
     },
     {
+      "id": "8293ba95ca8f51883337c5f1",
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "text": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:24:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:24:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "64d832158a4691c9e62b43ee",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "text": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:02:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:02:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "31d93b8f643ec2eaf7fee5fd",
+      "title": "Ashe was too scared to cancel her wedding - the story became a hit song",
+      "text": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:01:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ashe was too scared to cancel her wedding - the story became a hit song",
+          "url": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:01:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c4d3de43f668164e824f576a",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "text": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:01:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Boots has a new owner: Three ways it could affect you",
+          "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:01:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ca51bc356cf916302e5b09fa",
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+      "text": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:01:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+          "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:01:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9a1c1095af5b72d20000b9f2",
+      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+      "text": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
+      "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 23:00:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+          "url": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 23:00:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4aa18003d50cbd78db4efa4d",
+      "title": "Man City whistleblower to remain in witness protection",
+      "text": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 22:59:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man City whistleblower to remain in witness protection",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 22:59:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "94c91e6ad90a1549284c7674",
+      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "text": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 22:51:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 22:51:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3e43b6d99624bc3c524245c4",
+      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "text": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 22:50:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 22:50:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "45ee4516e19b1b5812334dba",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "text": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 22:30:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 22:30:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "be81e1bb6c9a7ce95fc9d93d",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "text": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 21:55:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "31cdc3bb481c712e49498580",
+      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+      "text": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 21:53:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 21:53:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "af320e626ead66f2078a1a8d",
       "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
       "text": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 20:42:11 GMT",
+      "published_at": "Fri, 09 Oct 2026 21:50:47 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 20:42:11 GMT"
+          "published_at": "Fri, 09 Oct 2026 21:50:47 GMT"
         }
       ],
       "cross_checked": false,
@@ -110,33 +433,147 @@
       "text": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
       "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 20:38:31 GMT",
+      "published_at": "Fri, 09 Oct 2026 21:46:19 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "NI secretary to ban the Drumcree parade",
           "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 20:38:31 GMT"
+          "published_at": "Fri, 09 Oct 2026 21:46:19 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "26642edca61eefe9f39f1909",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "text": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "id": "0110371250381f5a0a154741",
+      "title": "Arteta's conscience clear over Man City charges",
+      "text": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 20:32:42 GMT",
+      "published_at": "Fri, 09 Oct 2026 21:30:52 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 20:32:42 GMT"
+          "title": "Arteta's conscience clear over Man City charges",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 21:30:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d76f911f80e44ffdb95a1112",
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "text": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 21:29:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US judge rules Trump administration’s use of voter data unlawful",
+          "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 21:29:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1f889d365a92c4eec32cd7b4",
+      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "text": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 21:17:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+          "url": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 21:17:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ef13f348c8947b3fb88a1c60",
+      "title": "Greek takeaways: What did we learn from Lionesses' win?",
+      "text": "England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 21:15:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Greek takeaways: What did we learn from Lionesses' win?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 21:15:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa3e9d28d8cca6ba189472ca",
+      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+      "text": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 21:04:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 21:04:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8f132b5b81cc08a2d75a1c1e",
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "text": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 20:56:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 20:56:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e67b9728ac4c271ddec75a36",
+      "title": "How will Spain’s housing crisis affect elections?",
+      "text": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 09 Oct 2026 20:39:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How will Spain’s housing crisis affect elections?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+          "published_at": "Fri, 09 Oct 2026 20:39:11 +0000"
         }
       ],
       "cross_checked": false,
@@ -296,7 +733,7 @@
     },
     {
       "id": "c7dd76e4eeb402de34496c7e",
-      "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
       "text": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
       "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
       "source": "Al Jazeera",
@@ -305,7 +742,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+          "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
           "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
           "published_at": "Fri, 09 Oct 2026 19:22:56 +0000"
         }
@@ -447,25 +884,6 @@
       "conflict": false
     },
     {
-      "id": "538442b5a32e3ce122cd4bed",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "text": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 17:36:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US immigration officials defend ICE agents who shot man in same car as child",
-          "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 17:36:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "0b47b1a44b1413a4e9b633b3",
       "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
       "text": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
@@ -523,177 +941,6 @@
       "conflict": false
     },
     {
-      "id": "fbe45b271ab907b1b19c875a",
-      "title": "Powerful tornado rips through western Sicily",
-      "text": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 16:37:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Powerful tornado rips through western Sicily",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 16:37:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ceb7cda69272a5a39dbe4709",
-      "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-      "text": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 16:36:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-          "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 16:36:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3c4406f665fbdf762b2fc179",
-      "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-      "text": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 16:33:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-          "url": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 16:33:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9c3a82c28e9b3b9bd0c43451",
-      "title": "Tornado rips through Sicilian town and city",
-      "text": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
-      "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 16:25:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Tornado rips through Sicilian town and city",
-          "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 16:25:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8a4dce8a059b1735131c49c7",
-      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "text": "Protests against sexual violence took place across more than 40 US states on 8 October.",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 16:19:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-          "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 16:19:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "89986429194b3d075b1c0a24",
-      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-      "text": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 16:07:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-          "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 16:07:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a13b8bc3b2dfad4691374c37",
-      "title": "Watch: 'This has never happened before!' Olivia Colman on viral Wicker memes",
-      "text": "Olivia Colman stars alongside Alexander Skarsgård in the upcoming film Wicker which has prompted many memes.",
-      "url": "https://www.bbc.co.uk/news/videos/c6m2477r45e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 16:06:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: 'This has never happened before!' Olivia Colman on viral Wicker memes",
-          "url": "https://www.bbc.co.uk/news/videos/c6m2477r45e0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 16:06:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "962147d5277ea6b34b27fccb",
-      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-      "text": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 16:01:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 16:01:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1777b7fbde5b6884c6426564",
-      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-      "text": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 15:59:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 15:59:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a6138919a7195b0ae9af6f1c",
       "title": "Verstappen on sprint pole after another settings issue",
       "text": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
@@ -707,82 +954,6 @@
           "title": "Verstappen on sprint pole after another settings issue",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 15:48:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ebe7eee19ec13a174a443455",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "text": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 15:32:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 15:32:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1f73472a04f8bbca40249d3a",
-      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-      "text": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 15:28:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-          "url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 15:28:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "06115684c4d7693385dcd901",
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "text": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 15:26:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-          "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 15:26:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4fe2897eb5b9f525070e3113",
-      "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-      "text": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 15:25:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-          "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 15:25:27 +0000"
         }
       ],
       "cross_checked": false,
@@ -808,63 +979,6 @@
       "conflict": false
     },
     {
-      "id": "b025e62767f12895249aea85",
-      "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
-      "text": "After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.",
-      "url": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 15:09:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
-          "url": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 15:09:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "19b85c52d25e7b24338a4f99",
-      "title": "US sanctions International Criminal Court itself in major escalation",
-      "text": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 09 Oct 2026 15:08:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US sanctions International Criminal Court itself in major escalation",
-          "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-          "published_at": "Fri, 09 Oct 2026 15:08:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "83f0cc81cbe93d02870eb80d",
-      "title": "Dad and son remain critical after masked men attack",
-      "text": "Leicestershire Police say the attack at the family home appeared \"completely unprovoked\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj040n79wk94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 15:07:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Dad and son remain critical after masked men attack",
-          "url": "https://www.bbc.co.uk/news/articles/cj040n79wk94o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 15:07:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "459a95ae2f7cccaf63ca4e0a",
       "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
       "text": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
@@ -878,25 +992,6 @@
           "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
           "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 14:35:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aed1a18c8f4a753d85bde567",
-      "title": "I've got my own questions on Man City case - Carrick",
-      "text": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 14:30:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I've got my own questions on Man City case - Carrick",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 14:30:38 GMT"
         }
       ],
       "cross_checked": false,
@@ -973,63 +1068,6 @@
           "title": "Autism, ADHD and mental health review: What you need to know",
           "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 09 Oct 2026 12:16:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8bdcefb7f1f693561bdf8955",
-      "title": "From the workplace to pop culture - why how we view women's anger is changing",
-      "text": "Studies suggest women are getting angrier, but are they just more open about it?",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 11:40:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From the workplace to pop culture - why how we view women's anger is changing",
-          "url": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 11:40:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "82ae40e7693016b32310e866",
-      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
-      "text": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 09:43:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 09:43:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8f17a2801297e8c27f7a5248",
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "text": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 09:37:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I've been with my boyfriend for two years and don't know his salary",
-          "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 09:37:38 GMT"
         }
       ],
       "cross_checked": false,
