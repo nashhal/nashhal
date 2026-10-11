@@ -1,34 +1,28 @@
 {
-  "generated_at": "2026-10-11T20:16:01.533522+00:00",
-  "source_count": 52,
-  "story_count": 50,
+  "generated_at": "2026-10-11T23:42:41.834317+00:00",
+  "source_count": 54,
+  "story_count": 52,
   "documents": [
     {
-      "id": "ba92a3d7588a18a551165b8e",
-      "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-      "text": "Pope Leo XIV has announced that he will undergo surgery this week, to remove a nodule in his lung.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 15:24:50 +0000",
+      "id": "3372659d3b2de04f8f60cdf1",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "text": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 22:45:58 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
-          "title": "Pope Leo to have surgery after lump found on lung",
-          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 13:38:55 GMT"
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 22:45:58 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 15:24:50 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Pope Leo to undergo surgery to remove lung nodule",
-          "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:59:38 +0000"
+          "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 23:20:46 +0000"
         }
       ],
       "cross_checked": true,
@@ -73,8 +67,331 @@
       "conflict": false
     },
     {
+      "id": "1a3fba5b970a07c3ab6bd186",
+      "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+      "text": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 23:17:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 23:17:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d969e1731fd072c5487e490c",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "text": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 23:13:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 23:13:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1aff4bf29ee2a8bdccd23262",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "text": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 23:07:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 23:07:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6490f52bc4e27312714a75a7",
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "text": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 23:04:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Iran war threatens Healey's Budget plans, think tank warns",
+          "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 23:04:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "513fc53178159057df7c972f",
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "text": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 23:03:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 23:03:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "58ff5782e9207bed95eacda0",
+      "title": "Could you spot cancer symptoms in children?",
+      "text": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 23:03:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Could you spot cancer symptoms in children?",
+          "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 23:03:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6081aaa03639e675fbf4827d",
+      "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "text": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 22:49:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 22:49:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a24af07acbf36aadc87a889b",
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "text": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 22:24:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 22:24:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9425c6a29215c5ea624710f9",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "text": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 21:36:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 21:36:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8fc8331af46a26ef485266df",
+      "title": "Reform would suspend asylum system for parliamentary term if in government",
+      "text": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+      "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 21:18:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Reform would suspend asylum system for parliamentary term if in government",
+          "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 21:18:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dfcc004ddbb15e9d567bd6a5",
+      "title": "Waves crash into homes as excavators try to protect California properties",
+      "text": "Construction crews were seen trying to block waves entering homes along California's coast",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 21:03:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Waves crash into homes as excavators try to protect California properties",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 21:03:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "34f3e25ccc6c71dacc2f7284",
+      "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "text": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:57:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+          "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:57:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cebac0f442218416c7efef02",
+      "title": "Two killed near Israeli-occupied area in south Lebanon",
+      "text": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:46:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Two killed near Israeli-occupied area in south Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:46:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9244029c3d8cd6913aa7eb24",
+      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "text": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:44:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:44:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3840838c9f12d39220dd0bf4",
+      "title": "Zelenskyy welcomes US-announced energy ceasefire",
+      "text": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:28:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Zelenskyy welcomes US-announced energy ceasefire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:28:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b061dee00e3faf55338d0952",
+      "title": "Syrian families demand release of detainees held by Israel",
+      "text": "Syrian families demand release of detainees held by Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:24:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Syrian families demand release of detainees held by Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:24:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d2f315335d0a3fc533935c7",
+      "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+      "text": "Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 20:21:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:21:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "5a033020469d6449fbba9c95",
-      "title": "'Man City's Anfield win has feeling of irrelevance with season in limbo'",
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
       "text": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -83,7 +400,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "'Man City's Anfield win has feeling of irrelevance with season in limbo'",
+          "title": "Man City's statement win has feeling of irrelevance with season in limbo",
           "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 11 Oct 2026 20:02:27 GMT"
         }
@@ -377,7 +694,7 @@
       "conflict": false
     },
     {
-      "id": "666471c5cb37e32b6a404ccf",
+      "id": "d30d3809bd713cf13263fc22",
       "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
       "text": "Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off.",
       "url": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
@@ -385,6 +702,12 @@
       "published_at": "Sun, 11 Oct 2026 17:39:26 +0000",
       "source_count": 1,
       "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How Man City beat Liverpool after guilty verdict",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 20:41:09 +0000"
+        },
         {
           "source": "Al Jazeera",
           "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
@@ -491,44 +814,6 @@
       "conflict": false
     },
     {
-      "id": "1c0a28c71f388243671549df",
-      "title": "Citroen revives the 2CV for an electric age",
-      "text": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
-      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 17:00:05 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Citroen revives the 2CV for an electric age",
-          "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 17:00:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6563c1b8fad16be9b4975649",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "text": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 16:41:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
-          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 16:41:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c1a3bf037395e9fae95eb340",
       "title": "Football fans speak about City’s charges as they face Liverpool",
       "text": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.",
@@ -542,44 +827,6 @@
           "title": "Football fans speak about City’s charges as they face Liverpool",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
           "published_at": "Sun, 11 Oct 2026 16:18:45 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15026d2e11f984fc20aed5bf",
-      "title": "At least five people missing as flash floods in Nepal sweep away houses",
-      "text": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 16:00:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "At least five people missing as flash floods in Nepal sweep away houses",
-          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 16:00:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7c8a77e2ac2f04e98ef3cbad",
-      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
-      "text": "At least eleven people have been killed and 27 injured after a tour bus collided with a truck near a motorway entrance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 15:52:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tour bus crash in Turkiye leaves at least 11 dead",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 15:52:29 +0000"
         }
       ],
       "cross_checked": false,
@@ -624,25 +871,6 @@
       "conflict": false
     },
     {
-      "id": "cbbc85ae76864cc882f2adb3",
-      "title": "Power bank fire forces plane to emergency land in India",
-      "text": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 15:26:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Power bank fire forces plane to emergency land in India",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 15:26:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3b36d17aa5f97a0985b06911",
       "title": "Poland stabbings driven by online glorification of violence, Tusk says",
       "text": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
@@ -656,44 +884,6 @@
           "title": "Poland stabbings driven by online glorification of violence, Tusk says",
           "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 11 Oct 2026 15:18:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "51556a779fe13754e56df421",
-      "title": "How the ICC can be saved",
-      "text": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 15:15:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How the ICC can be saved",
-          "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 15:15:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eb55dd5cdae64b1aec5ba1b6",
-      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-      "text": "Ukrainian President Volodymyr Zelenskyy says he was unaware of the deal, but that Ukraine would back it.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 15:10:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 15:10:27 +0000"
         }
       ],
       "cross_checked": false,
@@ -719,95 +909,19 @@
       "conflict": false
     },
     {
-      "id": "2fe1044d39f4ac73ced6c5db",
-      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
-      "text": "Trump has long criticised US military support for Ukraine and has lambasted Zelenskyy since his first term.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 14:34:15 +0000",
+      "id": "67ccfc762e6f5377a4cf66b8",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "text": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 13:38:55 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
-          "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:34:15 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a81dcb8e14a9ac6d09e41857",
-      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-      "text": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 14:25:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-          "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:25:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "82e6e17db4e19d020ea7e5e6",
-      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-      "text": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 14:09:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
-          "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:09:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c003576fd2482ea54bcedf66",
-      "title": "The Mafia Football Murders | True Crime Reports",
-      "text": "A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football's ultras and the mafia.",
-      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 14:05:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The Mafia Football Murders | True Crime Reports",
-          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:05:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a9383015a7253d757b681870",
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "text": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 14:04:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-          "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 14:04:32 +0000"
+          "source": "BBC",
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 13:38:55 GMT"
         }
       ],
       "cross_checked": false,
@@ -865,82 +979,6 @@
           "title": "Buildings swept away as flash floods hit central Nepal",
           "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 11 Oct 2026 10:34:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "569cd35242fcacee72a65df9",
-      "title": "Man, 36, arrested six years on from double murder",
-      "text": "Junior Ajose, 36, and Cheriff Tall, 21, were gunned down at a lockdown party six years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 09:52:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man, 36, arrested six years on from double murder",
-          "url": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 09:52:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "143d505ebfa65c61ad6839f3",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "text": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 23:31:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-          "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 23:31:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "824955e2bf8949dac970cef8",
-      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
-      "text": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-      "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 23:18:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
-          "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 23:18:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "384cfaa5107ec8e9f854be34",
-      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-      "text": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-      "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 23:17:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-          "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 23:17:03 GMT"
         }
       ],
       "cross_checked": false,
