@@ -1,28 +1,53 @@
 {
-  "generated_at": "2026-10-10T22:31:25.470281+00:00",
+  "generated_at": "2026-10-11T01:52:48.879459+00:00",
   "source_count": 58,
-  "story_count": 57,
+  "story_count": 56,
   "documents": [
     {
-      "id": "8648126be899889bad5b7548",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "text": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 21:27:10 GMT",
+      "id": "9f1df91d320227766efdf2cf",
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "text": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 01:16:18 +0000",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
-          "title": "Several injured in attack on airport in Saudi capital Riyadh",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 21:27:10 GMT"
+          "title": "Man dies after tiger attack at wildlife park",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 01:05:37 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-          "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 18:08:46 +0000"
+          "title": "Man dies after entering tiger enclosure at England wildlife park",
+          "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 01:16:18 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
+    {
+      "id": "88b966149f49b2e2c30a44b7",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "text": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 01:02:07 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 00:21:52 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 01:02:07 +0000"
         }
       ],
       "cross_checked": true,
@@ -143,19 +168,304 @@
       "conflict": false
     },
     {
+      "id": "d613db04b53f99c4fe4e2dc4",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "text": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 01:41:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 01:41:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "342f2fd10a707ad98e318d11",
+      "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "text": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 01:11:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 01:11:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa744a2483116f9df79bc885",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "text": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 00:49:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US justice department investigates TV networks over Trump pool coverage",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 00:49:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "35ffdda17548f960befe2a09",
+      "title": "UK launch flood taskforce to prepare for extreme winter weather",
+      "text": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
+      "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 00:44:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK launch flood taskforce to prepare for extreme winter weather",
+          "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 00:44:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3ae46c69845beb042b0b619",
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "text": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 00:23:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+          "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 00:23:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bd78bbbab642dc7c7ce23354",
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "text": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 00:00:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 00:00:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c05415386d997ca399e14ffa",
+      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+      "text": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 23:40:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 23:40:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "143d505ebfa65c61ad6839f3",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "text": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 23:31:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+          "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 23:31:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "40239b0cd50b7f1e7407f476",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "text": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 22:02:07 GMT",
+      "published_at": "Sat, 10 Oct 2026 23:19:55 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
           "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 22:02:07 GMT"
+          "published_at": "Sat, 10 Oct 2026 23:19:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "824955e2bf8949dac970cef8",
+      "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+      "text": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 23:18:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+          "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 23:18:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "384cfaa5107ec8e9f854be34",
+      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+      "text": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
+      "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 23:17:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+          "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 23:17:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e4670e135459424420cfec7c",
+      "title": "Bid to overturn ruling which stops police being sued for failings",
+      "text": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 23:04:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bid to overturn ruling which stops police being sued for failings",
+          "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 23:04:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7ab6eff9dc48ea07d1a39f8c",
+      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+      "text": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 22:43:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+          "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 22:43:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bb413157c1af2e915d9e6767",
+      "title": "WHO says no plague case registered after Russian lab worker’s death",
+      "text": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 22:34:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "WHO says no plague case registered after Russian lab worker’s death",
+          "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 22:34:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5370b0b143f6428559855153",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "text": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+          "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 22:13:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "84db7b91b593070ce4033841",
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "text": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 10 Oct 2026 22:12:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemeni government’s military says its forces advancing against Houthis",
+          "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+          "published_at": "Sat, 10 Oct 2026 22:12:25 +0000"
         }
       ],
       "cross_checked": false,
@@ -314,44 +624,6 @@
       "conflict": false
     },
     {
-      "id": "02bc0911de8f35431295c626",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
-      "text": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 20:51:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 20:51:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "92e88d1e09535011263b9149",
-      "title": "Worker paralysed in 30ft fall from pylon gets £10m payout",
-      "text": "The HSE found Gavin Pugh's injuries could have been prevented if correct safety steps were followed.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4ev4llwpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 20:51:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Worker paralysed in 30ft fall from pylon gets £10m payout",
-          "url": "https://www.bbc.co.uk/news/articles/cmn4ev4llwpno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 20:51:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "8f2547a7b377952c3a988765",
       "title": "Damage seen inside Saudi airport after third attack this week",
       "text": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
@@ -504,25 +776,6 @@
       "conflict": false
     },
     {
-      "id": "e249c8ccacb666a5d55573ba",
-      "title": "Ceremony marks return home of kiwi feather cloak",
-      "text": "The kahu kiwi, given to a British doctor in 1900, was \"crying to come home\", Māori campaigners say.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy790nd00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 19:37:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ceremony marks return home of kiwi feather cloak",
-          "url": "https://www.bbc.co.uk/news/articles/c5rmy790nd00o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 19:37:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f57d295e9a4a993db42ad79c",
       "title": "Trump says Ukraine needs a new president who will agree to end the war",
       "text": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
@@ -536,25 +789,6 @@
           "title": "Trump says Ukraine needs a new president who will agree to end the war",
           "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
           "published_at": "Sat, 10 Oct 2026 19:32:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d613db04b53f99c4fe4e2dc4",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "text": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 19:28:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 19:28:28 GMT"
         }
       ],
       "cross_checked": false,
@@ -599,25 +833,6 @@
       "conflict": false
     },
     {
-      "id": "844d0abbf09f9c7320fc50b0",
-      "title": "Man dies after tiger attack at wildlife park",
-      "text": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 19:09:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man dies after tiger attack at wildlife park",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 19:09:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "db5fcfa611674d2a0a91b451",
       "title": "Trump calls for new president in Ukraine",
       "text": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
@@ -631,44 +846,6 @@
           "title": "Trump calls for new president in Ukraine",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
           "published_at": "Sat, 10 Oct 2026 18:50:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "38e822b989ea5ce7b89ddc28",
-      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "text": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 18:38:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 18:38:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4efd4ef523fbeaeb50563df7",
-      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-      "text": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza 'ceasefire' anniversary.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 18:26:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-          "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 18:26:13 +0000"
         }
       ],
       "cross_checked": false,
@@ -713,25 +890,6 @@
       "conflict": false
     },
     {
-      "id": "0bd5a361f2cc0064f99b2363",
-      "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
-      "text": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 17:48:45 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
-          "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 17:48:45 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "eb05aec413aec7bdca0c25b5",
       "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
       "text": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
@@ -770,63 +928,6 @@
       "conflict": false
     },
     {
-      "id": "fa3c90015cac0c633aa0045b",
-      "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-      "text": "Pope Leo XIV describes capital punishment as an 'attack on the inviolability and dignity of the person' in post on X.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 17:38:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-          "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 17:38:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2cfa7e7c72e1590c25faffbf",
-      "title": "Video shows rare albino Asian black bear",
-      "text": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 17:37:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Video shows rare albino Asian black bear",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 17:37:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d4c9b4c789fb82d27cff428",
-      "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
-      "text": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 17:08:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
-          "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 17:08:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a58b5f2a506d15cdc6c40dca",
       "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
       "text": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
@@ -840,25 +941,6 @@
           "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
           "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 17:07:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "26f8688c592666652dc80ed2",
-      "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "text": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 16:54:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 16:54:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -922,25 +1004,6 @@
       "conflict": false
     },
     {
-      "id": "782d0eff1df90b4d6f6f6264",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "text": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 15:23:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-          "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 15:23:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "95806dbd949a0b09367d4a38",
       "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
       "text": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
@@ -998,25 +1061,6 @@
       "conflict": false
     },
     {
-      "id": "d7890d70d4e166e4815ed1fb",
-      "title": "I couldn't access my family's medical history - not knowing was terrifying",
-      "text": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 05:00:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I couldn't access my family's medical history - not knowing was terrifying",
-          "url": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 05:00:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "852849d12897c072f3e5a56b",
       "title": "Does Zack Polanski Face A Leadership Crisis?",
       "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
@@ -1030,63 +1074,6 @@
           "title": "Does Zack Polanski Face A Leadership Crisis?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pf3l61?at_mid=JDfA1DNlxJ&at_campaign=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&at_bbc_team=BBC&at_creation=News",
           "published_at": "Sat, 03 Oct 2026 00:00:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "31d93b8f643ec2eaf7fee5fd",
-      "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
-      "text": "The US singer-songwriter reveals the story behind her international smash hit, Stop The Wedding.",
-      "url": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 23:01:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
-          "url": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 23:01:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c4d3de43f668164e824f576a",
-      "title": "Boots has a new owner: Three ways it could affect you",
-      "text": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 23:01:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Boots has a new owner: Three ways it could affect you",
-          "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 23:01:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ca51bc356cf916302e5b09fa",
-      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show in London",
-      "text": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 09 Oct 2026 23:01:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show in London",
-          "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 09 Oct 2026 23:01:04 GMT"
         }
       ],
       "cross_checked": false,
