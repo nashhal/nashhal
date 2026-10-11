@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-10-11T08:49:33.081650+00:00",
-  "source_count": 54,
-  "story_count": 53,
+  "generated_at": "2026-10-11T15:40:08.175843+00:00",
+  "source_count": 50,
+  "story_count": 50,
   "documents": [
-    {
-      "id": "9f1df91d320227766efdf2cf",
-      "title": "Man dies after entering tiger enclosure at England wildlife park",
-      "text": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 01:16:18 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man dies after tiger attack at wildlife park",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 06:58:54 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Man dies after entering tiger enclosure at England wildlife park",
-          "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 01:16:18 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -86,323 +61,684 @@
       "conflict": false
     },
     {
-      "id": "cfff84238f2fed4590cab7f8",
-      "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
-      "text": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 08:32:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
-          "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 08:32:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2acea04dd0b054b98885883d",
-      "title": "What the Iran war has done to the world’s energy supply, in charts",
-      "text": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 08:22:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What the Iran war has done to the world’s energy supply, in charts",
-          "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 08:22:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6c1b82efc1ba38839c54e881",
-      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
-      "text": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+      "id": "cc5184465f5bc187e41be4b6",
+      "title": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
+      "text": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 08:19:52 GMT",
+      "published_at": "Sun, 11 Oct 2026 15:32:32 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
-          "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 08:19:52 GMT"
+          "title": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 15:32:32 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "1d1671b02697a6aa1d6cc18e",
-      "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-      "text": "Pledge comes days before Mukesh Ambani's low-cost Reliance Jio's parent launches India's largest-ever IPO.",
-      "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 07:57:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-          "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 07:57:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "46509b949e6f902d886e0ed4",
-      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-      "text": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 07:39:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 07:39:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c77f7654f8e2252c0005f74a",
-      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-      "text": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "id": "247efd53ed44311dd3cd2009",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "text": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 07:10:49 GMT",
+      "published_at": "Sun, 11 Oct 2026 15:32:23 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-          "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 07:10:49 GMT"
+          "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 15:32:23 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "9dd28d35228a4c824dd65fa4",
-      "title": "Flash flood sweeps away buildings in Nepal",
-      "text": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 06:34:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Flash flood sweeps away buildings in Nepal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 06:34:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64ac5fae4f341fe9c1e38dd1",
-      "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-      "text": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.",
-      "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 05:57:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-          "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 05:57:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dc5714215dcf9e6ccfb3c005",
-      "title": "How genocidal war on Gaza is shaping Israel’s election",
-      "text": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 05:35:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How genocidal war on Gaza is shaping Israel’s election",
-          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 05:35:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1d0d41edc0d9b19e1e6210ae",
-      "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
-      "text": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "id": "3b36d17aa5f97a0985b06911",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "text": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 05:27:03 GMT",
+      "published_at": "Sun, 11 Oct 2026 15:18:52 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 05:27:03 GMT"
+          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+          "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 15:18:52 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "aa744a2483116f9df79bc885",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "text": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "id": "51556a779fe13754e56df421",
+      "title": "How the ICC can be saved",
+      "text": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 15:15:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How the ICC can be saved",
+          "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 15:15:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eb55dd5cdae64b1aec5ba1b6",
+      "title": "Trump says Ukraine, Russia agree to ‘energy ceasefire’",
+      "text": "Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 15:10:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says Ukraine, Russia agree to ‘energy ceasefire’",
+          "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 15:10:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b14195c583061185fa305771",
+      "title": "Pope Leo to undergo surgery to remove lung nodule",
+      "text": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 14:59:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo to undergo surgery to remove lung nodule",
+          "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:59:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "46f0bc3dd3ee107f6c1a4535",
+      "title": "Verstappen dominates for first Singapore Grand Prix win",
+      "text": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "published_at": "Sun, 11 Oct 2026 14:46:06 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "US justice department investigates TV networks over Trump pool coverage",
-          "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 05:05:43 GMT"
+          "title": "Verstappen dominates for first Singapore Grand Prix win",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 14:46:06 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "17d3e36842ff754283432129",
-      "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
-      "text": "The majority of the papers on Sunday are dominated by a man who was attacked by a tiger at a wildlife park near Doncaster.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
+      "id": "9c456bbec7c9470c9513ebd5",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "text": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 04:46:35 GMT",
+      "published_at": "Sun, 11 Oct 2026 14:38:10 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 04:46:35 GMT"
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 14:38:10 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "5d33fa7ab8072953dfa7330e",
-      "title": "US opens antitrust probe into TV networks for halting Trump coverage",
-      "text": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+      "id": "2fe1044d39f4ac73ced6c5db",
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "text": "Trump has long criticised US military support for Ukraine and has lambasted Zelenskyy since his first term.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 04:30:10 +0000",
+      "published_at": "Sun, 11 Oct 2026 14:34:15 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "US opens antitrust probe into TV networks for halting Trump coverage",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 04:30:10 +0000"
+          "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+          "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:34:15 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "d0446d38578f2a138a55b386",
-      "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
-      "text": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+      "id": "a81dcb8e14a9ac6d09e41857",
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "text": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 04:28:51 +0000",
+      "published_at": "Sun, 11 Oct 2026 14:25:03 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 04:28:51 +0000"
+          "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+          "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:25:03 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "1474f6dcdb8e4fea68479bc4",
-      "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
-      "text": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+      "id": "82e6e17db4e19d020ea7e5e6",
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "text": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 04:10:08 +0000",
+      "published_at": "Sun, 11 Oct 2026 14:09:12 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 04:10:08 +0000"
+          "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+          "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:09:12 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "a6de24ef8a51cd23217425fc",
-      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-      "text": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "id": "c003576fd2482ea54bcedf66",
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "text": "A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football's ultras and the mafia.",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 03:41:58 +0000",
+      "published_at": "Sun, 11 Oct 2026 14:05:14 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-          "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 03:41:58 +0000"
+          "title": "The Mafia Football Murders | True Crime Reports",
+          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:05:14 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "4171248871fbd4a79aecedc7",
-      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-      "text": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "id": "a9383015a7253d757b681870",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "text": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 03:13:53 +0000",
+      "published_at": "Sun, 11 Oct 2026 14:04:32 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 03:13:53 +0000"
+          "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+          "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 14:04:32 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c0755e85057426a92485dcb6",
+      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+      "text": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+      "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 13:41:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+          "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 13:41:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "67ccfc762e6f5377a4cf66b8",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "text": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pope Leo to have surgery after lump found on lung",
+          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 13:38:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8f73d26a4e8273a890859874",
+      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+      "text": "India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 13:34:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 13:34:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "871a446795f986283bc4cf4e",
+      "title": "India’s crackdown on youth protesters: What next?",
+      "text": "India's 'cockroach' movement and student groups have said protests will continue despite detentions.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 13:06:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India’s crackdown on youth protesters: What next?",
+          "url": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 13:06:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dee1862c3569f1f05fdbd7e4",
+      "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
+      "text": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:40:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:40:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b0686bacb521a1e93369bb7e",
+      "title": "Wildlife park remains closed after fatal tiger attack",
+      "text": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 12:38:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Wildlife park remains closed after fatal tiger attack",
+          "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 12:38:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9227c31bd9f049500013840f",
+      "title": "Meet the man helping India’s detained protesters get home",
+      "text": "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:36:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Meet the man helping India’s detained protesters get home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:36:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56b4436c854e7115081a8d60",
+      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+      "text": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:28:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:28:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "77337e92684e035259d6b218",
+      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
+      "text": "Russian research reveals that the protein brazzein could help reduce blood sugar spikes.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:23:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
+          "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:23:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ccc6637baf1d42561828364d",
+      "title": "Liverpool vs Man City live: Premier League",
+      "text": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:20:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Liverpool vs Man City live: Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:20:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "da8c668b93c59040db294161",
+      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+      "text": "Security officials hold emergency meeting after police receive information about potential attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:09:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+          "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:09:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1f96585bf8e5ef081b24541f",
+      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+      "text": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign.",
+      "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 12:04:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 12:04:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f869cdd7b72f6266702c00bf",
+      "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
+      "text": "The first minister says he has confidence in his transport secretary, who denies being briefed about the ferry incident.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 11:43:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 11:43:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f00f82d5a9da2327d58a1f1a",
+      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+      "text": "US President Donald Trump told his supporters they would applaud anything he says.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 11:42:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 11:42:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c0858cacbc9dcce49a4b47df",
+      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+      "text": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 11:34:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 11:34:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8eddda332bb4665be6897e89",
+      "title": "The scramble to rewrite Biden’s record on Gaza",
+      "text": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 11:29:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "The scramble to rewrite Biden’s record on Gaza",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 11:29:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ca1bb81244dfa0407c1819bd",
+      "title": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
+      "text": "Salah becomes first player with 10 goal contributions, seven goals and three assists after Trabzonspor beat Samsunspor.",
+      "url": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 10:48:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 10:48:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "928081d8e4c2a664e723c307",
+      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+      "text": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 10:45:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+          "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 10:45:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "697d01c90a490c5d17c4f398",
+      "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+      "text": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 10:42:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 10:42:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5700a487b7f625e6bb968dd2",
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "text": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+      "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 10:34:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Buildings swept away as flash floods hit central Nepal",
+          "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 10:34:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8d0d6b25d7e0825794f08c73",
+      "title": "Modi is in trouble",
+      "text": "The CJP protests sweeping through the country have exposed India’s hollowed-out democracy.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 10:31:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Modi is in trouble",
+          "url": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 10:31:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "569cd35242fcacee72a65df9",
+      "title": "Man, 36, arrested six years on from double murder",
+      "text": "Junior Ajose, 36, and Cheriff Tall, 21, were gunned down at a lockdown party six years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 09:52:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man, 36, arrested six years on from double murder",
+          "url": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 09:52:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4008a27dc7463094cdc82090",
+      "title": "Northern Lights dazzle skies across the UK",
+      "text": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 09:18:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Northern Lights dazzle skies across the UK",
+          "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 09:18:05 GMT"
         }
       ],
       "cross_checked": false,
@@ -422,158 +758,6 @@
           "title": "Why are so many four-year-olds not potty-trained before school?",
           "url": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 11 Oct 2026 02:33:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42328ae8e1b76c48c76cc683",
-      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "text": "Trump denounces 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's offensive on the Houthis.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 02:12:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-          "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 02:12:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d186962ba6b1784dbcfc819e",
-      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-      "text": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 01:59:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 01:59:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d613db04b53f99c4fe4e2dc4",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "text": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 01:41:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 01:41:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "342f2fd10a707ad98e318d11",
-      "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-      "text": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire'.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 01:11:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 01:11:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "04657bdf0a953f2e47714bd7",
-      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-      "text": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 01:02:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 01:02:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "35ffdda17548f960befe2a09",
-      "title": "UK launches flood taskforce to prepare for extreme winter weather",
-      "text": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
-      "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 00:44:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK launches flood taskforce to prepare for extreme winter weather",
-          "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 00:44:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f3ae46c69845beb042b0b619",
-      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-      "text": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 00:23:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-          "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 00:23:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bd78bbbab642dc7c7ce23354",
-      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-      "text": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 00:00:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 00:00:13 +0000"
         }
       ],
       "cross_checked": false,
@@ -675,63 +859,6 @@
       "conflict": false
     },
     {
-      "id": "e4670e135459424420cfec7c",
-      "title": "MPs seek to overturn ruling that stops police being sued for failings",
-      "text": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 23:04:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "MPs seek to overturn ruling that stops police being sued for failings",
-          "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 23:04:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7ab6eff9dc48ea07d1a39f8c",
-      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
-      "text": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 22:43:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 22:43:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bb413157c1af2e915d9e6767",
-      "title": "WHO says no plague case registered after Russian lab worker’s death",
-      "text": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 22:34:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "WHO says no plague case registered after Russian lab worker’s death",
-          "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 22:34:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "5370b0b143f6428559855153",
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
       "text": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
@@ -751,198 +878,8 @@
       "conflict": false
     },
     {
-      "id": "84db7b91b593070ce4033841",
-      "title": "Yemeni government’s military says its forces advancing against Houthis",
-      "text": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 22:12:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemeni government’s military says its forces advancing against Houthis",
-          "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 22:12:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2840053b6560daad276a27cc",
-      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-      "text": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 21:40:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 21:40:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b6710db375c4b25c2d607a4d",
-      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-      "text": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 21:12:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-          "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 21:12:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "58f7aaa63e17d82ddfcf957e",
-      "title": "Malawi motorists queue for days as fuel shortage bites",
-      "text": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 21:10:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Malawi motorists queue for days as fuel shortage bites",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 21:10:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2301c2393cbbe33f9b400a4b",
-      "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-      "text": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 20:58:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 20:58:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4008a27dc7463094cdc82090",
-      "title": "Northern Lights stun UK down to England's south coast",
-      "text": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-      "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 20:57:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Northern Lights stun UK down to England's south coast",
-          "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 20:57:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "acbe2a3fc941b86e00583a1a",
-      "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
-      "text": "It couldn't happen again could it? Another failure to beat 10 men increases pressure on Man Utd boss Michael Carrick after a 1-1 draw against Tottenham Hotspur.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 20:54:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Boos, anguish & fading belief -'worrying day' for under-pressure Carrick",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 20:54:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "27fd11cfc2bb614fa93495cc",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "text": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 18:22:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-          "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 18:22:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eb05aec413aec7bdca0c25b5",
-      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-      "text": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 17:46:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 17:46:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cd95a0b2b3e1bf45c23d57e7",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "text": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 17:44:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 17:44:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d1393847d60843a6f0ed6803",
-      "title": "South Africa reply to Australia's 390 - first Test scorecard",
+      "title": "Australia in strong position against South Africa - first Test scorecard",
       "text": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
       "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -951,7 +888,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "South Africa reply to Australia's 390 - first Test scorecard",
+          "title": "Australia in strong position against South Africa - first Test scorecard",
           "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 00:00:00 GMT"
         }
