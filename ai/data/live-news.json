@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T01:52:48.879459+00:00",
-  "source_count": 58,
-  "story_count": 56,
+  "generated_at": "2026-10-11T08:49:33.081650+00:00",
+  "source_count": 54,
+  "story_count": 53,
   "documents": [
     {
       "id": "9f1df91d320227766efdf2cf",
@@ -16,38 +16,13 @@
           "source": "BBC",
           "title": "Man dies after tiger attack at wildlife park",
           "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 01:05:37 GMT"
+          "published_at": "Sun, 11 Oct 2026 06:58:54 GMT"
         },
         {
           "source": "Al Jazeera",
           "title": "Man dies after entering tiger enclosure at England wildlife park",
           "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
           "published_at": "Sun, 11 Oct 2026 01:16:18 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
-    {
-      "id": "88b966149f49b2e2c30a44b7",
-      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-      "text": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 11 Oct 2026 01:02:07 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 00:21:52 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-          "published_at": "Sun, 11 Oct 2026 01:02:07 +0000"
         }
       ],
       "cross_checked": true,
@@ -73,25 +48,6 @@
       "conflict": false
     },
     {
-      "id": "dd2e58ca002a1ea0cf39a551",
-      "title": "How student went from YouTube to Bake Off",
-      "text": "A Birmingham student in the Channel 4 show taught himself after \"stumbling across a YouTube video\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg905xk4zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 07 Oct 2026 05:08:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How student went from YouTube to Bake Off",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg905xk4zjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 07 Oct 2026 05:08:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2d717971f0643a9bb31c86f3",
       "title": "Brad Pitt stars as a tank commander on a dangerous mission in WWII",
       "text": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action",
@@ -111,57 +67,399 @@
       "conflict": false
     },
     {
-      "id": "f0725273e81d963bd6d33a0d",
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-      "text": "Why a growing number of parents are opening pensions for their children.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "id": "cd81fa575075e484f3e10980",
+      "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+      "text": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 06 Oct 2026 08:16:11 GMT",
+      "published_at": "Tue, 06 Oct 2026 23:31:52 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-          "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 06 Oct 2026 08:16:11 GMT"
+          "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 06 Oct 2026 23:31:52 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "c4595d18154b012f9391ea76",
-      "title": "Scotland's 'Chornobyl' housing scheme takes starring role in new horror film",
-      "text": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 06 Oct 2026 04:57:00 GMT",
+      "id": "cfff84238f2fed4590cab7f8",
+      "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+      "text": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 08:32:06 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Scotland's 'Chornobyl' housing scheme takes starring role in new horror film",
-          "url": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 06 Oct 2026 04:57:00 GMT"
+          "source": "Al Jazeera",
+          "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+          "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 08:32:06 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "599b0441abd44d58d1f5cea7",
-      "title": "'My donated Brummie accent gives me confidence'",
-      "text": "Christian Wilson wanted help not to \"sound like a character from Star Wars or a cyborg from Doctor Who\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6n25vlelqo?at_medium=RSS&at_campaign=rss",
+      "id": "2acea04dd0b054b98885883d",
+      "title": "What the Iran war has done to the world’s energy supply, in charts",
+      "text": "Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 08:22:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What the Iran war has done to the world’s energy supply, in charts",
+          "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 08:22:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6c1b82efc1ba38839c54e881",
+      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "text": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 08 Oct 2026 12:32:16 GMT",
+      "published_at": "Sun, 11 Oct 2026 08:19:52 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'My donated Brummie accent gives me confidence'",
-          "url": "https://www.bbc.co.uk/news/articles/cwq6n25vlelqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 08 Oct 2026 12:32:16 GMT"
+          "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 08:19:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1d1671b02697a6aa1d6cc18e",
+      "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
+      "text": "Pledge comes days before Mukesh Ambani's low-cost Reliance Jio's parent launches India's largest-ever IPO.",
+      "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 07:57:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
+          "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 07:57:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "46509b949e6f902d886e0ed4",
+      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+      "text": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 07:39:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 07:39:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c77f7654f8e2252c0005f74a",
+      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "text": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 07:10:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+          "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 07:10:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9dd28d35228a4c824dd65fa4",
+      "title": "Flash flood sweeps away buildings in Nepal",
+      "text": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 06:34:31 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Flash flood sweeps away buildings in Nepal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 06:34:31 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "64ac5fae4f341fe9c1e38dd1",
+      "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+      "text": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.",
+      "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 05:57:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 05:57:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dc5714215dcf9e6ccfb3c005",
+      "title": "How genocidal war on Gaza is shaping Israel’s election",
+      "text": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 05:35:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How genocidal war on Gaza is shaping Israel’s election",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 05:35:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1d0d41edc0d9b19e1e6210ae",
+      "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
+      "text": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 05:27:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 05:27:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa744a2483116f9df79bc885",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "text": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US justice department investigates TV networks over Trump pool coverage",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 05:05:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "17d3e36842ff754283432129",
+      "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
+      "text": "The majority of the papers on Sunday are dominated by a man who was attacked by a tiger at a wildlife park near Doncaster.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 04:46:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 04:46:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5d33fa7ab8072953dfa7330e",
+      "title": "US opens antitrust probe into TV networks for halting Trump coverage",
+      "text": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 04:30:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US opens antitrust probe into TV networks for halting Trump coverage",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 04:30:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d0446d38578f2a138a55b386",
+      "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+      "text": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 04:28:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 04:28:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1474f6dcdb8e4fea68479bc4",
+      "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+      "text": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 04:10:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 04:10:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a6de24ef8a51cd23217425fc",
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "text": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 03:41:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+          "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 03:41:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4171248871fbd4a79aecedc7",
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "text": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 03:13:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 03:13:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "16b6505d9548f0841b603f25",
+      "title": "Why are so many four-year-olds not potty-trained before school?",
+      "text": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 11 Oct 2026 02:33:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why are so many four-year-olds not potty-trained before school?",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 11 Oct 2026 02:33:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42328ae8e1b76c48c76cc683",
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "text": "Trump denounces 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's offensive on the Houthis.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 02:12:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+          "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 02:12:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d186962ba6b1784dbcfc819e",
+      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+      "text": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 01:59:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 01:59:02 +0000"
         }
       ],
       "cross_checked": false,
@@ -206,19 +504,19 @@
       "conflict": false
     },
     {
-      "id": "aa744a2483116f9df79bc885",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "text": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 11 Oct 2026 00:49:17 GMT",
+      "id": "04657bdf0a953f2e47714bd7",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "text": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 11 Oct 2026 01:02:07 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "US justice department investigates TV networks over Trump pool coverage",
-          "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 11 Oct 2026 00:49:17 GMT"
+          "source": "Al Jazeera",
+          "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+          "published_at": "Sun, 11 Oct 2026 01:02:07 +0000"
         }
       ],
       "cross_checked": false,
@@ -226,7 +524,7 @@
     },
     {
       "id": "35ffdda17548f960befe2a09",
-      "title": "UK launch flood taskforce to prepare for extreme winter weather",
+      "title": "UK launches flood taskforce to prepare for extreme winter weather",
       "text": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
       "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -235,7 +533,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "UK launch flood taskforce to prepare for extreme winter weather",
+          "title": "UK launches flood taskforce to prepare for extreme winter weather",
           "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 11 Oct 2026 00:44:37 GMT"
         }
@@ -264,7 +562,7 @@
     },
     {
       "id": "bd78bbbab642dc7c7ce23354",
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
       "text": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "source": "Al Jazeera",
@@ -273,9 +571,28 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+          "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
           "published_at": "Sun, 11 Oct 2026 00:00:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f53530f3791d5e72d9a3caf2",
+      "title": "Young people are taking up bell-ringing to make connections",
+      "text": "Katie Anderson says making music with others is an antidote to screens and scrolling.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7zl1k2zgko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 04 Oct 2026 06:23:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Young people are taking up bell-ringing to make connections",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7zl1k2zgko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 04 Oct 2026 06:23:09 GMT"
         }
       ],
       "cross_checked": false,
@@ -320,27 +637,8 @@
       "conflict": false
     },
     {
-      "id": "40239b0cd50b7f1e7407f476",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "text": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 23:19:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 23:19:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "824955e2bf8949dac970cef8",
-      "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
       "text": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
       "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -349,7 +647,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+          "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
           "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 23:18:16 GMT"
         }
@@ -359,7 +657,7 @@
     },
     {
       "id": "384cfaa5107ec8e9f854be34",
-      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
       "text": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
       "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -368,7 +666,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+          "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
           "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 23:17:03 GMT"
         }
@@ -378,7 +676,7 @@
     },
     {
       "id": "e4670e135459424420cfec7c",
-      "title": "Bid to overturn ruling which stops police being sued for failings",
+      "title": "MPs seek to overturn ruling that stops police being sued for failings",
       "text": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
       "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -387,7 +685,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Bid to overturn ruling which stops police being sued for failings",
+          "title": "MPs seek to overturn ruling that stops police being sued for failings",
           "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 23:04:37 GMT"
         }
@@ -529,44 +827,6 @@
       "conflict": false
     },
     {
-      "id": "b5810412886fa3a8a831ef62",
-      "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-      "text": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 21:10:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-          "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 21:10:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dcc2b8f8d419136fa37aba01",
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "text": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 21:02:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-          "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 21:02:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2301c2393cbbe33f9b400a4b",
       "title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
       "text": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
@@ -624,234 +884,6 @@
       "conflict": false
     },
     {
-      "id": "8f2547a7b377952c3a988765",
-      "title": "Damage seen inside Saudi airport after third attack this week",
-      "text": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 20:43:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Damage seen inside Saudi airport after third attack this week",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 20:43:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "242738c1a8c9068c99092632",
-      "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-      "text": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 20:37:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 20:37:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "960efc162fe4a416c74b5901",
-      "title": "Rubio pledges US cooperation in Marine-linked murder case",
-      "text": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 20:30:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio pledges US cooperation in Marine-linked murder case",
-          "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 20:30:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2204dd32a34aa9450f5859d4",
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-      "text": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 20:14:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 20:14:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9cfd13881f5ffa9e5ddc83e5",
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
-      "text": "The US has imposed sweeping new sanctions on the International Criminal Court.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:59:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why is the Trump administration trying to dismantle the ICC?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:59:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0f5f285e41cc414cba7aa09d",
-      "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-      "text": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:59:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:59:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "52eb7e79785b98d26f2829e2",
-      "title": "Azerbaijan school pupils protest over reported hijab restrictions",
-      "text": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:49:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Azerbaijan school pupils protest over reported hijab restrictions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:49:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9f899092c7de7d3a61263a70",
-      "title": "Manchester United held by ten-man Tottenham as woes for both continue",
-      "text": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:47:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester United held by ten-man Tottenham as woes for both continue",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:47:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f57d295e9a4a993db42ad79c",
-      "title": "Trump says Ukraine needs a new president who will agree to end the war",
-      "text": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:32:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Ukraine needs a new president who will agree to end the war",
-          "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:32:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c86e1343169559375875ab1f",
-      "title": "Barcelona beat Getafe as Gordon scores his first goal",
-      "text": "Barcelona make it six wins from six with a 3-0 win against Getafe as Anthony Gordon scores his first goal for club.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:26:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Barcelona beat Getafe as Gordon scores his first goal",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:26:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "563d1e45f16deccf0709808c",
-      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-      "text": "Portugal star Cristiano Ronaldo suspended by his country's football association for walkout during Nations League games.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 19:23:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 19:23:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "db5fcfa611674d2a0a91b451",
-      "title": "Trump calls for new president in Ukraine",
-      "text": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 10 Oct 2026 18:50:23 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump calls for new president in Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-          "published_at": "Sat, 10 Oct 2026 18:50:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "27fd11cfc2bb614fa93495cc",
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
       "text": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
@@ -865,25 +897,6 @@
           "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
           "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 10 Oct 2026 18:22:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3f24aa916aa65b8fccf9625d",
-      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
-      "text": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
-      "url": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 18:09:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
-          "url": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 18:09:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -928,133 +941,19 @@
       "conflict": false
     },
     {
-      "id": "a58b5f2a506d15cdc6c40dca",
-      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-      "text": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+      "id": "d1393847d60843a6f0ed6803",
+      "title": "South Africa reply to Australia's 390 - first Test scorecard",
+      "text": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 17:07:02 GMT",
+      "published_at": "Sat, 10 Oct 2026 00:00:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 17:07:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64c2ca48356c13514438df00",
-      "title": "Northampton outgun Bath in 119-point thriller",
-      "text": "Northampton win a high-octane 18-try thriller at home to Bath, the second highest-scoring game in English top-flight history.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 16:07:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Northampton outgun Bath in 119-point thriller",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 16:07:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bee9e895b24279e6c329d6fb",
-      "title": "King warns malicious online actors are evolving tactics",
-      "text": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 15:56:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "King warns malicious online actors are evolving tactics",
-          "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 15:56:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64dfbef226a3926a5672a26e",
-      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-      "text": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 15:44:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 15:44:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "95806dbd949a0b09367d4a38",
-      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-      "text": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 14:27:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-          "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 14:27:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "26d742526a067030a085dd8f",
-      "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-      "text": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
-      "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 11:09:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-          "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 11:09:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "167d0cdc76e9096617b0887d",
-      "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
-      "text": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 10 Oct 2026 09:17:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 10 Oct 2026 09:17:36 GMT"
+          "title": "South Africa reply to Australia's 390 - first Test scorecard",
+          "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 10 Oct 2026 00:00:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -1074,6 +973,44 @@
           "title": "Does Zack Polanski Face A Leadership Crisis?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pf3l61?at_mid=JDfA1DNlxJ&at_campaign=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Does_Zack_Polanski_Face_A_Leadership_Crisis_news_rail&at_bbc_team=BBC&at_creation=News",
           "published_at": "Sat, 03 Oct 2026 00:00:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "08c022d698a9a23fe5a31314",
+      "title": "Historic cathedral introduces £12 fee for visitors from outside Scotland",
+      "text": "St Giles' Cathedral now charges an entrance fee for visitors from outside Scotland.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxw88ndzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 05 Oct 2026 14:09:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Historic cathedral introduces £12 fee for visitors from outside Scotland",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxw88ndzjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 05 Oct 2026 14:09:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b84bc6f72f8c346e5748cc99",
+      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+      "text": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 09 Oct 2026 13:01:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+          "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 09 Oct 2026 13:01:57 GMT"
         }
       ],
       "cross_checked": false,
