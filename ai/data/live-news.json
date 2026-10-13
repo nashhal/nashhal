@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-10-12T22:58:46.219110+00:00",
-  "source_count": 57,
+  "generated_at": "2026-10-13T03:33:31.075843+00:00",
+  "source_count": 56,
   "story_count": 56,
   "documents": [
-    {
-      "id": "c40d642c3403e370da0916e5",
-      "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
-      "text": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 22:05:31 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 22:05:31 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 19:37:11 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -42,6 +17,462 @@
           "title": "BBC News app",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9e03930a6513f8cb9d94e67b",
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "text": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 03:14:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 03:14:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "69949191b14bc670d30dee50",
+      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+      "text": "Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 03:11:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 03:11:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9b5150315af60c6eb7bfd4fe",
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "text": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 03:01:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 03:01:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9501ae8d9bca7638fa0a32c9",
+      "title": "Military police prevented from following evidence in SAS murder probe, inquiry hears",
+      "text": "Military police investigator tells an inquiry that the probe into suspected murders was \"dictated\" from above.",
+      "url": "https://www.bbc.co.uk/news/articles/c94g12rl57l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 02:54:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Military police prevented from following evidence in SAS murder probe, inquiry hears",
+          "url": "https://www.bbc.co.uk/news/articles/c94g12rl57l0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 02:54:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a1f849e5530f1b82546da68f",
+      "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
+      "text": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in 'large-scale' cyberattack.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 02:37:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
+          "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 02:37:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cf7d8c25c889146289da9b87",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "text": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 02:26:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 02:26:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0b28be7298fc2a3b734a6a9f",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "text": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 01:50:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 01:50:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "be806ba5af4aaa5612c8a805",
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "text": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 01:46:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+          "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 01:46:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "098c321d3875583b3b0cdb19",
+      "title": "Why the prime minister wants to talk about Brexit again",
+      "text": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 01:27:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why the prime minister wants to talk about Brexit again",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 01:27:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0202ae2f375421a155ade9ba",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "text": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 01:26:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 01:26:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dfb25b1fe23465b12164bf1c",
+      "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+      "text": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 01:13:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+          "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 01:13:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8cd0e128e6ed1bf21f78a0fb",
+      "title": "The Papers: 'Burnham ready to sign new EU deal' and 'Hand of Gord'",
+      "text": "Many of today's papers cover the PM's comments on Brexit and the Daily Star writes of an alleged exorcism.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg51v2135jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 00:51:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Burnham ready to sign new EU deal' and 'Hand of Gord'",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg51v2135jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 00:51:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b688516fd7fad9e37ecbb09e",
+      "title": "NHS staff get 'landmark' payout over gas exposure",
+      "text": "The settlement follows the largest group legal action brought by midwives in the UK, says union.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1071n0ygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 00:22:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "NHS staff get 'landmark' payout over gas exposure",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1071n0ygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 00:22:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b6816a9ab95b4279eaacf5c0",
+      "title": "I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams",
+      "text": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 00:14:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 00:14:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "16b45dda4b6dc08619388264",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "text": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 00:12:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 00:12:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a5f1cb7e7d152acd74fbe503",
+      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "text": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c3329d127902a5de79fc5fac",
+      "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+      "text": "Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 12 Oct 2026 23:54:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+          "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+          "published_at": "Mon, 12 Oct 2026 23:54:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "82fbdd27e64a27c45387f141",
+      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "text": "Meeting travellers' expectations could be challenging, experts warn.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 12 Oct 2026 23:37:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+          "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 12 Oct 2026 23:37:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "86a1662993d6cb98a08ef6c9",
+      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+      "text": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 12 Oct 2026 23:35:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+          "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 12 Oct 2026 23:35:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "737ae1d18b23e7651c850ca2",
+      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+      "text": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 12 Oct 2026 23:09:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+          "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+          "published_at": "Mon, 12 Oct 2026 23:09:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f6812c397142157e482fdb3e",
+      "title": "US archbishop says Catholics in army should not participate in firing squad",
+      "text": "Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker's execution is contrary to church teachings.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 12 Oct 2026 23:05:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US archbishop says Catholics in army should not participate in firing squad",
+          "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+          "published_at": "Mon, 12 Oct 2026 23:05:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a8dcae6b1c52ec2bfedfa6b4",
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "text": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 12 Oct 2026 23:02:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Heating oil customers face tough winter despite shake-up promise",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 12 Oct 2026 23:02:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f6f4389fe2f6f6ced3b618da",
+      "title": "I earn £120,000 a year making social media videos go viral",
+      "text": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 12 Oct 2026 23:01:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "I earn £120,000 a year making social media videos go viral",
+          "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 12 Oct 2026 23:01:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ba28b2cef394448cf7a8eabe",
+      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+      "text": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 12 Oct 2026 22:44:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+          "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+          "published_at": "Mon, 12 Oct 2026 22:44:00 +0000"
         }
       ],
       "cross_checked": false,
@@ -80,25 +511,6 @@
           "title": "Who has made Troy's Premier League team of the week?",
           "url": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 12 Oct 2026 22:25:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "16b45dda4b6dc08619388264",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "text": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 22:24:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Breaking Bad actor RJ Mitte dies aged 34",
-          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 22:24:11 GMT"
         }
       ],
       "cross_checked": false,
@@ -238,25 +650,6 @@
       "conflict": false
     },
     {
-      "id": "4725a39aeee2a5e75254c261",
-      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "text": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 21:07:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 21:07:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c6aa3c711b2d747b1e528cbd",
       "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
       "text": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
@@ -270,63 +663,6 @@
           "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
           "url": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 12 Oct 2026 21:05:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "50ecb1bc610f70c60f9e8de6",
-      "title": "Qantas flight grounded after bedbug outbreak",
-      "text": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 21:01:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Qantas flight grounded after bedbug outbreak",
-          "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 21:01:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "86a1662993d6cb98a08ef6c9",
-      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
-      "text": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 20:59:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US actress Selma Blair accused of assault after incident with flight attendants",
-          "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 20:59:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0202ae2f375421a155ade9ba",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "text": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 20:54:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 20:54:09 GMT"
         }
       ],
       "cross_checked": false,
@@ -365,25 +701,6 @@
           "title": "South Africa deputy police chief resigns amid sex offence charges",
           "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
           "published_at": "Mon, 12 Oct 2026 20:43:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8e6d2a07fa9c13d91ddcfdff",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "text": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 20:17:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 20:17:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -485,6 +802,25 @@
       "conflict": false
     },
     {
+      "id": "4c10bea3f4f10cedf82a8990",
+      "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
+      "text": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 12 Oct 2026 19:37:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+          "published_at": "Mon, 12 Oct 2026 19:37:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "09862a7d2a54c29afaa82ec1",
       "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
       "text": "NATO commander issues warning as European officials have called for vigilance over potential Russian attacks.",
@@ -544,7 +880,7 @@
     {
       "id": "9c40913be05fc70d5c58d1ae",
       "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-      "text": "Iran’s ambassador tells UK officials Tehran willing to assist in investigation, reiterates denial of involvement.",
+      "text": "Tehran 'categorically denies' UK allegation, says it's willing to assist in probe into suspected plot at RAF Fairford.",
       "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Mon, 12 Oct 2026 18:51:18 +0000",
@@ -599,25 +935,6 @@
       "conflict": false
     },
     {
-      "id": "f01b2978388106ae470bb299",
-      "title": "French supermarket fridges heated up in 'unprecedented' cyber attack",
-      "text": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 18:31:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "French supermarket fridges heated up in 'unprecedented' cyber attack",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 18:31:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "fe28d6108b71d801c4c8070d",
       "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
       "text": "UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
@@ -631,101 +948,6 @@
           "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
           "published_at": "Mon, 12 Oct 2026 18:24:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e84ebba5b917a9e8b9c1bd05",
-      "title": "Egypt’s press union chief rejects pressure over detained journalists",
-      "text": "Six journalists from independent platform Matsadaash allege torture in detention, which Egypt denies.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 18:21:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Egypt’s press union chief rejects pressure over detained journalists",
-          "url": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 18:21:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6386d2ff0f97998339fa971c",
-      "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
-      "text": "Statement comes after criticism of Burnham's initial response ⁠to City being found guilty of serious financial breaches.",
-      "url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 18:15:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
-          "url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 18:15:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "72c4bd7f11738dde13cb4dde",
-      "title": "Stolen Renoir paintings found behind wall in France following arrests",
-      "text": "Renoir art heist suspects were planning 'imminent' second robbery, prosecutors say.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 18:10:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Stolen Renoir paintings found behind wall in France following arrests",
-          "url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 18:10:35 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "324acdbdcbfca2cd68b8ace4",
-      "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
-      "text": "Ethiopian Airlines resumed flights to Tigray's capital, Mekelle, on Sunday.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 18:01:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
-          "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 18:01:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a2be05a4d6827bab25c64ab1",
-      "title": "Zohran Mamdani orders use-of-force review for New York City police",
-      "text": "City spokesperson says the mayor's calls for reform are not connected to police response to an ICE shooting last week.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 17:50:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Zohran Mamdani orders use-of-force review for New York City police",
-          "url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 17:50:06 +0000"
         }
       ],
       "cross_checked": false,
@@ -751,25 +973,6 @@
       "conflict": false
     },
     {
-      "id": "f532fa9f64e3caad0e68a8eb",
-      "title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
-      "text": "In-form Atletico host struggling Man United as the Champions League returns for the second set of games.",
-      "url": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 17:39:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
-          "url": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 17:39:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f05f534c37e60134c9cdaab5",
       "title": "Burnham to push for new post-Brexit deals at EU summit",
       "text": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
@@ -789,101 +992,6 @@
       "conflict": false
     },
     {
-      "id": "c894be62aafa149a8081eef9",
-      "title": "India’s voter list changes sparks fresh protests",
-      "text": "A controversial voter roll revision has triggered fresh protests in New Delhi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 17:33:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India’s voter list changes sparks fresh protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 17:33:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "558c3af0c474e6320a298fbc",
-      "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-      "text": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 17:33:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 17:33:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "858cc4e280be482a25e2b853",
-      "title": "Katie Price 'really shocked' by ex-husband rape claims",
-      "text": "Price tells court she was \"really shocked\" to learn of allegations against ex-husband Kieran Hayler.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g101nlp2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 17:17:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Katie Price 'really shocked' by ex-husband rape claims",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g101nlp2no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 17:17:42 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4e2b01fe25df05bff67c9d1d",
-      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-      "text": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 17:07:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 17:07:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ac73d45b14051c6f7588b3fc",
-      "title": "Blast kills teenager, injures dozens in northern Israel",
-      "text": "A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 12 Oct 2026 16:44:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Blast kills teenager, injures dozens in northern Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-          "published_at": "Mon, 12 Oct 2026 16:44:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e73e3d88a419f11bec915e60",
       "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
       "text": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
@@ -897,25 +1005,6 @@
           "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
           "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 12 Oct 2026 16:28:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b9113652ea122a351be3184",
-      "title": "Health and safety inquiry after fatal tiger attack",
-      "text": "Yorkshire Wildlife Park remains shut after a man was fatally attacked by a tiger on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 15:16:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Health and safety inquiry after fatal tiger attack",
-          "url": "https://www.bbc.co.uk/news/articles/cv4g1d0wplz0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 15:16:08 GMT"
         }
       ],
       "cross_checked": false,
@@ -960,63 +1049,6 @@
       "conflict": false
     },
     {
-      "id": "18bfcc933495052065515c4e",
-      "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-      "text": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
-      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 14:11:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-          "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 14:11:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5d259e1fe6649cc533524cd6",
-      "title": "Normandy veteran Henry Rice dies aged 100",
-      "text": "Henry Rice, from Cranleigh, Surrey, was a signalman who served off Normandy in the days after D-Day.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47kww9k7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 13:34:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Normandy veteran Henry Rice dies aged 100",
-          "url": "https://www.bbc.co.uk/news/articles/cmg47kww9k7no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 13:34:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4c526c05b1e70b0729d82518",
-      "title": "Schoolboy knife attacker texted 'sorry' to mum",
-      "text": "The mother of a boy accused of attempted murder at a high school gives evidence at his trial.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx28950p253o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 13:12:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Schoolboy knife attacker texted 'sorry' to mum",
-          "url": "https://www.bbc.co.uk/news/articles/cqx28950p253o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 13:12:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "cc1852ad81be8243caf0f8c4",
       "title": "Why is it so hard to fight the Houthis?",
       "text": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
@@ -1030,44 +1062,6 @@
           "title": "Why is it so hard to fight the Houthis?",
           "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 12 Oct 2026 12:15:01 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2e967a4aeacbdda9e2ef03c4",
-      "title": "What happens to sports kit that never gets worn?",
-      "text": "A look at kit wastage in elite sport and what is being done to reduce it.",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 05:18:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What happens to sports kit that never gets worn?",
-          "url": "https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 05:18:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "447d3e4e1e76c70c6ed66f43",
-      "title": "Halloween 'bigger than Christmas', say businesses",
-      "text": "From scare parks to pumpkin patches, Halloween is driving huge crowds and spending.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky4z58nr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 12 Oct 2026 05:14:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Halloween 'bigger than Christmas', say businesses",
-          "url": "https://www.bbc.co.uk/news/articles/cqrky4z58nr5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 12 Oct 2026 05:14:42 GMT"
         }
       ],
       "cross_checked": false,
