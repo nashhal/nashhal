@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-13T23:18:10.178055+00:00",
+  "generated_at": "2026-10-14T04:52:46.394363+00:00",
   "source_count": 55,
-  "story_count": 55,
+  "story_count": 53,
   "documents": [
+    {
+      "id": "3d1c46404e98367d72e00d66",
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "text": "The second-largest US bank faces record penalties for failing to comply with money laundering and sanctions laws.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:15:30 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 02:05:32 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+          "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 01:15:30 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
+    {
+      "id": "0fb42860e2b973359207bea6",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "text": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 19:51:14 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 19:51:14 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+          "url": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 23:42:57 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "BBC News app",
@@ -23,6 +73,538 @@
       "conflict": false
     },
     {
+      "id": "4fd26c6219bc2a6b5b5aac12",
+      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "text": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 04:27:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+          "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 04:27:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "47adf3ede27aed476360d4a4",
+      "title": "Singapore’s economy grows more than 5 percent amid AI boom",
+      "text": "City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
+      "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 04:25:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Singapore’s economy grows more than 5 percent amid AI boom",
+          "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 04:25:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5a74a6e15a171262bbccaec6",
+      "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+      "text": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 04:16:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 04:16:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6938f889ffd23e6d7a1d3601",
+      "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+      "text": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:57:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 03:57:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5c415a4489f83dcc3f092f50",
+      "title": "Israel returns 22 stolen ancient artefacts to Greece",
+      "text": "The cultural exchange comes amid strengthening ties between the two countries.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:23:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel returns 22 stolen ancient artefacts to Greece",
+          "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 03:23:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "44c65b7ad7992e52e5d21f2a",
+      "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "text": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:09:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 03:09:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a2bfe6c842eaa39f7790b8d5",
+      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "text": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:06:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 03:06:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "654d9eee0f98f616808802f8",
+      "title": "UN Human Rights Council elects 15 members in uncontested vote",
+      "text": "Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 02:55:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN Human Rights Council elects 15 members in uncontested vote",
+          "url": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 02:55:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "65c0153e35cb84702982039e",
+      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "text": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 02:45:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 02:45:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5d87fc1538d8007ad79d47dd",
+      "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+      "text": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:56:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 01:56:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "78cacf4e5c1ebf95ff645265",
+      "title": "Jamaica accepts first flight of third-country deportations from US",
+      "text": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:44:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jamaica accepts first flight of third-country deportations from US",
+          "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 01:44:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d4beade86f5781ff48bceac",
+      "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+      "text": "The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:43:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+          "url": "https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 01:43:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e10c1716c2dc981e71af1c6e",
+      "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
+      "text": "Wednesday's papers are dominated by coverage of a speech given by the MI5 chief and the death of a man in a tiger enclosure.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 01:26:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
+          "url": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 01:26:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c1a7d2170e25ca620bfcda45",
+      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "text": "Foot-and-mouth disease threatens livestock farmers’ livelihoods and disrupts meat supplies as authorities impose curbs.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:07:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+          "url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 01:07:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c94f4b21d21e5825685f73a2",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "text": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 00:59:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+          "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 00:59:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2f3938563ea2aae174b586da",
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "text": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:45:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 00:45:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "70207a15b7ec8560ee8f25c1",
+      "title": "How podcasts became political powerhouses",
+      "text": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:27:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How podcasts became political powerhouses",
+          "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 00:27:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4c4f3673e6e39a252ec6b393",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "text": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 00:17:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 00:17:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fb228f09fc697a1f6b35045b",
+      "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+      "text": "Emma Moore shares how creating a special place at home has helped her family.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 00:06:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 00:06:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09a2d2eb7bddf0f4327a57d7",
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "text": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1640abe948a7899bfe2fe804",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "text": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:58:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+          "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:58:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a237585083fb3cfcbedbea66",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "text": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:55:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+          "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:55:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2241e335a959dd9a92c326a5",
+      "title": "OpenAI engineer charged after listening device found in meeting room",
+      "text": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 23:55:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "OpenAI engineer charged after listening device found in meeting room",
+          "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+          "published_at": "Tue, 13 Oct 2026 23:55:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "13886302782508c84339630c",
+      "title": "Robot seized by German police after allegedly groping teenage girl",
+      "text": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:50:23 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Robot seized by German police after allegedly groping teenage girl",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:50:23 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "682415106c6cc7b9ba3c3400",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "text": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:42:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:42:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7db7adc856d449144d9bb0f6",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "text": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:26:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:26:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d4f2375d084377be7fd8ef69",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "text": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:04:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Is it OK for jobseekers or employers to use AI?",
+          "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:04:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9b0c771212c84272775a552b",
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "text": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 23:03:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Royal Mail losing 400 postal workers a week, says union",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 23:03:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "2feebd67ddc0233545d7f049",
       "title": "Saka responds to Arteta's challenge with 'huge impact'",
       "text": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
@@ -36,6 +618,25 @@
           "title": "Saka responds to Arteta's challenge with 'huge impact'",
           "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 13 Oct 2026 23:03:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09564b4ebb8307eb52ad3c96",
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+      "text": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 13 Oct 2026 22:59:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+          "url": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 22:59:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -118,25 +719,6 @@
       "conflict": false
     },
     {
-      "id": "723fdd12074bdad55a5d0a4d",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "text": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 22:29:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 22:29:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "31cc9279f5055123198b787a",
       "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
       "text": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
@@ -188,44 +770,6 @@
           "title": "US trial begins for Rwandan-American accused of role in genocide",
           "url": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
           "published_at": "Tue, 13 Oct 2026 22:15:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1640abe948a7899bfe2fe804",
-      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-      "text": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 22:07:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-          "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 22:07:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "41a8d90bf669e9140875c9cb",
-      "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
-      "text": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:59:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
-          "url": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:59:39 +0000"
         }
       ],
       "cross_checked": false,
@@ -289,424 +833,6 @@
       "conflict": false
     },
     {
-      "id": "04f66fc4debc705137956149",
-      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-      "text": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:25:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-          "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:25:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3281fb41172682c003adbf35",
-      "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
-      "text": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:24:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
-          "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:24:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7ee9babb3e5f56914117ea3c",
-      "title": "Vatican confirms Pope Leo’s surgery was successful",
-      "text": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:05:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Vatican confirms Pope Leo’s surgery was successful",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:05:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "634385cb58839773272b424c",
-      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
-      "text": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:04:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:04:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "07ce7d4bc28fcc300da3e1b4",
-      "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
-      "text": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 21:03:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 21:03:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bae2b1a5378f6e290f6b7229",
-      "title": "Couple and two children killed in arson attack named locally",
-      "text": "A \"multiple murder\" investigation has been launched by gardaí (Irish police) following the blaze.",
-      "url": "https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 21:02:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Couple and two children killed in arson attack named locally",
-          "url": "https://www.bbc.co.uk/news/articles/cq073814llkjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 21:02:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5e1531038b05274af939e77e",
-      "title": "Tupac Shakur killer sentenced to 40 years in prison",
-      "text": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 20:46:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tupac Shakur killer sentenced to 40 years in prison",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 20:46:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4c4f3673e6e39a252ec6b393",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "text": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 20:46:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 20:46:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6079e0310a451a48256e470f",
-      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-      "text": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 20:33:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 20:33:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b5534fa9077e1b42d4242e1d",
-      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-      "text": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 20:00:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-          "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 20:00:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fffe8fa9fde2cc812723644a",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "text": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 19:51:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-          "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 19:51:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d87b2f9e007f99359a7040a1",
-      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-      "text": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:40:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:40:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d73dc3021de576ce08ba2d81",
-      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-      "text": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:39:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-          "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:39:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f2f8cf2fd5d68ccedd4cb196",
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "text": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:33:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Houthis trying to increase oil prices before US elections",
-          "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:33:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ee232bfbdcab7153fc16b8ea",
-      "title": "Will NATO’s ‘theory of victory’ work?",
-      "text": "The alliance presents a common vision to deter adversaries.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:32:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Will NATO’s ‘theory of victory’ work?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:32:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "49630e13e95b7c44bcb06119",
-      "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-      "text": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:24:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:24:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3bb4e3718ecf4e7ff84cea01",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "text": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 19:23:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-          "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 19:23:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "084a0ca4df680bb662533619",
-      "title": "EU watchdog urges smart glasses to clearly signal when recording",
-      "text": "Advisory comes amid growing concern about the devices being used to secretly record girls and women.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 19:11:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "EU watchdog urges smart glasses to clearly signal when recording",
-          "url": "https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 19:11:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "20312f96d59bedfbbd6afbb9",
-      "title": "Russia arrests Japanese reporter for alleged espionage",
-      "text": "Suspect was arrested on Russia's far-eastern Sakhalin Island before being transferred to Moscow, says Russia's FSB.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 18:49:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia arrests Japanese reporter for alleged espionage",
-          "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 18:49:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c73635660e8e3ae5b9be0ebb",
-      "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
-      "text": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 18:45:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
-          "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 18:45:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1fe093ad220b7775ea5cb0b7",
-      "title": "Who killed Tupac?",
-      "text": "For decades, Tupac Shakur’s murder remained unsolved. Now, Duane Davis has been sentenced 40 years for his killing.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 18:44:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Who killed Tupac?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 18:44:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c4b14aa45422c390a57e4152",
-      "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-      "text": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 13 Oct 2026 18:42:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
-          "url": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
-          "published_at": "Tue, 13 Oct 2026 18:42:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a60ef15e42ee33d723d5ce2e",
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "text": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
@@ -745,44 +871,6 @@
       "conflict": false
     },
     {
-      "id": "01be0e5eb75cbb57e45312de",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "text": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 17:36:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-          "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 17:36:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cf7d8c25c889146289da9b87",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at US amusement park",
-      "text": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 17:10:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Horrified witnesses recount fatal rollercoaster incident at US amusement park",
-          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 17:10:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "97d663ee1e040cd56b7a318b",
       "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
       "text": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
@@ -796,25 +884,6 @@
           "title": "Russia did try to interfere with Brexit vote but had little impact, MI5 chief says",
           "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 13 Oct 2026 17:06:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a68718034a2d8fb36a3a9d9e",
-      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-      "text": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 17:04:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-          "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 17:04:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -897,25 +966,6 @@
       "conflict": false
     },
     {
-      "id": "f6f4389fe2f6f6ced3b618da",
-      "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
-      "text": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 15:12:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
-          "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 15:12:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "5ed7886cd630b0e793e86533",
       "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
       "text": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
@@ -954,25 +1004,6 @@
       "conflict": false
     },
     {
-      "id": "8fbcb34bf24eac7d5b187dbd",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "text": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 13:27:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-          "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 13:27:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1697c0accd91f236677afa10",
       "title": "Three things we've learnt about the UK economy from the IMF",
       "text": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
@@ -986,63 +1017,6 @@
           "title": "Three things we've learnt about the UK economy from the IMF",
           "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 13 Oct 2026 11:58:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "157b5c5b02cd66606f36340a",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "text": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 05:02:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 05:02:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "098c321d3875583b3b0cdb19",
-      "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-      "text": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 01:27:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-          "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 01:27:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b6816a9ab95b4279eaacf5c0",
-      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-      "text": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 00:14:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 00:14:20 GMT"
         }
       ],
       "cross_checked": false,
