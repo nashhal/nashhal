@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T10:11:54.764357+00:00",
-  "source_count": 57,
-  "story_count": 57,
+  "generated_at": "2026-10-14T15:08:27.461271+00:00",
+  "source_count": 60,
+  "story_count": 60,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -23,19 +23,361 @@
       "conflict": false
     },
     {
-      "id": "11f619156f4570458ba84b0b",
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "text": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "id": "bca564c10cb39fa6ac490a52",
+      "title": "Saudi national charged with planting a listening device at OpenAI offices",
+      "text": "US FBI said Abdulrahman Alfozan was engineer at the tech giant from June 2025.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 14:39:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi national charged with planting a listening device at OpenAI offices",
+          "url": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 14:39:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eea538c903cccf0e04e9eb72",
+      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "text": "Ukraine's Western allies are using maritime law to inspect Russian shadow tankers.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 14:38:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+          "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 14:38:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97f16b0026da75a76412e9e4",
+      "title": "What is potash, and why is the US importing it from Belarus?",
+      "text": "US reliance on Canadian potash, a key fertiliser mineral, adds to farmers' cost concerns amid trade tensions.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 14:36:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What is potash, and why is the US importing it from Belarus?",
+          "url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 14:36:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b457c22c5e4112a413495648",
+      "title": "'Dark day for Lewis' as one fisherman dead and two missing",
+      "text": "The alarm was raised after the men's fishing boat failed to return as planned to Lewis.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx720r577o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 10:07:02 GMT",
+      "published_at": "Wed, 14 Oct 2026 14:33:16 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Turkish police raid opposition TV station, halting live broadcasts",
-          "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 10:07:02 GMT"
+          "title": "'Dark day for Lewis' as one fisherman dead and two missing",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgx720r577o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 14:33:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c99e08e1ba34cf57b97a1510",
+      "title": "Burnham careful before Zelensky meeting but promises Ukraine won't leave 'empty handed'",
+      "text": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 14:30:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham careful before Zelensky meeting but promises Ukraine won't leave 'empty handed'",
+          "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 14:30:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "83d873b0972c520346a04959",
+      "title": "Watkins replaces injured Smithies in England squad",
+      "text": "Kallum Watkins is called up as a late replacement to England's Rugby League World Cup squad after Morgan Smithies is forced to withdraw through injury.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmewed1rgndro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 14:11:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watkins replaces injured Smithies in England squad",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmewed1rgndro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 14:11:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9bc7111ff86bb9278062cacf",
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "text": "Palestinian officials slam move by Colombian government that marked major shift after ex-president had cut Israel ties.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 14:08:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+          "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 14:08:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "591d0c6eb7297a4c09f6dd08",
+      "title": "Two scenarios for the Yemen war",
+      "text": "What comes next is either a retreat for the Houthis or a war of attrition.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:50:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Two scenarios for the Yemen war",
+          "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:50:28 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b114b0162d6fb9682a29a921",
+      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+      "text": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:45:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:45:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9038a5a2b3bc61db8396b6e8",
+      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+      "text": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:42:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:42:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "682415106c6cc7b9ba3c3400",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "text": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:41:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:41:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "96faa508b0e30813b50f2c74",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "text": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:40:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:40:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "24a07499117480c5981029ea",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "text": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:35:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+          "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:35:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5bb3ea07d65a3bf3cbcac729",
+      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+      "text": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:28:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:28:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "839cea1524e53f9f81a409f0",
+      "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+      "text": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 13:25:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 13:25:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7f0b3ba7db19f4099c56fcda",
+      "title": "How AI apps are offering free substitutes for Big Tech software",
+      "text": "AI-developed ArtCraft is challenging Adobe after disrupting legacy software's economic model.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:25:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How AI apps are offering free substitutes for Big Tech software",
+          "url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:25:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ddc68ef3695af492b6846d09",
+      "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+      "text": "A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:22:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:22:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b4bd9218c7d49a9ac7bd5bf5",
+      "title": "What we know about OpenAI engineer arrested over office spying",
+      "text": "Saudi OpenAI employee was arrested over allegations he planted a hidden device to record sensitive company conversations",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:18:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What we know about OpenAI engineer arrested over office spying",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:18:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "81f57880eb0a8658f73a086d",
+      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+      "text": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 13:17:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+          "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 13:17:34 +0000"
         }
       ],
       "cross_checked": false,
@@ -43,18 +385,531 @@
     },
     {
       "id": "38baf772a938d90fba61ad45",
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "text": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "text": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 10:04:28 GMT",
+      "published_at": "Wed, 14 Oct 2026 13:11:17 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
           "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 10:04:28 GMT"
+          "published_at": "Wed, 14 Oct 2026 13:11:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0cef1c3a21c45a444cb7b3a7",
+      "title": "Man City’s appeal over 114 charges to be heard by January, regulator says",
+      "text": "Manchester City have contested the guilty verdict, and the appeal will be heard by mid-January or the end of January.",
+      "url": "https://www.aljazeera.com/sports/2026/10/14/manchester-city-appeal-over-charges-to-be-heard-by-january-says-regulator?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 12:52:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Man City’s appeal over 114 charges to be heard by January, regulator says",
+          "url": "https://www.aljazeera.com/sports/2026/10/14/manchester-city-appeal-over-charges-to-be-heard-by-january-says-regulator?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 12:52:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0e835e5bd9d0fef495b9d71e",
+      "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "text": "Saudi Arabia's East-West oil pipeline was struck by drones last month in an attack that originated in Iraq.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 12:50:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 12:50:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c805f95cd6b31ec1d87fa392",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "text": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:47:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+          "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:47:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1640abe948a7899bfe2fe804",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "text": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:44:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+          "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:44:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "63031f496b3d8a8d21d30346",
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "text": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:37:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What we know about the Pope's lung cancer diagnosis",
+          "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:37:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1eb3573d9c72de5690a0614a",
+      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "text": "Colombia has opened an embassy in West Jerusalem under new far-right President Abelardo de la Espriella.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 12:28:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 12:28:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "90d7f52a63758f8e80350f46",
+      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+      "text": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
+      "url": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:22:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
+          "url": "https://www.bbc.co.uk/news/articles/c678p0ld7z8lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:22:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cefc6e13ef7506eec7deece2",
+      "title": "Hidden video recording device found in cabin of Australian navy ship",
+      "text": "Australia's military confirms the device had been discovered, after a senator reports being contacted with allegations of concealed cameras on the ship.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2we8yjj1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:20:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hidden video recording device found in cabin of Australian navy ship",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2we8yjj1go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:20:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "df4cb7d197c8d9be0a6babb8",
+      "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+      "text": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
+      "url": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:13:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
+          "url": "https://www.bbc.co.uk/sport/articles/cqvgr7530085o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:13:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fcdee5de1875209fbb0d7517",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "text": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 12:09:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Wayfair among firms fined millions for misleading sales tactics",
+          "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 12:09:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "77f13138e1046e06450e7806",
+      "title": "Fulham manager Arbeloa fined for Man Utd refereeing outburst",
+      "text": "Alvaro Arbeloa fined $33,000 for remarks made after Fulham's 1-1 draw against Manchester United in September.",
+      "url": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 12:03:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fulham manager Arbeloa fined for Man Utd refereeing outburst",
+          "url": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 12:03:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "953d39d95191c33058b68353",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "text": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 11:57:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 11:57:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d7311fb70f247fcccd9b134e",
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
+      "text": "Do any of these Israeli candidates support a Palestinian state?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 11:43:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Do any of these Israeli candidates support a Palestinian state?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 11:43:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3296f2a1f61248db3ce3228",
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "text": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 11:39:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+          "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 11:39:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5e6698c4d538b500b1733e48",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "text": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 11:24:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mauritius reels from worst riots in decades after woman shot by police",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 11:24:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19f1a968d649360300632d99",
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "text": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 11:16:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+          "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 11:16:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88d13540853da0f380dcdb6e",
+      "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "text": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 11:05:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 11:05:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d671b97964ae11053434d2ea",
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "text": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 11:04:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 11:04:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dac656d46317acdfd123aeb0",
+      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "text": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 10:57:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+          "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 10:57:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f050ab1fd81340aba28810c",
+      "title": "Mechanic who falsified MOT before crash that killed three given community order",
+      "text": "Eve Smith, Darcy Ross and Rafel Jeanne died when the car crashed into woodland in Cardiff in 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 10:57:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mechanic who falsified MOT before crash that killed three given community order",
+          "url": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 10:57:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fb228f09fc697a1f6b35045b",
+      "title": "We created a memorial garden at home - a cemetery felt too far away",
+      "text": "Emma Moore shares how creating a special place at home has helped her family.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 10:53:46 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "We created a memorial garden at home - a cemetery felt too far away",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 10:53:46 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09dba67b0659cda984432b97",
+      "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+      "text": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 10:49:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+          "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 10:49:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "facaf62e46b3951b1973339a",
+      "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
+      "text": "The TV presenter says she suffered memory loss following her operation to remove a benign tumour.",
+      "url": "https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 10:48:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Davina McCall says memory loss after brain surgery was like 'advanced Alzheimer's'",
+          "url": "https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 10:48:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "55d41e75eb5b6dfa24357977",
+      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+      "text": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 10:46:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+          "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 10:46:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "93c105e4d1185f6ef165a0a5",
+      "title": "Struijk red card shown after VAR intervention is overturned",
+      "text": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 10:18:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Struijk red card shown after VAR intervention is overturned",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 10:18:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "60554d40d2b2f4ce47d2af31",
+      "title": "Albanian students clash with police as they protest over education and jobs",
+      "text": "Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 10:14:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Albanian students clash with police as they protest over education and jobs",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 10:14:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de57defe097aa17baf48a56d",
+      "title": "Israeli air strike kills Palestinian woman in Gaza City",
+      "text": "The woman's young daughter was rescued from a large fire inside the apartment, caused by the attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 10:08:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli air strike kills Palestinian woman in Gaza City",
+          "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+          "published_at": "Wed, 14 Oct 2026 10:08:49 +0000"
         }
       ],
       "cross_checked": false,
@@ -80,44 +935,6 @@
       "conflict": false
     },
     {
-      "id": "93c105e4d1185f6ef165a0a5",
-      "title": "Struijk has red card shown after VAR intervention overturned",
-      "text": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 09:53:18 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Struijk has red card shown after VAR intervention overturned",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 09:53:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fcdee5de1875209fbb0d7517",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "text": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 09:42:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Wayfair among firms fined millions for misleading sales tactics",
-          "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 09:42:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "3561ee001a6447dfcca27a19",
       "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
       "text": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
@@ -131,120 +948,6 @@
           "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
           "published_at": "Wed, 14 Oct 2026 09:40:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fcd01b7e9f9a501ef8c9263d",
-      "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-      "text": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
-      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 09:25:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-          "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 09:25:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "22b525d4348666314d78d97f",
-      "title": "China’s exports surge amid AI-driven demand",
-      "text": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
-      "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 09:05:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "China’s exports surge amid AI-driven demand",
-          "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 09:05:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4c4f3673e6e39a252ec6b393",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "text": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 08:53:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 08:53:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "75188e4838f5e41ae6b4b8e3",
-      "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-      "text": "Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India's Delhi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 08:51:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 08:51:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cc54d1a1784047f439eb4430",
-      "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "text": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 08:51:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 08:51:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1640abe948a7899bfe2fe804",
-      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-      "text": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 08:44:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-          "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 08:44:04 GMT"
         }
       ],
       "cross_checked": false,
@@ -270,291 +973,6 @@
       "conflict": false
     },
     {
-      "id": "07410b4c4946652f1f201932",
-      "title": "How do Iranians move money abroad to avoid US sanctions?",
-      "text": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 08:24:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How do Iranians move money abroad to avoid US sanctions?",
-          "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 08:24:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1e3e5e1b8b828f1a4d054196",
-      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-      "text": "The US president also praises the security advantages of last month's deal with Denmark and Greenland.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 08:08:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-          "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 08:08:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "91a11bd4c402f37894e71ee5",
-      "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-      "text": "Teachers fear losing their livelihoods and students risk being excluded as Baku's close ally appears critical.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:57:45 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-          "url": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:57:45 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c2f2f94bffe8942c2b024521",
-      "title": "Palestinians say Israel’s democracy ‘is a joke’",
-      "text": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:41:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinians say Israel’s democracy ‘is a joke’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:41:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d04611673bb95d90dc2208ee",
-      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-      "text": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:38:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:38:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d8e34080bd791d250dfa2fc2",
-      "title": "Yamal magic helps Barcelona beat Galatasaray in Champions League",
-      "text": "Yamal provided two assists and 'turned the game around' for Barcelona, who won 4-1 in Istanbul.",
-      "url": "https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:35:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yamal magic helps Barcelona beat Galatasaray in Champions League",
-          "url": "https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:35:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a7cc1d0ca15b19214fe2a617",
-      "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
-      "text": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:32:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
-          "url": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:32:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7f4cb4d2f7947601b3c0a97b",
-      "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
-      "text": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:31:34 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
-          "url": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:31:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9b0c771212c84272775a552b",
-      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-      "text": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 07:18:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 07:18:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5a20634af7809edce7f33e38",
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
-      "text": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:08:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
-          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:08:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "64f1390516267b3f0daf0735",
-      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
-      "text": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
-      "url": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 07:05:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
-          "url": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 07:05:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fb228f09fc697a1f6b35045b",
-      "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
-      "text": "Emma Moore shares how creating a special place at home has helped her family.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 06:55:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 06:55:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "01349c99f0031f74a7984eee",
-      "title": "Photos: Student protest in Albania prompts violent clashes with police",
-      "text": "Protesters in Tirana throw bricks at the Education Ministry building as police respond with tear gas and water cannon.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 06:46:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Student protest in Albania prompts violent clashes with police",
-          "url": "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 06:46:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b5ef5cc6be8f4a7235f53850",
-      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-      "text": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 06:11:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 06:11:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c1bb1492a0fe24f5b8049230",
-      "title": "Sudan cannot afford to dismiss a chance for dialogue",
-      "text": "A new initiative faces serious questions about military influence, but its critics should not write it off prematurely.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 05:51:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sudan cannot afford to dismiss a chance for dialogue",
-          "url": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 05:51:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1015afd4bb6ca66400484070",
       "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
       "text": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
@@ -574,76 +992,19 @@
       "conflict": false
     },
     {
-      "id": "54b48e6e0289a75e47edad29",
-      "title": "From Cairo to Tokyo: Can you guess these twin cities?",
-      "text": "As a London borough moves to cut ties with Haifa, test your knowledge of the world's twin cities.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 05:40:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "From Cairo to Tokyo: Can you guess these twin cities?",
-          "url": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 05:40:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3f6ed89ce76c848a687657cd",
-      "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
-      "text": "Enrique, a friend of former Man City boss Guardiola, hopes the club can avoid the sanction of losing its titles.",
-      "url": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 05:39:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
-          "url": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 05:39:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "20fb37288f37085a77b5309d",
-      "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
-      "text": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
+      "id": "53a19278d21f58ca48b94f51",
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "text": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 05:11:33 GMT",
+      "published_at": "Wed, 14 Oct 2026 05:02:27 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 05:11:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5843c49f22a07dca45dc457c",
-      "title": "Ukrainian drones strike more than 100km into Russian territory",
-      "text": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 05:07:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ukrainian drones strike more than 100km into Russian territory",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 05:07:55 +0000"
+          "title": "More tea? How Scotland's crops of the future could be set to change",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 05:02:27 GMT"
         }
       ],
       "cross_checked": false,
@@ -669,25 +1030,6 @@
       "conflict": false
     },
     {
-      "id": "2cc6d3ac45c07332fe589b25",
-      "title": "Watch: BBC joins police on front line against car theft",
-      "text": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 05:00:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: BBC joins police on front line against car theft",
-          "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 05:00:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "4092a753c1b1f9a60820419e",
       "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
       "text": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
@@ -701,139 +1043,6 @@
           "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
           "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 14 Oct 2026 05:00:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4fd26c6219bc2a6b5b5aac12",
-      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "text": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 04:27:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-          "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 04:27:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "47adf3ede27aed476360d4a4",
-      "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-      "text": "City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
-      "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 04:25:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-          "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 04:25:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2e200ae9512d132c6d28443d",
-      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-      "text": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
-      "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 04:21:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-          "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 04:21:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5a74a6e15a171262bbccaec6",
-      "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-      "text": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 04:16:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 04:16:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6938f889ffd23e6d7a1d3601",
-      "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
-      "text": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 03:57:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
-          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 03:57:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5c415a4489f83dcc3f092f50",
-      "title": "Israel returns 22 stolen ancient artefacts to Greece",
-      "text": "The cultural exchange comes amid strengthening ties between the two countries.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 14 Oct 2026 03:23:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel returns 22 stolen ancient artefacts to Greece",
-          "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
-          "published_at": "Wed, 14 Oct 2026 03:23:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c94f4b21d21e5825685f73a2",
-      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-      "text": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
-      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 00:59:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-          "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 00:59:16 GMT"
         }
       ],
       "cross_checked": false,
@@ -859,44 +1068,6 @@
       "conflict": false
     },
     {
-      "id": "a237585083fb3cfcbedbea66",
-      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-      "text": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 23:55:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-          "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 23:55:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "13886302782508c84339630c",
-      "title": "Robot seized by German police after it was allegedly used to grope teenage girl",
-      "text": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 23:50:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Robot seized by German police after it was allegedly used to grope teenage girl",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 23:50:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7db7adc856d449144d9bb0f6",
       "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
       "text": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
@@ -910,44 +1081,6 @@
           "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
           "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 13 Oct 2026 23:26:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "09564b4ebb8307eb52ad3c96",
-      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
-      "text": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
-      "url": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 22:59:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
-          "url": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 22:59:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fc17e5eb717298b0dcc5aa5b",
-      "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-      "text": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 22:15:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 22:15:44 GMT"
         }
       ],
       "cross_checked": false,
@@ -973,25 +1106,6 @@
       "conflict": false
     },
     {
-      "id": "2e68929218598b1f064c496e",
-      "title": "Rams player suspended for punch & kicker cut by club",
-      "text": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 21:47:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Rams player suspended for punch & kicker cut by club",
-          "url": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 21:47:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "23f9fc0d333df08cc6dd74a6",
       "title": "Man Utd defender Martinez issues scathing attack on board",
       "text": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
@@ -1011,76 +1125,19 @@
       "conflict": false
     },
     {
-      "id": "994246342d5e43ad1ff11451",
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "text": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "id": "a790af9dc27d908587ba5cd1",
+      "title": "Unravel the secrets of a priceless piece of British history",
+      "text": "As the Bayeux Tapestry travels to the UK for the first time in 950 years, historians and experts unravel its secrets",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 21:42:49 GMT",
+      "published_at": "Thu, 10 Sep 2026 05:00:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Saudi employee charged with planting recording device in OpenAI office",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 21:42:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e7c3af778fcfbca899b53da4",
-      "title": "Zelensky and Burnham to meet in Downing Street",
-      "text": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 21:31:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Zelensky and Burnham to meet in Downing Street",
-          "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 21:31:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a60ef15e42ee33d723d5ce2e",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "text": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 18:25:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 18:25:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a68718034a2d8fb36a3a9d9e",
-      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-      "text": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 17:04:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-          "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 17:04:37 GMT"
+          "title": "Unravel the secrets of a priceless piece of British history",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
+          "published_at": "Thu, 10 Sep 2026 05:00:00 GMT"
         }
       ],
       "cross_checked": false,
