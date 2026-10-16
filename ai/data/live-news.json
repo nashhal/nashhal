@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-16T00:27:40.927559+00:00",
-  "source_count": 57,
-  "story_count": 56,
+  "generated_at": "2026-10-16T05:51:48.109728+00:00",
+  "source_count": 60,
+  "story_count": 59,
   "documents": [
     {
-      "id": "b9f82fdfbf28276ba1dbc143",
-      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-      "text": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "id": "d4c223f6f5dc2c7b8b26237f",
+      "title": "Three children and teacher killed in US primary school shooting",
+      "text": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 15:55:14 GMT",
+      "published_at": "Fri, 16 Oct 2026 03:45:09 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
-          "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-          "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 15:55:14 GMT"
+          "title": "Three children and teacher killed in US primary school shooting",
+          "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 03:45:09 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes",
-          "url": "https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 20:12:27 +0000"
+          "title": "Three children, one teacher killed in Oregon school shooting",
+          "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+          "published_at": "Thu, 15 Oct 2026 22:51:56 +0000"
         }
       ],
       "cross_checked": true,
@@ -105,6 +105,101 @@
       "conflict": false
     },
     {
+      "id": "6cc2f945a0a151e55f894651",
+      "title": "India's 'cockroach' protesters set to return despite police crackdown",
+      "text": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 23:30:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "India's 'cockroach' protesters set to return despite police crackdown",
+          "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 23:30:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4ef4b8a45d4caff22bc75dbc",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "text": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 23:27:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Porn showing choking or incest to be banned from early November, government says",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 23:27:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fd23cb2b8e7991af68386121",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "text": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 23:25:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Are student protests being manipulated ahead of France's presidential election?",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 23:25:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f85fd84baf5665c27c82623e",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "text": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 23:16:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "I find it quite demoralising in store - why I do all my shopping online",
+          "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 23:16:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "17cbd70edc8fbffe9f1b1a76",
+      "title": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
+      "text": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 23:04:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 23:04:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "48c788b270a18a607bf59aa2",
       "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
       "text": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
@@ -118,25 +213,6 @@
           "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
           "url": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 15 Oct 2026 23:01:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "842d982c80473dc761dfd8b8",
-      "title": "At least 4, including 3 children, killed in US elementary school shooting",
-      "text": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 22:51:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "At least 4, including 3 children, killed in US elementary school shooting",
-          "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 22:51:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -352,25 +428,6 @@
       "conflict": false
     },
     {
-      "id": "4ab7c33ab0188c31f9e13339",
-      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-      "text": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 20:24:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 20:24:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "ac547829a339ed0e7eac057e",
       "title": "Why are migrants risking their lives at sea to reach Yemen?",
       "text": "Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.",
@@ -384,63 +441,6 @@
           "title": "Why are migrants risking their lives at sea to reach Yemen?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
           "published_at": "Thu, 15 Oct 2026 20:13:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a35faadfb790f6ad6626b288",
-      "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-      "text": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 20:07:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
-          "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 20:07:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "695f8519b8d2b1e6658c91f4",
-      "title": "Somalia says it will hold elections in 2027",
-      "text": "Critics say unilateral decision to call polls is a recipe for more conflict.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 20:04:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Somalia says it will hold elections in 2027",
-          "url": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 20:04:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "07588b8efc66a20f21f7d4de",
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "text": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 19:44:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Will Israeli voters punish Benjamin Netanyahu?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 19:44:27 +0000"
         }
       ],
       "cross_checked": false,
@@ -466,76 +466,19 @@
       "conflict": false
     },
     {
-      "id": "28aadc07adfe1d5135189e1f",
-      "title": "Severe drought declared in parts of southern England",
-      "text": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "id": "dc0e60cd14513f40baa6cc53",
+      "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
+      "text": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 19:26:13 GMT",
+      "published_at": "Thu, 15 Oct 2026 19:26:51 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Severe drought declared in parts of southern England",
-          "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 19:26:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bb0244deb0f34bbb2f283e9d",
-      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "text": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 18:57:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-          "url": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 18:57:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d4a58d5a2c1cce7f6e10d64e",
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "text": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 18:41:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-          "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 18:41:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "180d76460bd854e0c002fc46",
-      "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "text": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 18:17:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-          "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 18:17:57 +0000"
+          "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 19:26:51 GMT"
         }
       ],
       "cross_checked": false,
@@ -580,19 +523,19 @@
       "conflict": false
     },
     {
-      "id": "997c67f8b7d909190db328f3",
-      "title": "Trump ramps up third-country US deportations despite global rights outcry",
-      "text": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 17:54:26 +0000",
+      "id": "02e1c52e4c0938b4a2e17dd3",
+      "title": "Weekly quiz: Which star is lending his voice to Gromit?",
+      "text": "How much attention did you pay to what happened in the world over the past seven days?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Thu, 15 Oct 2026 17:52:33 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Trump ramps up third-country US deportations despite global rights outcry",
-          "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 17:54:26 +0000"
+          "source": "BBC",
+          "title": "Weekly quiz: Which star is lending his voice to Gromit?",
+          "url": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 15 Oct 2026 17:52:33 GMT"
         }
       ],
       "cross_checked": false,
@@ -618,65 +561,8 @@
       "conflict": false
     },
     {
-      "id": "7a36705eb3f892d1b9380215",
-      "title": "A mother’s touch helps premature babies grow strong in Gaza",
-      "text": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
-      "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 17:43:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "A mother’s touch helps premature babies grow strong in Gaza",
-          "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 17:43:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f03ed81c684966cb093f3a07",
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "text": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 17:31:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-          "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 17:31:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1c74e03e05f05e00bc433072",
-      "title": "Pope Leo resumes work in hospital while recovering from surgery",
-      "text": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 17:25:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pope Leo resumes work in hospital while recovering from surgery",
-          "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 17:25:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e7d48fa290a0b766e043cf85",
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "title": "Banks say Healey planning to increase tax on their profits in Budget",
       "text": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
       "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -685,28 +571,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Banks say Healey is planning Budget tax raid on their profits",
+          "title": "Banks say Healey planning to increase tax on their profits in Budget",
           "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 15 Oct 2026 17:14:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ba0a224983044c16f06f7e5f",
-      "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-      "text": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
-      "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 17:13:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-          "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 17:13:17 +0000"
         }
       ],
       "cross_checked": false,
@@ -726,82 +593,6 @@
           "title": "Australia clinch thrilling World Cup opener against New Zealand",
           "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&at_campaign=rss",
           "published_at": "Thu, 15 Oct 2026 17:00:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "db6ce3959cc20b20f8d51d48",
-      "title": "Dying in Detention",
-      "text": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 17:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dying in Detention",
-          "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 17:00:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4ff10b7d70f5be0c0ef8a641",
-      "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
-      "text": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 16:59:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
-          "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 16:59:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ae8b99b5316dc797ca363a5b",
-      "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-      "text": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 16:50:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-          "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 16:50:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eee2dd2745e51b2794dccae7",
-      "title": "Albania’s PM dismisses calls to resign as student protests spread",
-      "text": "Prime Minister Edi Rama condemns 'chaos' as protests continue for third day in the capital and spread to other cities.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Thu, 15 Oct 2026 16:41:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Albania’s PM dismisses calls to resign as student protests spread",
-          "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
-          "published_at": "Thu, 15 Oct 2026 16:41:30 +0000"
         }
       ],
       "cross_checked": false,
@@ -846,101 +637,6 @@
       "conflict": false
     },
     {
-      "id": "8c7038c3c89668d05993a065",
-      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-      "text": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 16:00:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 16:00:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1ef60b69b657f0835c83dd98",
-      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-      "text": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 15:42:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-          "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 15:42:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "18dd6df40ba6832636641e86",
-      "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
-      "text": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 15:07:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 15:07:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9e40c1e28588cff59b3bc1f",
-      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
-      "text": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 15:00:05 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
-          "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 15:00:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4fb4b90f1c866d1e5a8f6f25",
-      "title": "Another man admits raping woman drugged by husband over 20 years",
-      "text": "The husband is accused of inviting 13 other men to abuse her at their family home in Stockport.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 14:56:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Another man admits raping woman drugged by husband over 20 years",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdn1164v1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 14:56:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c980ad7620ac6f402ad1803f",
       "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
       "text": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
@@ -979,95 +675,456 @@
       "conflict": false
     },
     {
-      "id": "ca93ffa6758c60622c592f82",
-      "title": "Arrests made after couple and two children killed in arson attack in Waterford",
-      "text": "Gardaí (Irish police) have arrested a man and a woman in connection with a suspected arson attack which killed four family members.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
+      "id": "7527a117c23ee82d077a7e25",
+      "title": "The Olympic sprinter now bedbound for 22 hours a day",
+      "text": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 14:33:32 GMT",
+      "published_at": "Fri, 16 Oct 2026 05:31:22 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Arrests made after couple and two children killed in arson attack in Waterford",
-          "url": "https://www.bbc.co.uk/news/articles/cmn0658znkxpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 14:33:32 GMT"
+          "title": "The Olympic sprinter now bedbound for 22 hours a day",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 05:31:22 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "6f999dd0e51fbbaf09dc1e2d",
-      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
-      "text": "The Everton striker explains why he chose to post an emotional video from a training session.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "id": "74c88b1ab02bab05a987af83",
+      "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+      "text": "Lebanon's president reaffirms the commitment to bring all arms under state control.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 05:28:29 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Everton's Thierno Barry on the emotional video he was scared to post",
-          "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 11:27:07 GMT"
+          "source": "Al Jazeera",
+          "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+          "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 05:28:29 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "35fded8cb7d84ad86d81044d",
-      "title": "Professor shares 'most important thing to do' when someone is grieving",
-      "text": "Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06xr871g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 05:11:16 GMT",
+      "id": "aa7ef8af421e59e624394502",
+      "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+      "text": "The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 05:15:09 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Professor shares 'most important thing to do' when someone is grieving",
-          "url": "https://www.bbc.co.uk/news/articles/cmn06xr871g1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 05:11:16 GMT"
+          "source": "Al Jazeera",
+          "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+          "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 05:15:09 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "921ac389ebb4e517b7be9b52",
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "text": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "id": "5ffb9fe9388d90e5731a36e3",
+      "title": "Met needs to move away from criminalising sex workers, officers say after Levy failings",
+      "text": "The force is piloting a two-officer female team in north London to engage with street sex workers, in a bid to improve trust.",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 05:00:23 GMT",
+      "published_at": "Fri, 16 Oct 2026 05:05:38 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-          "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 05:00:23 GMT"
+          "title": "Met needs to move away from criminalising sex workers, officers say after Levy failings",
+          "url": "https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 05:05:38 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "5bfc62d53c860cd889a32f93",
-      "title": "My son wants to try protein powders - I asked experts how safe it was",
-      "text": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
-      "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
+      "id": "9f3efe07137ad5d54b79b087",
+      "title": "Bystander guns down suspected primary school shooter in Oregon",
+      "text": "Three children and a teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 05:00:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bystander guns down suspected primary school shooter in Oregon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 05:00:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a06797f3d253aec3882ed218",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "text": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 00:00:35 GMT",
+      "published_at": "Fri, 16 Oct 2026 05:00:17 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "My son wants to try protein powders - I asked experts how safe it was",
-          "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 00:00:35 GMT"
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 05:00:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "21783060a84578cc8ae20460",
+      "title": "They fled Russia, but the West sent them back",
+      "text": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 04:57:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "They fled Russia, but the West sent them back",
+          "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 04:57:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "983b47d08aa50cd09ed949c4",
+      "title": "Infantino apologises amid calls for him to quit as FIFA president",
+      "text": "Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 04:45:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Infantino apologises amid calls for him to quit as FIFA president",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 04:45:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3db8931b76cf558f2fc2d5f5",
+      "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+      "text": "The BBC's Sarah Smith travelled across the state ahead of the midterms, as the president faces political headwinds.",
+      "url": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 04:16:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+          "url": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 04:16:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f97f25d223378a3acf628f80",
+      "title": "The Papers: Healey's 'tax raid on banks' and Brand 'topless monster'",
+      "text": "The chancellor's possible plan to tax banks and new evidence in Russell Brand's rape trial dominate Friday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg0dx2y1j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 03:50:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: Healey's 'tax raid on banks' and Brand 'topless monster'",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0dx2y1j5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 03:50:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5d61e4299dd3665f64278530",
+      "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+      "text": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 02:56:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 02:56:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2cb5e8effab79f9463b7b3df",
+      "title": "Residents douse workers with flaming gasoline during eviction in Peru",
+      "text": "A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 02:35:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Residents douse workers with flaming gasoline during eviction in Peru",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 02:35:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6b4772a7d4cf551ed933cf55",
+      "title": "Argentine students protest on campus over Milei’s austerity",
+      "text": "Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 02:11:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Argentine students protest on campus over Milei’s austerity",
+          "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 02:11:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cbcb4e3e1bddfceab3bd36b4",
+      "title": "Peshawar mourns children killed in school roof collapse",
+      "text": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 02:01:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Peshawar mourns children killed in school roof collapse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 02:01:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "59e454e4793dcbae9a95a126",
+      "title": "Progressives, AIPAC and the future of the Democratic Party",
+      "text": "Mehdi Hasan goes Head to Head with ex-Biden official Neera Tanden on the Democratic Party’s chances in the US midterms.",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 02:01:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Progressives, AIPAC and the future of the Democratic Party",
+          "url": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 02:01:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fae2286372c27358e15cf6b8",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "text": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 01:36:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 01:36:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d6bf32d12fb47f044b9af7d5",
+      "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+      "text": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 01:34:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+          "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 01:34:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a8869849c7a8307413a9c2a2",
+      "title": "Clashes erupt at protest over university funding law in Argentina",
+      "text": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 01:19:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Clashes erupt at protest over university funding law in Argentina",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 01:19:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "92a4595751b9d31189846f1f",
+      "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+      "text": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 01:12:26 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+          "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 01:12:26 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ed4e6218693033b0ff5349e6",
+      "title": "'We got penalised for saying 'pregnancy' on Instagram'",
+      "text": "Creators say women's health content is getting them shadowbanned on social media. So what's really happening?",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 00:53:58 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'We got penalised for saying 'pregnancy' on Instagram'",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 00:53:58 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa18b2873cddab1c813a5b18",
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
+      "text": "This very common scenario can be sad for little ones but there are ways you can help them.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 00:46:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
+          "url": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 00:46:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "40218d857821681549eb8fcc",
+      "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+      "text": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 00:34:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 00:34:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c0a8444d6651ff7a04f95c28",
+      "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+      "text": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 00:31:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+          "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 00:31:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b41ac311d5f247ec0b8b31a4",
+      "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
+      "text": "President Trump says deployment of ground troops to Iran unlikely as Saudi Arabia downs drone in its Eastern Province.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 00:02:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 00:02:37 +0000"
         }
       ],
       "cross_checked": false,
