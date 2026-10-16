@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T19:57:35.229472+00:00",
-  "source_count": 55,
-  "story_count": 55,
+  "generated_at": "2026-10-16T22:51:13.870659+00:00",
+  "source_count": 56,
+  "story_count": 56,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -42,19 +42,228 @@
       "conflict": false
     },
     {
-      "id": "02e1c52e4c0938b4a2e17dd3",
-      "title": "Weekly quiz: Which star is lending his voice to Gromit?",
-      "text": "How much attention did you pay to what happened in the world over the past seven days?",
-      "url": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o?at_medium=RSS&at_campaign=rss",
+      "id": "b33a8f1f5f7576816eb0e376",
+      "title": "Families demand justice after Pakistan school collapse",
+      "text": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 22:38:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Families demand justice after Pakistan school collapse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 22:38:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ee6800e4dc8e4cfb4562aab1",
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "text": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:56:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+          "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 21:56:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5ea8b5cf48854a37ac34935c",
+      "title": "Ranking the Premier League's all-time greatest super subs",
+      "text": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 15 Oct 2026 17:52:33 GMT",
+      "published_at": "Fri, 16 Oct 2026 21:15:47 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Weekly quiz: Which star is lending his voice to Gromit?",
-          "url": "https://www.bbc.co.uk/news/articles/c3gr85dl78y4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 15 Oct 2026 17:52:33 GMT"
+          "title": "Ranking the Premier League's all-time greatest super subs",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 21:15:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "953ead3546c442a0c9f916a1",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "text": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:08:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+          "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 21:08:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2b13623641a8946be5155ca6",
+      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "text": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:08:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 21:08:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97f29b9c6911b909f1d99397",
+      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+      "text": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 21:02:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 21:02:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7422050dcc8e244d7e241b9b",
+      "title": "Students in Europe are rising up to call for better education",
+      "text": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:38:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Students in Europe are rising up to call for better education",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 20:38:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "244ce0ba045e692c599dbfa8",
+      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "text": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:37:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 20:37:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "294fd4a4d881ff994fd7a615",
+      "title": "Oregon community mourns victims of school shooting",
+      "text": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:08:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Oregon community mourns victims of school shooting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 20:08:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "db6d5cd50862702203ed7070",
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "text": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 20:08:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 20:08:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fc10de878ca5c23608032f88",
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "text": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:07:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+          "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 20:07:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8da0be6822eefb0851ac10ff",
+      "title": "Trump told new press secretary to ‘reconsider’ role",
+      "text": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 19:41:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump told new press secretary to ‘reconsider’ role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+          "published_at": "Fri, 16 Oct 2026 19:41:15 +0000"
         }
       ],
       "cross_checked": false,
@@ -232,25 +441,6 @@
       "conflict": false
     },
     {
-      "id": "d760e3ec2e97ebc50cc05b6c",
-      "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
-      "text": "Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 16 Oct 2026 17:52:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 16 Oct 2026 17:52:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "04c808e2ca3b0444e5ad7bb0",
       "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
       "text": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
@@ -309,7 +499,7 @@
     },
     {
       "id": "275d9c7ea882378544515709",
-      "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
       "text": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
       "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
       "source": "Al Jazeera",
@@ -318,7 +508,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+          "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
           "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
           "published_at": "Fri, 16 Oct 2026 17:05:31 +0000"
         }
@@ -340,6 +530,25 @@
           "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
           "url": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
           "published_at": "Fri, 16 Oct 2026 17:03:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "82ad906e122dd6b4e9773e94",
+      "title": "Collaboration with Off Campus star 'gave me chills', says Babydoll singer Jamie Miller",
+      "text": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yndllj8d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 16:57:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Collaboration with Off Campus star 'gave me chills', says Babydoll singer Jamie Miller",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yndllj8d8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 16:57:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -536,25 +745,6 @@
       "conflict": false
     },
     {
-      "id": "c8528cded436215a02f1fa94",
-      "title": "EU rallies in support of Ukraine amid Trump standoff",
-      "text": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 16:02:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "EU rallies in support of Ukraine amid Trump standoff",
-          "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 16:02:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "76ac965f5c723a2654f21d67",
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "text": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
@@ -568,44 +758,6 @@
           "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
           "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 16 Oct 2026 16:00:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ef08d1596a4bfa105a3c333",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "text": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 16 Oct 2026 15:59:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-          "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 16 Oct 2026 15:59:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f075e1a0555ce68b9d40e37f",
-      "title": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
-      "text": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
-      "url": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 15:52:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
-          "url": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 15:52:18 +0000"
         }
       ],
       "cross_checked": false,
@@ -631,38 +783,19 @@
       "conflict": false
     },
     {
-      "id": "44a9e18403c73ec7111089af",
-      "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-      "text": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 15:37:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-          "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 15:37:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c5a54b88edbd17621f5afb2a",
-      "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
-      "text": "Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
+      "id": "e689e5ff26a2acf5b2b351d4",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "text": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 16 Oct 2026 15:02:46 GMT",
+      "published_at": "Fri, 16 Oct 2026 15:45:10 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
-          "url": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 16 Oct 2026 15:02:46 GMT"
+          "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+          "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 15:45:10 GMT"
         }
       ],
       "cross_checked": false,
@@ -745,44 +878,6 @@
       "conflict": false
     },
     {
-      "id": "a46fb33ff69de8a7fc307f73",
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "text": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 14:19:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 14:19:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5a21d868c5b7cb557250e680",
-      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-      "text": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 14:12:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-          "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 14:12:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "84995e1b01f0c1db80a80d9d",
       "title": "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
       "text": "The 51-year-old faces three counts of rape, three of sexual assault and one of indecent assault, all of which he denies.",
@@ -802,82 +897,6 @@
       "conflict": false
     },
     {
-      "id": "f3ff6e5e53cab7f33d93552e",
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "text": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 14:01:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 14:01:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1d586f04a2204582ec6ef4c1",
-      "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
-      "text": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 13:56:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
-          "url": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 13:56:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "092cec3eef3096db41c4ce66",
-      "title": "Ethiopia announces instalment of interim government in Tigray",
-      "text": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 13:54:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ethiopia announces instalment of interim government in Tigray",
-          "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 13:54:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6aa12c9af108349d8d0d7bb2",
-      "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-      "text": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 16 Oct 2026 13:52:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-          "published_at": "Fri, 16 Oct 2026 13:52:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "edf487f1f7e445947c6d82b2",
       "title": "Norwegian teen 'hitman' jailed over UK murder plot",
       "text": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
@@ -891,6 +910,25 @@
           "title": "Norwegian teen 'hitman' jailed over UK murder plot",
           "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 16 Oct 2026 13:43:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "99c631593b53d632969ed8ef",
+      "title": "Underdogs? We like that tag, says England captain Williams",
+      "text": "Captain George Williams says England will relish their \"underdog\" tag when they take on a powerful Tonga side in their World Cup opener in Perth on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx7vprd744y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 16 Oct 2026 13:26:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Underdogs? We like that tag, says England captain Williams",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx7vprd744y9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 16 Oct 2026 13:26:51 GMT"
         }
       ],
       "cross_checked": false,
@@ -955,7 +993,7 @@
     },
     {
       "id": "aa18b2873cddab1c813a5b18",
-      "title": "Your child didn't get a party invite - here’s what to do",
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
       "text": "This very common scenario can be sad for little ones but there are ways you can help them.",
       "url": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -964,7 +1002,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Your child didn't get a party invite - here’s what to do",
+          "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
           "url": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 16 Oct 2026 11:17:28 GMT"
         }
@@ -1005,25 +1043,6 @@
           "title": "'People call them pervert glasses': Blind users fear backlash over smart tech",
           "url": "https://www.bbc.co.uk/news/articles/cq2d6e56n85go?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 16 Oct 2026 05:23:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "60c1ab20fe0f735cacf1daca",
-      "title": "The hero dinner lady who died saving five children in the Aberfan disaster",
-      "text": "As coal slurry engulfed the school, the dinner lady threw her body on five children, protecting them.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m49yve2n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 16 Oct 2026 05:11:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The hero dinner lady who died saving five children in the Aberfan disaster",
-          "url": "https://www.bbc.co.uk/news/articles/cw1m49yve2n4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 16 Oct 2026 05:11:56 GMT"
         }
       ],
       "cross_checked": false,
