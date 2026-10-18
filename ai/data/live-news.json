@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T14:01:17.339027+00:00",
-  "source_count": 54,
-  "story_count": 54,
+  "generated_at": "2026-10-18T17:23:00.050029+00:00",
+  "source_count": 50,
+  "story_count": 50,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -42,76 +42,361 @@
       "conflict": false
     },
     {
-      "id": "1a4a16f42080d2afb6f07d65",
-      "title": "Horse-drawn carriages in New York City expected to be outlawed",
-      "text": "Both the speaker of the city council and the mayor have expressed support for ending the practice.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
+      "id": "b94d8c15e4a13aa77809d2fc",
+      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+      "text": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 20:45:33 GMT",
+      "published_at": "Sun, 18 Oct 2026 17:00:42 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Horse-drawn carriages in New York City expected to be outlawed",
-          "url": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 20:45:33 GMT"
+          "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+          "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 17:00:42 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "60232ef8752e3ed11afb16cb",
-      "title": "Martin Freeman to give Gromit a voice for first time in new audiobook",
-      "text": "Martin Freeman will be the voice of Aardman's Gromit in new audiobook.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 09:58:11 GMT",
+      "id": "9842804e4ed6abe7e3e24354",
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "text": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 16:36:26 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Martin Freeman to give Gromit a voice for first time in new audiobook",
-          "url": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 09:58:11 GMT"
+          "source": "Al Jazeera",
+          "title": "Trump endorses Netanyahu in Israeli legislative elections",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 16:36:26 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "3b3c167e879dfc58de343cb2",
-      "title": "Student who spells by blinking is denied chance to sit exam",
-      "text": "Romi Loffler is battling to take her history exam with reasonable adjustments allowing for her condition.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
+      "id": "8a032c622592da0677e45025",
+      "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+      "text": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 07:00:39 GMT",
+      "published_at": "Sun, 18 Oct 2026 16:27:51 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Student who spells by blinking is denied chance to sit exam",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 07:00:39 GMT"
+          "title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 16:27:51 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "b6816a9ab95b4279eaacf5c0",
-      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-      "text": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
+      "id": "00c9b0587d50ae00807b7b04",
+      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "text": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 16:25:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+          "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 16:25:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "67578c7b89824cb1519cfc57",
+      "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+      "text": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 16:25:43 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 16:25:43 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cae4297ec407ec6afa34e2ab",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "text": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 00:14:20 GMT",
+      "published_at": "Sun, 18 Oct 2026 15:46:10 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 00:14:20 GMT"
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 15:46:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5db0318bbf2d9c3bfc7e2a6c",
+      "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
+      "text": "A misconduct hearing said many of the records accessed were sensitive and held \"intimate information\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 15:30:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
+          "url": "https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 15:30:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "03b46aa9ddcd58a512907302",
+      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "text": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.",
+      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 15:30:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+          "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 15:30:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "929d08590d7a5961810e6466",
+      "title": "Manchester United held at Leeds despite improved performance for Carrick",
+      "text": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 15:28:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Manchester United held at Leeds despite improved performance for Carrick",
+          "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 15:28:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9b50a85c3724bc7f5520abfe",
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "text": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 15:10:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 15:10:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "df3d44445ed27191cab18d54",
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "text": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 15:08:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+          "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 15:08:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3ab8196ec7d0a28a3ecce57c",
+      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+      "text": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 14:57:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+          "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 14:57:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7995f9515f60f74c07015c17",
+      "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+      "text": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 14:56:01 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 14:56:01 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "33d9fce4195d12e0847ef3a0",
+      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "text": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 14:42:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+          "url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 14:42:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4aa14ca69c9c203bf721bff2",
+      "title": "France protests live: Big blaze, tear gas fired during standoff in Paris",
+      "text": "Protests are sweeping France as anger over conditions in schools meets frustration with high living costs.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 14:26:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "France protests live: Big blaze, tear gas fired during standoff in Paris",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 14:26:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "084905c4e9c83cb9a610ca6b",
+      "title": "BBC pauses civil service secondment scheme",
+      "text": "The BBC said all journalism and editorial decisions are made by BBC journalists and editors.",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 14:25:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "BBC pauses civil service secondment scheme",
+          "url": "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 14:25:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "707714fee726a3972a5d46d9",
+      "title": "Why is Trump now encouraging mail-in voting?",
+      "text": "Donald Trump has spent years claiming mail-in voting is corrupt. Al Jazeera's Noor Wazwaz explains.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 14:09:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why is Trump now encouraging mail-in voting?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 14:09:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "54a8f869d8f563db5d57f68e",
+      "title": "Why have France’s school protests become a wider political crisis?",
+      "text": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 13:48:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why have France’s school protests become a wider political crisis?",
+          "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 13:48:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de7a52e65340618d72688e8b",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "text": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 13:47:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+          "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 13:47:07 GMT"
         }
       ],
       "cross_checked": false,
@@ -120,7 +405,7 @@
     {
       "id": "42ef9496e2442ef907befc4c",
       "title": "Britain's Kartal misses out on biggest title of her career",
-      "text": "Britain's Sonay Kartal misses out on the biggest title of her career as she fades in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+      "text": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
       "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sun, 18 Oct 2026 13:39:24 GMT",
@@ -131,6 +416,25 @@
           "title": "Britain's Kartal misses out on biggest title of her career",
           "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 18 Oct 2026 13:39:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a7c1853eee81fefe9a6359cb",
+      "title": "Sudan army accused of drone strike on livestock market",
+      "text": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 13:37:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Sudan army accused of drone strike on livestock market",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 13:37:03 +0000"
         }
       ],
       "cross_checked": false,
@@ -251,25 +555,6 @@
       "conflict": false
     },
     {
-      "id": "6bd483fb49bef24adff26cac",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "text": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 12:41:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Several dead or injured in major fire at Canada military base",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 12:41:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a76e632a4832aed7ac211a8e",
       "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
       "text": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
@@ -302,25 +587,6 @@
           "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
           "published_at": "Sun, 18 Oct 2026 12:30:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0bd6429ce4de8bfba62f811d",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "text": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 12:16:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 12:16:14 GMT"
         }
       ],
       "cross_checked": false,
@@ -367,7 +633,7 @@
     {
       "id": "3371ebd7184486602240c692",
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "text": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "text": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sun, 18 Oct 2026 12:07:31 GMT",
@@ -403,44 +669,6 @@
       "conflict": false
     },
     {
-      "id": "cae4297ec407ec6afa34e2ab",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "text": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 11:57:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 11:57:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b94d8c15e4a13aa77809d2fc",
-      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-      "text": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 11:26:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-          "url": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 11:26:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a2cf82b10495de162501046e",
       "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
       "text": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
@@ -454,25 +682,6 @@
           "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
           "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
           "published_at": "Sun, 18 Oct 2026 11:24:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ab8196ec7d0a28a3ecce57c",
-      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-      "text": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 11:14:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-          "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 11:14:33 GMT"
         }
       ],
       "cross_checked": false,
@@ -517,28 +726,9 @@
       "conflict": false
     },
     {
-      "id": "b7cab3ee8afd0bca9278588a",
-      "title": "Watch: Parisians wake up to protest damage and looted shops",
-      "text": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 10:58:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Parisians wake up to protest damage and looted shops",
-          "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 10:58:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "380e6375b674839c7a75dd0d",
-      "title": "NHS data breaches a disgrace, says health secretary",
-      "text": "A total of 15 NHS staff are sacked for accessing records of the Nottingham attacks victims.",
+      "title": "NHS data breaches a disgrace, health secretary says",
+      "text": "A total of 15 NHS staff have been sacked for accessing records of the Nottingham attacks victims.",
       "url": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sun, 18 Oct 2026 10:52:31 GMT",
@@ -546,7 +736,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "NHS data breaches a disgrace, says health secretary",
+          "title": "NHS data breaches a disgrace, health secretary says",
           "url": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 18 Oct 2026 10:52:31 GMT"
         }
@@ -593,253 +783,6 @@
       "conflict": false
     },
     {
-      "id": "b4c08c5f9cab5370bc022564",
-      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "text": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:34:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-          "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:34:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1bc8cb73122138e9ce2d6cc3",
-      "title": "Russia’s war in Ukraine puts Europe on edge",
-      "text": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:33:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia’s war in Ukraine puts Europe on edge",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:33:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c8872695ae3c5ad4a843c243",
-      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-      "text": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
-      "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:30:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-          "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:30:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d33d746b79f1367225ee356d",
-      "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-      "text": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:23:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-          "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:23:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8c0cc89cafe8e6fbc2bd5399",
-      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-      "text": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi's government of electoral manipulation.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:18:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:18:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f0c0f86980a8fe1789863006",
-      "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
-      "text": "Andrews died in France on Friday while on tour with the Johannesburg Lions during the Champions Cup rugby tournament.",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 10:02:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
-          "url": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 10:02:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "983e22f19d4b8b74d3b9bd96",
-      "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-      "text": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 09:55:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 09:55:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0e52f2fd091f856f1ffd3f69",
-      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-      "text": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 09:42:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-          "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 09:42:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f154cdde8a58825b371b863f",
-      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-      "text": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
-      "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 09:22:44 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-          "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 09:22:44 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7870d613e32baa57c6633b02",
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "text": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 09:16:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 09:16:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "597b2a812ad1a7b0d786cbcd",
-      "title": "LIVE: Leeds United vs Manchester United – Premier League",
-      "text": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 09:16:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Leeds United vs Manchester United – Premier League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 09:16:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fe58d8e9edf036dfb1ea27bc",
-      "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
-      "text": "Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 08:56:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
-          "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 08:56:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d6153595c867667e37a32e1b",
-      "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-      "text": "Argentinian goalkeeper stretchered off after a collision during Chelsea's visit to Everton and later undergoes surgery.",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 08:40:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-          "url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 08:40:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "8e149e8dec20ccea3911c45a",
       "title": "The playground murder - trauma, loss and a love that endured",
       "text": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
@@ -853,25 +796,6 @@
           "title": "The playground murder - trauma, loss and a love that endured",
           "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 18 Oct 2026 08:11:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a0a7e9fc4c93e44635e29294",
-      "title": "New Zealand avoid World Cup shock against Fiji",
-      "text": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 07:38:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "New Zealand avoid World Cup shock against Fiji",
-          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 07:38:11 GMT"
         }
       ],
       "cross_checked": false,
