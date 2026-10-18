@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-10-18T04:32:32.885364+00:00",
-  "source_count": 63,
-  "story_count": 60,
+  "generated_at": "2026-10-18T09:37:08.690114+00:00",
+  "source_count": 57,
+  "story_count": 57,
   "documents": [
-    {
-      "id": "5a744b909bc9140909d15995",
-      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "text": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 01:02:37 +0000",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 23:52:38 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 01:02:37 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -48,19 +23,38 @@
       "conflict": false
     },
     {
-      "id": "68d6c334b08a046360afc9fd",
-      "title": "Isle of Wight fossil identified as new dinosaur species",
-      "text": "Invictibellatrix would have been up to four metres long with feathers and had 20cm claws.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo?at_medium=RSS&at_campaign=rss",
+      "id": "3c529b7f0e60f8dd1ef5a228",
+      "title": "Watch: Dolphin in river freed by fire crews and divers",
+      "text": "Marine medics work to remove netting from its beak and release the dolphin back towards the sea.",
+      "url": "https://www.bbc.co.uk/news/videos/cqvg0dlgjyjxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 14 Oct 2026 05:09:46 GMT",
+      "published_at": "Wed, 14 Oct 2026 17:29:54 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Isle of Wight fossil identified as new dinosaur species",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgx70v9vrjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 14 Oct 2026 05:09:46 GMT"
+          "title": "Watch: Dolphin in river freed by fire crews and divers",
+          "url": "https://www.bbc.co.uk/news/videos/cqvg0dlgjyjxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 17:29:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d4f2375d084377be7fd8ef69",
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "text": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 14 Oct 2026 08:27:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+          "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 14 Oct 2026 08:27:17 GMT"
         }
       ],
       "cross_checked": false,
@@ -86,38 +80,551 @@
       "conflict": false
     },
     {
-      "id": "f6f4389fe2f6f6ced3b618da",
-      "title": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
-      "text": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "id": "1a4a16f42080d2afb6f07d65",
+      "title": "Horse-drawn carriages in New York City expected to be outlawed",
+      "text": "Both the speaker of the city council and the mayor have expressed support for ending the practice.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 15:12:38 GMT",
+      "published_at": "Tue, 13 Oct 2026 20:45:33 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
-          "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 15:12:38 GMT"
+          "title": "Horse-drawn carriages in New York City expected to be outlawed",
+          "url": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 20:45:33 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "101895a9d355e44a052a7d05",
-      "title": "Poodle party reunites rescued dogs",
-      "text": "The eight dogs were found alongside more than 250 poodle-cross breeds at a property in Norfolk.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2kevzevp1lo?at_medium=RSS&at_campaign=rss",
+      "id": "3b3c167e879dfc58de343cb2",
+      "title": "Student who spells by blinking is denied chance to sit exam",
+      "text": "Romi Loffler is battling to take her history exam with reasonable adjustments allowing for her condition.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 13 Oct 2026 11:17:19 GMT",
+      "published_at": "Tue, 13 Oct 2026 07:00:39 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Poodle party reunites rescued dogs",
-          "url": "https://www.bbc.co.uk/news/videos/cm2kevzevp1lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 13 Oct 2026 11:17:19 GMT"
+          "title": "Student who spells by blinking is denied chance to sit exam",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 13 Oct 2026 07:00:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fb7af366843397d38c6b70e0",
+      "title": "Finucane will 'come back fighting' after missing gold",
+      "text": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 09:24:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Finucane will 'come back fighting' after missing gold",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 09:24:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "597b2a812ad1a7b0d786cbcd",
+      "title": "LIVE: Leeds United vs Manchester United – Premier League",
+      "text": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 09:16:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Leeds United vs Manchester United – Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 09:16:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c80152c98b3c12b934943cae",
+      "title": "Police officer in hospital after being shot in Nottingham",
+      "text": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
+      "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 09:07:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Police officer in hospital after being shot in Nottingham",
+          "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 09:07:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fe58d8e9edf036dfb1ea27bc",
+      "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+      "text": "Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:56:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+          "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:56:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6bd483fb49bef24adff26cac",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "text": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 08:52:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Several dead or injured in major fire at Canada military base",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 08:52:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f003e1cb3379def70dcce584",
+      "title": "Urgent plan needed to end 'corridor care' for children, health secretary says",
+      "text": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 08:51:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Urgent plan needed to end 'corridor care' for children, health secretary says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 08:51:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d6153595c867667e37a32e1b",
+      "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
+      "text": "Argentinian goalkeeper stretchered off after a collision during Chelsea's visit to Everton and later undergoes surgery.",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:40:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
+          "url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:40:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "31d7992b56aa6dec513f9b35",
+      "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+      "text": "Thousands rallied across the US against President Donald Trump in ‘No Kings’ demonstrations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:25:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:25:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9e3079a6c5575adc38bd86ea",
+      "title": "‘Young protesters across Europe share grievances and tactics’",
+      "text": "‘Young protesters across Europe share grievances and tactics’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:25:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Young protesters across Europe share grievances and tactics’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:25:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8a1fd38de6b97a3e755e2975",
+      "title": "Photos: Protests across France spiral into looting, blazes and clashes",
+      "text": "Authorities report 1,200 arrests and 150 injured police officers as unrest erupts in multiple French cities.",
+      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:21:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Photos: Protests across France spiral into looting, blazes and clashes",
+          "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:21:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a5d365ed01c0515bb72d733d",
+      "title": "There is no split in MAGA",
+      "text": "But there is an attempt to redefine who the movement includes and what it stands for.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 08:14:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "There is no split in MAGA",
+          "url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 08:14:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e149e8dec20ccea3911c45a",
+      "title": "The playground murder - trauma, loss and a love that endured",
+      "text": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 08:11:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The playground murder - trauma, loss and a love that endured",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 08:11:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a0a7e9fc4c93e44635e29294",
+      "title": "New Zealand avoid World Cup shock against Fiji",
+      "text": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 07:38:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "New Zealand avoid World Cup shock against Fiji",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 07:38:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "16c440d7c6796176db579923",
+      "title": "Why Iran-US negotiations keep failing",
+      "text": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 07:32:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why Iran-US negotiations keep failing",
+          "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 07:32:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2d2d332fee991fb6f8a364ea",
+      "title": "Martinez 'back in a few weeks' after operation",
+      "text": "Chelsea goalkeeper Emiliano Martinez says he will be fit in a few weeks after being injured in the win at Everton.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 07:25:23 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Martinez 'back in a few weeks' after operation",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 07:25:23 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7a44c3bbe782e7d83e8b3931",
+      "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+      "text": "Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 07:08:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+          "url": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 07:08:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c5890a136f10196c6b345b7c",
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+      "text": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 07:05:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+          "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 07:05:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "18744bc780c866b89a2078e2",
+      "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+      "text": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 06:34:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+          "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 06:34:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a2a6b621103cfd0a44df0a76",
+      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+      "text": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 05:56:20 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 05:56:20 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5dfce686a3aa2255b68f2a3e",
+      "title": "Guatemalan former prosecutor shot dead at sports centre",
+      "text": "Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 05:53:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Guatemalan former prosecutor shot dead at sports centre",
+          "url": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 05:53:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "983e22f19d4b8b74d3b9bd96",
+      "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+      "text": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 05:39:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 05:39:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09779f71ac0f128352911a77",
+      "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+      "text": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 05:37:36 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+          "url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 05:37:36 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0f0aff23c056876b02a5a9ff",
+      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+      "text": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 05:16:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+          "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 05:16:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0e4e8818e9343e503dbc5f05",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "text": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 18 Oct 2026 05:04:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 18 Oct 2026 05:04:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3cb31b1c209d5825dccf4e85",
+      "title": "‘Serious incident’ at Canada military base causes deaths, injuries",
+      "text": "Defence Minister David McGuinty says people were killed and injured after an incident caused a major fire in Alberta.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 04:59:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Serious incident’ at Canada military base causes deaths, injuries",
+          "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 04:59:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "18ad45f4140f56cb97a216d2",
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "text": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 04:51:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "St Petersburg under attack from Ukrainian drone swarm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 04:51:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c8de1d976c1346f3fb4bf180",
+      "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+      "text": "Met Police determine X post by Sarah Helm, seen to endorse Palestine Action, does 'not meet the criminal threshold'.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 04:46:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+          "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+          "published_at": "Sun, 18 Oct 2026 04:46:17 +0000"
         }
       ],
       "cross_checked": false,
@@ -156,25 +663,6 @@
           "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
           "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
           "published_at": "Sun, 18 Oct 2026 04:14:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6bd483fb49bef24adff26cac",
-      "title": "Deadly fire breaks out at Canada military base",
-      "text": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 04:00:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Deadly fire breaks out at Canada military base",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 04:00:50 GMT"
         }
       ],
       "cross_checked": false,
@@ -295,25 +783,6 @@
       "conflict": false
     },
     {
-      "id": "b677fdedabaf44798b79a308",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "text": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 18 Oct 2026 01:10:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 18 Oct 2026 01:10:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a9c87bdeeeff63d16f8e3a8b",
       "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
       "text": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
@@ -353,7 +822,7 @@
     },
     {
       "id": "70a3143d893989143268963d",
-      "title": "How The Traitors' music plays with your emotions",
+      "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
       "text": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
       "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -362,7 +831,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "How The Traitors' music plays with your emotions",
+          "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
           "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 18 Oct 2026 00:29:58 GMT"
         }
@@ -372,7 +841,7 @@
     },
     {
       "id": "11a8195024bd6c6caadbadf6",
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "title": "There's a crackdown on sports piracy but is it already out of control?",
       "text": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
       "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -381,7 +850,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "There's a crackdown on sports piracy - but is it already out of control?",
+          "title": "There's a crackdown on sports piracy but is it already out of control?",
           "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 18 Oct 2026 00:11:09 GMT"
         }
@@ -409,38 +878,19 @@
       "conflict": false
     },
     {
-      "id": "5143079001a2ff1f4ac5f3cc",
-      "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-      "text": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 18 Oct 2026 00:00:11 +0000",
+      "id": "0bd6429ce4de8bfba62f811d",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "text": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 17 Oct 2026 23:52:38 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-          "published_at": "Sun, 18 Oct 2026 00:00:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "66213a06d07befa2826f1c55",
-      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-      "text": "US Secretary of State Rubio separately urges Israel to ‘crack down’ on settler violence after attack on photographer.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 23:40:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-          "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 23:40:59 +0000"
+          "source": "BBC",
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 17 Oct 2026 23:52:38 GMT"
         }
       ],
       "cross_checked": false,
@@ -466,27 +916,8 @@
       "conflict": false
     },
     {
-      "id": "9b26445cd5737b5a28d6f645",
-      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-      "text": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 23:21:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-          "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 23:21:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "24fc5221334c7eb6faa54766",
-      "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+      "title": "The turbulent backstory of one of Turkey's biggest girl groups",
       "text": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
       "url": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -495,7 +926,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+          "title": "The turbulent backstory of one of Turkey's biggest girl groups",
           "url": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 17 Oct 2026 23:07:57 GMT"
         }
@@ -504,27 +935,8 @@
       "conflict": false
     },
     {
-      "id": "8e149e8dec20ccea3911c45a",
-      "title": "The playground murder: Trauma, loss and a love that endured",
-      "text": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 23:04:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The playground murder: Trauma, loss and a love that endured",
-          "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 23:04:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "0186b68a3eac616bd265184a",
-      "title": "Dubois destroys Wardley in two rounds to retain title",
+      "title": "Dubois destroys Wardley in two rounds to retain WBO title",
       "text": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -533,7 +945,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Dubois destroys Wardley in two rounds to retain title",
+          "title": "Dubois destroys Wardley in two rounds to retain WBO title",
           "url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 17 Oct 2026 22:27:49 GMT"
         }
@@ -561,133 +973,19 @@
       "conflict": false
     },
     {
-      "id": "cd1eb74272bdae2dfb6acadc",
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "text": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "id": "df2da120270d1f17f795c733",
+      "title": "Can Hearts prove credentials at scene of title heartbreak?",
+      "text": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 21:33:17 GMT",
+      "published_at": "Sat, 17 Oct 2026 21:55:44 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "How day of protests unfolded as disorder breaks out across France",
-          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 21:33:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1ee5355d7657e9c7b0613b78",
-      "title": "Villa's Manzambi shows Newcastle what they missed out on",
-      "text": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 21:18:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Villa's Manzambi shows Newcastle what they missed out on",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 21:18:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f171dd0caa3e08640003609a",
-      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-      "text": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 21:08:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-          "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 21:08:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1f5d991297e8d6de2161560c",
-      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "text": "Hundreds of thousands take to the streets for separate demonstrations, putting pressure on governments across the EU.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 21:02:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-          "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 21:02:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d1497d28ad88bffa8651777",
-      "title": "Anti-government protesters battle with police in Albania",
-      "text": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 20:53:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Anti-government protesters battle with police in Albania",
-          "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 20:53:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a2a6b621103cfd0a44df0a76",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "text": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 20:52:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 20:52:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5f781c2202f61afe7dcbdb9a",
-      "title": "Ten killed in fire at beach resort in Bangladesh",
-      "text": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 20:50:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ten killed in fire at beach resort in Bangladesh",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 20:50:01 +0000"
+          "title": "Can Hearts prove credentials at scene of title heartbreak?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 17 Oct 2026 21:55:44 GMT"
         }
       ],
       "cross_checked": false,
@@ -713,158 +1011,6 @@
       "conflict": false
     },
     {
-      "id": "2bd5fa36ff76d721c9c67226",
-      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-      "text": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 20:40:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 20:40:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "56e185745856c194c3741953",
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "text": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 20:24:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No further action against government adviser's wife over Palestine Action post, police say",
-          "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 20:24:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "877f10fbdb9a9b938aba4d6b",
-      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-      "text": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 20:20:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 20:20:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bd09170cd78427aed7920955",
-      "title": "Wirtz delivers but remains Liverpool's conundrum",
-      "text": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 20:07:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Wirtz delivers but remains Liverpool's conundrum",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 20:07:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "84764984881eea62829ed980",
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-      "text": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 20:02:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 20:02:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3c9a10b5da4f3173f12ce24e",
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "text": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 19:48:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "At least 17 killed in stampede at religious gathering in India",
-          "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 19:48:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3b2e63ea776540059588daee",
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "text": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 19:26:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-          "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 19:26:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "67ea86ec21b12c2007a2381d",
-      "title": "Manzambi heads Villa to victory at Newcastle",
-      "text": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 19:12:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Manzambi heads Villa to victory at Newcastle",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 19:12:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1a7f5c48a09ce4acf454f4dc",
       "title": "Tributes to Andrews before Champions Cup matches",
       "text": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
@@ -878,158 +1024,6 @@
           "title": "Tributes to Andrews before Champions Cup matches",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 17 Oct 2026 19:08:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e43ec7dcbf26dc16c47045f8",
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "text": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 19:04:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 19:04:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "99b770c4ae14648b6c267b22",
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "text": "US support at risk as Trump-Zelenskyy relations nosedive.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 19:03:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 19:03:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "59b9f2cf392e2e5f081ca55d",
-      "title": "Liverpool come from behind to beat nine-man Brentford",
-      "text": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 19:00:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Liverpool come from behind to beat nine-man Brentford",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 19:00:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e63fdaf6ec00a14996feba6c",
-      "title": "Haaland nets double as Man City go six points clear at the top",
-      "text": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 19:00:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Haaland nets double as Man City go six points clear at the top",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 19:00:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "db031a169ec0622bacb0c966",
-      "title": "Iwobi delivers Fulham's first win of season",
-      "text": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 19:00:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Iwobi delivers Fulham's first win of season",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 19:00:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "27e089a85dba786143e0a70d",
-      "title": "Neto scores twice as Chelsea win at Everton",
-      "text": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 19:00:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Neto scores twice as Chelsea win at Everton",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 19:00:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d3d37f58afbd42be94f96dd2",
-      "title": "Is the US Embassy in Jerusalem for Israel or America?",
-      "text": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 18:41:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is the US Embassy in Jerusalem for Israel or America?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 18:41:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9c22ae26576eaf8b38ffa170",
-      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "text": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 18:26:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-          "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 18:26:59 +0000"
         }
       ],
       "cross_checked": false,
@@ -1074,76 +1068,19 @@
       "conflict": false
     },
     {
-      "id": "669e62cbff1553694e5c591a",
-      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-      "text": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
-      "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 17 Oct 2026 17:42:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-          "published_at": "Sat, 17 Oct 2026 17:42:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e33e897131295bc166b3d5fe",
-      "title": "More NHS staff sacked over attacks victims' records",
-      "text": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+      "id": "b0180e9d49447c9e1f26b05a",
+      "title": "Wildfire: A Warning from the Midlands",
+      "text": "What can we learn from wildfires that destroyed 38 homes in the Midlands in August 2026?",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_mid=5Ey2ExaRnm&at_campaign=Wildfire_A_Warning_from_the_Midlands_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032x9b&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&at_bbc_team=BBC&at_creation=News",
       "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 16:34:39 GMT",
+      "published_at": "Fri, 16 Oct 2026 05:00:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "More NHS staff sacked over attacks victims' records",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 16:34:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8a06a6187712884a6435d3b4",
-      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-      "text": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 16:02:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 16:02:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f711fc91eca20c113f6bc865",
-      "title": "DIY SOS to be 'rested' next year to save money, BBC says",
-      "text": "The long-running programme will be replaced by a \"more cost-effective\" spin-off show revisiting past projects.",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 17 Oct 2026 10:52:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "DIY SOS to be 'rested' next year to save money, BBC says",
-          "url": "https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 17 Oct 2026 10:52:17 GMT"
+          "title": "Wildfire: A Warning from the Midlands",
+          "url": "https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_mid=5Ey2ExaRnm&at_campaign=Wildfire_A_Warning_from_the_Midlands_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032x9b&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&at_bbc_team=BBC&at_creation=News",
+          "published_at": "Fri, 16 Oct 2026 05:00:00 GMT"
         }
       ],
       "cross_checked": false,
