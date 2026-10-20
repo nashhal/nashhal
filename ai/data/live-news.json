@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-20T19:16:01.760401+00:00",
-  "source_count": 58,
-  "story_count": 57,
+  "generated_at": "2026-10-20T22:20:45.658968+00:00",
+  "source_count": 57,
+  "story_count": 55,
   "documents": [
+    {
+      "id": "ca3e52c2944350b6ed3fd884",
+      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+      "text": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:17:53 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+          "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 18:32:14 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+          "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:17:53 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "0da7679d13b4f679a35be912",
       "title": "UK to deploy fighter jets to defend Saudi Arabia",
@@ -61,6 +86,405 @@
           "title": "Sign up now",
           "url": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 09 Sep 2026 10:24:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3dc6f12e33fbdf3fcc36693b",
+      "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+      "text": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 22:06:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 22:06:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c038aa98247b21af3814f448",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "text": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 21:27:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 21:27:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "48cae5eed2236d1bc8bcbfac",
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "text": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 21:27:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 21:27:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "572968abfb967d03fb2ffc43",
+      "title": "Carrick wants more clean sheets to turn season around",
+      "text": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 21:27:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Carrick wants more clean sheets to turn season around",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 21:27:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1d49e34688e321bcb359c226",
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "text": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 21:24:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+          "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 21:24:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7360500d98e425c32ac9be3e",
+      "title": "Second Labour MP suspended over Covid loan repayments",
+      "text": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 21:20:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Second Labour MP suspended over Covid loan repayments",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 21:20:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f5edd10ab77894a4efa2c34a",
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "text": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+          "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 21:19:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a032dae0ff81fa3cb0647cea",
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "text": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 21:10:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+          "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 21:10:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9558bbff912249e5a74dfe75",
+      "title": "Why do the US midterms matter for Trump and Congress?",
+      "text": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 21:00:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why do the US midterms matter for Trump and Congress?",
+          "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 21:00:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e3bc1691d0d4cfddc3e58d6",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "text": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 20:56:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Audit regulator looking into Manchester City accounting",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 20:56:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c444267826215bea008c5fd0",
+      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+      "text": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:49:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:49:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5256953089a9ca8248957b95",
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "text": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:32:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:32:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3cd6b9239f824e9966d6c9eb",
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "text": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:23:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why the war on Iran could backfire on US regime-change goals",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:23:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aaa79f10562dc8e7ec4046ba",
+      "title": "France riots leave thousands of businesses damaged",
+      "text": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:16:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "France riots leave thousands of businesses damaged",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:16:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f0a67dd61dd948ce5f02f816",
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "text": "The new strategy shifts the bloc's focus from long-term climate concerns to urgent security measures.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 20:05:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+          "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 20:05:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6437763f391a5ef73a2b9c80",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "text": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 20 Oct 2026 20:00:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+          "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 20:00:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "62c337e84733e5738045ac91",
+      "title": "Is money ruining US elections?",
+      "text": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith.",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 19:59:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is money ruining US elections?",
+          "url": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 19:59:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1ef0f9f5df46aea166a7dee0",
+      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+      "text": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 19:55:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+          "url": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 19:55:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fe833d32710a5535d13b2cc8",
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "text": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 19:51:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 19:51:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f7ce53126729d79005552a42",
+      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+      "text": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.",
+      "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 19:29:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+          "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 19:29:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "013165f1f8427465ba280c58",
+      "title": "The political ads that don’t look like ads",
+      "text": "Political campaigns and lobby groups in the US are paying content creators as little as $25 to influence the midterms.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 20 Oct 2026 19:05:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "The political ads that don’t look like ads",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+          "published_at": "Tue, 20 Oct 2026 19:05:53 +0000"
         }
       ],
       "cross_checked": false,
@@ -143,38 +567,19 @@
       "conflict": false
     },
     {
-      "id": "2bff64efd006d1b0cddedac5",
-      "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
-      "text": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role.",
-      "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
+      "id": "c52ddf74e7ae344731dd9bb8",
+      "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
+      "text": "Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to \"reconcile\" with his family.",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 18:40:30 GMT",
+      "published_at": "Tue, 20 Oct 2026 18:40:27 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
-          "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 18:40:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2e782a1d406668af84ea2133",
-      "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
-      "text": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 18:32:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
-          "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 18:32:14 GMT"
+          "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
+          "url": "https://www.bbc.co.uk/news/videos/cm0e0z7dwrd9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 20 Oct 2026 18:40:27 GMT"
         }
       ],
       "cross_checked": false,
@@ -239,8 +644,8 @@
     },
     {
       "id": "30db36ad3afb50b6477eccee",
-      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
-      "text": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
+      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+      "text": "Nigeria's Health Ministry says a woman who arrived on a flight from Uganda tested positive.",
       "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Tue, 20 Oct 2026 17:31:26 +0000",
@@ -248,7 +653,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+          "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
           "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
           "published_at": "Tue, 20 Oct 2026 17:31:26 +0000"
         }
@@ -296,7 +701,7 @@
     },
     {
       "id": "83564d1719c5e4fedd3c1f01",
-      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+      "title": "Jerusalem Daily: half a million Palestinians lose food aid",
       "text": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
       "source": "Al Jazeera",
@@ -305,28 +710,9 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+          "title": "Jerusalem Daily: half a million Palestinians lose food aid",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
           "published_at": "Tue, 20 Oct 2026 16:59:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "703044675e0b8afa8dd8dec9",
-      "title": "Webb backs VAR over Botman challenge on Jackson",
-      "text": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 16:56:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Webb backs VAR over Botman challenge on Jackson",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 16:56:53 GMT"
         }
       ],
       "cross_checked": false,
@@ -352,44 +738,6 @@
       "conflict": false
     },
     {
-      "id": "7a7c648f33353f75daa73351",
-      "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-      "text": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:34:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-          "url": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:34:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "42446d38a48e9ee622074418",
-      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-      "text": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:33:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-          "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:33:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "45486fe0bd613e6b856ebe29",
       "title": "Teenagers tell BBC of their hopes and fears as they prepare to start work",
       "text": "Follow four students from Newcastle as they try out roles for the first time as part of their work experience placements.",
@@ -403,63 +751,6 @@
           "title": "Teenagers tell BBC of their hopes and fears as they prepare to start work",
           "url": "https://www.bbc.co.uk/news/videos/cm93z0w7weeno?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 16:28:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e486320b19c99af97257e411",
-      "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-      "text": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 16:27:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 16:27:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "35fb8dc2b404ba68fed63892",
-      "title": "Is Cyprus becoming Israel’s backyard?",
-      "text": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:23:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is Cyprus becoming Israel’s backyard?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:23:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bd8cafb2c10fbc2e542cc45c",
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "text": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:21:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Qatar says only negotiations can resolve regional tensions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:21:01 +0000"
         }
       ],
       "cross_checked": false,
@@ -485,44 +776,6 @@
       "conflict": false
     },
     {
-      "id": "cc78a9dbb5d19b9cabbe2b16",
-      "title": "Ferry catches fire near Indonesian port, all passengers rescued",
-      "text": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:13:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ferry catches fire near Indonesian port, all passengers rescued",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:13:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "be178f147f5946e1e91dbffb",
-      "title": "Trump official claims record-breaking 300,000 visas were revoked",
-      "text": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:02:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump official claims record-breaking 300,000 visas were revoked",
-          "url": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:02:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "6241a174cc5ae02b8b96989f",
       "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
       "text": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
@@ -536,63 +789,6 @@
           "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
           "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 16:02:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "91752902dd05c40a7dbfbf97",
-      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-      "text": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:01:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-          "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:01:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4b2c55ab604d1bee65b84e1e",
-      "title": "PSG vs Barcelona LIVE: Champions League",
-      "text": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "PSG vs Barcelona LIVE: Champions League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 16:00:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "94b7e51dad529ee25ea4ee0a",
-      "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
-      "text": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump’s most loyal supporters.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 15:57:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
-          "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 15:57:47 +0000"
         }
       ],
       "cross_checked": false,
@@ -637,25 +833,6 @@
       "conflict": false
     },
     {
-      "id": "ee824e95e6e381de259c637c",
-      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
-      "text": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 15:46:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
-          "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 15:46:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2eb8826a3da4b03f0f2db32d",
       "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
       "text": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
@@ -669,44 +846,6 @@
           "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
           "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 15:32:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c66158262bde6d87afce3193",
-      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
-      "text": "The vote recognises Ankara's maritime deal with Tripoli, ending Haftar's 2020 boycott.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 15:19:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
-          "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 15:19:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "694194250874e27a9d2b59f3",
-      "title": "Christina Applegate says she was wrongfully diagnosed with MS",
-      "text": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 15:16:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Christina Applegate says she was wrongfully diagnosed with MS",
-          "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 15:16:38 GMT"
         }
       ],
       "cross_checked": false,
@@ -732,25 +871,6 @@
       "conflict": false
     },
     {
-      "id": "7c58dbcc59f0d6ba6864760f",
-      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-      "text": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 15:02:34 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-          "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 15:02:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "167ce51f7d33a7adbc31746d",
       "title": "Immersive Beatles museum described as 'like Graceland or Dollywood' to open in 2028",
       "text": "The surviving Beatles have welcomed plans for an immersive visitor experience in Liverpool.",
@@ -764,44 +884,6 @@
           "title": "Immersive Beatles museum described as 'like Graceland or Dollywood' to open in 2028",
           "url": "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 14:58:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ebcf4578342cbe3fecd60273",
-      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
-      "text": "Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 14:42:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
-          "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 14:42:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3e4ea1b51c9a1b41e33aa259",
-      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-      "text": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 14:39:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-          "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 14:39:50 +0000"
         }
       ],
       "cross_checked": false,
@@ -827,25 +909,6 @@
       "conflict": false
     },
     {
-      "id": "d44a863405039ef25a88758e",
-      "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
-      "text": "An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 20 Oct 2026 14:24:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
-          "published_at": "Tue, 20 Oct 2026 14:24:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a3f8bffff16935f52a436956",
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",
       "text": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
@@ -859,25 +922,6 @@
           "title": "Huge setback for Alberta's separatist movement after decisive defeat",
           "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 13:39:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a032dae0ff81fa3cb0647cea",
-      "title": "Royals roll out red carpet for visiting Sultan",
-      "text": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
-      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 13:34:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Royals roll out red carpet for visiting Sultan",
-          "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 13:34:11 GMT"
         }
       ],
       "cross_checked": false,
@@ -903,44 +947,6 @@
       "conflict": false
     },
     {
-      "id": "3c0368bd568fd377b2ab1235",
-      "title": "My son has disappeared off the face of the earth fighting for Russia",
-      "text": "Nathan Stobbart’s family say he faced deportation from Russia if he did not join the country's army.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 13:02:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "My son has disappeared off the face of the earth fighting for Russia",
-          "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 13:02:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "888d85410627f5f8bf401040",
-      "title": "Three children injured after school bus roof ripped off in crash",
-      "text": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 12:56:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Three children injured after school bus roof ripped off in crash",
-          "url": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 12:56:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "36f0b760daa9483feff6f36d",
       "title": "No 'protective ring' and visiting rules too strict - key points from Covid report on care homes",
       "text": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
@@ -954,25 +960,6 @@
           "title": "No 'protective ring' and visiting rules too strict - key points from Covid report on care homes",
           "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 12:16:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c48568dea1580dd3f0f3a524",
-      "title": "Ronaldo let Manchester United down - Ten Hag",
-      "text": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 12:12:51 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ronaldo let Manchester United down - Ten Hag",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 12:12:51 GMT"
         }
       ],
       "cross_checked": false,
@@ -1018,7 +1005,7 @@
     },
     {
       "id": "1245b6feb5631d679450008a",
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Man charged with attack on Australia MP to face court",
       "text": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -1027,7 +1014,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "title": "Man charged with attack on Australia MP to face court",
           "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 11:25:35 GMT"
         }
@@ -1049,25 +1036,6 @@
           "title": "Race, illness, injury, repeat - the devastating syndrome threatening athletic careers",
           "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 20 Oct 2026 05:45:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5f5ed2da3fd0ea68d1c26a08",
-      "title": "How is the US economy really doing under President Trump?",
-      "text": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 20 Oct 2026 05:00:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How is the US economy really doing under President Trump?",
-          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 20 Oct 2026 05:00:45 GMT"
         }
       ],
       "cross_checked": false,
