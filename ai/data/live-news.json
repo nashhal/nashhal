@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-24T18:08:31.357287+00:00",
-  "source_count": 54,
-  "story_count": 54,
+  "generated_at": "2026-10-24T20:48:19.296628+00:00",
+  "source_count": 57,
+  "story_count": 56,
   "documents": [
+    {
+      "id": "6219e3e378da99154a824806",
+      "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+      "text": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 18:59:27 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 18:59:27 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+          "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 14:04:27 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -80,19 +105,114 @@
       "conflict": false
     },
     {
-      "id": "7770c6313cf3b0a66bf9580b",
-      "title": "Leaving the technical area? Arteta has the receipts",
-      "text": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+      "id": "0986f4f7680e057da9c72772",
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "text": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 17:59:48 GMT",
+      "published_at": "Sat, 24 Oct 2026 20:30:43 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Leaving the technical area? Arteta has the receipts",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 17:59:48 GMT"
+          "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 20:30:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6a7b3fd69ceb0551ff4a4945",
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "text": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 20:03:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+          "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 20:03:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d58590effe1c443fb536bca4",
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+      "text": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 19:37:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+          "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 19:37:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "626adfd866331e9825e08a92",
+      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+      "text": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 19:17:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 19:17:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bbe4e89a16c2f35966d008d8",
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "text": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 19:11:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+          "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 19:11:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f7f51206ecc16baa12f85335",
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "text": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 19:01:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands join Paris protests as authorities clamp down on disorder",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 19:01:52 +0000"
         }
       ],
       "cross_checked": false,
@@ -104,14 +224,128 @@
       "text": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 17:52:22 GMT",
+      "published_at": "Sat, 24 Oct 2026 19:01:03 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Hayen sacked by Burnley after just 14 games",
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 17:52:22 GMT"
+          "published_at": "Sat, 24 Oct 2026 19:01:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7287b4619d72c0b3a7fd6e3a",
+      "title": "Arsenal beat Everton to go level on points with leaders Man City",
+      "text": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 18:59:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Arsenal beat Everton to go level on points with leaders Man City",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 18:59:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d1436c8ef18df100345c1581",
+      "title": "Bobb's late strike secures Fulham win at Coventry",
+      "text": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 18:59:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bobb's late strike secures Fulham win at Coventry",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 18:59:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a04f408c43583c8279d8587a",
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "text": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 18:30:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands gather at new Albanian antigovernment rally",
+          "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 18:30:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "51d102a1f49bb69a55a44312",
+      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "text": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 18:26:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 18:26:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1ca2fc85de39cb50606f7c3f",
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "text": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 18:00:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 18:00:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7770c6313cf3b0a66bf9580b",
+      "title": "'A massive storage of images': Arteta has technical area receipts",
+      "text": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 17:59:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'A massive storage of images': Arteta has technical area receipts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 17:59:48 GMT"
         }
       ],
       "cross_checked": false,
@@ -119,7 +353,7 @@
     },
     {
       "id": "3fcd6f10560124f915c94c5a",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "text": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
       "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -128,7 +362,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
           "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 24 Oct 2026 17:21:42 GMT"
         }
@@ -169,25 +403,6 @@
           "title": "Trump says he may move White House press corps to new location",
           "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
           "published_at": "Sat, 24 Oct 2026 17:01:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f4b3f531ffd76c917b531d57",
-      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-      "text": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 16:58:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 16:58:27 GMT"
         }
       ],
       "cross_checked": false,
@@ -308,25 +523,6 @@
       "conflict": false
     },
     {
-      "id": "81356501cd33c63c9c2a34a6",
-      "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-      "text": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 15:40:01 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 15:40:01 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "341fd6dbc70b531fd649ec64",
       "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
       "text": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
@@ -346,28 +542,9 @@
       "conflict": false
     },
     {
-      "id": "0986f4f7680e057da9c72772",
-      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-      "text": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 15:13:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 15:13:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e445bb162dbf96d890c8c21d",
-      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-      "text": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "title": "Hundreds of soldiers deploy as thousands protest in Italy’s Milan",
+      "text": "The Italian government sent hundreds of soldiers to the country's fashion and financial hub ahead of anticipated unrest.",
       "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 24 Oct 2026 15:05:58 +0000",
@@ -375,7 +552,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+          "title": "Hundreds of soldiers deploy as thousands protest in Italy’s Milan",
           "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
           "published_at": "Sat, 24 Oct 2026 15:05:58 +0000"
         }
@@ -385,7 +562,7 @@
     },
     {
       "id": "ec099c82841a8577b3bac6b2",
-      "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
       "text": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -394,7 +571,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+          "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
           "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 24 Oct 2026 15:05:45 GMT"
         }
@@ -473,25 +650,6 @@
           "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
           "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
           "published_at": "Sat, 24 Oct 2026 14:21:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7c28a0402996f9271bf99d1f",
-      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-      "text": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 14:04:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-          "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 14:04:27 +0000"
         }
       ],
       "cross_checked": false,
@@ -650,25 +808,6 @@
       "conflict": false
     },
     {
-      "id": "a7dd7230764684f6b2dcd0fd",
-      "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-      "text": "Authorities searching for attackers say too early to determine if they had ties to known groups, as death toll now nine.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 13:02:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-          "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 13:02:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "788677de2ca9a8a3a8349f7c",
       "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
       "text": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
@@ -688,82 +827,6 @@
       "conflict": false
     },
     {
-      "id": "9ce58a0e2586f2c49692be41",
-      "title": "France protests updates: 135 arrested as marches held under tight security",
-      "text": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 12:55:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "France protests updates: 135 arrested as marches held under tight security",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 12:55:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b8133e4e69d10730660781ba",
-      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "text": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 12:51:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-          "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 12:51:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cf91efcadfe843e2850b5f0b",
-      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
-      "text": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 12:30:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 12:30:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "59bd3fc075da12cde0bdb03e",
-      "title": "Serbia elections test student movement demanding justice for 16 victims",
-      "text": "Serbia elections test student movement demanding justice for 16 victims",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 24 Oct 2026 12:18:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Serbia elections test student movement demanding justice for 16 victims",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-          "published_at": "Sat, 24 Oct 2026 12:18:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c869fd4ff50b562baf6fc9f9",
       "title": "Sam Fender calls out ticket prices ahead of tour",
       "text": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
@@ -777,25 +840,6 @@
           "title": "Sam Fender calls out ticket prices ahead of tour",
           "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 24 Oct 2026 12:15:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "af154c8b7028fa6b062aa70a",
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "text": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 12:12:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 12:12:40 GMT"
         }
       ],
       "cross_checked": false,
