@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T22:09:42.720781+00:00",
-  "source_count": 55,
-  "story_count": 54,
+  "generated_at": "2026-10-24T00:41:29.325206+00:00",
+  "source_count": 57,
+  "story_count": 56,
   "documents": [
     {
       "id": "7ed46e2b56fbb9eb66318efd",
@@ -67,19 +67,342 @@
       "conflict": false
     },
     {
-      "id": "6aa4876febbb4adc73004382",
-      "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary?",
-      "text": "How much attention did you pay to what happened in the world over the past seven days?",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qpj72znwo?at_medium=RSS&at_campaign=rss",
+      "id": "7e55ca1d5717ec5d3b79e2cc",
+      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+      "text": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 00:27:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+          "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 00:27:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "21afcc8b6327ab9fa476b36a",
+      "title": "How does the UK state pension compare with other countries?",
+      "text": "Do British pensioners have it better or worse than those in other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Thu, 22 Oct 2026 18:28:17 GMT",
+      "published_at": "Sat, 24 Oct 2026 00:09:12 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary?",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qpj72znwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Thu, 22 Oct 2026 18:28:17 GMT"
+          "title": "How does the UK state pension compare with other countries?",
+          "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 00:09:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3a411ea5e3414a5be7c514f3",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "text": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 00:05:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 00:05:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fc2568292034cd4579957b15",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "text": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 24 Oct 2026 00:05:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 24 Oct 2026 00:05:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d824cd6e4750097a85f4cedc",
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+      "text": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+          "published_at": "Sat, 24 Oct 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5cd05b875b7dd51501a89c93",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "text": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:50:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:50:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ca6dddc5a748ed0ee57df1ce",
+      "title": "Leclerc fastest from Antonelli in US GP practice",
+      "text": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:40:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Leclerc fastest from Antonelli in US GP practice",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:40:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4a625bbd1ee880ebc565390c",
+      "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+      "text": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 23 Oct 2026 23:25:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+          "published_at": "Fri, 23 Oct 2026 23:25:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9cfe8a504962d1304cc6e512",
+      "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
+      "text": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:15:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:15:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5fa3062d63800b1a371dd890",
+      "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "text": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:11:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:11:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "53a2993817bb60dd8362e861",
+      "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+      "text": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 23 Oct 2026 23:10:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+          "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+          "published_at": "Fri, 23 Oct 2026 23:10:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2d6ad3e7edc9cef1d6af6bea",
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "text": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:09:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+          "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:09:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6904f520087f2dce2961f347",
+      "title": "The artist dropping her debut album after a billion streams",
+      "text": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:08:55 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The artist dropping her debut album after a billion streams",
+          "url": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:08:55 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4dda644d8cff8ad5498bdd17",
+      "title": "The Papers: 'Meghan warned over father' and 'Don't risk Truss-style budget'",
+      "text": "Meghan Markle's responds to allegations over her father and PM warned to not risk 'Truss-style' budget leads Saturday's papers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8devv08nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 23:06:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Meghan warned over father' and 'Don't risk Truss-style budget'",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8devv08nno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 23:06:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3736ed7a05508125bc222b95",
+      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+      "text": "A newly earned special power left one contestant with a big decision to make in Friday's episode.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 22:52:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 22:52:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "316ed2d0479cf95c4307498c",
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "text": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 23 Oct 2026 22:47:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+          "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 23 Oct 2026 22:47:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c97917ca683ccda5df3c0085",
+      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+      "text": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 23 Oct 2026 22:33:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+          "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+          "published_at": "Fri, 23 Oct 2026 22:33:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9f60e46a107e791b48c89b3d",
+      "title": "Why is Israel increasing its presence in the Balkans?",
+      "text": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 23 Oct 2026 22:01:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why is Israel increasing its presence in the Balkans?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+          "published_at": "Fri, 23 Oct 2026 22:01:52 +0000"
         }
       ],
       "cross_checked": false,
@@ -143,25 +466,6 @@
       "conflict": false
     },
     {
-      "id": "69e2ef65faf44efc64ea0b8a",
-      "title": "Man dies after car crashes into Lidl supermarket",
-      "text": "West Midlands Police said the man was pronounced dead at the scene with others requiring treatment.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrky7j13r4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 21:16:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man dies after car crashes into Lidl supermarket",
-          "url": "https://www.bbc.co.uk/news/articles/cwrky7j13r4vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 21:16:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "96a9e125144ac29f15666179",
       "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
       "text": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
@@ -175,25 +479,6 @@
           "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
           "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 23 Oct 2026 21:10:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "666454d64ad8bf44cfcabc6b",
-      "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-      "text": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.",
-      "url": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 21:01:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-          "url": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 21:01:31 GMT"
         }
       ],
       "cross_checked": false,
@@ -276,25 +561,6 @@
       "conflict": false
     },
     {
-      "id": "97c227bfaa08472768aae88e",
-      "title": "White House says the US is lifting tariffs on some Canadian goods",
-      "text": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 20:39:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "White House says the US is lifting tariffs on some Canadian goods",
-          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 20:39:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d06b6dc6e7194d67699cc2a3",
       "title": "Why is Trump questioning Ilhan Omar’s name?",
       "text": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
@@ -308,25 +574,6 @@
           "title": "Why is Trump questioning Ilhan Omar’s name?",
           "url": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
           "published_at": "Fri, 23 Oct 2026 20:37:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a0e0280cc8c3a81f127f0996",
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "text": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 20:18:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-          "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 20:18:13 GMT"
         }
       ],
       "cross_checked": false,
@@ -430,7 +677,7 @@
     {
       "id": "e097ac388c0ec7ecbaaa07c5",
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "text": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "text": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Fri, 23 Oct 2026 19:42:08 GMT",
@@ -504,25 +751,6 @@
       "conflict": false
     },
     {
-      "id": "97e4673998eb5812fc945aaa",
-      "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
-      "text": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wv9p0p9e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 18:45:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wv9p0p9e3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 18:45:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "2c5b632a9d2ba91fa4e054ac",
       "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
       "text": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
@@ -555,25 +783,6 @@
           "title": "Israel locks down occupied West Bank after Hebron shooting",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
           "published_at": "Fri, 23 Oct 2026 18:38:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dfbfef4fa77428a025844dee",
-      "title": "Celebrated Irish musician Dónal Lunny dies aged 79",
-      "text": "A founding member of three renowned bands - The Bothy Band, Planxty and Moving Hearts - he was widely credited for the revival and growth of Irish traditional music.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgdjrzx13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 18:31:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Celebrated Irish musician Dónal Lunny dies aged 79",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgdjrzx13o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 18:31:41 GMT"
         }
       ],
       "cross_checked": false,
@@ -732,120 +941,6 @@
       "conflict": false
     },
     {
-      "id": "b6eb5852986f839024b33ea1",
-      "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-      "text": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 17:26:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-          "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 17:26:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8ad74db3ac730eccb473a77b",
-      "title": "Why Chinese families are rushing to buy gold",
-      "text": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 17:20:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why Chinese families are rushing to buy gold",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 17:20:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6facbbfe7120b88530382b48",
-      "title": "Many feared trapped after Kenya building collapse",
-      "text": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 17:01:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Many feared trapped after Kenya building collapse",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 17:01:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "821a7d4bee53c6ef525a931c",
-      "title": "Indonesia seizes more than a tonne of ketamine from tanker",
-      "text": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 17:00:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Indonesia seizes more than a tonne of ketamine from tanker",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 17:00:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f07a457c5be5bb854cbf8f1a",
-      "title": "Brazil’s right has already changed the balance of power",
-      "text": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 16:41:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil’s right has already changed the balance of power",
-          "url": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 16:41:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4f6c75c0c06fa03e3e3f44c4",
-      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-      "text": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 23 Oct 2026 16:37:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-          "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-          "published_at": "Fri, 23 Oct 2026 16:37:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "69507617ea9517a68e36595e",
       "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "text": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
@@ -859,44 +954,6 @@
           "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
           "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 23 Oct 2026 15:37:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "709eed1c6dd0bdcc38af45ce",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "text": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Oil spill washes up on UAE beaches after tanker strike",
-          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 15:30:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a7067cb440d4eb0430565617",
-      "title": "Poulter & Hatton leave LIV as exodus continues",
-      "text": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 14:41:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Poulter & Hatton leave LIV as exodus continues",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 14:41:19 GMT"
         }
       ],
       "cross_checked": false,
@@ -992,25 +1049,6 @@
           "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
           "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 23 Oct 2026 12:00:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b18df0fa70c2d9c7effc6f1f",
-      "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
-      "text": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 23 Oct 2026 06:06:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 23 Oct 2026 06:06:38 GMT"
         }
       ],
       "cross_checked": false,
