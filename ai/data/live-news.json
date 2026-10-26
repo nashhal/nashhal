@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-10-25T22:32:41.230081+00:00",
-  "source_count": 59,
-  "story_count": 59,
+  "generated_at": "2026-10-26T01:09:14.466097+00:00",
+  "source_count": 63,
+  "story_count": 60,
   "documents": [
+    {
+      "id": "f8cd70d2ff1fcaf117bc93ec",
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
+      "text": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 25 Oct 2026 23:23:25 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 23:33:14 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuela’s opposition leader Machado returns after months in exile",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 23:23:25 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+          "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 18:55:39 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -42,19 +73,114 @@
       "conflict": false
     },
     {
-      "id": "e6a7bec3f02c4cd764e268a9",
-      "title": "Watch: Match of the Day",
-      "text": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "id": "842f3b34c2cc681d62066084",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "text": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 23:46:55 GMT",
+      "published_at": "Sun, 25 Oct 2026 23:44:34 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: Match of the Day",
-          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 23:46:55 GMT"
+          "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 23:44:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fcf357c3fdacb0f3414c00f1",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+      "text": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 25 Oct 2026 23:38:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+          "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 23:38:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9adeceb6fe7acda4ac474d57",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "text": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 25 Oct 2026 23:33:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 23:33:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e2ca172b5a840d6f1d72d060",
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "text": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 25 Oct 2026 23:29:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands protest in Prague against public media funding reforms",
+          "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 23:29:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "00f750aac2590202af7dd8a9",
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "text": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 25 Oct 2026 22:57:17 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bulgaria election heads to a run-off amid low voter turnout",
+          "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 22:57:17 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f441973da621a0fcd6545d93",
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "text": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+      "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 25 Oct 2026 22:37:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+          "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 22:37:36 GMT"
         }
       ],
       "cross_checked": false,
@@ -74,6 +200,25 @@
           "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
           "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 25 Oct 2026 22:24:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a0f98c42e671b2d28e2a751a",
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "text": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 25 Oct 2026 22:22:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+          "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+          "published_at": "Sun, 25 Oct 2026 22:22:53 +0000"
         }
       ],
       "cross_checked": false,
@@ -118,19 +263,19 @@
       "conflict": false
     },
     {
-      "id": "389047118581412ae4bee80e",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "text": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "id": "c4cf9a1134545ecf89a58569",
+      "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+      "text": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 22:06:26 GMT",
+      "published_at": "Sun, 25 Oct 2026 21:58:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 22:06:26 GMT"
+          "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 21:58:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -233,7 +378,7 @@
     },
     {
       "id": "2e03527dedde8b3e03b5a72c",
-      "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
       "text": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -242,7 +387,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
           "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 25 Oct 2026 21:24:21 GMT"
         }
@@ -291,7 +436,7 @@
     {
       "id": "5ce575f96d7ce27c8d4d259c",
       "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-      "text": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+      "text": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sun, 25 Oct 2026 20:00:19 GMT",
@@ -328,8 +473,8 @@
     },
     {
       "id": "58dd76d6c952bad2ddd61861",
-      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-      "text": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape.",
+      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
+      "text": "Brazil's veteran president has secured an unprecedented fourth term after edging past right-wing challenger in runoff",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 25 Oct 2026 20:00:04 +0000",
@@ -337,7 +482,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+          "title": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
           "published_at": "Sun, 25 Oct 2026 20:00:04 +0000"
         }
@@ -348,7 +493,7 @@
     {
       "id": "87f2871d2a194aae26f592f8",
       "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-      "text": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+      "text": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sun, 25 Oct 2026 19:59:46 GMT",
@@ -442,8 +587,8 @@
     },
     {
       "id": "4309a47fc6e9928613e5ea90",
-      "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "text": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "text": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
       "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 25 Oct 2026 19:19:54 +0000",
@@ -451,7 +596,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+          "title": "Serbia’s Vucic concedes election defeat to student-led movement",
           "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
           "published_at": "Sun, 25 Oct 2026 19:19:54 +0000"
         }
@@ -479,25 +624,6 @@
       "conflict": false
     },
     {
-      "id": "37a56c5e2966e74e495c5811",
-      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-      "text": "The Nobel laureate's homecoming follows national protests demanding free elections.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 18:55:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-          "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 18:55:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7d822b79dfcdf4a0aba5c96e",
       "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
       "text": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
@@ -517,19 +643,19 @@
       "conflict": false
     },
     {
-      "id": "c65e9d6b7a4d0c5f254c7c80",
-      "title": "Long queues after power surge at Stansted Airport",
-      "text": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
+      "id": "630fe5071aff04f3fe088672",
+      "title": "Pressure grows on Sage as fans turn on Palace boss",
+      "text": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 18:35:57 GMT",
+      "published_at": "Sun, 25 Oct 2026 18:36:12 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Long queues after power surge at Stansted Airport",
-          "url": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 18:35:57 GMT"
+          "title": "Pressure grows on Sage as fans turn on Palace boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 18:36:12 GMT"
         }
       ],
       "cross_checked": false,
@@ -549,25 +675,6 @@
           "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
           "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
           "published_at": "Sun, 25 Oct 2026 18:34:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4f9596d87794c5b0c382d3b0",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "text": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 18:29:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 18:29:00 GMT"
         }
       ],
       "cross_checked": false,
@@ -688,171 +795,19 @@
       "conflict": false
     },
     {
-      "id": "0e95f80adfdd1d3b92c27851",
-      "title": "US and Israel elections: New leaders, same policies?",
-      "text": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 17:53:23 +0000",
+      "id": "f534c142b105bd222361db91",
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "text": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 25 Oct 2026 16:34:17 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "US and Israel elections: New leaders, same policies?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 17:53:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6997007871d52ae3dc68d285",
-      "title": "Can protests in Europe bring about change?",
-      "text": "People have been taking to the streets to demand action.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 17:39:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Can protests in Europe bring about change?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 17:39:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "94642db6a084efb54b352850",
-      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "text": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 17:26:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-          "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 17:26:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "43e53313b7a999937b974c1c",
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "text": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 17:12:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 17:12:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d4f4b4c5bee0c02c0f567751",
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "text": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 16:42:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 16:42:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dd93e08f862d9c4be4b6f5c1",
-      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "text": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 16:30:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 16:30:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c33084738f32e4bb9ee34dba",
-      "title": "Barcelona 1-2 Real Madrid LIVE: La Liga El Clasico",
-      "text": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 16:30:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Barcelona 1-2 Real Madrid LIVE: La Liga El Clasico",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 16:30:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "76dcebc49a6819fe200789b9",
-      "title": "Jordanians mourn victims of deadly church attack",
-      "text": "Jordanians mourn victims of deadly church attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 16:16:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jordanians mourn victims of deadly church attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 16:16:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3e7176795d4b39605b2e31a5",
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "text": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 25 Oct 2026 16:11:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-          "published_at": "Sun, 25 Oct 2026 16:11:37 +0000"
+          "source": "BBC",
+          "title": "England lose to Pakistan after improbable last-wicket stand",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 25 Oct 2026 16:34:17 GMT"
         }
       ],
       "cross_checked": false,
@@ -935,44 +890,6 @@
       "conflict": false
     },
     {
-      "id": "cb90b8b08e93c29be4d068a2",
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "text": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 12:11:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Burnham open to 'honest discussion' on EU free movement",
-          "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 12:11:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8ba6fac6cde0d8698f901b51",
-      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
-      "text": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 09:59:50 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
-          "url": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 09:59:50 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e764a5389607640e08851c6c",
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "text": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
@@ -1005,25 +922,6 @@
           "title": "Rosebank: Life on the oil field at the centre of a political storm",
           "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 25 Oct 2026 07:15:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bb5b5f35b6aa400007ff7215",
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "text": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 06:00:15 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 25 Oct 2026 06:00:15 GMT"
         }
       ],
       "cross_checked": false,
@@ -1068,57 +966,190 @@
       "conflict": false
     },
     {
-      "id": "2b595cd49e8ab6e68cb7829a",
-      "title": "Why the charts are full of old songs - and so are your playlists",
-      "text": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+      "id": "389047118581412ae4bee80e",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "text": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 23:05:41 GMT",
+      "published_at": "Mon, 26 Oct 2026 01:07:05 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Why the charts are full of old songs - and so are your playlists",
-          "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 23:05:41 GMT"
+          "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 01:07:05 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "a88b3d03ee9856d2bd56a75a",
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "text": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 24 Oct 2026 23:03:09 GMT",
+      "id": "15571e2b98d399c80a62461e",
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "text": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:58:21 +0000",
       "source_count": 1,
       "sources": [
         {
-          "source": "BBC",
-          "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 24 Oct 2026 23:03:09 GMT"
+          "source": "Al Jazeera",
+          "title": "Serbia celebrates historic election win for student-backed movement",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+          "published_at": "Mon, 26 Oct 2026 00:58:21 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "2c3f570ee25748df799fb302",
-      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-      "text": "Every wave has a story. Experience the wonder waiting beneath the surface",
-      "url": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
+      "id": "f1d16336704b5c58d473b85e",
+      "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+      "text": "Stories about the Budget and the investigation into the father of the Duchess of Sussex feature on Monday's front pages.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Fri, 08 May 2026 21:02:30 GMT",
+      "published_at": "Mon, 26 Oct 2026 00:50:51 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-          "url": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
-          "published_at": "Fri, 08 May 2026 21:02:30 GMT"
+          "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 00:50:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c57240d43e567e6864e60f5f",
+      "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+      "text": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country,",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 26 Oct 2026 00:45:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 00:45:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0b8678198f68f0f10f33a227",
+      "title": "How a movement of students brought down Serbia's Vučić",
+      "text": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
+      "url": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 26 Oct 2026 00:31:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How a movement of students brought down Serbia's Vučić",
+          "url": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 00:31:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4dc21b7a0991ea54e655228e",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "text": "The economic is positive now but come January things could become trickier for the Labour government",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 26 Oct 2026 00:26:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 00:26:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3e04b894562d92668c215973",
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "text": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:16:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Lula holds off far right with victory in Brazil presidential election",
+          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+          "published_at": "Mon, 26 Oct 2026 00:16:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "16c236743dafb31d1752d2a6",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "text": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 26 Oct 2026 00:07:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 00:07:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2b27b4150aea62713053877e",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "text": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:02:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+          "published_at": "Mon, 26 Oct 2026 00:02:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "50e963803d6163158b885484",
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+      "text": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+          "published_at": "Mon, 26 Oct 2026 00:00:00 +0000"
         }
       ],
       "cross_checked": false,
