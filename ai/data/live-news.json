@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T19:58:30.676165+00:00",
-  "source_count": 52,
-  "story_count": 52,
+  "generated_at": "2026-10-31T23:23:29.376729+00:00",
+  "source_count": 54,
+  "story_count": 54,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -80,9 +80,313 @@
       "conflict": false
     },
     {
+      "id": "2cbe7b3f46c23a848c20a692",
+      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "text": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 23:07:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 23:07:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1def0bee8a3dc0a51b4764ef",
+      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+      "text": "The King will deliver a speech to Commonwealth Heads of Government Meeting as he concludes his nine-day Caribbean tour.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 22:56:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+          "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 22:56:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4756fc59b3352f0a84bd6503",
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "text": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 22:38:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+          "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 22:38:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6d02390d07491873d3cb9424",
+      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+      "text": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 22:36:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+          "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 22:36:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1620a9d27876be6cf1b2c052",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "text": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 22:11:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bef31fa2ba2cd6a88e6d6c7d",
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "text": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 22:10:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Palestine Action supporters arrested outside US embassy in London",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 22:10:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b3ff7ad5eb86ea9ce12ff9cb",
+      "title": "Why did this Korean content creator throw a divorce ceremony?",
+      "text": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+      "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 22:01:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Why did this Korean content creator throw a divorce ceremony?",
+          "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 22:01:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c50c32d0894131919b98deb0",
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "text": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:38:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+          "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 21:38:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c1e60918b29464db36106db2",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "text": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 21:29:01 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 21:29:01 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d6f9f0ef0b84e659ee3aff20",
+      "title": "Are De Zerbi's Spurs finding elusive consistency?",
+      "text": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 31 Oct 2026 21:16:11 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Are De Zerbi's Spurs finding elusive consistency?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 21:16:11 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bab2507c3758d3e7434e4e48",
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "text": "Fiery confrontations between protestors and police in Albania",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:12:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fiery confrontations between protestors and police in Albania",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 21:12:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88d9ac3cfd2f5b0478a8b50b",
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "text": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:01:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+          "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 21:01:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "afdccfe3eadcd6063e3c1d2e",
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:30:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+          "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 20:30:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "74fdbf78a15fba9f65fd241c",
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "text": "Israel’s allegations of Qatari election interference rejected",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:24:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s allegations of Qatari election interference rejected",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 20:24:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fdfb6fc6498f4b0eb0ed02cb",
+      "title": "What is ranked-choice voting and how does it work in US elections?",
+      "text": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:11:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What is ranked-choice voting and how does it work in US elections?",
+          "url": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 20:11:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cc5e68dfb70f0b9669312511",
+      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "text": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:09:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+          "published_at": "Sat, 31 Oct 2026 20:09:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "2eb9ed0951b88425f1eaa589",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-      "text": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "text": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sat, 31 Oct 2026 19:22:26 GMT",
@@ -90,7 +394,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
           "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 31 Oct 2026 19:22:26 GMT"
         }
@@ -226,25 +530,6 @@
           "title": "Tension and clashes as hundreds of thousands protest again in France",
           "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
           "published_at": "Sat, 31 Oct 2026 18:28:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d8d1870dac06326dee9c418",
-      "title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
-      "text": "Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 18:11:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 18:11:22 GMT"
         }
       ],
       "cross_checked": false,
@@ -460,25 +745,6 @@
       "conflict": false
     },
     {
-      "id": "eda8479e11ea57b724023819",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "text": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 16:55:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Emotional reunions with loved ones for Oleshky evacuees",
-          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 16:55:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7f90ce4eea86f5bce9bb16a1",
       "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
       "text": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
@@ -492,63 +758,6 @@
           "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
           "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 31 Oct 2026 16:49:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1620a9d27876be6cf1b2c052",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "text": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 16:32:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 16:32:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1d6297f0bdc26a37299c30c9",
-      "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-      "text": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 16:28:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-          "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 16:28:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fa5e125220ca3b9a07ef3954",
-      "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-      "text": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
-      "url": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 15:43:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-          "url": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 15:43:46 +0000"
         }
       ],
       "cross_checked": false,
@@ -593,101 +802,6 @@
       "conflict": false
     },
     {
-      "id": "3436a298d7d445e942105342",
-      "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-      "text": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 15:09:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-          "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 15:09:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ea39b3dca31cf0d19eb764e3",
-      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "text": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 14:31:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-          "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 14:31:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a87f03fcfb7d76bcf55f4e52",
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-      "text": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 14:20:23 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-          "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 14:20:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2666017495684eded52952c7",
-      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "text": "Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 13:35:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-          "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 13:35:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "356f49609c0ba6debc728a87",
-      "title": "Burnham 'open' to calls for slavery apology but not reparations",
-      "text": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 13:28:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Burnham 'open' to calls for slavery apology but not reparations",
-          "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 13:28:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "89137f91c61cf5bdfddfe082",
       "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
       "text": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
@@ -720,82 +834,6 @@
           "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
           "url": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 31 Oct 2026 13:20:39 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "68dcc7574cceb555da339255",
-      "title": "Burnham opens door to formal apology for Britain’s slave trade",
-      "text": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 13:19:23 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Burnham opens door to formal apology for Britain’s slave trade",
-          "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 13:19:23 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f54c76797df799479c3da2de",
-      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-      "text": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 12:58:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-          "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 12:58:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a483ea2b09532ac436fbc4cb",
-      "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
-      "text": "West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.",
-      "url": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 12:55:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
-          "url": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 12:55:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "113d6a6129160332360b36be",
-      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-      "text": "Artists in Sudan are working to save culture and traditions amid the country's war.",
-      "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 31 Oct 2026 12:49:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-          "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
-          "published_at": "Sat, 31 Oct 2026 12:49:04 +0000"
         }
       ],
       "cross_checked": false,
@@ -935,19 +973,19 @@
       "conflict": false
     },
     {
-      "id": "cfafafa15fb468ed8cf3342f",
-      "title": "Why MPs keep talking about an early election despite Burnham's denials",
-      "text": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+      "id": "e6a7bec3f02c4cd764e268a9",
+      "title": "Watch: Match of the Day",
+      "text": "Highlights from eight Premier League matches, including Manchester City against Brighton.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 00:00:15 GMT",
+      "published_at": "Sat, 31 Oct 2026 00:00:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Why MPs keep talking about an early election despite Burnham's denials",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 00:00:15 GMT"
+          "title": "Watch: Match of the Day",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 31 Oct 2026 00:00:00 GMT"
         }
       ],
       "cross_checked": false,
