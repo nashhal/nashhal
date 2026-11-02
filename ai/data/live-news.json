@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-01T22:49:25.532789+00:00",
-  "source_count": 57,
-  "story_count": 57,
+  "generated_at": "2026-11-02T02:30:07.127515+00:00",
+  "source_count": 61,
+  "story_count": 60,
   "documents": [
+    {
+      "id": "77d629b995bcf18d02f62a1e",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "text": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 01:45:42 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 01:45:42 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Michigan Democrat Haley Stevens endorses Republican Senate candidate",
+          "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+          "published_at": "Sun, 01 Nov 2026 18:51:07 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -23,19 +48,19 @@
       "conflict": false
     },
     {
-      "id": "e6a7bec3f02c4cd764e268a9",
-      "title": "Watch: Match of the Day",
-      "text": "Highlights of Sunday’s only Premier League game as Liverpool take on champions Arsenal.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "id": "c5350b600e30be7c325c67b4",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "text": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 23:12:25 GMT",
+      "published_at": "Sun, 01 Nov 2026 23:34:49 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Watch: Match of the Day",
-          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 23:12:25 GMT"
+          "title": "Don't get caught out by new Buy Now Pay Later rules",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 01 Nov 2026 23:34:49 GMT"
         }
       ],
       "cross_checked": false,
@@ -47,14 +72,52 @@
       "text": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
       "url": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 22:44:47 GMT",
+      "published_at": "Sun, 01 Nov 2026 23:31:31 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
           "url": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 22:44:47 GMT"
+          "published_at": "Sun, 01 Nov 2026 23:31:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f45937dc3caec25ea73ce5d9",
+      "title": "Nine people dead after Learjet crashes in Florida",
+      "text": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 01 Nov 2026 23:29:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nine people dead after Learjet crashes in Florida",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+          "published_at": "Sun, 01 Nov 2026 23:29:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fff319db81268d90e9d083f1",
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "text": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 01 Nov 2026 23:24:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why governors’ races are important in the 2026 US midterms",
+          "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+          "published_at": "Sun, 01 Nov 2026 23:24:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -66,33 +129,52 @@
       "text": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 22:40:27 GMT",
+      "published_at": "Sun, 01 Nov 2026 23:20:54 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 22:40:27 GMT"
+          "published_at": "Sun, 01 Nov 2026 23:20:54 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "105dd427b029f799d5c52ca6",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "text": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "id": "29e87b2c472e4fcd6771bf50",
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "text": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 01 Nov 2026 23:19:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+          "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+          "published_at": "Sun, 01 Nov 2026 23:19:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e3b756138fe24336cdf137a3",
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "text": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 22:38:24 GMT",
+      "published_at": "Sun, 01 Nov 2026 23:15:56 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 22:38:24 GMT"
+          "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 01 Nov 2026 23:15:56 GMT"
         }
       ],
       "cross_checked": false,
@@ -131,25 +213,6 @@
           "title": "Antonelli - the boy 'born in a garage' who became world champion",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 01 Nov 2026 22:25:01 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e3b756138fe24336cdf137a3",
-      "title": "Nine killed in 'horrific' Florida jet crash",
-      "text": "Transport Secretary Sean Duffy described the crash, which happened nine miles from President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 22:19:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Nine killed in 'horrific' Florida jet crash",
-          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 22:19:19 GMT"
         }
       ],
       "cross_checked": false,
@@ -272,7 +335,7 @@
     {
       "id": "83b9fc92b68c2cb64ab55617",
       "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-      "text": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
+      "text": "Stevens’s endorsement of Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
       "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 01 Nov 2026 21:00:52 +0000",
@@ -328,8 +391,8 @@
     },
     {
       "id": "281873d63e96c3d3bcf44c59",
-      "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
-      "text": "Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.",
+      "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+      "text": "Acting President Iotova would become nation’s first elected female head of state if official results confirm her win.",
       "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 01 Nov 2026 20:43:33 +0000",
@@ -337,7 +400,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+          "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
           "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
           "published_at": "Sun, 01 Nov 2026 20:43:33 +0000"
         }
@@ -397,25 +460,6 @@
           "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
           "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 01 Nov 2026 20:16:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b99067a4c39049cc6f1c4332",
-      "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
-      "text": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 20:15:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 20:15:52 GMT"
         }
       ],
       "cross_checked": false,
@@ -498,101 +542,6 @@
       "conflict": false
     },
     {
-      "id": "f82d36e932f57057b77181d1",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "text": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 18:51:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Peaceful protests in Germany spiral into violence and looting",
-          "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 18:51:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "369f11980ac1af3c2579d27b",
-      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-      "text": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 18:51:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-          "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 18:51:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "409ead459468cf2f024ba17e",
-      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-      "text": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 18:37:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-          "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 18:37:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4996cdeeed04f43b1c58a050",
-      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-      "text": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 18:23:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-          "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 18:23:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a9b69dcdd86f7a8983061bcc",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "text": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 17:56:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-          "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 17:56:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "68fe378db615f82c36828001",
       "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
       "text": "His family describe the night police told them of his death, and watching him being handcuffed.",
@@ -606,25 +555,6 @@
           "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
           "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 01 Nov 2026 17:53:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "518e4f22c8b7770e43c40bbc",
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "text": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 17:30:45 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-          "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 17:30:45 +0000"
         }
       ],
       "cross_checked": false,
@@ -707,25 +637,6 @@
       "conflict": false
     },
     {
-      "id": "c07604d542df7a70ecc6868d",
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-      "text": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:59:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-          "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:59:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "d34c40791bb9137421d0f000",
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
       "text": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
@@ -745,114 +656,38 @@
       "conflict": false
     },
     {
-      "id": "9e0298428f0e21960fb8910b",
-      "title": "Bangladesh workers clash with police in protests over low pay",
-      "text": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:52:42 +0000",
+      "id": "e4a7e70e384717fc9274a18b",
+      "title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
+      "text": "The BBC asked voters from across the United States what voting means to them and whether they think it matters in the midterm elections.",
+      "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 01 Nov 2026 16:08:19 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Bangladesh workers clash with police in protests over low pay",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:52:42 +0000"
+          "source": "BBC",
+          "title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
+          "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 01 Nov 2026 16:08:19 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "5954541ac1d0a54e0167d79f",
-      "title": "India protesters march with 1km banner of deleted voters’ names",
-      "text": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:42:18 +0000",
+      "id": "2efd7707d195c1fb09376937",
+      "title": "How Dart revived career with help of Wimbledon champion",
+      "text": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 01 Nov 2026 15:55:46 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "India protesters march with 1km banner of deleted voters’ names",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:42:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8e440b3c51cb3fc4f88a14d6",
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "text": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:24:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-          "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:24:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "184914e61a9ca96449ec24d4",
-      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-      "text": "US President Trump returns to the campaign trail after taking a break at his ⁠⁠Mar-a-Lago club in Florida on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:19:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-          "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:19:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8407cd7addc2e247811eda65",
-      "title": "Al Jazeera Balkans relaunches in new digital-first format",
-      "text": "AJB's return is a 'reaffirmation' of the network’s mission to go where the story matters, says its digital director.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 16:17:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera Balkans relaunches in new digital-first format",
-          "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 16:17:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "983bdd9fd886f27cc689dd9c",
-      "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-      "text": "Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 01 Nov 2026 15:50:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-          "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
-          "published_at": "Sun, 01 Nov 2026 15:50:19 +0000"
+          "source": "BBC",
+          "title": "How Dart revived career with help of Wimbledon champion",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 01 Nov 2026 15:55:46 GMT"
         }
       ],
       "cross_checked": false,
@@ -954,57 +789,19 @@
       "conflict": false
     },
     {
-      "id": "61abd724cfacbd41d33ef3e3",
-      "title": "Reeves says UK's future should be inside the EU",
-      "text": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
-      "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+      "id": "c71dce269c2d8a0108f30392",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "text": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 10:47:03 GMT",
+      "published_at": "Sun, 01 Nov 2026 06:03:57 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Reeves says UK's future should be inside the EU",
-          "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 10:47:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "54778564ae55e2b5f9187adc",
-      "title": "A severed hand and The Shining twins: The best celebrity Halloween costumes",
-      "text": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 08:09:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "A severed hand and The Shining twins: The best celebrity Halloween costumes",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 08:09:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dee8666c86012a0c6541299f",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "text": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 05:26:02 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 05:26:02 GMT"
+          "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 01 Nov 2026 06:03:57 GMT"
         }
       ],
       "cross_checked": false,
@@ -1030,25 +827,6 @@
       "conflict": false
     },
     {
-      "id": "dabef4fe50e0802115a1d168",
-      "title": "Who are the real winners of Celebrity Traitors?",
-      "text": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 00:06:01 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Who are the real winners of Celebrity Traitors?",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 01 Nov 2026 00:06:01 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "c1e7fca8530cedbe8e11a59b",
       "title": "Why Is Andy Burnham Saying He's Open To A Slavery Apology?",
       "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
@@ -1068,19 +846,304 @@
       "conflict": false
     },
     {
-      "id": "2242e01731c6e881b891c41e",
-      "title": "I've been stuck on a tiny Pacific island for years because of visa rules",
-      "text": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "id": "f237959a0e8487897e7f4f9b",
+      "title": "A simple guide to the midterms",
+      "text": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 31 Oct 2026 23:06:13 GMT",
+      "published_at": "Mon, 26 Oct 2026 16:53:37 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "I've been stuck on a tiny Pacific island for years because of visa rules",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 31 Oct 2026 23:06:13 GMT"
+          "title": "A simple guide to the midterms",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 26 Oct 2026 16:53:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b8a39df01c7a0685f80be059",
+      "title": "The Papers: 'A family's pain' and 'EU students in return for trade'",
+      "text": "The parents of Henry Nowak speaking for the first time about the moment they learnt he had been murdered leads Monday's Daily Mirror.",
+      "url": "https://www.bbc.co.uk/news/articles/cm79py0q2wqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 01:59:50 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'A family's pain' and 'EU students in return for trade'",
+          "url": "https://www.bbc.co.uk/news/articles/cm79py0q2wqwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 01:59:50 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5f8d24ba1efe7616221ec64e",
+      "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+      "text": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 01:47:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 01:47:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "092aef075c3a8324ec4d1563",
+      "title": "Ukraine blames Russia after air alert app sends out false warnings",
+      "text": "Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 01:40:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine blames Russia after air alert app sends out false warnings",
+          "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 01:40:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "549c85b78fdcc2a75acace72",
+      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+      "text": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 01:31:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+          "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 01:31:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d8ad03f8a0c710aa4bdd3a48",
+      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+      "text": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 01:25:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 01:25:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "62fdb0afd8785200877e2999",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "text": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 01:15:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 01:15:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "355ad5ac5207f3333afa5663",
+      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "text": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 00:51:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "A&E warning system to flag sick children deteriorating quickly",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 00:51:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f89a86215168f3a76e2898fb",
+      "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+      "text": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 00:34:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+          "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 00:34:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a88e56e49a7ff20a800003ea",
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "text": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 00:29:16 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+          "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 00:29:16 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88c3147c38565b4d55291b23",
+      "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+      "text": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 00:28:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 00:28:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f7a1968f92cbddfa4c0f132e",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "text": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 00:25:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 00:25:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d8f8bafbc4cb240d86aa7702",
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "text": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 00:14:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 00:14:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1f0510aace78a44b11a09873",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "text": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 02 Nov 2026 00:00:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 02 Nov 2026 00:00:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c6552bcc9127ee789a74faf2",
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "text": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 02 Nov 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+          "published_at": "Mon, 02 Nov 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "74b72705acb4859f75c5afc2",
+      "title": "What's at stake for Trump in the US midterms?",
+      "text": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 30 Oct 2026 10:19:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What's at stake for Trump in the US midterms?",
+          "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 30 Oct 2026 10:19:48 GMT"
         }
       ],
       "cross_checked": false,
