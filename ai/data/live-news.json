@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-11-03T10:51:20.800759+00:00",
-  "source_count": 63,
+  "generated_at": "2026-11-03T18:26:25.384565+00:00",
+  "source_count": 62,
   "story_count": 60,
   "documents": [
-    {
-      "id": "e90f453f0d7c8b6be3500f5c",
-      "title": "When will we know the US midterms results?",
-      "text": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
-      "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 07:56:09 GMT",
-      "source_count": 2,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "When will we know the US midterms results?",
-          "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 07:56:09 GMT"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "When will we know the US midterm election results?",
-          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 07:27:21 +0000"
-        }
-      ],
-      "cross_checked": true,
-      "conflict": false
-    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -48,19 +23,38 @@
       "conflict": false
     },
     {
-      "id": "a4648347bec45e1a793c9c33",
-      "title": "UK food supply chain affected by European freezer hack, cyber chief says",
-      "text": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "id": "b3922c87fbdbf45c63f3a1f3",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 10:50:06 GMT",
+      "published_at": "Tue, 03 Nov 2026 17:56:03 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "UK food supply chain affected by European freezer hack, cyber chief says",
-          "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 10:50:06 GMT"
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 17:56:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e6fafbcf435ceb81aab4e146",
+      "title": "How 'mogging' went from toxic term to mainstream",
+      "text": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 17:41:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How 'mogging' went from toxic term to mainstream",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 17:41:37 GMT"
         }
       ],
       "cross_checked": false,
@@ -69,17 +63,815 @@
     {
       "id": "eafbb4d59ca352c3e9c57a74",
       "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
-      "text": "MI5 chief Sir Ken McCallum welcomed the court's decision, and says its judgment \"underlines MI5's serious failures in this case\".",
+      "text": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
       "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 10:44:33 GMT",
+      "published_at": "Tue, 03 Nov 2026 17:35:41 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
           "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 10:44:33 GMT"
+          "published_at": "Tue, 03 Nov 2026 17:35:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b143c7103467c419c0c4b16c",
+      "title": "Speeding driver jailed for fatal Lamborghini crash",
+      "text": "Humaira Batool, 26, is sentenced for causing for the death of 20-year-old Mohammed Shaan Hussain.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 17:27:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Speeding driver jailed for fatal Lamborghini crash",
+          "url": "https://www.bbc.co.uk/news/articles/c6dxw8r7rd1go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 17:27:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff089ad91ac4b036ca7d20ce",
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "text": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 17:26:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 17:26:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e821bd94192b5cbba252c725",
+      "title": "Russian strikes on Dnipro kill two, injure 20 others",
+      "text": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 17:24:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Russian strikes on Dnipro kill two, injure 20 others",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 17:24:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8ecd621f045fba0be62e810b",
+      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "text": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 17:22:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+          "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 17:22:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b4d8eeea1c6891e4e80cbc14",
+      "title": "England's Mitchell ruled out of Nations Championship",
+      "text": "Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 17:16:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "England's Mitchell ruled out of Nations Championship",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 17:16:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "47cfdb7b1cfa369ee62b83db",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "text": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 17:04:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+          "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 17:04:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "943f2734c2466a6f15460f13",
+      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+      "text": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+      "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 17:03:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+          "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 17:03:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5ff1329c789cb4cbbb170352",
+      "title": "Barcelona vs Aston Villa LIVE: Champions League",
+      "text": "Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Barcelona vs Aston Villa LIVE: Champions League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 17:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "69adf12df0a507de89d5bdff",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "text": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:57:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:57:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "92e7a6dce25ee52a51566b57",
+      "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+      "text": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:54:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:54:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6193311e24a49b8f37e7d6cd",
+      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+      "text": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 16:49:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 16:49:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "98d244197997507899e81276",
+      "title": "Reform UK councillor charged with rape and sexual assault",
+      "text": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
+      "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:43:50 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Reform UK councillor charged with rape and sexual assault",
+          "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:43:50 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e5016d5da514af753d368b73",
+      "title": "Opposition party organiser killed before South Africa elections",
+      "text": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 16:39:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Opposition party organiser killed before South Africa elections",
+          "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 16:39:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5fe2af1f6ee407f92c575bd8",
+      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+      "text": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:34:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:34:33 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "35475cbad332d67bf83c53e3",
+      "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+      "text": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 16:22:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+          "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 16:22:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6b6c7100781c3e9dc6f09bdb",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "text": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:19:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:19:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0ba17060f79e672e3579e599",
+      "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+      "text": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:13:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+          "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:13:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6c391467ae45ec1bcb327890",
+      "title": "How sporting events are being impacted by Middle East conflict",
+      "text": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
+      "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 16:01:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How sporting events are being impacted by Middle East conflict",
+          "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 16:01:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3fd71892f5a65368d55c54a",
+      "title": "Do sports stars have the right to free speech?",
+      "text": "The Mbappe controversy demonstrates how market power in sport is being used to enforce conformity.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/3/do-sports-stars-have-the-right-to-free-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:52:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Do sports stars have the right to free speech?",
+          "url": "https://www.aljazeera.com/opinions/2026/11/3/do-sports-stars-have-the-right-to-free-speech?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:52:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8fe5db2aece8edbbaadc0366",
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "text": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:47:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+          "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:47:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8fb7305d98d708fb93a2d84c",
+      "title": "In Pictures: US midterm elections in 20 photos",
+      "text": "Voters, parents, and campaigners share the spotlight in a crucial election set to reshape US political direction.",
+      "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:46:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "In Pictures: US midterm elections in 20 photos",
+          "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:46:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3d193853993ef37d880a9469",
+      "title": "How US midterms have cost a record $12bn as cost of living soars",
+      "text": "Candidates, donors and super PACs are spending more than ever on political campaigns.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:40:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How US midterms have cost a record $12bn as cost of living soars",
+          "url": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:40:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "36fa50ed403dea774767cd56",
+      "title": "Lionesses to face France and Portugal in Nations League",
+      "text": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 15:39:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Lionesses to face France and Portugal in Nations League",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 15:39:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c7c62122085b2ace07e9cdb2",
+      "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
+      "text": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:18:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:18:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "21962c2247f2e38ae5206a19",
+      "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+      "text": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 15:07:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 15:07:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9ecc5b03387680ddaac3f497",
+      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+      "text": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 15:00:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 15:00:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5821a7fa8f0351cc8e9d752c",
+      "title": "Global food security is under threat",
+      "text": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 14:58:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Global food security is under threat",
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 14:58:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "66c8f3115df62163b87e2e9a",
+      "title": "Jury in Russell Brand rape trial begins considering verdicts",
+      "text": "The media personality has been on trial for three weeks, after pleading not guilty to all charges.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 14:50:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jury in Russell Brand rape trial begins considering verdicts",
+          "url": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 14:50:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cf7a93c8aa846a3cf48d777d",
+      "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+      "text": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 14:42:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 14:42:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "499551a695337b1252dda85e",
+      "title": "Third teen arrested after Halloween party stabbings",
+      "text": "Five teenage boys, aged 16 and 17, were found with stab wounds at the party on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 14:40:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Third teen arrested after Halloween party stabbings",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 14:40:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "efbbc29be821d9330ed5e3b6",
+      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+      "text": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 14:30:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+          "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 14:30:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19679aa028e694a0e46e77ae",
+      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+      "text": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 14:17:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+          "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 14:17:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aade7b16245a6092a506b995",
+      "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+      "text": "Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife's Jesus de Miguel.",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 14:02:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 14:02:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b468bf302e84b1a5287f6f6c",
+      "title": "Girl who rescued injured boy from bonfire acted 'on instinct'",
+      "text": "Tianna Patterson, 17, witness the boy being attacked before he fell unconscious into the bonfire in Strabane.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9l747pvkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 13:53:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Girl who rescued injured boy from bonfire acted 'on instinct'",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9l747pvkgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 13:53:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de07985fec9e0b07623d19ac",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "text": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 13:44:44 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 13:44:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9344263a36cde4e90cdc8509",
+      "title": "Trump says US will stop giving Israel aid after year-end",
+      "text": "Military aid to Israel and campaign contributions from Israel’s backers to US candidates have animated political debate.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:42:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says US will stop giving Israel aid after year-end",
+          "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:42:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cbe27dcb083a411967a55478",
+      "title": "Iran commander sets out five conditions for regional security",
+      "text": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:21:57 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran commander sets out five conditions for regional security",
+          "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:21:57 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4fc83eb81e2ff0011be2c812",
+      "title": "Saudi Pro League postpones matches after Asian Cup rescheduling",
+      "text": "League delays matches after revised Asian Cup dates create 'additional flexibility in the domestic football calendar'.",
+      "url": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:14:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Pro League postpones matches after Asian Cup rescheduling",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:14:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cb6b474e759032f40997f503",
+      "title": "New bodycam video shows aftermath of fatal National Guard shooting",
+      "text": "Newly-released bodycam footage shows Tennessee National Guard members pointing their guns at 20-year-old Tyrin Johnson.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/new-bodycam-video-shows-aftermath-of-fatal-national-guard-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:13:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "New bodycam video shows aftermath of fatal National Guard shooting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/new-bodycam-video-shows-aftermath-of-fatal-national-guard-shooting?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:13:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a4648347bec45e1a793c9c33",
+      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "text": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 13:07:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 13:07:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4d0436709aedaeaf18b5604c",
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "text": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working to",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:05:39 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Qatar remains hopeful the US and Iran can reach a deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:05:39 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2463bb576af8e4d833e98cf3",
+      "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
+      "text": "The outgoing governor and former presidential candidate has transformed Florida into a conservative policy vanguard.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 03 Nov 2026 13:05:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
+          "url": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
+          "published_at": "Tue, 03 Nov 2026 13:05:03 +0000"
         }
       ],
       "cross_checked": false,
@@ -87,94 +879,132 @@
     },
     {
       "id": "1f6ee5338f91f0c42fba0c56",
-      "title": "West Ham talk to Parker after sacking boss Nuno",
+      "title": "West Ham approach Parker after sacking boss Nuno",
       "text": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 10:38:13 GMT",
+      "published_at": "Tue, 03 Nov 2026 12:42:04 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "West Ham talk to Parker after sacking boss Nuno",
+          "title": "West Ham approach Parker after sacking boss Nuno",
           "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 10:38:13 GMT"
+          "published_at": "Tue, 03 Nov 2026 12:42:04 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "fe01e4934507b524571b1def",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "text": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "id": "740845b30cbe1b263817c2dc",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "text": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 10:37:13 GMT",
+      "published_at": "Tue, 03 Nov 2026 11:56:31 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 10:37:13 GMT"
+          "title": "Drivers may get compensation offers before car finance saga ends",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 11:56:31 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "9d97ce89d342b30a63ae9c8d",
-      "title": "Senate candidates in Iowa deliver final appeals for midterm elections",
-      "text": "Republican candidate Ashley Hinson and Democratic challenger Josh Turek make their final campaign push in Iowa.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/senate-candidates-in-iowa-deliver-final-appeals-for-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 10:20:54 +0000",
+      "id": "d04196ce05d6b26cb2bea308",
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "text": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 11:15:51 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Senate candidates in Iowa deliver final appeals for midterm elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/senate-candidates-in-iowa-deliver-final-appeals-for-midterm-elections?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 10:20:54 +0000"
+          "source": "BBC",
+          "title": "'Quiet quitting' could be hitting the economy - here's why",
+          "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 11:15:51 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "6234523bfb4507cb293f1d9b",
-      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-      "text": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 10:18:18 +0000",
+      "id": "bb085391e7f2d4ac19bae39b",
+      "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+      "text": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 11:03:45 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-          "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 10:18:18 +0000"
+          "source": "BBC",
+          "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+          "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 11:03:45 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "f0409d2031ca82a39213b8d5",
-      "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-      "text": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 10:17:27 +0000",
+      "id": "24ed2a8d476486cca6bd92a7",
+      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+      "text": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 10:32:56 GMT",
       "source_count": 1,
       "sources": [
         {
-          "source": "Al Jazeera",
-          "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 10:17:27 +0000"
+          "source": "BBC",
+          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+          "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 10:32:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "90fecda8ef8f748b1aa3c6a6",
+      "title": "Which stars have made the leap into US politics? Try our quiz",
+      "text": "It's been a dramatic campaign - but how much have you picked up along the way? Take our quiz.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34rm146kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 10:22:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Which stars have made the leap into US politics? Try our quiz",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34rm146kno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 10:22:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0e66e15a18ddfbc861e5b987",
+      "title": "The key US Senate races to watch",
+      "text": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 03 Nov 2026 10:16:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The key US Senate races to watch",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 10:16:56 GMT"
         }
       ],
       "cross_checked": false,
@@ -200,139 +1030,6 @@
       "conflict": false
     },
     {
-      "id": "4d11b487b6c33b7c7223f88c",
-      "title": "US midterm elections live: Polls due to open in test for Trump",
-      "text": "The first results are expected on Tuesday, as polls begin to close at 23:00 GMT, but final results might take days.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 10:10:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US midterm elections live: Polls due to open in test for Trump",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 10:10:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "de07985fec9e0b07623d19ac",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "text": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 10:02:48 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 10:02:48 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2322b1942d247d1e4486ce35",
-      "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
-      "text": "Tenerife forward Jesus de Miguel suffered a cardiac arrest after a keeper's challenge in Spanish second division match.",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:59:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:59:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ef9af6a3bdb6655a17e28d9d",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "text": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 09:55:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 09:55:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e0fb8bc5fc2d3d286344cf75",
-      "title": "‘It gets better’: Olympic president’s advice for bullying victims",
-      "text": "Tell bullies to ‘sod off’. That’s the advice IOC President Kirsty Coventry has for young athletes facing bullying.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/it-gets-better-olympic-presidents-advice-for-bullying-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:45:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘It gets better’: Olympic president’s advice for bullying victims",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/it-gets-better-olympic-presidents-advice-for-bullying-victims?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:45:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8b34e7c8713a68daff145186",
-      "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-      "text": "Severe cyclonic storm uproots trees and downs power lines, days after another cyclone battered the same region.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:33:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:33:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bb085391e7f2d4ac19bae39b",
-      "title": "Mahmood refuses to detail cost of revised settlement plans",
-      "text": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 09:31:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Mahmood refuses to detail cost of revised settlement plans",
-          "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 09:31:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "5e2571f9abdca5c4c34c2f72",
       "title": "The elections that could define Trump's closing chapter",
       "text": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
@@ -346,63 +1043,6 @@
           "title": "The elections that could define Trump's closing chapter",
           "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 03 Nov 2026 09:29:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b185ee848d1b762d5e8c3ea3",
-      "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-      "text": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.",
-      "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:18:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-          "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:18:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "92f2335800e7ff6589fa7850",
-      "title": "Surging ICE raids shadow final weeks of California congressional race",
-      "text": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:13:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Surging ICE raids shadow final weeks of California congressional race",
-          "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:13:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "33e8a757272ddca5f913ae38",
-      "title": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
-      "text": "ICC receives 8.4 million ticket requests for 34,000 seats at the October 10 group stage match in Johannesburg.",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:12:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:12:40 +0000"
         }
       ],
       "cross_checked": false,
@@ -428,95 +1068,19 @@
       "conflict": false
     },
     {
-      "id": "7fb9467af95859328e8e3bf7",
-      "title": "Candidates in Kansas urge supporters to mobilise on voting day",
-      "text": "Candidates in Kansas urge supporters to mobilise on voting day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 09:06:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Candidates in Kansas urge supporters to mobilise on voting day",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 09:06:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e5925399e9eb68061a24ee5b",
-      "title": "Georgia Senate candidates make final appeals ahead of US midterms",
-      "text": "Democratic Senator Jon Ossoff and Republican opponent Mike Collins made their final appeals to voters in Georgia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 08:34:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Georgia Senate candidates make final appeals ahead of US midterms",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 08:34:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "860a0e7c55bab7738d64409c",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "text": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "id": "cb8c66647cc204b1921ac4b7",
+      "title": "When will we know the results?",
+      "text": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "published_at": "Tue, 03 Nov 2026 07:56:09 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "North Korea denies being behind record $6.3bn Binance hack",
-          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 08:33:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9d32a722bab9fbe71e7c8569",
-      "title": "FIFA to share documents related to World Cup sell-off plan",
-      "text": "FIFA Council members may view documents related to Gianni Infantino's doomed plan, but only in person in Zurich",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 08:27:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "FIFA to share documents related to World Cup sell-off plan",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 08:27:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f01d5ce24c080610e0789627",
-      "title": "How to follow the US midterm elections on the BBC",
-      "text": "Whether you plan to follow the US midterms on TV, radio or online, the BBC has you covered.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 07:55:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How to follow the US midterm elections on the BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dzg5eq926o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 07:55:34 GMT"
+          "title": "When will we know the results?",
+          "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 03 Nov 2026 07:56:09 GMT"
         }
       ],
       "cross_checked": false,
@@ -524,7 +1088,7 @@
     },
     {
       "id": "730a40887ffe8e99e4d6573a",
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "title": "The people saving hundreds of pounds by dumpster diving",
       "text": "The men and women who rummage through commercial bins to take clothes and other items.",
       "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -533,218 +1097,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+          "title": "The people saving hundreds of pounds by dumpster diving",
           "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 03 Nov 2026 07:50:14 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0a862c58c9a89a39ade7dad8",
-      "title": "The US midterms will test the limits of Trump’s power",
-      "text": "Control of Congress is at stake, but so is the ability of American institutions to withstand presidential pressure.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/3/the-us-midterms-will-test-the-limits-of-trumps-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 07:46:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The US midterms will test the limits of Trump’s power",
-          "url": "https://www.aljazeera.com/opinions/2026/11/3/the-us-midterms-will-test-the-limits-of-trumps-power?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 07:46:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "554a64479274a90cb57d9833",
-      "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
-      "text": "Two helicopters have collided while preparing to land in Nepal’s Mount Everest region, killing an Indian tourist.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 07:34:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 07:34:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "18809b8c8a9e1dbc943475cd",
-      "title": "Watch: Just how small is the zeptoverse?",
-      "text": "BBC science correspondent, Pallab Ghosh, takes us into the zeptoverse and explains how it could change our ideas of how the universe works.",
-      "url": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 07:33:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Just how small is the zeptoverse?",
-          "url": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 07:33:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "22335e6b3b8cca973b4cb052",
-      "title": "Emery looks to show Villa can compete with elite",
-      "text": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 07:33:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Emery looks to show Villa can compete with elite",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 07:33:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "74eb36cdafe1bd2912151c12",
-      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
-      "text": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 07:19:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
-          "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 07:19:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1581a535c94a8f99ba2463eb",
-      "title": "A response to Andy Burnham: We need an apology and reparations",
-      "text": "It is good news the British PM is open to calls for an apology. But debt restructuring instead of reparations won’t do.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 07:07:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "A response to Andy Burnham: We need an apology and reparations",
-          "url": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 07:07:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "538e4e0bb86e518fffe72d43",
-      "title": "One dead after two helicopters collide near Mount Everest in Nepal",
-      "text": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 07:06:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "One dead after two helicopters collide near Mount Everest in Nepal",
-          "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 07:06:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "411529215e67a4b4b680369b",
-      "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
-      "text": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 06:59:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
-          "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 06:59:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5ea652cf64b2041c08ef224d",
-      "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
-      "text": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 06:55:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
-          "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 06:55:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f218bc57c028eb50da89246e",
-      "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-      "text": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 06:46:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-          "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 06:46:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f32a8e260b0855f61a32a40d",
-      "title": "The referee who became a role model after bouncing back from Diaz error",
-      "text": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 06:41:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The referee who became a role model after bouncing back from Diaz error",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 06:41:31 GMT"
         }
       ],
       "cross_checked": false,
@@ -770,46 +1125,8 @@
       "conflict": false
     },
     {
-      "id": "589ab00bb3ff9ab96d79e9d3",
-      "title": "AI data centres could undermine UK's emissions goals, BBC finds",
-      "text": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 06:27:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "AI data centres could undermine UK's emissions goals, BBC finds",
-          "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 06:27:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6d674c473fc0889b21e0a26c",
-      "title": "Police admit unlawful home entry and assault of couple",
-      "text": "Andrew and Sabrina Fearn's trial was stopped when police admitted its actions were unlawful.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky5ne752eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 06:11:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Police admit unlawful home entry and assault of couple",
-          "url": "https://www.bbc.co.uk/news/articles/cqrky5ne752eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 06:11:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "47d8de7776d1ca02b85d1091",
-      "title": "I was told I was too young to have cancer - it had spread by the time I was diagnosed",
+      "title": "I was told I was too young to have cancer, it had spread by the time I was diagnosed",
       "text": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
       "url": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -818,332 +1135,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "I was told I was too young to have cancer - it had spread by the time I was diagnosed",
+          "title": "I was told I was too young to have cancer, it had spread by the time I was diagnosed",
           "url": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 03 Nov 2026 06:08:18 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "27667bedf09c002f887f2651",
-      "title": "Family of girl murdered by ex given law change hope",
-      "text": "The family of Holly Newton, stabbed to death at 15, is told the law will change after their campaigning.",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxlewk7wzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 06:05:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Family of girl murdered by ex given law change hope",
-          "url": "https://www.bbc.co.uk/news/articles/cjzxlewk7wzwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 06:05:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d7809c711bfd960664b00b86",
-      "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
-      "text": "Researchers have detected signals from the smallest distances ever probed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 06:01:23 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
-          "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 06:01:23 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b55b4fab42300aa4e7abf10c",
-      "title": "How a Harvard dream ended in tragedy for a Pakistani family",
-      "text": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
-      "url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 05:51:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How a Harvard dream ended in tragedy for a Pakistani family",
-          "url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 05:51:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4a432de4952e6f996f2d05d0",
-      "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
-      "text": "Tens of thousands of workers in world's second-largest apparel exporter hit the streets to demand better minimum wages.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 05:27:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
-          "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 05:27:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b1ced9dfb1bd31bf0c6b55e0",
-      "title": "Horse sold by King Charles wins Melbourne Cup",
-      "text": "Point of Law ridden by Ethan Brown has won Australia's \"race that stops a nation\".",
-      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 05:15:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Horse sold by King Charles wins Melbourne Cup",
-          "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 05:15:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "376af7e3507fa860ef45b7d8",
-      "title": "California’s Bay Area debates data centres ahead of US midterm elections",
-      "text": "At least seven Bay Area cities have passed data centre moratoriums, despite the region's reputation as an AI hub.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 05:13:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "California’s Bay Area debates data centres ahead of US midterm elections",
-          "url": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 05:13:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8ec10d59db0cef6a8a90072e",
-      "title": "Texas Senate candidates Paxton and Talarico make final appeals",
-      "text": "Texas Senate candidates Ken Paxton (R) and James Talarico (D) made their last appearances before Tuesday’s election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 03 Nov 2026 05:12:40 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Texas Senate candidates Paxton and Talarico make final appeals",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals?traffic_source=rss",
-          "published_at": "Tue, 03 Nov 2026 05:12:40 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "604b1dfd315b31fcfb35cf23",
-      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-      "text": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
-      "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 01:52:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-          "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 01:52:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0ba17060f79e672e3579e599",
-      "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
-      "text": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 01:49:49 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
-          "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 01:49:49 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1a46adb3bffd7534178b1cc2",
-      "title": "PM plans debt reset for Commonwealth nations as slavery apology talks begin",
-      "text": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 00:26:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "PM plans debt reset for Commonwealth nations as slavery apology talks begin",
-          "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 00:26:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c380716d7c1b2ad5783596bb",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "text": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 00:07:05 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 00:07:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f0f16cbc2a8c95b46f6b94a3",
-      "title": "The US Midterms Unpacked In 39 Minutes",
-      "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pkvykz?at_mid=OkMhuP2D0J&at_campaign=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_bbc_team=BBC&at_creation=News",
-      "source": "BBC",
-      "published_at": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The US Midterms Unpacked In 39 Minutes",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pkvykz?at_mid=OkMhuP2D0J&at_campaign=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_US_Midterms_Unpacked_In_39_Minutes_news_rail&at_bbc_team=BBC&at_creation=News",
-          "published_at": "Sun, 25 Oct 2026 00:00:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8237f033b101d1a3596f1430",
-      "title": "The iconic 2005 Oasis concert from the City of Manchester Stadium",
-      "text": "One of the world's biggest touring bands pulls out all the stops on their 2005 world tour.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&at_campaign=Oasis_Live_at_Manchester_City_Stadium&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033vld&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oasis_Live_at_Manchester_City_Stadium&at_bbc_team=BBC",
-      "source": "BBC",
-      "published_at": "Sun, 01 Nov 2026 00:07:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The iconic 2005 Oasis concert from the City of Manchester Stadium",
-          "url": "https://www.bbc.co.uk/iplayer/episode/m0033vld?at_mid=Rz7rKyFuqA&at_campaign=Oasis_Live_at_Manchester_City_Stadium&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033vld&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oasis_Live_at_Manchester_City_Stadium&at_bbc_team=BBC",
-          "published_at": "Sun, 01 Nov 2026 00:07:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "715719bfba468909d9d8a117",
-      "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-      "text": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 02 Nov 2026 23:53:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 02 Nov 2026 23:53:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c0515871d5f1b07be84ffd6c",
-      "title": "From nightmare debut season to Everton hero - Barry's revival",
-      "text": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 02 Nov 2026 23:28:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From nightmare debut season to Everton hero - Barry's revival",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 02 Nov 2026 23:28:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4405f9558da0ea2c0941f32e",
-      "title": "Watch: Trump targets midterm voters with final campaign speech at Reflecting Pool",
-      "text": "In his last public speech before crucial midterm elections, the president gave a detailed recounting of the Washington landmark's troubled renovation.",
-      "url": "https://www.bbc.co.uk/news/videos/c6m2dg0d7e8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 02 Nov 2026 23:02:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Trump targets midterm voters with final campaign speech at Reflecting Pool",
-          "url": "https://www.bbc.co.uk/news/videos/c6m2dg0d7e8ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 02 Nov 2026 23:02:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d269152077aa9084f88d2dc7",
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "text": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 02 Nov 2026 23:02:01 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-          "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 02 Nov 2026 23:02:01 GMT"
         }
       ],
       "cross_checked": false,
