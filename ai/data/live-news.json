@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-04T06:19:52.825481+00:00",
-  "source_count": 57,
-  "story_count": 54,
+  "generated_at": "2026-11-04T15:25:24.825312+00:00",
+  "source_count": 56,
+  "story_count": 55,
   "documents": [
     {
-      "id": "dc0d6b06c3f8437dd5ff22ba",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "id": "da57e245c7d520df6ed0b419",
+      "title": "Nadal set to join Real Madrid board of directors",
+      "text": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 20:42:47 GMT",
+      "published_at": "Wed, 04 Nov 2026 13:21:01 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 20:42:47 GMT"
+          "title": "Nadal set to join Real Madrid board of directors",
+          "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 13:21:01 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 02:36:18 +0000"
+          "title": "Tennis great Rafael Nadal set to join Real Madrid board",
+          "url": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:00:07 +0000"
         }
       ],
       "cross_checked": true,
@@ -48,19 +48,209 @@
       "conflict": false
     },
     {
-      "id": "a57e01296f1d3283b069f8c6",
-      "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-      "text": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "id": "548d28627d434aa58eb9723d",
+      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+      "text": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 06:14:20 GMT",
+      "published_at": "Wed, 04 Nov 2026 15:18:03 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 06:14:20 GMT"
+          "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+          "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 15:18:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "365962c5fac31a37e41a6aa1",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "text": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 15:13:14 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 15:13:14 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b05276dc56f35632f7d71c99",
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "text": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 15:13:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 15:13:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "73c62d2cc6a54d05e34e7d39",
+      "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+      "text": "The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine.",
+      "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 15:04:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+          "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 15:04:34 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c838654bc32ae81b30e9cdc7",
+      "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+      "text": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 15:04:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+          "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 15:04:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6cc3608ac7305487586d40bb",
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "text": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 15:01:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+          "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 15:01:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8db400f1c8a45c80b569ad35",
+      "title": "Ocon dropped - is it the end of his F1 career?",
+      "text": "Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 15:00:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ocon dropped - is it the end of his F1 career?",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 15:00:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09774308543e13b673d5260c",
+      "title": "Time to focus on cost of living, says PM after US election results",
+      "text": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 15:00:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Time to focus on cost of living, says PM after US election results",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 15:00:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "158aa0802624f56d62f7737b",
+      "title": "Trump loses control of Congress",
+      "text": "Democrats have made historic gains in the US midterms, dealing a major setback to President Donald Trump.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 14:42:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump loses control of Congress",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 14:42:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f3b74186ba7bf95e23da98b5",
+      "title": "Why is the western US still counting votes after election day?",
+      "text": "Why is the western US still counting votes after election day?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 14:35:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why is the western US still counting votes after election day?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 14:35:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2c93d178ce34df53a6743b94",
+      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "text": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 14:08:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+          "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 14:08:18 +0000"
         }
       ],
       "cross_checked": false,
@@ -68,18 +258,683 @@
     },
     {
       "id": "3a0038a1a515bce70b8980b8",
-      "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
-      "text": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+      "title": "Everything you need to know from the US midterm elections",
+      "text": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 06:13:09 GMT",
+      "published_at": "Wed, 04 Nov 2026 14:05:42 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+          "title": "Everything you need to know from the US midterm elections",
           "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 06:13:09 GMT"
+          "published_at": "Wed, 04 Nov 2026 14:05:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dcf3d0a151ab8125ab394d12",
+      "title": "How big is the Republican midterms loss, and is there a silver lining?",
+      "text": "The Republicans haven't been this weakened in Congress since 1990, but they did have some wins.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:59:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How big is the Republican midterms loss, and is there a silver lining?",
+          "url": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:59:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "538669e7804760b432c4ddcd",
+      "title": "Spanish Transport Minister resigns over train crash disasters",
+      "text": "Spanish Transport Minister resigns over train crash disasters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:52:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Spanish Transport Minister resigns over train crash disasters",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:52:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c7ab39512bb9f606183bf842",
+      "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+      "text": "Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:40:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+          "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:40:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7eb1efdc2101c6265f61df6c",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "text": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 13:33:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 13:33:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4ce5da6eb167186455de5f6f",
+      "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+      "text": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:33:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:33:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "14d673d012ed113bad946dd3",
+      "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+      "text": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:29:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:29:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cac62a15eb85ad707e2bab07",
+      "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+      "text": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:26:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:26:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c6d9dd080e8ce574b6a82bb4",
+      "title": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+      "text": "The first person who was attacked also says he asked hospital staff \"am I going to die today?\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 13:08:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 13:08:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1034a3e282fccb6f3283c3ec",
+      "title": "Why are Europe’s governments struggling to respond to growing protests?",
+      "text": "Protests intensify as governments prioritise security measures over addressing underlying social and economic concerns.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/why-are-europes-governments-struggling-to-respond-to-growing-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 13:03:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why are Europe’s governments struggling to respond to growing protests?",
+          "url": "https://www.aljazeera.com/news/2026/11/4/why-are-europes-governments-struggling-to-respond-to-growing-protests?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 13:03:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9f0ee09c5e905522080a6827",
+      "title": "Stonehaven train derailment could have been avoided if drain built correctly, says sheriff",
+      "text": "Three men died when a train derailed near Stonehaven in Aberdeenshire following heavy rain in 2020.",
+      "url": "https://www.bbc.co.uk/news/articles/c20y0922wg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 12:49:34 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Stonehaven train derailment could have been avoided if drain built correctly, says sheriff",
+          "url": "https://www.bbc.co.uk/news/articles/c20y0922wg3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 12:49:34 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a724dc4412754d9b976d3aea",
+      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+      "text": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:48:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+          "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:48:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de4129b4af7892efd2793684",
+      "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+      "text": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:44:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:44:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "df8b9f9f7667258b7a57054b",
+      "title": "Five reasons why Republicans lost so badly",
+      "text": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 12:44:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Five reasons why Republicans lost so badly",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 12:44:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6e951dec59dafe2506bd8c91",
+      "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+      "text": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:43:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+          "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:43:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "259b47f154f05dfbffe01e7d",
+      "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
+      "text": "The 30-year-old died on Tuesday following an on-pitch collision with Andorra goalkeeper Jesus Owono.",
+      "url": "https://www.aljazeera.com/sports/2026/11/4/tenerifes-jesus-de-miguel-remembered-in-moving-tributes-by-football-world?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:36:14 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
+          "url": "https://www.aljazeera.com/sports/2026/11/4/tenerifes-jesus-de-miguel-remembered-in-moving-tributes-by-football-world?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:36:14 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e4b56290e0683e9fb96d19e8",
+      "title": "America is heading for two years of constitutional brinkmanship",
+      "text": "An unlikely mix of political bargains and constitutional confrontation will define the next two years.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:22:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "America is heading for two years of constitutional brinkmanship",
+          "url": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:22:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "433bc681e04b06aa0d07a3ae",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "text": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 12:20:42 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Poundland owner in crunch talks as retailer's collapse looms",
+          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 12:20:42 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2d3861d2b76e355614e16cee",
+      "title": "Musk makes light of defeats after record spend on Republican candidates",
+      "text": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 12:09:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Musk makes light of defeats after record spend on Republican candidates",
+          "url": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 12:09:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "774a085031117017ab5d0659",
+      "title": "West Ham confirm Parker as boss",
+      "text": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:54:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "West Ham confirm Parker as boss",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:54:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "51dc0aed3991c57c01bf7b92",
+      "title": "LIV aimed to 'destroy the European Tour' - McIlroy",
+      "text": "Six-time major winner Rory McIlroy says those connected to LIV Golf were expressing an ambition to \"destroy the European Tour\" at the 2026 Masters, only months before the league filed for bankruptcy protection.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ck78p0epe0y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:52:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "LIV aimed to 'destroy the European Tour' - McIlroy",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/ck78p0epe0y8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:52:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "280149df2a8375a2f148f57f",
+      "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
+      "text": "BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.",
+      "url": "https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:52:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
+          "url": "https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:52:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "623799a72473b3b13c122c93",
+      "title": "Real Madrid reach verbal agreement to sign Gabriel",
+      "text": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:49:23 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Real Madrid reach verbal agreement to sign Gabriel",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:49:23 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "76212e818d3d4910831eafbb",
+      "title": "Fourth arrest after Halloween party stabbings",
+      "text": "All five boys who were injured had been invited to attend the supervised party on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz4lv85v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:48:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Fourth arrest after Halloween party stabbings",
+          "url": "https://www.bbc.co.uk/news/articles/c39wz4lv85v8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:48:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "24178701b735c76653058e1f",
+      "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+      "text": "The 42-year-old Democrat has defeated Republican Mike Rogers to become the first Muslim senator in the US.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 11:46:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+          "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 11:46:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0bf57da7297e072654a8b684",
+      "title": "Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death",
+      "text": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:40:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Goalkeeper Owono 'would never intentionally hurt anyone', team-mate says after De Miguel death",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:40:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fdb1f0223ba90afa558f821f",
+      "title": "Children spending too long on maths app TT Rockstars, MP warns",
+      "text": "The makers of the popular times table game say they are bringing in curfews and limits to screen time.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 11:31:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Children spending too long on maths app TT Rockstars, MP warns",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 11:31:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2840dd8119751bcf53a184ee",
+      "title": "‘Seismic shift’: World reacts to US midterm election results",
+      "text": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 11:24:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Seismic shift’: World reacts to US midterm election results",
+          "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 11:24:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "45f1dc4bafd4cc31e6470d88",
+      "title": "Why Democrats may struggle to rein in Trump’s foreign policy",
+      "text": "US President Donald Trump's foreign policy agenda faces new constraints after midterm losses.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 11:16:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why Democrats may struggle to rein in Trump’s foreign policy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 11:16:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7f73850f4c6bc12a4c4e3e62",
+      "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+      "text": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 11:12:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 11:12:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0ae730cdf370f22c4d81175c",
+      "title": "Can Russia compete with the US, China and the EU in Africa?",
+      "text": "Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 04 Nov 2026 11:03:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can Russia compete with the US, China and the EU in Africa?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+          "published_at": "Wed, 04 Nov 2026 11:03:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7036ebf54b0f0aa145a3d8e1",
+      "title": "Celebrity hairstylist John Frieda dies aged 75",
+      "text": "He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.",
+      "url": "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 10:52:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Celebrity hairstylist John Frieda dies aged 75",
+          "url": "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 10:52:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e53d4319db353c40217be383",
+      "title": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
+      "text": "Holly Alex, who was groomed as a teenager, has urged the government to make good on their pledge to deliver an inquiry \"at pace\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 10:31:57 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 10:31:57 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cfccc28e82a4769c70a32d4e",
+      "title": "GB's Stojsavljevic, 17, claims first WTA Tour win despite short notice",
+      "text": "British teenager Mika Stojsavljevic beats former Australian Open champion Sofia Kenin for her first WTA Tour main-draw win.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvglw70n41d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 10:06:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "GB's Stojsavljevic, 17, claims first WTA Tour win despite short notice",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cvglw70n41d7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 10:06:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "faf2b866811252b85d0fd8b6",
+      "title": "How America voted in maps and charts",
+      "text": "See the maps and charts that show how America voted in the US midterm elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 09:53:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How America voted in maps and charts",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 09:53:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a57e01296f1d3283b069f8c6",
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "text": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Wed, 04 Nov 2026 06:53:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 06:53:56 GMT"
         }
       ],
       "cross_checked": false,
@@ -105,417 +960,6 @@
       "conflict": false
     },
     {
-      "id": "de8616af94f83aa17ddc6020",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "text": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 06:11:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-          "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 06:11:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e6c20eb1bed42c8879d64f35",
-      "title": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
-      "text": "The King's comments on the transatlantic slave trade and the high-profile celebrity who lost a \"gag bid\" in sex claim case lead Wednesday's papers.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 05:58:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
-          "url": "https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 05:58:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3494030d3f8fe4063dfac6ec",
-      "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-      "text": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
-      "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 05:49:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-          "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 05:49:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "644d6479773719fbb61784f5",
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "text": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 05:39:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5a57044f211a7ab92323e1ec",
-      "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
-      "text": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
-      "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 05:27:30 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
-          "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 05:27:30 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e7493459cfed7bb74afe9335",
-      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "text": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 05:11:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-          "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 05:11:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "90cd8cc60e0a23a31a85e20e",
-      "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-      "text": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 05:07:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 05:07:00 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
-          "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 02:25:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d5e39decb9ba7cac817390dc",
-      "title": "Democrat Josh Turek flips Iowa Senate seat",
-      "text": "Turek beat Republican Ashley Hinson, a US House member.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:55:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Josh Turek flips Iowa Senate seat",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:55:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cee4f07a27a19302b68c315a",
-      "title": "Trump and Republicans trampled in the midterms",
-      "text": "Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:47:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump and Republicans trampled in the midterms",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:47:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "faf2b866811252b85d0fd8b6",
-      "title": "How America voted in maps and charts",
-      "text": "See the maps and charts that show how America voted in the US midterm elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 04:47:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How America voted in maps and charts",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 04:47:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ad62409d6a6da9860da7bbe9",
-      "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-      "text": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:39:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:39:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5ea6a2a7e5896a595e2e38e7",
-      "title": "Kansas elects first Democratic senator in almost a century",
-      "text": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:37:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Kansas elects first Democratic senator in almost a century",
-          "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:37:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f223a6881aa6d1312b795f2d",
-      "title": "Democratic Party flips US Senate in 2026 midterm elections",
-      "text": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:37:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democratic Party flips US Senate in 2026 midterm elections",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:37:05 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4ec472413ec33adfdc87a253",
-      "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
-      "text": "Acton is the first Democrat to become governor of Ohio since 2006.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:25:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:25:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "63e9c77f03e83464a50b9290",
-      "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-      "text": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:19:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-          "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:19:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c5a1f2d361d8bfae944ea714",
-      "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
-      "text": "Democrats celebrate Talarico's and Hinojosa's victories, redefining Texas politics after decades of Republican reign.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 04:03:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
-          "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 04:03:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5029f939445dac9ffe3ec528",
-      "title": "Nervous Republicans await results at Paxton’s Texas election party",
-      "text": "Texas Republicans are anxiously waiting to see if the state’s attorney general can hold off his Democrat challenger.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 03:56:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Nervous Republicans await results at Paxton’s Texas election party",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 03:56:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "24570a2b8a49dfd51d0078ee",
-      "title": "Democrat Annie Andrews flips South Carolina’s Senate seat",
-      "text": "Andrews beats Republican incumbent Darline Graham, sister of the late Senator Lindsey Graham, in a major upset.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 03:39:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Annie Andrews flips South Carolina’s Senate seat",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 03:39:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "022a6463f107173543991211",
-      "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
-      "text": "Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 03:25:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 03:25:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c86877cee95f1430906fb639",
-      "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
-      "text": "Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 03:21:05 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 03:21:05 +0000"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 01:36:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5f814ab2ffef951d5b4196f4",
-      "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-      "text": "EU says supermarket hacks in at least 11 countries are 'not isolated', but a Romanian official suspects no state actor.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 03:16:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 03:16:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "15be204515601fcbd822318b",
       "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
       "text": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
@@ -529,177 +973,6 @@
           "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
           "url": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 04 Nov 2026 02:14:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dd26cd2f1a9b139ef41fec70",
-      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "text": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 02:11:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 02:11:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9698b34c2834488ae38e4b6a",
-      "title": "Ballot shortages reported in Dearborn, Michigan",
-      "text": "Reports of ballot shortages at several Dearborn polling stations have raised concerns over voter access",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 02:09:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ballot shortages reported in Dearborn, Michigan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 02:09:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4003c6e593e77f0b3b6d145a",
-      "title": "Kazakhstan releases second tiger into the wild",
-      "text": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 01:39:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Kazakhstan releases second tiger into the wild",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 01:39:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "365962c5fac31a37e41a6aa1",
-      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "text": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 01:36:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 01:36:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e01e11c243deba5319f5e354",
-      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-      "text": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 01:13:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 01:13:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "93d1f52fd4aae4ad5310b78a",
-      "title": "UN elects five judges to International Court of Justice amid record cases",
-      "text": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 01:03:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "UN elects five judges to International Court of Justice amid record cases",
-          "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 01:03:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "553737307491b64150972af3",
-      "title": "Chill to grip Bonfire Night as temperatures dip into single digits",
-      "text": "What is the forecast for Bonfire Night 2026?",
-      "url": "https://www.bbc.co.uk/weather/articles/cqr7yk19l41no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 01:00:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Chill to grip Bonfire Night as temperatures dip into single digits",
-          "url": "https://www.bbc.co.uk/weather/articles/cqr7yk19l41no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 01:00:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8c995cd65854edf3957a5030",
-      "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-      "text": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Wed, 04 Nov 2026 00:59:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-          "published_at": "Wed, 04 Nov 2026 00:59:58 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "83ca950a41d26603225e07d9",
-      "title": "Housing targets threaten ancient woods, campaigners warn",
-      "text": "Dozens of individual sites feature planned developments immediately next to woods, the BBC finds.",
-      "url": "https://www.bbc.co.uk/articles/cred36e7e9y2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:59:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Housing targets threaten ancient woods, campaigners warn",
-          "url": "https://www.bbc.co.uk/articles/cred36e7e9y2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:59:22 GMT"
         }
       ],
       "cross_checked": false,
@@ -725,57 +998,19 @@
       "conflict": false
     },
     {
-      "id": "17c8bfb0518dfd6dcbe7ef7c",
-      "title": "Fernandes critical of media 'lies' about Carrick relationship",
-      "text": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+      "id": "4f07d3c53b716ad9d06965cc",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "text": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:45:33 GMT",
+      "published_at": "Wed, 04 Nov 2026 00:04:35 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Fernandes critical of media 'lies' about Carrick relationship",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:45:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "86d371560abdefa179f400f3",
-      "title": "Scammers using AI-generated images of missing pets to demand reward money",
-      "text": "Owners says threats to kill their cats unless they sent money left them angry and terrified.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:44:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Scammers using AI-generated images of missing pets to demand reward money",
-          "url": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:44:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4d465fe6c48e44ac3eb4eae5",
-      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-      "text": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:27:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:27:37 GMT"
+          "title": "Graduates are managing AI - but are they learning much else?",
+          "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 04 Nov 2026 00:04:35 GMT"
         }
       ],
       "cross_checked": false,
@@ -783,7 +1018,7 @@
     },
     {
       "id": "15a103767188939cd5b22eb3",
-      "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+      "title": "'Multi-cancer' blood tests coming to some GP surgeries in England",
       "text": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
       "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -792,237 +1027,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+          "title": "'Multi-cancer' blood tests coming to some GP surgeries in England",
           "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 04 Nov 2026 00:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a2cf7e49d93e50080bb0b38f",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "text": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:03:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "ANC under pressure to reverse South Africa decline",
-          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:03:19 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "433bc681e04b06aa0d07a3ae",
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
-      "text": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Wed, 04 Nov 2026 00:03:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Poundland supplier 'will lose millions' if retailer collapses",
-          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 04 Nov 2026 00:03:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "34e7b0d56411d29458764b51",
-      "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-      "text": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 23:58:22 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 23:58:22 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a4b2a1cdbfa3b8003b6dda0e",
-      "title": "Football world mourns Tenerife striker De Miguel",
-      "text": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 23:37:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Football world mourns Tenerife striker De Miguel",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 23:37:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0a49f36f2e05f7dbfd3d8bfd",
-      "title": "Man Utd beat Roma - the other great Champions League comebacks",
-      "text": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 23:25:20 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man Utd beat Roma - the other great Champions League comebacks",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 23:25:20 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a5b086ccd08b4cefe9b5b310",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "text": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 22:45:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 22:45:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1e60c090fa89f554061e791f",
-      "title": "Young NYC Marathon runner collapses and dies two miles from finish line",
-      "text": "The city medical examiner's office said it is still investigating Rachel Apa's cause of death.",
-      "url": "https://www.bbc.co.uk/news/articles/c59vz44epvk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 21:17:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Young NYC Marathon runner collapses and dies two miles from finish line",
-          "url": "https://www.bbc.co.uk/news/articles/c59vz44epvk9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 21:17:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b43f83282751608f9359f1ef",
-      "title": "Death threats for Briton Burrage on WTA Tour return",
-      "text": "Britain's Jodie Burrage receives death threats and abuse on social media after she is beaten in her first WTA Tour singles match proper for 16 months.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 20:26:12 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Death threats for Briton Burrage on WTA Tour return",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cq62y9yzgzgeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 20:26:12 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b9806b1428c6132189847d9c",
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-      "text": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
-      "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 20:05:21 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-          "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 20:05:21 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e6fafbcf435ceb81aab4e146",
-      "title": "How 'mogging' went from toxic term to mainstream",
-      "text": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 17:41:37 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How 'mogging' went from toxic term to mainstream",
-          "url": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 17:41:37 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b4d8eeea1c6891e4e80cbc14",
-      "title": "England's Mitchell ruled out of Nations Championship",
-      "text": "Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 17:16:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England's Mitchell ruled out of Nations Championship",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 17:16:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5fe2af1f6ee407f92c575bd8",
-      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-      "text": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 03 Nov 2026 16:34:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-          "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 03 Nov 2026 16:34:33 GMT"
         }
       ],
       "cross_checked": false,
