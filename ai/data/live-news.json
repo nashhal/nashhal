@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-06T20:53:37.020978+00:00",
-  "source_count": 54,
-  "story_count": 54,
+  "generated_at": "2026-11-07T00:56:04.075299+00:00",
+  "source_count": 61,
+  "story_count": 59,
   "documents": [
+    {
+      "id": "5a94eda2faee3e09a8dbb133",
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "text": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 21:26:56 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 21:26:56 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+          "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 20:28:07 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -61,6 +86,519 @@
       "conflict": false
     },
     {
+      "id": "d77583c46c654926fe86f6ee",
+      "title": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
+      "text": "Thomas Markle's arrest leads a number of Saturday's front pages, while Russell Brand continues to feature prominently.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly00plnegdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 07 Nov 2026 00:51:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
+          "url": "https://www.bbc.co.uk/news/articles/cqly00plnegdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 00:51:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "876ee944979b6e64130c6aa6",
+      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+      "text": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 07 Nov 2026 00:31:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 00:31:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f1c6d447b9d34882c7258921",
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "text": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 07 Nov 2026 00:31:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+          "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+          "published_at": "Sat, 07 Nov 2026 00:31:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7d363a9e9290916451d581a2",
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "text": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 07 Nov 2026 00:21:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+          "published_at": "Sat, 07 Nov 2026 00:21:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1188df38c507aac8f8a68397",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "text": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 07 Nov 2026 00:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+          "published_at": "Sat, 07 Nov 2026 00:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "565074f66f7988b40e0303a5",
+      "title": "Six tries and a big win - but were Ireland ruthless?",
+      "text": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:57:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Six tries and a big win - but were Ireland ruthless?",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:57:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2f4f1fdc54caf398fc354cf3",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "text": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:53:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:53:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5e5d594fdbc2cc1f8a4d7846",
+      "title": "New Zealanders head to polls on final day of voting",
+      "text": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 23:48:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "New Zealanders head to polls on final day of voting",
+          "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 23:48:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fecc53ded7de64af17ae80e2",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "text": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:46:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "911ad8b0ad65cc94fc80d83b",
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "text": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 23:33:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+          "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 23:33:28 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6918e8874575f88f916b75ea",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "text": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:24:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:24:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4d89f4ea66f77c4b09ebded6",
+      "title": "Lampard feels hair pull should have led to Coventry penalty",
+      "text": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:22:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Lampard feels hair pull should have led to Coventry penalty",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:22:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "685de1bbdb3882dd1c10fff3",
+      "title": "Whole Australia team knew of sandpaper use - Khawaja",
+      "text": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 23:11:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Whole Australia team knew of sandpaper use - Khawaja",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 23:11:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a93bb982b1213878b0965e73",
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "text": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 23:07:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 23:07:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c89affef09d9f9bcea36d4f3",
+      "title": "US urges China to honour Busan trade deal commitments",
+      "text": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 23:00:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US urges China to honour Busan trade deal commitments",
+          "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 23:00:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8f567cf7ce8ea70c6f642e2a",
+      "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
+      "text": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 22:50:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 22:50:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "57c4f0d762b8760edea4d1e0",
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "text": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 22:30:12 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Barry scores twice as Everton fight back to beat Coventry",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 22:30:12 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4e616a4edc93c24303e23c2a",
+      "title": "Man, 35, charged with murder of Carrie Mullane",
+      "text": "Police say the last confirmed sighting of Carrie Mullane (Noonan) was on 10 October when she left Limerick to travel to Enniskillen.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g11430n7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 22:30:07 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man, 35, charged with murder of Carrie Mullane",
+          "url": "https://www.bbc.co.uk/news/articles/c54g11430n7ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 22:30:07 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "63d4c0bce808b0d75747e42c",
+      "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+      "text": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 22:28:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 22:28:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "72348a4fd245e8149ebbbc84",
+      "title": "Child, 6, dies weeks after Waterford arson attack",
+      "text": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 21:53:38 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Child, 6, dies weeks after Waterford arson attack",
+          "url": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 21:53:38 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5775ac7c5e45aa6aad46b639",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "text": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 21:37:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 21:37:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de0c28c9953fb6e77af413b2",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "text": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 21:06:25 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6f51785ef2d88ce30d87b62d",
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "text": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 21:04:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Protesters break into Microsoft data centre site in Amsterdam",
+          "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 21:04:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2a482906b8fef4f0b2fc84ac",
+      "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
+      "text": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Fri, 06 Nov 2026 20:52:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 06 Nov 2026 20:52:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "637d99f7a2516103121f5574",
+      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "text": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 20:48:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 20:48:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dcb9dd91a088d71810519987",
+      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "text": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 20:27:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 20:27:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dcc1063f9f73634e90c5e926",
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "text": "The pontiff praises Uruguay's clean energy transition and calls for universal healthcare.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 06 Nov 2026 20:22:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+          "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 20:22:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "f27c8c77d8ebcc3f52d369a3",
       "title": "How ‘Street Medics’ protect French protesters",
       "text": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
@@ -74,25 +612,6 @@
           "title": "How ‘Street Medics’ protect French protesters",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
           "published_at": "Fri, 06 Nov 2026 20:17:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7a63c446a1eb6a167cc213cc",
-      "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-      "text": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 20:11:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 20:11:45 GMT"
         }
       ],
       "cross_checked": false,
@@ -137,25 +656,6 @@
       "conflict": false
     },
     {
-      "id": "de0c28c9953fb6e77af413b2",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "text": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 19:37:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "AI stocks climb after trillions wiped from market values",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 19:37:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "996b7e2a999e271ad3e086f2",
       "title": "Why is Britain refusing to pay slavery reparations?",
       "text": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
@@ -169,25 +669,6 @@
           "title": "Why is Britain refusing to pay slavery reparations?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
           "published_at": "Fri, 06 Nov 2026 19:34:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "63f1edf2c6151a070ec88efe",
-      "title": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
-      "text": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 19:23:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
-          "url": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 19:23:47 GMT"
         }
       ],
       "cross_checked": false,
@@ -232,9 +713,9 @@
       "conflict": false
     },
     {
-      "id": "dd4cfcb407a27aa8e5a6008f",
-      "title": "Trump appoints adviser Stephen Miller as new White House chief of staff",
-      "text": "This is a breaking news story.",
+      "id": "e5b64c9533002b8e38ee2c69",
+      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+      "text": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.",
       "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Fri, 06 Nov 2026 19:08:31 +0000",
@@ -242,7 +723,13 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Trump appoints adviser Stephen Miller as new White House chief of staff",
+          "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+          "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+          "published_at": "Fri, 06 Nov 2026 21:22:57 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
           "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
           "published_at": "Fri, 06 Nov 2026 19:08:31 +0000"
         }
@@ -346,44 +833,6 @@
       "conflict": false
     },
     {
-      "id": "01856f52ceb43a68949e7285",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "text": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 18:32:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why the US midterms sparked an AI stock selloff",
-          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 18:32:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c749221c7e0783fa07a27a25",
-      "title": "Player-coach rift report will only galvanise England - George",
-      "text": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 18:30:57 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Player-coach rift report will only galvanise England - George",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 18:30:57 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "ede3e5b314ae73da20b88361",
       "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
       "text": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
@@ -403,63 +852,6 @@
       "conflict": false
     },
     {
-      "id": "e51732b7f9d2a9962a956734",
-      "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-      "text": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 18:17:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 18:17:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "90dff6c45e3c0ef3f4a2fe57",
-      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-      "text": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 18:09:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-          "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 18:09:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "154ff9c72b68abc3c888986b",
-      "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-      "text": "A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 17:50:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-          "url": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 17:50:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1ac43336cbc52c0f7e0d7616",
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
       "text": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
@@ -473,82 +865,6 @@
           "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
           "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 06 Nov 2026 17:44:02 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "716f6923291076d08d9e1f3e",
-      "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-      "text": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 17:42:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-          "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 17:42:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b18212a21f6c854105968a1d",
-      "title": "US city votes to divest from Israel",
-      "text": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 17:40:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US city votes to divest from Israel",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 17:40:13 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "97d3f162ae511a733e4649b0",
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "text": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 17:02:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-          "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 17:02:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6140f3885c040cd950c42943",
-      "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-      "text": "Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 16:58:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 16:58:56 +0000"
         }
       ],
       "cross_checked": false,
@@ -612,82 +928,6 @@
       "conflict": false
     },
     {
-      "id": "ff5d07cbf1bbd7e8f8153b4c",
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "text": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 16:40:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-          "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 16:40:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "41efcacf871c34f447002868",
-      "title": "Is Palmer's England career over under Tuchel?",
-      "text": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 16:30:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Is Palmer's England career over under Tuchel?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 16:30:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "747c83d5e1fc3896053a5007",
-      "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-      "text": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 16:21:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 16:21:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f57c987d75e562c8bcbc232a",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "text": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 16:18:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Spate of bomb threats poses serious challenge to airline industry",
-          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 16:18:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "873a3092a9ffeee18ad67f5d",
       "title": "Burnham responds to BBC question over Labour's past links to Brand",
       "text": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes.",
@@ -726,101 +966,6 @@
       "conflict": false
     },
     {
-      "id": "03f22b40656ebf834ba2b256",
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "text": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 16:10:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-          "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 16:10:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "738959d2ca645a5c5c98fbff",
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "text": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 16:04:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 16:04:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e9e8314b797af6c0248ea5f4",
-      "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-      "text": "More than 100 activists broke into a Microsoft data centre construction site in Amsterdam.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 15:48:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 15:48:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f0024162c42e10361e30be02",
-      "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-      "text": "Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 15:44:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-          "url": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 15:44:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "040d3f54b79205a9aee28395",
-      "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-      "text": "Evicted families take Denmark’s controversial ‘ghetto law’ to the Supreme Court.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Fri, 06 Nov 2026 15:42:43 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-          "url": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-          "published_at": "Fri, 06 Nov 2026 15:42:43 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "bf1e47684d2f391cd784ba2c",
       "title": "Two dead after bus crashes in France, officials say",
       "text": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
@@ -834,25 +979,6 @@
           "title": "Two dead after bus crashes in France, officials say",
           "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 06 Nov 2026 15:33:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e9ffef40d8bab277939b6cb6",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "text": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 15:30:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 15:30:42 GMT"
         }
       ],
       "cross_checked": false,
@@ -1005,25 +1131,6 @@
           "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
           "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
           "published_at": "Fri, 06 Nov 2026 12:16:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6050192b65fb2d16a51d6f61",
-      "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
-      "text": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Fri, 06 Nov 2026 01:22:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
-          "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 06 Nov 2026 01:22:39 GMT"
         }
       ],
       "cross_checked": false,
