@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T22:45:08.742112+00:00",
-  "source_count": 53,
-  "story_count": 53,
+  "generated_at": "2026-11-08T02:29:02.956779+00:00",
+  "source_count": 57,
+  "story_count": 56,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -80,6 +80,272 @@
       "conflict": false
     },
     {
+      "id": "6f7ef4430d44ae2add881430",
+      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+      "text": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 01:37:55 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+          "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 01:37:55 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3c3d33809aa59138d10c58fa",
+      "title": "Royal Family join veterans and families at Festival of Remembrance",
+      "text": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 01:24:58 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Royal Family join veterans and families at Festival of Remembrance",
+          "url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 01:24:58 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5cd26d1b4f8a302560432ddc",
+      "title": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
+      "text": "A closer look at the relationship between Man City's owners and the Manchester political scene.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg13710wjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 01:11:26 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
+          "url": "https://www.bbc.co.uk/news/articles/ckpqg13710wjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 01:11:26 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1e9c425c3d2a55502ed6247a",
+      "title": "My parents chose to die together and I was left to grieve alone",
+      "text": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
+      "url": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 01:10:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "My parents chose to die together and I was left to grieve alone",
+          "url": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 01:10:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b20750f92593b61cd6e09852",
+      "title": "Briton among six killed in 'far-right' shooting in Krakow",
+      "text": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:55:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Briton among six killed in 'far-right' shooting in Krakow",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:55:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3d868371b5a44de048ac14d0",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "text": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:52:39 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Trump coalition is shattered - what will Republicans do now?",
+          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:52:39 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3980ab797e5915ca609f7aa0",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "text": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 00:50:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 00:50:28 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "66ecc29dddb8e628ab49605f",
+      "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+      "text": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:49:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:49:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff8dac294fc817cb92fae5f0",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "text": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:48:59 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:48:59 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d81768f58549b4eb63669cd7",
+      "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+      "text": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:45:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+          "url": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:45:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e3d6f99e0ff04bc765ea2d85",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "text": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:37:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Can the Zelda remake capture the magic of the original?",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:37:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d123433d5895762b6e4dbc49",
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+      "text": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:31:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:31:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "58c16e58065566ba24a38d78",
+      "title": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
+      "text": "The Royal Family are pictured attending the Festival of Remembrance on a number of Sunday's front pages.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 00:16:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
+          "url": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 00:16:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2d9c97c6c432a6779777fd8e",
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "text": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 00:00:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 00:00:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "8d1c10904008f62740ffd8f8",
       "title": "Crochet novices create cascading poppy memorial",
       "text": "The friends took up crocheting a year ago before getting the whole village involved.",
@@ -118,38 +384,101 @@
       "conflict": false
     },
     {
-      "id": "d123433d5895762b6e4dbc49",
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "text": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "id": "2b78af6bfd11c15005247bad",
+      "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+      "text": "Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 22:29:37 GMT",
+      "published_at": "Sat, 07 Nov 2026 23:53:30 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 22:29:37 GMT"
+          "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 23:53:30 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "d04570c52c8f8b018285176a",
-      "title": "What we know so far after Krakow gun attack",
-      "text": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "id": "42d2b15fef3dd19badc68530",
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "text": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 07 Nov 2026 23:45:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+          "published_at": "Sat, 07 Nov 2026 23:45:45 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+          "published_at": "Sat, 07 Nov 2026 20:26:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9472bd23d5448a8a4408801c",
+      "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+      "text": "Willy Hutchinson is crowned WBC light-heavyweight champion as he produces the performance of his career against Joshua Buatsi in Manchester.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 22:27:30 GMT",
+      "published_at": "Sat, 07 Nov 2026 23:26:08 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "What we know so far after Krakow gun attack",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 22:27:30 GMT"
+          "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 23:26:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "385c4924e54a9556fe19a2e5",
+      "title": "Thousands watch elaborate carnival cart procession",
+      "text": "The event in Bridgwater, Somerset, attracted people from all over the country to watch.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 07 Nov 2026 23:05:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Thousands watch elaborate carnival cart procession",
+          "url": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 23:05:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eef14a3beae1692081a2b5f7",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "text": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 07 Nov 2026 23:02:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 23:02:35 GMT"
         }
       ],
       "cross_checked": false,
@@ -158,7 +487,7 @@
     {
       "id": "7258284a6c835ece3e3214e7",
       "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-      "text": "Valverde and Guler's first half goals put Madrid in the driving seat and Mbappe added a third in the second half.",
+      "text": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
       "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 07 Nov 2026 22:21:58 +0000",
@@ -214,8 +543,8 @@
     },
     {
       "id": "c4c648932b3d7ff19108f28f",
-      "title": "Can New Zealand's new government win over disillusioned voters?",
-      "text": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "text": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published_at": "Sat, 07 Nov 2026 21:36:16 GMT",
@@ -223,7 +552,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Can New Zealand's new government win over disillusioned voters?",
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
           "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 07 Nov 2026 21:36:16 GMT"
         }
@@ -346,25 +675,6 @@
       "conflict": false
     },
     {
-      "id": "02763eacadddf867c0a2dcc9",
-      "title": "Norris takes pole in rain-delayed qualifying",
-      "text": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 20:48:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Norris takes pole in rain-delayed qualifying",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 20:48:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "6ca0a6e857781c135945e6d4",
       "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
       "text": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
@@ -378,25 +688,6 @@
           "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
           "published_at": "Sat, 07 Nov 2026 20:44:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d34a0f171ec3bd13c8fe94b3",
-      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-      "text": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 07 Nov 2026 20:26:58 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-          "published_at": "Sat, 07 Nov 2026 20:26:58 +0000"
         }
       ],
       "cross_checked": false,
@@ -650,28 +941,9 @@
       "conflict": false
     },
     {
-      "id": "082aa9ac915444e4fc36ccfe",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "text": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US offers $20m reward for information about Iran's nuclear programme",
-          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 18:14:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f37a7ef2866c3f3f50c0f157",
       "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "text": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+      "text": "Vatican says some 40,000 Catholic faithful attended the pontiff's service in Uruguay's western city of Paysandu.",
       "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 07 Nov 2026 18:00:21 +0000",
@@ -682,6 +954,25 @@
           "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
           "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
           "published_at": "Sat, 07 Nov 2026 18:00:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6f87cce88ee43aa9253c17ee",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "text": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 07 Nov 2026 17:58:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Gaza wedding festival sees 250 couples married at the same time",
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 07 Nov 2026 17:58:41 GMT"
         }
       ],
       "cross_checked": false,
@@ -745,120 +1036,6 @@
       "conflict": false
     },
     {
-      "id": "bf8e651ee8a87a722cc82a38",
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "text": "Jerusalem Daily: Heavy rains flood Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 07 Nov 2026 17:11:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Heavy rains flood Gaza",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-          "published_at": "Sat, 07 Nov 2026 17:11:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ae3f5cc32471eab1f842f503",
-      "title": "Valencia 0-3 Real Madrid: La Liga – as it happened",
-      "text": "All the updates as Real Madrid secure eighth consecutive win in all competitions with 3-0 victory at Valencia.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 07 Nov 2026 17:00:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Valencia 0-3 Real Madrid: La Liga – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-          "published_at": "Sat, 07 Nov 2026 17:00:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c16ff8ba0ac95de3a32a3877",
-      "title": "Israel builds 90km network of military roads across southern Lebanon",
-      "text": "Israel is building roads and military outposts across southern Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 07 Nov 2026 16:30:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel builds 90km network of military roads across southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-          "published_at": "Sat, 07 Nov 2026 16:30:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1fdf575287434094a4356343",
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "text": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 16:25:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 16:25:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "83e0ec844253033ddebc77ca",
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "text": "It happened in a region of the country known to have drug trafficking activity.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 07 Nov 2026 16:15:18 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-          "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-          "published_at": "Sat, 07 Nov 2026 16:15:18 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a3a63a91f6daf1ab8843d05a",
-      "title": "No clear winner after tight New Zealand general election",
-      "text": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 15:56:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "No clear winner after tight New Zealand general election",
-          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 15:56:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "062a70b67af36c2c56d773d8",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "text": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
@@ -872,120 +1049,6 @@
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
           "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 07 Nov 2026 15:19:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f4f14b9ac539f3c6d0d864a9",
-      "title": "Two men arrested after boy injured in sword attack",
-      "text": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 15:10:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Two men arrested after boy injured in sword attack",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 15:10:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7bc889d73f785e5930185272",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "text": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 12:49:36 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 12:49:36 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "83d0fa70a5480304fd93d348",
-      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-      "text": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
-      "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 11:31:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-          "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 11:31:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "bbcba1608024b9f13b3823f8",
-      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-      "text": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 10:44:38 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 10:44:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1d2074db1a3e5ae0a3fa8b1b",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "text": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 01:27:47 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-          "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 01:27:47 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "876ee944979b6e64130c6aa6",
-      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-      "text": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 07 Nov 2026 00:31:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 07 Nov 2026 00:31:54 GMT"
         }
       ],
       "cross_checked": false,
