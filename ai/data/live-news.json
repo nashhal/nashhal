@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T21:10:23.825565+00:00",
-  "source_count": 58,
-  "story_count": 57,
+  "generated_at": "2026-11-09T00:54:04.890774+00:00",
+  "source_count": 59,
+  "story_count": 58,
   "documents": [
     {
       "id": "f3c39ef134316a1e097dc98f",
@@ -67,19 +67,228 @@
       "conflict": false
     },
     {
-      "id": "444d01e4a7698420294eb13c",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "text": "Jensen Huang also admitted to having been \"unfaithful \"to his wife and apologised for hurting her and their children.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "id": "3e825656f3638af6cec0b192",
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "text": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 23:58:53 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 23:58:53 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7c5ebfc879edc7a9022d5ad5",
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "text": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 23:55:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mexican mayor found alive after hours-long abduction",
+          "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 23:55:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d3a5a29c619f91ab65c86db2",
+      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "text": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 21:01:33 GMT",
+      "published_at": "Sun, 08 Nov 2026 23:44:53 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 21:01:33 GMT"
+          "title": "Norris sparkles in Sao Paulo despite firework mishap",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 23:44:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1ddd14f34af236b35b5eced2",
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "text": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 23:39:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+          "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 23:39:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "379d0639d8e7925b48201961",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "text": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 23:34:18 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b9d241d2d96c281b7c1c478d",
+      "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+      "text": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 22:49:53 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 22:49:53 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9c46647fa5fdb88f21d8297f",
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "text": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+      "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 22:42:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+          "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 22:42:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b7d019b6f53fa5964f327c8",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "text": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 22:16:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+          "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 22:16:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1cbc1575dea5d6feb51dc33e",
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "text": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 22:16:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 22:16:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1658f3afe53080afadc19d55",
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "text": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 22:03:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why Trump joked about having Dana White as his White House press secretary",
+          "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 22:03:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4a5ca6561a974de105140726",
+      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+      "text": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 21:50:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 21:50:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f6a555d4b54618fb905cfa15",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "text": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 08 Nov 2026 21:37:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 08 Nov 2026 21:37:36 GMT"
         }
       ],
       "cross_checked": false,
@@ -91,14 +300,71 @@
       "text": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
       "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 20:51:50 GMT",
+      "published_at": "Sun, 08 Nov 2026 21:19:48 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
           "title": "Maya Jama steps down as host of reality TV show Love Island",
           "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 20:51:50 GMT"
+          "published_at": "Sun, 08 Nov 2026 21:19:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0fec8f0159716b0dd8b7f90d",
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "text": "Deadly sand cliff collapses on displaced families in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 21:05:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Deadly sand cliff collapses on displaced families in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 21:05:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ee8a82eeb43dfcd5db06dc35",
+      "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+      "text": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 21:01:33 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 21:01:33 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "df95f8a3211e59a402bb65e4",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
+      "text": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 20:51:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran waiting to resume talks after US midterms ‘shock’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+          "published_at": "Sun, 08 Nov 2026 20:51:22 +0000"
         }
       ],
       "cross_checked": false,
@@ -295,25 +561,6 @@
       "conflict": false
     },
     {
-      "id": "cbdb986b4248fd54947b38de",
-      "title": "Norris wins gripping race after Antonelli and Russell errors",
-      "text": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 19:13:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Norris wins gripping race after Antonelli and Russell errors",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 19:13:53 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "024d6444e5e61bd529a547d2",
       "title": "After the midterms, where does the Republican Party stand?",
       "text": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
@@ -346,25 +593,6 @@
           "title": "Secondary schools told to stop teaching GCSEs before Year 10",
           "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 08 Nov 2026 19:00:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "379d0639d8e7925b48201961",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "text": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 18:22:53 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 18:22:53 GMT"
         }
       ],
       "cross_checked": false,
@@ -523,158 +751,6 @@
       "conflict": false
     },
     {
-      "id": "a0aeaba50789a9630d2bf157",
-      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "text": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 17:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 17:00:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "954fe16017fe8a6452e4994f",
-      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-      "text": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:59:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:59:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "36f0f593609e81ee75b75cdf",
-      "title": "Fan hospitalised after falling through stand at Norwegian football match",
-      "text": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:53:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Fan hospitalised after falling through stand at Norwegian football match",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:53:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "030e446e431de481bf1cf5ed",
-      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-      "text": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:51:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:51:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2054c1d5960b70ba90b82305",
-      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-      "text": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:37:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-          "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:37:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "87245766fd9838bcd3909ddc",
-      "title": "Seven killed, 112 injured in train collision in Egypt",
-      "text": "Seven killed, 112 injured in train collision in Egypt",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:31:54 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Seven killed, 112 injured in train collision in Egypt",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:31:54 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c1a4fd198fabf5e01f148a7f",
-      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-      "text": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 16:18:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-          "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 16:18:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fb1f1bfd807c8ef2449d6af3",
-      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-      "text": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 15:47:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 15:47:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "7456130039a4b2ccf0aa9320",
       "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
       "text": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
@@ -707,120 +783,6 @@
           "title": "Government looking at banning under-16s from Vinted and eBay",
           "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 08 Nov 2026 15:37:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d74e9a0194a1b2014278a894",
-      "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-      "text": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 15:37:16 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 15:37:16 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f695c521429c2183cb234d51",
-      "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-      "text": "Palestinian journalist Abed Abou Shhadeh released after 5 days detention",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 14:53:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 14:53:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d2b9303010106a593acaefde",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "text": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 14:42:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Homes and temples glow across India to mark Diwali",
-          "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 14:42:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f3a32f977b4eb25c1b52b089",
-      "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-      "text": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 14:19:17 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 14:19:17 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6067e433b9153141ed61cec5",
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "text": "As fears of an escalation grow, Washington announces 'Task Force Iron Gate'.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 14:06:19 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-          "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 14:06:19 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f813389e9bfad7c5de146a9e",
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-      "text": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 08 Nov 2026 14:02:35 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-          "published_at": "Sun, 08 Nov 2026 14:02:35 +0000"
         }
       ],
       "cross_checked": false,
@@ -998,44 +960,6 @@
       "conflict": false
     },
     {
-      "id": "ff8dac294fc817cb92fae5f0",
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "text": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 00:48:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 00:48:59 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d81768f58549b4eb63669cd7",
-      "title": "Microdramas: The 'snackable' shows made for the scrolling age",
-      "text": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 00:45:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Microdramas: The 'snackable' shows made for the scrolling age",
-          "url": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 00:45:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e3d6f99e0ff04bc765ea2d85",
       "title": "Can the Zelda remake capture the magic of the original?",
       "text": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
@@ -1087,6 +1011,101 @@
           "title": "He spent $50,000 on Labubus but now the craze is dying",
           "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 07 Nov 2026 23:02:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "444d01e4a7698420294eb13c",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "text": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 00:50:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 00:50:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "706030c7d5c6420727d36bb6",
+      "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+      "text": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 00:31:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+          "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 00:31:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "79b1dea7b3b012118bbe2973",
+      "title": "India’s night lights up for Diwali",
+      "text": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+      "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:24:04 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India’s night lights up for Diwali",
+          "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 00:24:04 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3ab4733d7cb5860761d90216",
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "text": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:07:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+          "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 00:07:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "01b89a301505a6661834b3db",
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field",
+      "text": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:00:34 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 00:00:34 +0000"
         }
       ],
       "cross_checked": false,
