@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-09T18:47:24.389006+00:00",
-  "source_count": 58,
-  "story_count": 56,
+  "generated_at": "2026-11-10T02:07:47.509447+00:00",
+  "source_count": 57,
+  "story_count": 55,
   "documents": [
     {
-      "id": "d5c093dff9b8f62188f1df38",
-      "title": "France accuses Iran of cyberattack on supermarket fridges",
-      "text": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 16:33:33 +0000",
+      "id": "53cf5dc6a1fae1811caf4639",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "text": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 01:44:53 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 16:55:07 GMT"
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 01:44:53 GMT"
         },
         {
           "source": "Al Jazeera",
-          "title": "France accuses Iran of cyberattack on supermarket fridges",
-          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 16:33:33 +0000"
+          "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+          "published_at": "Tue, 10 Nov 2026 00:44:28 +0000"
         }
       ],
       "cross_checked": true,
       "conflict": false
     },
     {
-      "id": "61ced05637ca5e6aae6ee379",
-      "title": "UK court hands comedian Russell Brand 10.5 years for rape, sexual assault",
-      "text": "Brand was convicted last week of raping one woman and sexually assaulting three more between 2004 ​and 2009.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
+      "id": "43182ac3793c6696553373e3",
+      "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+      "text": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 14:42:39 +0000",
+      "published_at": "Mon, 09 Nov 2026 20:08:18 +0000",
       "source_count": 2,
       "sources": [
         {
@@ -45,9 +45,9 @@
         },
         {
           "source": "Al Jazeera",
-          "title": "UK court hands comedian Russell Brand 10.5 years for rape, sexual assault",
-          "url": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 14:42:39 +0000"
+          "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 20:08:18 +0000"
         }
       ],
       "cross_checked": true,
@@ -73,6 +73,253 @@
       "conflict": false
     },
     {
+      "id": "cf6e8a467b708ab136ab4ae2",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "text": "It comes weeks after the cruise came to a sudden end, leaving 200 guests stranded in Cambodia.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 01:49:06 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Cruise for life' ship seized in Singapore",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 01:49:06 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "64de75add4ac8f42312beb3a",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "text": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 01:38:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 01:38:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6dde7ae1f6bb6f7e12caa7fb",
+      "title": "Hundreds more offenders to leave jail on Tuesday",
+      "text": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 01:06:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hundreds more offenders to leave jail on Tuesday",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 01:06:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9daf33d83fc1fa4cccfeecb6",
+      "title": "France blames Iran for October supermarket cyberattack",
+      "text": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 10 Nov 2026 01:01:47 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "France blames Iran for October supermarket cyberattack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+          "published_at": "Tue, 10 Nov 2026 01:01:47 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "112245b5a6575f7b60d27ffd",
+      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+      "text": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 10 Nov 2026 01:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+          "published_at": "Tue, 10 Nov 2026 01:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cde6ed8144d52ab47fc89760",
+      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+      "text": "Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 10 Nov 2026 00:57:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+          "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+          "published_at": "Tue, 10 Nov 2026 00:57:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5997dfa9bff0f94c9250a4d8",
+      "title": "The Papers: 'Brand jailed for 10 years' and 'shamed star caged'",
+      "text": "Russell Brand's sentencing after being convicted of rape and sexual assault dominates Tuesday's front pages.",
+      "url": "https://www.bbc.co.uk/news/articles/c69vzv7llen7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:51:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The Papers: 'Brand jailed for 10 years' and 'shamed star caged'",
+          "url": "https://www.bbc.co.uk/news/articles/c69vzv7llen7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:51:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dd60ce8231cb533de3d0fd65",
+      "title": "Prince William wants more protection from harassment for service women",
+      "text": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:41:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Prince William wants more protection from harassment for service women",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:41:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5f95a95890e411bc8aa028d5",
+      "title": "I took Vinted to court to get my money back",
+      "text": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:27:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "I took Vinted to court to get my money back",
+          "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:27:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1e252cde46e3e8db3afca957",
+      "title": "My life as the UK's youngest lighthouse keeper",
+      "text": "Jeri Cormack, 28, looks after three historic lighthouses in Caithness on the edge of the British mainland.",
+      "url": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:24:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "My life as the UK's youngest lighthouse keeper",
+          "url": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:24:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6ee79d0416da88e1898e87d0",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "text": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:14:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:14:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d3212160414aac1d2d3bc5a6",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "text": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:09:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:09:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9d04f7674e5302166f0febdc",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "text": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 10 Nov 2026 00:08:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "The superpower battle over energy – and what it means for your bills",
+          "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 10 Nov 2026 00:08:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "b45606de105c9dbd8d8609ec",
       "title": "The Most Expensive Affair In History?",
       "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
@@ -86,6 +333,576 @@
           "title": "The Most Expensive Affair In History?",
           "url": "https://www.bbc.co.uk/sounds/play/p0pm3rwk?at_mid=n3UOo1rZFF&at_campaign=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_bbc_team=BBC&at_creation=News",
           "published_at": "Sun, 25 Oct 2026 00:00:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7c7c4ca93e6f65238adde6a4",
+      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+      "text": "US President Donald Trump said the war was \"effectively over\" after meeting Qatar's prime minister in Washington, DC.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 23:55:23 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 23:55:23 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c5723271e839cb3f3745ba4e",
+      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+      "text": "Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 23:53:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+          "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 23:53:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0d0273a19d6c1555335fa4ff",
+      "title": "Sabalenka wins WTA Finals opener despite wayward serve",
+      "text": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 23:51:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Sabalenka wins WTA Finals opener despite wayward serve",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 23:51:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1a379e30cc0288b67d119c1c",
+      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+      "text": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 23:47:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 23:47:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "89bbb8ffd36f66bce7a1bef3",
+      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+      "text": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 23:15:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+          "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 23:15:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5b580416f8abe57dfea6311f",
+      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+      "text": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 23:13:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 23:13:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "292df789fdf03a39bc65f00c",
+      "title": "Man Utd expected to sack head coach Carrick",
+      "text": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 23:13:31 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man Utd expected to sack head coach Carrick",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 23:13:31 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6be065f4833d98edb8fb1f88",
+      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+      "text": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 22:51:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 22:51:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9218afbf4e62c717e0ebcba2",
+      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+      "text": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 22:31:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 22:31:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "98dde613f3e9788230e87f7d",
+      "title": "Brady ends association with Birmingham City",
+      "text": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 22:18:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brady ends association with Birmingham City",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 22:18:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6d026e1f4fac29060dd2d7e7",
+      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "text": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 22:16:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+          "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 22:16:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d17b2ab85bcbe51fed574d4a",
+      "title": "Pope meets with clergy abuse survivors in Argentina",
+      "text": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 22:14:37 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Pope meets with clergy abuse survivors in Argentina",
+          "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 22:14:37 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0fece7537152d9096c152402",
+      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+      "text": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 22:13:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+          "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 22:13:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "afc5986c8a28e25da5f20e4c",
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "text": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 22:10:52 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Saudi Arabia reports new attack on key East-West pipeline",
+          "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 22:10:52 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5798b318045a2b820b2833eb",
+      "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+      "text": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 22:06:29 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 22:06:29 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a4177bf4c6759b03f7a9a4d2",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "text": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 21:52:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+          "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 21:52:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "43bb44b556078a64bd29bf6a",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
+      "text": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 21:18:25 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "COP31 opens amid energy crisis as activists demand climate action",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 21:18:25 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c86888682b1f108c8f377263",
+      "title": "Will Najib Razak be transferred to house arrest?",
+      "text": "Malaysia's king and government in a standoff after attorney general disputed order allowing former PM to leave jail.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 21:13:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Will Najib Razak be transferred to house arrest?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 21:13:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2f529ab63ee0bb47859f79ac",
+      "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+      "text": "Republican Congressman Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 21:04:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 21:04:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "558208fe0934c6d27015b377",
+      "title": "Cyprus rivals agree new crossings across island’s dividing line",
+      "text": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 20:50:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cyprus rivals agree new crossings across island’s dividing line",
+          "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 20:50:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "afdc6ec15c3be9fd1f75ee00",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "text": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 20:20:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de88d3201290119174c9f108",
+      "title": "Deadly explosion at Iron and steel plant in Turkiye",
+      "text": "Deadly explosion at Iron and steel plant in Turkiye",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 20:19:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Deadly explosion at Iron and steel plant in Turkiye",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 20:19:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "fe2c9e5941a7ba459bb6a647",
+      "title": "What happened inside court as Brand was sentenced",
+      "text": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+      "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 20:13:41 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What happened inside court as Brand was sentenced",
+          "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 20:13:41 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "63c10b32ba97d47857e85474",
+      "title": "Explosion at Turkish steel plant kills at least 16 people",
+      "text": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:58:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Explosion at Turkish steel plant kills at least 16 people",
+          "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:58:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5cd308c85fd1c5f30e0bfd7b",
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "text": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:56:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+          "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:56:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7f2c246d7b1814e7143da458",
+      "title": "How is Gaza coping with another severe winter?",
+      "text": "How is Gaza coping with another severe winter?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:47:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "How is Gaza coping with another severe winter?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:47:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3d1fe45e4dd22f4a4308b17f",
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "text": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:07:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US agencies unite to combat rogue drone threats nationwide",
+          "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:07:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97d874eba1536e8c4a55a153",
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "text": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:07:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:07:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "efc5c731c46bc03e549ca8fb",
+      "title": "What’s next for US Republicans and Trumpism?",
+      "text": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn’t keep.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 19:02:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What’s next for US Republicans and Trumpism?",
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
+          "published_at": "Mon, 09 Nov 2026 19:02:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8501f43036c395fe174da8d1",
+      "title": "People don't know full story behind England exile - White",
+      "text": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 09 Nov 2026 19:00:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "People don't know full story behind England exile - White",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 19:00:10 GMT"
         }
       ],
       "cross_checked": false,
@@ -111,152 +928,38 @@
       "conflict": false
     },
     {
-      "id": "c1662fae09ef9eb0e7939846",
-      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-      "text": "The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 18:21:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-          "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 18:21:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a8b6e8a0fce03a9a90715336",
-      "title": "Krakow shooting suspect dies as Poland mourns six victims",
-      "text": "A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 18:12:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Krakow shooting suspect dies as Poland mourns six victims",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 18:12:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c4bc507025bdc22cd4a82cf4",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "text": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "id": "ac0e7e28712857075632fa0a",
+      "title": "England wing Feyi-Waboso out of Nations Championship",
+      "text": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 18:11:11 GMT",
+      "published_at": "Mon, 09 Nov 2026 18:33:37 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 18:11:11 GMT"
+          "title": "England wing Feyi-Waboso out of Nations Championship",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 18:33:37 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "4d62abd2195f116604027838",
-      "title": "Meta rolls out automated age checks for teens globally",
-      "text": "AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 18:09:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Meta rolls out automated age checks for teens globally",
-          "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 18:09:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15d52da74431d73ec563f3ff",
-      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
-      "text": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 17:55:47 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 17:55:47 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cd29f5dc78f9e17fc7d8a25f",
-      "title": "Man Utd yet to make decision on Carrick's future",
-      "text": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+      "id": "e5d0742cfbaa9454ba149aff",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "text": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 17:49:05 GMT",
+      "published_at": "Mon, 09 Nov 2026 18:08:07 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Man Utd yet to make decision on Carrick's future",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 17:49:05 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "563627d5634d0b2195786c72",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "text": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 17:47:29 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump questions midterm elections integrity after previously accepting results",
-          "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 17:47:29 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7ab4acedd17e1bbeaeb23cc0",
-      "title": "France accelerates minimum wage hike in bid to quell protest",
-      "text": "Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 17:46:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "France accelerates minimum wage hike in bid to quell protest",
-          "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 17:46:28 +0000"
+          "title": "Russia's leading independent newspaper closes after eviction",
+          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 09 Nov 2026 18:08:07 GMT"
         }
       ],
       "cross_checked": false,
@@ -282,44 +985,6 @@
       "conflict": false
     },
     {
-      "id": "517770c4da176e2b8c838c11",
-      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
-      "text": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 17:17:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 17:17:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "31cf92d75ae2e5de941b4826",
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "text": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 17:17:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Civil servant who secretly held five jobs found guilty of fraud",
-          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 17:17:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "e116d0b1412517fd8f3817c4",
       "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
       "text": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
@@ -333,215 +998,6 @@
           "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
           "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 09 Nov 2026 16:59:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9e40fa0a5d628b001c91e131",
-      "title": "Al Jazeera tries skateboarding at Youth Olympics",
-      "text": "Al Jazeera tries skateboarding at Youth Olympics",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 16:48:34 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Al Jazeera tries skateboarding at Youth Olympics",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 16:48:34 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e578894c7c39eef5ec4b7320",
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "text": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 16:46:40 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Poundland unable to buy new stock as fears over collapse grow",
-          "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 16:46:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e1826d488038636f10eb25c7",
-      "title": "Aberdeen sack Robinson after league slump",
-      "text": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 16:46:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Aberdeen sack Robinson after league slump",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 16:46:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ef4b5048ade78e8a7d3434d",
-      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-      "text": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 16:18:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-          "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 16:18:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cd98d010ad0f99f9551f9fd4",
-      "title": "Man uses excavator to destroy Chinese government building",
-      "text": "A man has driven an excavator into a Chinese government affairs centre in Shaanxi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 16:15:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man uses excavator to destroy Chinese government building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 16:15:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "67afd70302bd39f2891f9ce3",
-      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-      "text": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 16:01:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-          "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 16:01:19 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5f5199e1bee684f58df20beb",
-      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-      "text": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 16:00:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-          "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 16:00:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c5c7ae78b0e8330a8a7175dd",
-      "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-      "text": "Families arrive in Kenya with little food or shelter as host communities struggle to cope.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 15:55:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-          "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 15:55:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b6e26b91eb4e6d5ab9aaec17",
-      "title": "Electrical items caused fatal fire, inquest hears",
-      "text": "An inquest is told a fire that killed a mother and her two children was accidental.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1gd275g4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 15:35:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Electrical items caused fatal fire, inquest hears",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1gd275g4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 15:35:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "eaf3c5a51faac9bc17de363c",
-      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-      "text": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 15:31:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-          "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 15:31:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "219d1d4ff9c1dcecfdce785e",
-      "title": "Senegal human rights group demands government action after deadly sinking",
-      "text": "Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 15:30:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Senegal human rights group demands government action after deadly sinking",
-          "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 15:30:09 +0000"
         }
       ],
       "cross_checked": false,
@@ -567,139 +1023,6 @@
       "conflict": false
     },
     {
-      "id": "142f1aeac87950763fa63534",
-      "title": "James Bulger's killer to stay in prison after parole hearing",
-      "text": "Jon Venables told parole staff dealing with his latest review that he was not seeking release.",
-      "url": "https://www.bbc.co.uk/news/articles/cq80z0y85j0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 15:19:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "James Bulger's killer to stay in prison after parole hearing",
-          "url": "https://www.bbc.co.uk/news/articles/cq80z0y85j0go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 15:19:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "208a0ff34d8821d973bbe9bb",
-      "title": "Watch: Moment judge sentences Brand in court",
-      "text": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
-      "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 15:18:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Moment judge sentences Brand in court",
-          "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 15:18:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2b99a8fbe0ef29fc0913541f",
-      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-      "text": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 15:10:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 15:10:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1612b62157c8e7461b31c114",
-      "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
-      "text": "Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 15:05:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
-          "url": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 15:05:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "aeff282931a8277087f46580",
-      "title": "Bronze named in World 11 for record ninth time",
-      "text": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 14:55:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Bronze named in World 11 for record ninth time",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 14:55:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "73882470a9b31a7c9c26f3fa",
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "text": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 14:50:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-          "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 14:50:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d8d439cbbe5fa19d6892a42e",
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "text": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 14:39:32 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran stands by demands to end the war as US ramps up military pressure",
-          "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 14:39:32 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "6ef1a71d78d6066f4b691eb1",
       "title": "Incident-by-incident: Was it a bad weekend for VAR?",
       "text": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
@@ -719,272 +1042,6 @@
       "conflict": false
     },
     {
-      "id": "c6ff48ae688930d9b563ebce",
-      "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
-      "text": "The number of signatures requires the British parliament to consider the topic for debate.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 14:24:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
-          "url": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 14:24:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "936713c0e69bf6ee0edc3527",
-      "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-      "text": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 14:24:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-          "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 14:24:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "7767c20098db02dbba014bae",
-      "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
-      "text": "The country is transitioning away from the era of ANC electoral dominance towards a more fragmented political system.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 14:14:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
-          "url": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 14:14:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8d830c71a3c5609934ddd388",
-      "title": "British-Somali ‌‌‌‌boxer Ramla Ali defeats Mikiah Kreps for first ⁠⁠⁠⁠world title",
-      "text": "Ali wins a controversial split-decision fight against American Kreps to claim IBO and WBF junior featherweight belts.",
-      "url": "https://www.aljazeera.com/sports/2026/11/9/british-somali-boxer-ramla-ali-defeats-mikiah-kreps-for-first-%e2%81%a0%e2%81%a0world-title?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 13:59:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "British-Somali ‌‌‌‌boxer Ramla Ali defeats Mikiah Kreps for first ⁠⁠⁠⁠world title",
-          "url": "https://www.aljazeera.com/sports/2026/11/9/british-somali-boxer-ramla-ali-defeats-mikiah-kreps-for-first-%e2%81%a0%e2%81%a0world-title?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 13:59:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dd513a3c94cea6305c5d24d8",
-      "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
-      "text": "Santiago Pena faces charges of financial crimes following Ueno Bank's collapse, impacting half of Paraguay's population.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 13:44:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
-          "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 13:44:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b539c6fd52e78af62edbdea6",
-      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-      "text": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
-      "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 13:15:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-          "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 13:15:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a76af1f08c92ebd2edc954d7",
-      "title": "Which Republicans are running for minority leadership roles in US Congress?",
-      "text": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 09 Nov 2026 13:14:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Which Republicans are running for minority leadership roles in US Congress?",
-          "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
-          "published_at": "Mon, 09 Nov 2026 13:14:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0073e0761a5f88c6f19307c5",
-      "title": "Man jailed over racist Badenoch death threats",
-      "text": "Kieran Kyle sent emails to the Tory party leader in which he made racist references, a court hears.",
-      "url": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 13:06:31 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Man jailed over racist Badenoch death threats",
-          "url": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 13:06:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1fb203f9ae874c715e75f10e",
-      "title": "Thick fog disrupts travel with further weather warning issued",
-      "text": "Fog is causing disruption on Monday morning for many across England, Wales and Northern Ireland.",
-      "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 12:11:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Thick fog disrupts travel with further weather warning issued",
-          "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 12:11:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "33f8c47084864e07e5f08aac",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "text": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 11:56:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 11:56:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "760cc7c47368c53f515a6a59",
-      "title": "Find out who's in the running for this year's Booker Prize",
-      "text": "The winner of this year's literary award will be announced in London on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 11:30:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Find out who's in the running for this year's Booker Prize",
-          "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 11:30:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "939e1b3d725718d0ebe46a71",
-      "title": "'I've got a band now' - Club anthem star Shygirl on why she's switching up her sound",
-      "text": "Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound.",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 11:09:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'I've got a band now' - Club anthem star Shygirl on why she's switching up her sound",
-          "url": "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 11:09:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f92c6489c6aee73e87afa634",
-      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-      "text": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 10:00:34 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 10:00:34 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "edbc1e07961680335858590a",
-      "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "text": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 09:21:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Khawaja 100% accurate on ball-tampering - Warner",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 09:21:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "be8dfc01ba47e804324fe1e7",
       "title": "What we know so far about the next James Bond film",
       "text": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
@@ -998,82 +1055,6 @@
           "title": "What we know so far about the next James Bond film",
           "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
           "published_at": "Mon, 09 Nov 2026 06:47:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4688c3e49b475ee5430a585c",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "text": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 02:50:13 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 02:50:13 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fc02bbd89b1139cdf1b582ad",
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
-      "text": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
-      "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 00:56:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "A glimmer of good news for Britain's sleepy dormouse",
-          "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 00:56:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1b38c020b8b94149b9890b0d",
-      "title": "What's your love language - and does it actually mean anything?",
-      "text": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 00:55:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What's your love language - and does it actually mean anything?",
-          "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 00:55:35 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cc0a7a228952539d7302ed33",
-      "title": "Doing these things now will help you save money at Christmas",
-      "text": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 00:09:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Doing these things now will help you save money at Christmas",
-          "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 00:09:14 GMT"
         }
       ],
       "cross_checked": false,
