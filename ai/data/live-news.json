@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-15T09:24:27.586364+00:00",
-  "source_count": 53,
-  "story_count": 53,
+  "generated_at": "2026-11-15T17:09:11.658922+00:00",
+  "source_count": 52,
+  "story_count": 51,
   "documents": [
+    {
+      "id": "c5081a4fb72f5f7349b9b786",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "text": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 13:42:58 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 12:15:51 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -17,25 +42,6 @@
           "title": "Download now",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1ce74c426fba384634c0e9a9",
-      "title": "Dexter and dog Reginald offered place to stay before Christmas as part of PM's pledge",
-      "text": "Homeless people and charities react as work to help find everyone accommodation by Christmas begins.",
-      "url": "https://www.bbc.co.uk/news/articles/cw78p38jdr17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 10 Nov 2026 06:15:39 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Dexter and dog Reginald offered place to stay before Christmas as part of PM's pledge",
-          "url": "https://www.bbc.co.uk/news/articles/cw78p38jdr17o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 10 Nov 2026 06:15:39 GMT"
         }
       ],
       "cross_checked": false,
@@ -80,95 +86,722 @@
       "conflict": false
     },
     {
-      "id": "61e858b6561773fa353ef2c1",
-      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-      "text": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
-      "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+      "id": "03ac5431f1a4c502c1d0175c",
+      "title": "Somalia: We would not have recovered without the international community",
+      "text": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 08:49:47 +0000",
+      "published_at": "Sun, 15 Nov 2026 16:47:36 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-          "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 08:49:47 +0000"
+          "title": "Somalia: We would not have recovered without the international community",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 16:47:36 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "1dda1b0e43f94f40a569f54d",
-      "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
-      "text": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o?at_medium=RSS&at_campaign=rss",
+      "id": "b21a48550a967fd791f3acdd",
+      "title": "LIVE: Spain vs England – UEFA Nations League",
+      "text": "Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 16:45:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "LIVE: Spain vs England – UEFA Nations League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 16:45:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1003cb06a25d55f6d1601e28",
+      "title": "Thousands rally in Czech Republic against state media funding changes",
+      "text": "Critics say proposed funding changes will give the government more control of state media.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 16:32:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands rally in Czech Republic against state media funding changes",
+          "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 16:32:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bf3feafec58d8989cb0e8ca7",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "text": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 08:47:46 GMT",
+      "published_at": "Sun, 15 Nov 2026 16:15:20 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 08:47:46 GMT"
+          "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 16:15:20 GMT"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "760482504d9cdc71b97d5a94",
-      "title": "Thousands in Portugal protest against surging rental prices",
-      "text": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+      "id": "52ab2990b05f1818db5ba2e9",
+      "title": "British tourist smashes Jesus statue outside Vilnius church",
+      "text": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 08:40:37 +0000",
+      "published_at": "Sun, 15 Nov 2026 16:04:22 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Thousands in Portugal protest against surging rental prices",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 08:40:37 +0000"
+          "title": "British tourist smashes Jesus statue outside Vilnius church",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 16:04:22 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "cfde57101f60e94c1d737ec5",
-      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-      "text": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-      "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+      "id": "bb547bb2cc527a6b2480f232",
+      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "text": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 08:29:18 +0000",
+      "published_at": "Sun, 15 Nov 2026 15:32:43 +0000",
       "source_count": 1,
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 08:29:18 +0000"
+          "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 15:32:43 +0000"
         }
       ],
       "cross_checked": false,
       "conflict": false
     },
     {
-      "id": "183b39d7cf4144c6f3158f03",
-      "title": "Milder day in store before more cold health alerts take effect",
-      "text": "A short-lived milder spell is on the way for Sunday before more cold health alerts come into force.",
-      "url": "https://www.bbc.co.uk/weather/articles/cqe879916895o?at_medium=RSS&at_campaign=rss",
+      "id": "1953088e42b50daf6087ad42",
+      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "text": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 15:21:21 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 15:21:21 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "65e7c68aed4b703e2c92c1f0",
+      "title": "20 years of Al Jazeera English: Our story is still being written",
+      "text": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 15:21:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "20 years of Al Jazeera English: Our story is still being written",
+          "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 15:21:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ec9e1c6774d09ec67efce0fa",
+      "title": "Record number of migrants arrive in Spain’s Canary Islands",
+      "text": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 15:16:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Record number of migrants arrive in Spain’s Canary Islands",
+          "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 15:16:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "743a75746af222fbd7364fe5",
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "text": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 08:24:45 GMT",
+      "published_at": "Sun, 15 Nov 2026 15:08:30 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Milder day in store before more cold health alerts take effect",
-          "url": "https://www.bbc.co.uk/weather/articles/cqe879916895o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 08:24:45 GMT"
+          "title": "Staggered age of consent to be discussed after Brand case, minister says",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 15:08:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cdd6ed411e449024fb673fc2",
+      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "text": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 15:01:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 15:01:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56dedeeec32c3b29b8bb1150",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "text": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 14:56:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e585c2de627a67d21d6aadb7",
+      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "text": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 14:55:40 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 14:55:40 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8efcee376a4b1daa3624e145",
+      "title": "Fascism built the AI bubble. What will burst it?",
+      "text": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 14:55:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fascism built the AI bubble. What will burst it?",
+          "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 14:55:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97f95b66f5a251512d2a9e86",
+      "title": "20 Years of Al Jazeera English: The Counter Narrative",
+      "text": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 14:29:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "20 Years of Al Jazeera English: The Counter Narrative",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 14:29:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "39b559ffc8f80fcafd2a1fed",
+      "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+      "text": "SpaceX's Starship successfully returned to its launchpad after orbiting in space.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 14:12:09 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+          "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 14:12:09 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2ce67525bd5f4795c5a67e3a",
+      "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+      "text": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 14:02:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 14:02:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bba65f49501543cd57ffed12",
+      "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+      "text": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:54:05 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:54:05 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8a6bb4ea6effded74aca8e81",
+      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+      "text": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+      "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:45:02 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+          "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:45:02 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7193ed9e3bede2e9c160d9ba",
+      "title": "Explosive attack targets investigative journalist’s home in Panama",
+      "text": "An investigative journalist’s home in Panama was attacked in a suspected bombing.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:43:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Explosive attack targets investigative journalist’s home in Panama",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:43:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9a149bdd0ac60957348e1e92",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "text": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 13:37:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9afc02083c2f4fd93ab8a80b",
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "text": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:37:08 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:37:08 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8c28923819f1c1075d9c75b4",
+      "title": "Al Jazeera English celebrates 20 years on air",
+      "text": "For 20 years, Al Jazeera English has brought untold stories to the world, giving a voice to the voiceless.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/al-jazeera-english-celebrates-20-years-on-air?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:36:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Al Jazeera English celebrates 20 years on air",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/al-jazeera-english-celebrates-20-years-on-air?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:36:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "0a4e5a5e790b403dec798ee5",
+      "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+      "text": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 13:30:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+          "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 13:30:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3d71a517f0fae231b5cd14c1",
+      "title": "Man dies after being hit by ambulance near Sunderland",
+      "text": "Northumbria Police says a man in his 30s died at the scene on the A19 near Sunderland.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy492w3wpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 13:26:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man dies after being hit by ambulance near Sunderland",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy492w3wpwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 13:26:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "29173b1fc3720e8d913f298d",
+      "title": "Branthwaite, Garner and King omitted for Spain game",
+      "text": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 13:15:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Branthwaite, Garner and King omitted for Spain game",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 13:15:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "cea5c7c7e7fc292c0f39ca33",
+      "title": "Minister backs legal right to job support for young people",
+      "text": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 13:06:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Minister backs legal right to job support for young people",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 13:06:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5dc95fcca58906e237198f2f",
+      "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
+      "text": "Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 12:50:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 12:50:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ff463ba5af6c6e25d6cab4b8",
+      "title": "'We got disrespected' - Walsh and Australia make World Cup point",
+      "text": "Reece Walsh gave a powerful response to Australia's critics as they secured a fourth successive World Cup triumph, saying that: \"I feel we got disrespected.\"",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cw808lm89x81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 12:50:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'We got disrespected' - Walsh and Australia make World Cup point",
+          "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cw808lm89x81o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 12:50:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4add741019cee5b0ff8a6725",
+      "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+      "text": "Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 12:50:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 12:50:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ee653fb6f423a8bcf2068bc5",
+      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+      "text": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 12:38:28 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 12:38:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "12277055f2df85cc08eaf50f",
+      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+      "text": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 12:36:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+          "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 12:36:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4451411e1c122a6dd8dde075",
+      "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
+      "text": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 12:21:28 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
+          "published_at": "Sun, 15 Nov 2026 12:21:28 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "97c44b06eeac7a6bb733b230",
+      "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
+      "text": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 12:14:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 12:14:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dd36fbaec4ad5037882016fb",
+      "title": "Schoolboy imposter subjected ex-professor and wife to 'terrifying ordeal'",
+      "text": "Brian MacKinnon - who posed as a school boy in his 30s - targeted a former university professor as he lay in bed with his wife.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0jx869933zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 12:00:09 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Schoolboy imposter subjected ex-professor and wife to 'terrifying ordeal'",
+          "url": "https://www.bbc.co.uk/news/articles/cm0jx869933zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 12:00:09 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a08ed32b41c6158adea2d914",
+      "title": "Banton pushes case and bowlers sparkle for inconsistent England",
+      "text": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 11:56:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Banton pushes case and bowlers sparkle for inconsistent England",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 11:56:19 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c397a88bd18fc3c070dfe549",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "text": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 11:06:32 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 11:06:32 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d695b4900b887176068e0eae",
+      "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+      "text": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 15 Nov 2026 09:33:33 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 15 Nov 2026 09:33:33 GMT"
         }
       ],
       "cross_checked": false,
@@ -194,196 +827,6 @@
       "conflict": false
     },
     {
-      "id": "82850fde6676df4cff2670f7",
-      "title": "Jordan sentences three men to death by hanging after deadly church attack",
-      "text": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 08:15:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jordan sentences three men to death by hanging after deadly church attack",
-          "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 08:15:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "849c8506220681f023f4b176",
-      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-      "text": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-      "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 08:07:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-          "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 08:07:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d695b4900b887176068e0eae",
-      "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
-      "text": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 07:32:46 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 07:32:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "da8bb52b2fb65641ae4f2099",
-      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-      "text": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-      "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 07:30:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 07:30:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "41c831058728cd83932b41a2",
-      "title": "How Spain's humble superstar Simon became world's best keeper",
-      "text": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 07:29:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How Spain's humble superstar Simon became world's best keeper",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 07:29:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "acc0fd9899f74453f21ee11e",
-      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-      "text": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 07:19:52 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-          "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 07:19:52 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "289b4113804f9d1e29ac939a",
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
-      "text": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 07:11:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "ASEAN summit: Who’s attending and what’s at stake?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 07:11:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "51f88d555f8220e265bcdacd",
-      "title": "Israel: Making the Holy Land burn",
-      "text": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 06:49:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israel: Making the Holy Land burn",
-          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 06:49:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "17b956e3cd0992a0d35ce857",
-      "title": "The French Republic’s forgotten promise of equality",
-      "text": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 06:44:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The French Republic’s forgotten promise of equality",
-          "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 06:44:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1259cf89fda0314591cc829e",
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "text": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 06:11:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 06:11:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f4e3702a139ab34db144fce5",
       "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
       "text": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
@@ -397,329 +840,6 @@
           "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
           "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 15 Nov 2026 06:01:46 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b3935638d7b3674fe78a72f0",
-      "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
-      "text": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed.",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 05:16:44 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
-          "url": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 05:16:44 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "caea8dc897abac2bb115fbb3",
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "text": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 05:05:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-          "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 05:05:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "86c701956ea6216dda3ecb02",
-      "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-      "text": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 04:44:57 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-          "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 04:44:57 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fe43ad7793fd6a585256deb0",
-      "title": "Video shows moment of Brooklyn building collapse from inside",
-      "text": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 04:31:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Video shows moment of Brooklyn building collapse from inside",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 04:31:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d9846de4eddc8a74a0171a1d",
-      "title": "Zimbabwe’s HIV gains face a test among young people",
-      "text": "New prevention tools offer hope, but reaching young people remains a challenge.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 04:13:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Zimbabwe’s HIV gains face a test among young people",
-          "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 04:13:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "34b699a4adb7648bb06b5f02",
-      "title": "Monkey attacks woman inside residential complex in India",
-      "text": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 03:39:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Monkey attacks woman inside residential complex in India",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 03:39:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c951540e3effc24a673ef056",
-      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-      "text": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 03:30:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 03:30:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3ec5f05a65866a7ca487c14a",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "text": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 03:21:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 03:21:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6e9d5aad8aab594c2baca46a",
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-      "text": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 02:59:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-          "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 02:59:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c718f0631c936bbe5dfaab71",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "text": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 15 Nov 2026 02:49:45 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 15 Nov 2026 02:49:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "798d6d5e47a31f163874c0d0",
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "text": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 01:54:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-          "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 01:54:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8d4d13c082bf68db4a302e59",
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
-      "text": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 01:33:11 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Netanyahu sends plea to Eisenkot for unity government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 01:33:11 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "abb6604cf0664c0ecdffdb85",
-      "title": "Thailand’s elderly kept in cages",
-      "text": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 01:32:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Thailand’s elderly kept in cages",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 01:32:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e51ec858d4c883e6c8ca3ee3",
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "text": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 01:22:01 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "SpaceX’s Starship nails a smooth return with historic catch",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 01:22:01 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2d961d9c606d44e37cd721e9",
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
-      "text": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 01:00:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli air strike kills senior Hamas commander in Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 01:00:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c48e1dc3270f79a648e45d8e",
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "text": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 00:27:14 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Hundreds of men march in Switzerland to protest violence against women",
-          "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 00:27:14 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e597bf15b5ac2b84c70e9a74",
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "text": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 00:14:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 00:14:22 +0000"
         }
       ],
       "cross_checked": false,
@@ -803,7 +923,7 @@
     },
     {
       "id": "dfe673292170132eb92dacd2",
-      "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+      "title": "Can lessons in shaking hands and making eye contact help kids land jobs later in life?",
       "text": "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\".",
       "url": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -812,7 +932,7 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+          "title": "Can lessons in shaking hands and making eye contact help kids land jobs later in life?",
           "url": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 15 Nov 2026 00:05:56 GMT"
         }
@@ -822,7 +942,7 @@
     },
     {
       "id": "481b8a42b10333c405eb0e94",
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "text": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -831,104 +951,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
           "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 15 Nov 2026 00:01:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "01b569d054913dbf7ad62396",
-      "title": "Iran war live: Bahrain targeted as Gulf nations warned against US support",
-      "text": "Bahrain says it intercepted 'treacherous' Iranian attacks as tensions rise over heightened strikes in the Gulf.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 15 Nov 2026 00:00:08 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran war live: Bahrain targeted as Gulf nations warned against US support",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-          "published_at": "Sun, 15 Nov 2026 00:00:08 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "027630b023644f6ab99ea00d",
-      "title": "Onions in your socks? Why homespun cold remedies can work for some",
-      "text": "Expert says genetics and the placebo effect explain why some treatments become family favourites.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1xln3wvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 07:42:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Onions in your socks? Why homespun cold remedies can work for some",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1xln3wvdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 07:42:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2f377f43518f86f20cf50947",
-      "title": "Former lorry driver, 91, knits 200 woolly hats",
-      "text": "Stanley Workman turns his hobby into a passion project to support worthy causes.",
-      "url": "https://www.bbc.co.uk/news/articles/cry83z6xqv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 08 Nov 2026 06:33:26 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Former lorry driver, 91, knits 200 woolly hats",
-          "url": "https://www.bbc.co.uk/news/articles/cry83z6xqv86o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 08 Nov 2026 06:33:26 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4d3f357daa8cc28fb3231d73",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "text": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 14 Nov 2026 22:37:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 22:37:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2a7d344b49180c070f2700da",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "text": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 14 Nov 2026 22:27:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 22:27:06 GMT"
         }
       ],
       "cross_checked": false,
@@ -948,63 +973,6 @@
           "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
           "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 14 Nov 2026 22:09:40 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0b140a381eca3bc56860312b",
-      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "text": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 14 Nov 2026 20:22:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 20:22:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d644feeef9f24e33e9adfdd5",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "text": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 14 Nov 2026 18:00:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 14 Nov 2026 18:00:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "1b38c020b8b94149b9890b0d",
-      "title": "What's your love language - and does it actually mean anything?",
-      "text": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Mon, 09 Nov 2026 00:55:35 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "What's your love language - and does it actually mean anything?",
-          "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 09 Nov 2026 00:55:35 GMT"
         }
       ],
       "cross_checked": false,
