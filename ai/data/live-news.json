@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-17T13:24:21.944272+00:00",
-  "source_count": 57,
-  "story_count": 57,
+  "generated_at": "2026-11-17T22:22:32.108938+00:00",
+  "source_count": 56,
+  "story_count": 55,
   "documents": [
+    {
+      "id": "5d3d0aa2b723ddad1b9b207c",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "text": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 21:06:11 GMT",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Russian military plane crashes killing all 19 on board",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 21:06:11 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Moment Russian military plane crashes in Siberia, killing 19",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 21:25:43 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "829519ae51a8915a285d4a2b",
       "title": "Download now",
@@ -17,6 +42,899 @@
           "title": "Download now",
           "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "published_at": "Wed, 30 Apr 2025 14:04:28 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c56039b62da675a3b479364e",
+      "title": "Henry Nowak killer applies to appeal against conviction",
+      "text": "Vicrum Digwa, who fatally stabbed Nowak in Southampton in 2015, is also seeking a sentence review.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 22:17:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Henry Nowak killer applies to appeal against conviction",
+          "url": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 22:17:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a483cec7906f61f4be954d33",
+      "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+      "text": "US President Donald Trump has been trying to fire Cook since August 2025.",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 22:01:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 22:01:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2e287a0c3858c653307c3767",
+      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "text": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 21:35:24 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 21:35:24 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bc62fe30c96a3bf6fe943825",
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "text": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 21:28:31 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 21:28:31 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "baaaa9b06943183e01edc9df",
+      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "text": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 21:26:42 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+          "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 21:26:42 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "09543f7a2b137148c5439043",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "text": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 21:24:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 21:24:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "26a4ccf3f2d49a9c13d61ebb",
+      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+      "text": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 21:14:31 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+          "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 21:14:31 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2bb6f22ac03654dedde3db29",
+      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+      "text": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:57:56 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:57:56 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e3bc594e20ed966cff4e421c",
+      "title": "What’s behind the ANC’s decline in South Africa?",
+      "text": "African National Congress won its lowest-ever vote share in local elections this month.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:47:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "What’s behind the ANC’s decline in South Africa?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:47:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "35ec7fce43bd571d36aae6a1",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "text": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 20:44:54 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 20:44:54 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d32070c93dbc13c82ef800ea",
+      "title": "Tensions rise over draft climate deal at COP31",
+      "text": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:40:29 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Tensions rise over draft climate deal at COP31",
+          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:40:29 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "69299c67268903df0342c873",
+      "title": "Kalshi halts Trump speech bets after CFTC order",
+      "text": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:20:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Kalshi halts Trump speech bets after CFTC order",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:20:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c5d84bdee1467cc494fb2ec3",
+      "title": "Police charge crowds at Brussels student march",
+      "text": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:14:07 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Police charge crowds at Brussels student march",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:14:07 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "98a192551fe36b50369dcde6",
+      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "text": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 20:11:41 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 20:11:41 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "3c277c031b8ded268f8b1f0b",
+      "title": "Protest against talk by academic who made Arday plagiarism claim",
+      "text": "Nathan Cofnas accused late Cambridge professor Jason Arday of plagiarism.",
+      "url": "https://www.bbc.co.uk/news/articles/c61md50k8vx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 20:09:03 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Protest against talk by academic who made Arday plagiarism claim",
+          "url": "https://www.bbc.co.uk/news/articles/c61md50k8vx4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 20:09:03 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ed67d210552b0927fccf989d",
+      "title": "India’s footballers celebrate SAFF final win against Pakistan",
+      "text": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:56:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "India’s footballers celebrate SAFF final win against Pakistan",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:56:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "785690b91b9c742249486da6",
+      "title": "Can a robot pianist upstage a human musician?",
+      "text": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:43:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Can a robot pianist upstage a human musician?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:43:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56b762f522f7eb39f85ef44e",
+      "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+      "text": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:41:45 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+          "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:41:45 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "134ec0c7df9284f9f362b358",
+      "title": "Ugandan human trafficking survivor uses music to fight abuse",
+      "text": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:32:44 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Ugandan human trafficking survivor uses music to fight abuse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:32:44 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b65998619e2b11af9d374284",
+      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "text": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:31:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:31:30 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "92c21caefae6681093420900",
+      "title": "Church of England should protect 'every belief', King says",
+      "text": "King Charles III was speaking at the opening of General Synod, the Church of England's national assembly",
+      "url": "https://www.bbc.co.uk/news/articles/cwy80x44vxk7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 19:29:44 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Church of England should protect 'every belief', King says",
+          "url": "https://www.bbc.co.uk/news/articles/cwy80x44vxk7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 19:29:44 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b51662fa7b2f690cefd64eac",
+      "title": "More than 100,000 take part in France pay protests",
+      "text": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:09:49 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "More than 100,000 take part in France pay protests",
+          "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:09:49 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d019605b565e2b27624228b1",
+      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+      "text": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 19:03:14 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 19:03:14 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "027bfe3049d6e3a834eaaba1",
+      "title": "Monster waves threaten California coast as storms intensify",
+      "text": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 18:53:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Monster waves threaten California coast as storms intensify",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 18:53:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "d5a951d27f58f422be39cdda",
+      "title": "Mozambique opposition leader goes on trial on terrorism charges",
+      "text": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 18:48:15 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mozambique opposition leader goes on trial on terrorism charges",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 18:48:15 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "971c8deef30dac35131ad465",
+      "title": "Indian limbo skater breaks world record",
+      "text": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 18:47:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Indian limbo skater breaks world record",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 18:47:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8a61625ca3e23a0f0d478212",
+      "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+      "text": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 18:43:46 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 18:43:46 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1a51f1357472f3b679ccd215",
+      "title": "British Airways plane veers off Heathrow taxiway",
+      "text": "The Boeing 787 Dreamliner bound for Lagos is delayed after its front wheel becomes stuck in grass.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wnwzmd8mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:43:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "British Airways plane veers off Heathrow taxiway",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wnwzmd8mo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:43:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "76312383b194b3dec8fd4c08",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "text": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:43:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Government backs welfare shake-up to prevent 'lost generation'",
+          "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:43:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4fa78833e8141a370023514d",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "text": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:27:27 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK sanctions firms over Israeli West Bank settlements",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:27:27 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6e4161a0149e2d4af61ebef7",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "text": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:24:21 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:24:21 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19e6d13053833b3349da87cf",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "text": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:20:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:20:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b2b92aa117c78665bf67ee1b",
+      "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
+      "text": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 18:14:06 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 18:14:06 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6df3cd11953155650bda1a1d",
+      "title": "Who to watch in Spain's election race",
+      "text": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 18:13:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Who to watch in Spain's election race",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 18:13:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e149726334c41100926241b9",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "text": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 17:57:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+          "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 17:57:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6f748c9ac5c805e005bb73a5",
+      "title": "Israeli forces invade Syrian village leaving homes damaged",
+      "text": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 17 Nov 2026 17:57:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli forces invade Syrian village leaving homes damaged",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+          "published_at": "Tue, 17 Nov 2026 17:57:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e75ac9bc5503120b9ed65363",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "text": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 17:37:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 17:37:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7b7fe90bec109183b5f12662",
+      "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+      "text": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 17:35:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+          "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 17:35:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "73c41f2c81456fd938706661",
+      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+      "text": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipation.",
+      "url": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 16:38:50 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+          "url": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 16:38:50 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c8195ac7f557b15140f7f2cc",
+      "title": "South Africa head coach Erasmus banned for six matches",
+      "text": "South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 16:09:24 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "South Africa head coach Erasmus banned for six matches",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 16:09:24 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8760c088ea7491c5685ebd89",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "text": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 15:56:04 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 15:56:04 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "358f1e019c05fb98ac745891",
+      "title": "Woods set to return next month after two years out",
+      "text": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 15:54:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Woods set to return next month after two years out",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 15:54:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "65c3c2ac3e228291af536292",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "text": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 15:54:15 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "BBC reports from Kyiv bridge hit by Russian attack",
+          "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 15:54:15 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8985aeb74893f898960dfcd5",
+      "title": "FA wants to host Nations League finals in England",
+      "text": "England could host the Nations League finals this season after Football Association officials register their interest.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 15:51:30 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "FA wants to host Nations League finals in England",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 15:51:30 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f1bd0e2fadb1cb2d5cc3b3f0",
+      "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+      "text": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 15:38:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 15:38:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f1fc395a4f5b4490be55df07",
+      "title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+      "text": "The government-backed report says its recommendations could help 440,000 young people into work by 2036.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 14:43:05 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 14:43:05 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "68ff4664d070a5f65f1f1670",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "text": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Tue, 17 Nov 2026 14:09:19 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Rooney says he considered taking his own life at Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 17 Nov 2026 14:09:19 GMT"
         }
       ],
       "cross_checked": false,
@@ -61,215 +979,6 @@
       "conflict": false
     },
     {
-      "id": "4fa78833e8141a370023514d",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "text": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 13:10:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "UK sanctions firms over Israeli West Bank settlements",
-          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 13:10:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b139aa95acb8e027b4d7322b",
-      "title": "Why do governments switch off the internet?",
-      "text": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 13:03:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why do governments switch off the internet?",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 13:03:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "581e2a01b93253d3acaf9dd0",
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "text": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 13:03:30 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Speed camera fault may have allowed drivers to escape fines",
-          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 13:03:30 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "02f09a3f2c48291e6c9564d9",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "text": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 13:02:17 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 13:02:17 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "09543f7a2b137148c5439043",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "text": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 13:01:11 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 13:01:11 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "14e693c49f5f3a31336a3493",
-      "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
-      "text": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:55:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
-          "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:55:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ebc3d6ac24adc1052455d9e2",
-      "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
-      "text": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:54:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
-          "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:54:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5b03668b72a320df612cae21",
-      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-      "text": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
-      "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:50:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-          "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:50:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0604351d86ab2a5e46f5a053",
-      "title": "Government must act now or lose Royal Mail, former minister warns",
-      "text": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 12:43:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Government must act now or lose Royal Mail, former minister warns",
-          "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 12:43:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "240f2e8bd498b4557e1627cc",
-      "title": "How is US Senate majority leader chosen?",
-      "text": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:38:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How is US Senate majority leader chosen?",
-          "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:38:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cdb2f99fd85af095233981b7",
-      "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
-      "text": "Bryson DeChambeau agrees to join the DP World Tour for next season.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 12:35:56 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 12:35:56 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "6ee50e1fb72448780efb0c66",
       "title": "Where are the most jobs for 18-24 year-olds?",
       "text": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
@@ -283,177 +992,6 @@
           "title": "Where are the most jobs for 18-24 year-olds?",
           "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
           "published_at": "Tue, 17 Nov 2026 12:35:53 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "62cc1bc1a9a600f9aea1e244",
-      "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-      "text": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
-      "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:33:51 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-          "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:33:51 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f1b71069a2cb4bf4aaf348c7",
-      "title": "Trump addresses Quad leaders at first summit since 2024",
-      "text": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:25:33 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Trump addresses Quad leaders at first summit since 2024",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:25:33 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fff511ac817e891d3d7ea928",
-      "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
-      "text": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:10:53 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
-          "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:10:53 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "03d8018d72b5151f4dd64393",
-      "title": "India vs Pakistan live: SAFF Championship final",
-      "text": "Follow updates from the match, including the build-up, analysis and text commentary.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "India vs Pakistan live: SAFF Championship final",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 12:00:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2a2c8f0646977c2ad3b60bd0",
-      "title": "The young people caught up in Britain's Neets crisis",
-      "text": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-      "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:55:25 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The young people caught up in Britain's Neets crisis",
-          "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:55:25 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "383e92f5f27f95628ff3ebfb",
-      "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-      "text": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
-      "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 11:49:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-          "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 11:49:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "55ee5feb0ebc0de1f0be6eea",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "text": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:49:01 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:49:01 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "11fd74c4844bff9c0184289e",
-      "title": "Dozens injured after trains collide head-on in Prague",
-      "text": "The low speed collision outside the Czech capital's main station triggered a massive emergency response.",
-      "url": "https://www.bbc.co.uk/news/articles/c6reg7r589nro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:48:09 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Dozens injured after trains collide head-on in Prague",
-          "url": "https://www.bbc.co.uk/news/articles/c6reg7r589nro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:48:09 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5c111ea6db926767662a9dd7",
-      "title": "Ukrainian breaks world record for deepest competitive freedive",
-      "text": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 11:37:13 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Ukrainian breaks world record for deepest competitive freedive",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 11:37:13 +0000"
         }
       ],
       "cross_checked": false,
@@ -479,538 +1017,6 @@
       "conflict": false
     },
     {
-      "id": "e45f624ca1ef7ad7b567f062",
-      "title": "Watch: What's in the Milburn review?",
-      "text": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
-      "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:30:06 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: What's in the Milburn review?",
-          "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:30:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "59001e8c61f14359bc2c06d3",
-      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-      "text": "Two vessels have caught fire after hitting a naval mine in the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 11:19:04 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 11:19:04 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "04b96a357bee95248a5e6e35",
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "text": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:17:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:17:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "f31344f6428de074bf2eb4a3",
-      "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-      "text": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 11:17:07 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-          "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 11:17:07 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "04021903a7e7be5f6a579b63",
-      "title": "London City's Goodwin gets first England call-up",
-      "text": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 11:06:33 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "London City's Goodwin gets first England call-up",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 11:06:33 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5e52480aa7816bc2ac419b67",
-      "title": "Bangladesh police clash with garment workers amid protests over wages",
-      "text": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 11:06:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Bangladesh police clash with garment workers amid protests over wages",
-          "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 11:06:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "d12f7fa1da8f56f056066fed",
-      "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-      "text": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 10:53:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-          "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 10:53:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cafdef69cef3f420d4dc2c59",
-      "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
-      "text": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 10:42:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
-          "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 10:42:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fe416ce5621d0b1ec3d5f7a6",
-      "title": "Blackburn boss Mowbray steps back over health issues",
-      "text": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 10:40:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Blackburn boss Mowbray steps back over health issues",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 10:40:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6b6b7fb54f88e9bd76c40e3f",
-      "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-      "text": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 10:36:21 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-          "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 10:36:21 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "15477d49b948e424048da490",
-      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "text": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 10:32:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 10:32:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "876fbbb7b005c1bc1f468280",
-      "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
-      "text": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 10:22:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
-          "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 10:22:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "86a807ade04ed9b0c1dfe722",
-      "title": "Will President Trump meet Kim Jong Un in China?",
-      "text": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Will President Trump meet Kim Jong Un in China?",
-          "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 10:13:27 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6124541e9df8ab1b45dfc537",
-      "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-      "text": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 10:13:12 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 10:13:12 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2406ab375b1f2ef7129d3514",
-      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-      "text": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 10:11:00 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 10:11:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4d8e53aaa2053f33cc554fc7",
-      "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-      "text": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 09:53:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 09:53:31 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0636b8b9e805bc0ca36cce9c",
-      "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
-      "text": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
-      "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 09:51:02 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 09:51:02 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "37027c5afa2868bf4648dc9c",
-      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-      "text": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 09:41:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-          "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 09:41:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ad9f2208253f296c23f2265b",
-      "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-      "text": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 09:29:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-          "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 09:29:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2d1ed2cc15c9ef663176b47e",
-      "title": "Journalist who exposed alleged drug links shot dead in Costa Rica",
-      "text": "Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 09:18:37 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Journalist who exposed alleged drug links shot dead in Costa Rica",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 09:18:37 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b148ee0003de1dfd12601ba7",
-      "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-      "text": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 09:12:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 09:12:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "fb0fc6fb81f1a4948f916f13",
-      "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-      "text": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 08:41:21 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-          "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 08:41:21 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3e1783d8a95acaa1c2e069f5",
-      "title": "Owono did not deserve 12-match ban - Pique",
-      "text": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 08:28:10 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Owono did not deserve 12-match ban - Pique",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 08:28:10 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e9fe7647f41309793d5c9d3e",
-      "title": "Vance calls out ‘neoconservatives’ over Iran war",
-      "text": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Tue, 17 Nov 2026 08:25:25 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Vance calls out ‘neoconservatives’ over Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
-          "published_at": "Tue, 17 Nov 2026 08:25:25 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "6a88844e8b5c1690f34437b4",
-      "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-      "text": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-      "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 07:10:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-          "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 07:10:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a2a20621523751169989dd45",
-      "title": "The Briton scouted while watching a friend, now on the brink of the NFL",
-      "text": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 06:43:42 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The Briton scouted while watching a friend, now on the brink of the NFL",
-          "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 06:43:42 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "756698d9a95bf9391f64bec7",
-      "title": "BBC tracks down businessman at centre of council scandal",
-      "text": "Reporters find Liam Kavanagh at an exclusive apartment complex in Bucharest.",
-      "url": "https://www.bbc.co.uk/news/articles/c6205wpv2g81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 06:20:16 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "BBC tracks down businessman at centre of council scandal",
-          "url": "https://www.bbc.co.uk/news/articles/c6205wpv2g81o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 06:20:16 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "33770493970ad638e3fb70b0",
-      "title": "Why always him? The rise and fall of Balotelli",
-      "text": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 06:15:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Why always him? The rise and fall of Balotelli",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 06:15:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f0c315c5fe0dfe97ec140246",
       "title": "How Met failed to stop rape-unit detective who abused women",
       "text": "Warren Arter used his position - running a team investigating sexual assaults - to target women.",
@@ -1030,56 +1036,18 @@
       "conflict": false
     },
     {
-      "id": "fb88389b05441dd62070f730",
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "text": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 02:38:08 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 02:38:08 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a81101ec3a477059a4fb06db",
-      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-      "text": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Tue, 17 Nov 2026 00:08:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-          "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 17 Nov 2026 00:08:19 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c9895827ad3df7d668ac2882",
-      "title": "The Name's Milburn...Alan Milburn",
+      "id": "8d5265a41d8d45b4e897e3c1",
+      "title": "Can Milburn's Neets Report Help Britain's 'Lost Generation'?",
       "text": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pn98vd?at_mid=SodFUYZkrY&at_campaign=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_bbc_team=BBC&at_creation=News",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
       "source": "BBC",
       "published_at": "Sun, 25 Oct 2026 00:00:00 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "The Name's Milburn...Alan Milburn",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pn98vd?at_mid=SodFUYZkrY&at_campaign=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Names_Milburn_Alan_Milburn_news_rail&at_bbc_team=BBC&at_creation=News",
+          "title": "Can Milburn's Neets Report Help Britain's 'Lost Generation'?",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
           "published_at": "Sun, 25 Oct 2026 00:00:00 GMT"
         }
       ],
