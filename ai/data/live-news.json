@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T17:30:12.307482+00:00",
-  "source_count": 48,
-  "story_count": 48,
+  "generated_at": "2026-11-21T23:14:43.457848+00:00",
+  "source_count": 61,
+  "story_count": 60,
   "documents": [
     {
       "id": "829519ae51a8915a285d4a2b",
@@ -99,8 +99,660 @@
       "conflict": false
     },
     {
+      "id": "e6a7bec3f02c4cd764e268a9",
+      "title": "Match of the Day",
+      "text": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 09:00:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Match of the Day",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 09:00:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a02cccf881e90e42ec72f26f",
+      "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+      "text": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 22:27:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 22:27:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "bb69ba0df7c1d75b79afc91d",
+      "title": "Australia hold on for narrow win against Wales",
+      "text": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 22:25:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Australia hold on for narrow win against Wales",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 22:25:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "14a47961dc10d7686b7918d9",
+      "title": "France secure Nations Championship final with Springboks",
+      "text": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 22:22:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "France secure Nations Championship final with Springboks",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 22:22:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e54ec07f73645f1c57481f59",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "text": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 22:19:43 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 22:19:43 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "babe7dd2cda019ca7b96f6a7",
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "text": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 21:39:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 21:39:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "9090b00bc23e70067686b1f3",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "text": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:31:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Bahrain says Iranian attack hits industrial facility",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 22:02:03 +0000"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Bahrain says Iranian attack causes fire at industrial facility",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 21:31:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1a23979656d7baea6e0358f5",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "text": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 21:14:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 21:14:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "10439de0b44d16cb56d790b4",
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "text": "Impunity fuels surge in settler violence across occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:11:54 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Impunity fuels surge in settler violence across occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 21:11:54 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "42a9e8d78541d240178f06b9",
+      "title": "Indian man jailed over plot to kill Sikh separatist in US",
+      "text": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:09:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Indian man jailed over plot to kill Sikh separatist in US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 21:09:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "309d421a4ef7753e10bdcb03",
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "text": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:02:18 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+          "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 21:02:18 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8742c32614f97dc0c306f286",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "text": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:56:35 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 20:56:35 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b90c966b4513f0bb7d9cac76",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "text": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:47:50 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands protest across Europe over living costs and housing",
+          "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 20:47:50 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "48a6c362056175903a33cbca",
+      "title": "Ireland remind themselves that the best are beatable",
+      "text": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 20:39:51 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ireland remind themselves that the best are beatable",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 20:39:51 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "45367d40f3bc854b5ce9d90a",
+      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "text": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:38:20 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 20:38:20 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2f84e53fe84f8f08cc4479f3",
+      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "text": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:15:13 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 20:15:13 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56dea4d369e5bbe2612d87a4",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "text": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:59:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Arsenal go six points clear after lively draw at Newcastle",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:59:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a6b0c2e70569ea22807474ad",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "text": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:59:17 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Evanilson strikes again as Bournemouth beat Forest",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:59:17 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "51c17a7be32b568a3cc57f71",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "text": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:59:13 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:59:13 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "10079cd5489f21714055002e",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "text": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:59:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Man City drop points to Fulham despite superb Anderson volley",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:59:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5871728cb88abe8015e481c8",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "text": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:59:02 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:59:02 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dd3fbfa67125581eebf3d798",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "text": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:58:56 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Villa's home woes continue as Sunderland earn point",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:58:56 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "dc20728fc90e30af4a2e4793",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "text": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:58:52 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Coventry beat Palace in Frank's first game after late own goal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:58:52 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b42e12c546cd3bf5278a2a1b",
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "text": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 19:53:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 19:53:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "19dc9e83067d70125ce73818",
+      "title": "Village votes to 'leave UK' over migrant plan",
+      "text": "Barnham is the second village to declare \"independence\" in protest at plans to house asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:51:08 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Village votes to 'leave UK' over migrant plan",
+          "url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:51:08 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "7915b441be402c74eab091c4",
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "text": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:33:49 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+          "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:33:49 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a9bb7c6e29da205c76d25856",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "text": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 21 Nov 2026 19:20:22 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b88fc17e001e85b61897d8d1",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "text": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:42:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 18:42:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "6e576cb868e6df87d74c6d55",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "text": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:19:10 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "FBI national crime database suffers suspected breach: Reports",
+          "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 18:19:10 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8e4997960c82db73372a0531",
+      "title": "Could Brexit be reversed?",
+      "text": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:18:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Could Brexit be reversed?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 18:18:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4369b94f32d9bf93eba38f12",
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "text": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:05:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 18:05:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "92cd666f9f567f85073ad6f2",
+      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "text": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:57:27 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 17:57:27 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "98d53eeacb1b1f0964e403c5",
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "text": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:54:19 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 17:54:19 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1db86784e6da36238554959c",
+      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "text": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:28:51 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+          "published_at": "Sat, 21 Nov 2026 17:28:51 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
       "id": "50d36603b70b38ee57bdb2a4",
-      "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
+      "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
       "text": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
       "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
       "source": "Al Jazeera",
@@ -109,7 +761,7 @@
       "sources": [
         {
           "source": "Al Jazeera",
-          "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
+          "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
           "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
           "published_at": "Sat, 21 Nov 2026 17:21:37 +0000"
         }
@@ -188,25 +840,6 @@
           "title": "British man swims through Strait of Hormuz to highlight environmental impact of war",
           "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 21 Nov 2026 16:12:31 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0428938389e2994bc9d2ecfe",
-      "title": "England run up record win over New Zealand in rugby union's Nations Championship",
-      "text": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 21 Nov 2026 16:08:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "England run up record win over New Zealand in rugby union's Nations Championship",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 21 Nov 2026 16:08:59 GMT"
         }
       ],
       "cross_checked": false,
@@ -308,101 +941,6 @@
       "conflict": false
     },
     {
-      "id": "e54ec07f73645f1c57481f59",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "text": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 21 Nov 2026 14:54:24 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 21 Nov 2026 14:54:24 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "60ce884c85f2c264e3d7db22",
-      "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-      "text": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 14:35:52 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 14:35:52 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2b3bc951c512ec10d2b860e1",
-      "title": "Newcastle United vs Arsenal LIVE: Premier League",
-      "text": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 14:30:00 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Newcastle United vs Arsenal LIVE: Premier League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 14:30:00 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "cc8a022be5b4b693e8f55cf4",
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "text": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 14:15:36 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-          "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 14:15:36 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "642982cfaa5d50c86400989c",
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "text": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 14:06:06 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 14:06:06 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "a33c91fd65879cdb1ae78a7c",
       "title": "Scouts say they face £1m tourist tax cost for overnight trips",
       "text": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
@@ -423,7 +961,7 @@
     },
     {
       "id": "714dcc77cc1a9fcdd651284d",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "text": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -432,123 +970,9 @@
       "sources": [
         {
           "source": "BBC",
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
           "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 21 Nov 2026 13:17:38 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5c7b8a9198ced711f49f46c1",
-      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "text": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 13:08:59 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 13:08:59 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8f85b5c3c8ffa5d8961184c2",
-      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-      "text": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 12:49:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 12:49:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "662b8eef047ef51e588d2b62",
-      "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-      "text": "Two drones attack cargo ship that Finnish authorities say has links to Russia's armed forces.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 12:45:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 12:45:24 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a7d9bfdbaefcf71089b511ac",
-      "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-      "text": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 12:30:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-          "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 12:30:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ec7596e4fe29a05b4a759622",
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "text": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 12:29:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 12:29:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "22577d822cd78b34e20c7e4e",
-      "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-      "text": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 12:22:24 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 12:22:24 +0000"
         }
       ],
       "cross_checked": false,
@@ -593,177 +1017,6 @@
       "conflict": false
     },
     {
-      "id": "28cbbdf232f7d3f23556d2d6",
-      "title": "Mexico captures FBI-wanted cartel boss in military raid",
-      "text": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:53:56 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Mexico captures FBI-wanted cartel boss in military raid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:53:56 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "ca115e4f93018c9883d4c183",
-      "title": "Why is GTA VI so expensive to play?",
-      "text": "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:39:03 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why is GTA VI so expensive to play?",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:39:03 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "deb1041fe730cf77e802b472",
-      "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-      "text": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:35:42 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:35:42 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "dfa2f6c3eb514949851b8f94",
-      "title": "Migrants caravan in Mexico walks towards US border",
-      "text": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:04:10 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Migrants caravan in Mexico walks towards US border",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:04:10 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "9f05831bc14fd72c0332e6f6",
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "text": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:02:49 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:02:49 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5ab55024b6e216f88d45f937",
-      "title": "Deadly fire engulfs power station in southern Iraq",
-      "text": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 11:02:29 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Deadly fire engulfs power station in southern Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 11:02:29 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "55a1043041ff9780bae38f42",
-      "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-      "text": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sat, 21 Nov 2026 10:54:22 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-          "published_at": "Sat, 21 Nov 2026 10:54:22 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8bd28aa954d3604bf83d4ede",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "text": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 21 Nov 2026 09:40:55 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 21 Nov 2026 09:40:55 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "0860d0d40e19d159dded587c",
-      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-      "text": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 21 Nov 2026 06:01:04 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-          "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 21 Nov 2026 06:01:04 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "81231055e0a0be4281ba98ec",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "text": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
@@ -796,25 +1049,6 @@
           "title": "'I was exhausted': Two days in the shoes of a tradwife",
           "url": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sat, 21 Nov 2026 00:29:00 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8504884bf5babac867036165",
-      "title": "How Phoebe Bridgers banning phones at concerts sparked a wave of fan artwork",
-      "text": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sat, 21 Nov 2026 00:08:19 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "How Phoebe Bridgers banning phones at concerts sparked a wave of fan artwork",
-          "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 21 Nov 2026 00:08:19 GMT"
         }
       ],
       "cross_checked": false,
