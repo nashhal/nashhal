@@ -1,22 +1,47 @@
 {
-  "generated_at": "2026-11-22T19:38:26.621380+00:00",
-  "source_count": 52,
-  "story_count": 51,
+  "generated_at": "2026-11-23T00:51:23.336907+00:00",
+  "source_count": 55,
+  "story_count": 53,
   "documents": [
+    {
+      "id": "33383b9d3ddc5f1edc3f83fc",
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "text": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 22:19:47 +0000",
+      "source_count": 2,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 20:26:24 GMT"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+          "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 22:19:47 +0000"
+        }
+      ],
+      "cross_checked": true,
+      "conflict": false
+    },
     {
       "id": "542cf3fc1494871ef39e13e9",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "text": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 19:26:54 GMT",
+      "published_at": "Sun, 22 Nov 2026 20:28:09 GMT",
       "source_count": 2,
       "sources": [
         {
           "source": "BBC",
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 19:26:54 GMT"
+          "published_at": "Sun, 22 Nov 2026 20:28:09 GMT"
         },
         {
           "source": "Al Jazeera",
@@ -61,6 +86,424 @@
           "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
           "url": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
           "published_at": "Tue, 31 Mar 2026 05:00:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "c60435f0a8e629e43cce9f8f",
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "text": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:59:22 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 23:59:22 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "2cc503b3ce688ad6859a4649",
+      "title": "Mystery of the red stream in Turkiye",
+      "text": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:57:58 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Mystery of the red stream in Turkiye",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 23:57:58 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88ba4b4797cf6601835d0269",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "text": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 23:53:45 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 23:53:45 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "77ea94995dc5256784ec14c7",
+      "title": "Lion on the loose in Turkiye sparks fear among residents",
+      "text": "Lion on the loose in Turkiye sparks fear among residents",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:40:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Lion on the loose in Turkiye sparks fear among residents",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 23:40:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "de8531dc25518f2d71145a6e",
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "text": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:22:59 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 23:22:59 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "264bd48304931548bcc8db66",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "text": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 23:20:16 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 23:20:16 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "76dc4ef35813878594cb5bbf",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "text": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 22:49:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 22:49:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f1623af6f38992687619e4fd",
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "text": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 22:37:38 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Trump to host private dinner for largest owners of his meme coin",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 22:37:38 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "56e622bc084c0941e5500a1c",
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "text": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 22:01:48 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 22:01:48 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "5b2e638b59d25561b9f4bde7",
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "text": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 21:44:37 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 21:44:37 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b2dd4f3092852c47e1f8511d",
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "text": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 21:36:00 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 21:36:00 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "586be1da7cf04e048de541dc",
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "text": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 21:33:11 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+          "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 21:33:11 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "ba5564e687980bf90ee3aad3",
+      "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "text": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 21:26:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 21:26:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "a107945cc9c74b6378174dcd",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "text": "The couple have been together for four years and were engaged in 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 21:22:40 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 21:22:40 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "aa257807da227b18fe1ca919",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "text": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 21:22:10 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 21:22:10 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "4ad2085d75930a2e86ef3fe4",
+      "title": "Price wins Grand Slam to end wait for major title",
+      "text": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 21:06:47 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Price wins Grand Slam to end wait for major title",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 21:06:47 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "eeaa167881a0e424e11fbbdd",
+      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+      "text": "A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 20:29:01 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 20:29:01 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "84c8bd15a88e497af3dae479",
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "text": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 20:15:48 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 20:15:48 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "f5ec860e9a3d5a862e7e45c9",
+      "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+      "text": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 20:04:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 20:04:12 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "b4b23019f611737588a965ee",
+      "title": "Why has the COP31 climate summit failed to reach agreement?",
+      "text": "Fossil fuels are at the centre of deep division.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 20:00:00 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Why has the COP31 climate summit failed to reach agreement?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 20:00:00 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "1870355ccb9b2ee162ecc70d",
+      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "text": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Sun, 22 Nov 2026 19:59:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 19:59:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e94a1544cb603a6a7656f234",
+      "title": "Cockroaches, dissent and a paradigm shift in India",
+      "text": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 19:40:12 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cockroaches, dissent and a paradigm shift in India",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+          "published_at": "Sun, 22 Nov 2026 19:40:12 +0000"
         }
       ],
       "cross_checked": false,
@@ -124,19 +567,19 @@
       "conflict": false
     },
     {
-      "id": "82e045f1aa28b42e306cb68f",
-      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-      "text": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+      "id": "4d2dfd34c10fd72ac5e50983",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "text": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 19:03:32 GMT",
+      "published_at": "Sun, 22 Nov 2026 18:57:24 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 19:03:32 GMT"
+          "title": "What's next after no deal at COP31 climate talks?",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 18:57:24 GMT"
         }
       ],
       "cross_checked": false,
@@ -162,38 +605,19 @@
       "conflict": false
     },
     {
-      "id": "7c35624a4e2aed5b3754b7ac",
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "text": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+      "id": "7ca3eed99935d152b6174db7",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "text": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 18:28:51 GMT",
+      "published_at": "Sun, 22 Nov 2026 18:29:46 GMT",
       "source_count": 1,
       "sources": [
         {
           "source": "BBC",
-          "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 18:28:51 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "e4dc3fa8f4ea0ce67434f82c",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "text": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 18:17:59 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 18:17:59 GMT"
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 22 Nov 2026 18:29:46 GMT"
         }
       ],
       "cross_checked": false,
@@ -276,44 +700,6 @@
       "conflict": false
     },
     {
-      "id": "3a79b8d5c4b4253131a4f0b0",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "text": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 17:57:43 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 17:57:43 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "3032497546575ce5f3a0d929",
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "text": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 17:55:54 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "The red card that changed Liverpool-Man Utd: correct call?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 17:55:54 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "284983f33289ed2f883c42bf",
       "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
       "text": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
@@ -352,25 +738,6 @@
       "conflict": false
     },
     {
-      "id": "0de2cd18c13a61a92fe9fa36",
-      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-      "text": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 17:12:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 17:12:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "9e20fc51c094e30b2a97571e",
       "title": "Russell Brand's wife says she'll honour prison rules after message row",
       "text": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
@@ -390,234 +757,6 @@
       "conflict": false
     },
     {
-      "id": "95fb2fe1971e2a149f47b6f4",
-      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-      "text": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 16:50:48 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 16:50:48 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "469ad66dfb44ac81cca7c1f1",
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "text": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 16:33:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 16:33:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "02167b966f3b730f4703c52b",
-      "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-      "text": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 16:06:46 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 16:06:46 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "21628698cb2c7cde1804ed0b",
-      "title": "Can we build a more ethical AI future?",
-      "text": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
-      "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 15:30:09 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Can we build a more ethical AI future?",
-          "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 15:30:09 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "36435090de2588abcc827108",
-      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-      "text": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 15:24:20 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 15:24:20 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "5ec4194b30342e0c7fbfab21",
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "text": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 15:03:38 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-          "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 15:03:38 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a698b680b0cdc60e20f5e3c8",
-      "title": "The Drugs Don’t Work",
-      "text": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:51:39 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "The Drugs Don’t Work",
-          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:51:39 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8362dcb77d59468c83c8906b",
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-      "text": "Three Russian attacks kill at least six people near Kyiv as overnight Russian shelling kills one in Zaporizhzhia.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:48:50 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-          "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:48:50 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "01898033296855d8583b6ae8",
-      "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-      "text": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:35:55 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-          "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:35:55 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "78b15d0226616e6b0078dc34",
-      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-      "text": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:33:26 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-          "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:33:26 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "b2801e9be15f361001be4caa",
-      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "text": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:30:27 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:30:27 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "414173bc1a43abbdceda8cd4",
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "text": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:20:41 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:20:41 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "8f06ba74fed25bb33c48923d",
       "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
       "text": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
@@ -631,44 +770,6 @@
           "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
           "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 22 Nov 2026 14:19:06 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "27c6e08efeabeca2bba24f03",
-      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-      "text": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
-      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:08:28 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:08:28 +0000"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "2f2788a1de1dc670411a2ba3",
-      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-      "text": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "Sun, 22 Nov 2026 14:00:31 +0000",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "Al Jazeera",
-          "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-          "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-          "published_at": "Sun, 22 Nov 2026 14:00:31 +0000"
         }
       ],
       "cross_checked": false,
@@ -732,44 +833,6 @@
       "conflict": false
     },
     {
-      "id": "b1e1513d09d3078a5d1a3295",
-      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-      "text": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 11:07:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 11:07:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "67f9c0822c32d5175807f317",
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-      "text": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 09:49:15 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 09:49:15 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "1702b449ef0b09d7ee21232e",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "text": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
@@ -783,63 +846,6 @@
           "title": "South Korea education minister resigns over exam cheating scandal",
           "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 22 Nov 2026 09:20:45 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "c922d8387716eed7c002373b",
-      "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
-      "text": "The Swansea actress says she was told her Cardiff accent sounded \"awful\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 08:59:41 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
-          "url": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 08:59:41 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "a107945cc9c74b6378174dcd",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "text": "The couple have been together for four years and were engaged in 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 08:46:28 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 08:46:28 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "4235da4899c52cfbe18e9007",
-      "title": "Widow fears losing home built by husband after support payments end",
-      "text": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 07:14:14 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Widow fears losing home built by husband after support payments end",
-          "url": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 07:14:14 GMT"
         }
       ],
       "cross_checked": false,
@@ -903,63 +909,6 @@
       "conflict": false
     },
     {
-      "id": "c85f56d14601cc7bdb04880e",
-      "title": "Parents urged to spot online stalking warning signs as cases rise",
-      "text": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
-      "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 00:07:32 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Parents urged to spot online stalking warning signs as cases rise",
-          "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 00:07:32 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "866949e0c105ad3341b59526",
-      "title": "From pit-stops to go-to destinations: The transformation of service stations",
-      "text": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
-      "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 00:06:03 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "From pit-stops to go-to destinations: The transformation of service stations",
-          "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 00:06:03 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
-      "id": "8fb6792a24df18bc43b98407",
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "text": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published_at": "Sun, 22 Nov 2026 00:04:07 GMT",
-      "source_count": 1,
-      "sources": [
-        {
-          "source": "BBC",
-          "title": "Employers are being asked to give interview feedback - here's what applicants want",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 22 Nov 2026 00:04:07 GMT"
-        }
-      ],
-      "cross_checked": false,
-      "conflict": false
-    },
-    {
       "id": "f7a45f6182e807d3d802f346",
       "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
       "text": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
@@ -973,6 +922,101 @@
           "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
           "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 22 Nov 2026 00:01:27 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e4dc3fa8f4ea0ce67434f82c",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "text": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 23 Nov 2026 00:50:35 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 23 Nov 2026 00:50:35 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "e375cb0e2fdc53ef12bd540b",
+      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+      "text": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 23 Nov 2026 00:40:36 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+          "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 23 Nov 2026 00:40:36 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "8b1572b79a8c7c3b756cc743",
+      "title": "What is going on with Poundland?",
+      "text": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published_at": "Mon, 23 Nov 2026 00:22:27 GMT",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "BBC",
+          "title": "What is going on with Poundland?",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 23 Nov 2026 00:22:27 GMT"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "88506ad090139691d8ca175a",
+      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+      "text": "Kospi falls 3 percent as markets across the region brace for losses.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 00:18:03 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+          "published_at": "Mon, 23 Nov 2026 00:18:03 +0000"
+        }
+      ],
+      "cross_checked": false,
+      "conflict": false
+    },
+    {
+      "id": "68381f78beeb7f147c5a52d2",
+      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "text": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 00:03:30 +0000",
+      "source_count": 1,
+      "sources": [
+        {
+          "source": "Al Jazeera",
+          "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+          "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+          "published_at": "Mon, 23 Nov 2026 00:03:30 +0000"
         }
       ],
       "cross_checked": false,
